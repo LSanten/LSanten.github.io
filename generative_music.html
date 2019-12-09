@@ -6,12 +6,22 @@
 -->
 <html>
 	<head>
-		<title>Publication TU Munich</title>
+		<title>Generative Music</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 		<link rel="shortcut icon" href="images/favicon/favicon_2.ico">
+
+		<style>
+		body {
+		  background-image: url("images/drop.png");
+		  background-repeat: no-repeat;
+		  background-position: 71% 0%;
+		  background-size: 70px 259px;
+
+		}
+		</style>
 	</head>
 	<body class="is-preload">
 		<!-- Wrapper -->
@@ -58,17 +68,96 @@
 							<h1>Exploration of Generative Music Approaches</h1>
 							<ul class="icons">
 								<li class="icon fa-clock">December 2019</li>
-							<!--<li class="icon fa-comments"><a href="#">1,024</a></li>-->
 							</ul>
-							<p>Avril 14th by Aphex Twin</p>
-							<audio controls>
-  								<source src="./audio/henry-avril_14th_original.mp3" type="audio/mpeg">
+							<p>
+							This project explores the capabilities and limits of machine-learning-based approaches to generating music. It is a deliverable for the class Machine Learning.
+							</p>
+
+							<figure>
+							  <img src="images/projects/generative_music/Generative Music_Avril_14th.JPG" alt="" style="width:80%" align="middle" >
+							  <figcaption><b>Figure 1 - The continuation of Avril 14th by Aphex Twin generated with a transformer-based model</b></figcaption>
+							</figure>
+							<br/><br/>
+							<h2>The Basics of Generative Music</h2>
+
+							<p>
+							The term generative music describes music that is created by a system, often algorithms. In my particular case, I used different algorithms to generate music based on a specific piece.
+							The different approaches to generative music can be categorized accordingly to their ability to generate musical pieces. The musicality of the algorithm, therefore, depends on its ability to follow musical short-term rules as well as larger spans of musical development. </p>
+
+							<p>
+							If a model lacks the ability to create musical long-term structures, the generated composition might sound like it is “noodling”; the lack of overall coherence. However, long-term structures require a bunch of other musical requirements to work reliably before they can express their effect. In most of my generative approaches, I trained my model with a song that I sought to imitate with a generated composition. A model imitated a song well when it took up musical motifs from the original song as well as short melody progressions that were distinct for the training song. Most models did naturally pick up the harmonics correctly when subtle or no key changes took place.</p> 
+
+							<p>
+							To make all models musically sound, all models considered the three out of  four main properties of musical sounds:</p>
+
+							<ul>
+
+							<li>Pitch</li>
+							<li>Dynamics</li>
+							<li>Duration</li>
+							<li><strike>Tone Color</strike></li>
+
+							</ul>
+							<p>
+							While tone color is an essential part of musical sounds, I limited my project to the generation of MIDI-files which are loosely the digital equivalent to written score. The tone color (or instrument choice) is in the hands of the interpret. The synthesis of instrument sounds is another area that is heavily being explored through new machine learning technologies. Check out the <a href="https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb" target="_blank">GANSynth Google Colab instrument synthesis notebook</a>. 
+							</p>
+							<h2>Different Approaches</h2>
+							<p>
+							The following machine learning approaches explore the different capabilities of current generative music attempts. For my first attempt, Markov chains, I used the visual programming software Max/MSP, which is commonly used for music and media development. For the more complex models, I made use of complex pre-trained models long short-term memory-based (LSTM) recurrent neuronal networks and attention-based neuronal networks.
+							</p>
+							<h3>Markov Chains</h3>
+							<p>
+								Markov chains are good at finding motifs and small recognizable musical patterns. However, they lack the ability to create long-term structures. When they create them, they create them in an inconsistent, not necessarily musically logical pattern.
+							</p>
+							<p>
+								This is the original MIDI-song that I used for training the Markov chain. Please note that this is a recording of a MIDI-file that is played on a virtual keyboard.</br></br>
+								<b>Avril 14th</b> by <b>Aphex Twin</b>:</br>
+								<audio controls>
+								  <source src="./audio/henry-avril_14th_original.mp3" type="audio/ogg" alt="The original MIDI-file version of the song Avril 14th by Aphex Twin played on piano.">
 								Your browser does not support the audio element.
-							</audio>
-							<span class="image main"><img src="images/pic13.jpg" alt="" /></span>
-							<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel venenatis mauris vehicula hendrerit.</p>
-							<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+								</audio>
+							</p>
+
+							<p>
+								The following sound file is the recording of a Markov chain composition generated based on the song above. </br> </br>
+								Markov chain generation based on <b>Avril 14th</b> by <b>Aphex Twin</b>:</br>
+								<audio controls>
+								  <source src="./audio/Markov_Avril_14th.mp3" type="audio/ogg" alt="The Markov chain generated version of the song Avril 14th by Aphex Twin played on piano.">
+								Your browser does not support the audio element.
+								</audio>
+
+							</p>
+
+							<h3>LSTM-Based Model - Performance RNN</h3>
+							<p>
+							The following website offers a well-written introduction to the <a href="https://magenta.tensorflow.org/performance-rnn" target="_blank">Magenta Performance RNN</a>. 
+							
+							</p>
+
+							<h3>Transformer-Based Model - Music Transformer</h3>
+							<p>Check out this mostly well-working <a href="https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb" target="_blank">Google Colab notebook</a>.</br>
+							Here is an informative <a href="https://magenta.tensorflow.org/music-transformer" target="_blank">article</a> by written by the creators of the Google Colab notebook.</p>
+
+							
+
+
+
+
+							<h3>Sources</h3>
+
+							<p>
+							Agnew, Sam. “Generating Music with Python and Neural Networks Using Magenta for TensorFlow.” Twilio Blog, Twilio, 18 Dec. 2018, www.twilio.com/blog/generate-music-python-neural-networks-magenta-tensorflow.
+							</p>
+							<p>
+							Lin, Alvin. “Generating Music Using Markov Chains.” Hackernoon, 19 Nov. 2016, hackernoon.com/generating-music-using-markov-chains-40c3f3f46405.
+							Pearce-Davies, Samuel. “Ml.markov Tutorial – Machine Learning in Max/MSP.” YouTube, 5 May 2019, www.youtube.com/watch?v=LG-GYFyJw74.
+							</p>
+							<p>
+							Simon, Ian, and Sageev Oore. “Performance RNN: Generating Music with Expressive Timing and Dynamics.” Magenta, 29 June 2017, magenta.tensorflow.org/performance-rnn.
+							</p>
+							<p>
+							Simon, Ian, et al. “Generating Piano Music with Transformer.” Google Colab, 2019, colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb.
+							</p>
 						</div>
 					</div>
 
