@@ -32,7 +32,7 @@
 						<div class="inner">
 
 							<!-- Logo -->
-								<a href="index.html" class="logo">
+								<a href=# class="logo">
 									<span class="symbol"><img src="images/favicon/favicon_2.ico" alt="" /></span><span class="title">Leon Santen</span>
 								</a>
 
@@ -70,44 +70,46 @@
 								<li class="icon fa-clock">December 2019</li>
 							</ul>
 							<p>
-							This project explores the capabilities and limits of machine-learning-based approaches to generating music. It is a deliverable for the class Machine Learning.
+							This project explores the capabilities and limits of machine-learning-based approaches to generative music. It is a deliverable for the class Machine Learning.
 							</p>
 
 							<figure>
-							  <img src="images/projects/generative_music/Generative Music_Avril_14th.JPG" alt="" style="width:80%" align="middle" >
+							  <img src="images/projects/generative_music/Generative Music_Avril_14th.JPG" alt="Horizontal bars that indicate the length and pitch of the generated notes. Y-axis correlates to pitch. X-axis correlates to time." style="width:80%" align="middle" >
 							  <figcaption><b>Figure 1 - The continuation of Avril 14th by Aphex Twin generated with a transformer-based model</b></figcaption>
 							</figure>
 							<br/><br/>
 							<h2>The Basics of Generative Music</h2>
 
 							<p>
-							The term generative music describes music that is created by a system, often algorithms. In my particular case, I used different algorithms to generate music based on a specific piece.
-							The different approaches to generative music can be categorized accordingly to their ability to generate musical pieces. The musicality of the algorithm, therefore, depends on its ability to follow musical short-term rules as well as larger spans of musical development. </p>
+								The term generative music describes music that is created by a system, often algorithms. In my particular case, I used different algorithms to generate music based specific pieces.
+								The different approaches to generative music can be categorized accordingly to their ability to generate musical pieces. The musicality of the algorithm, therefore, depends on its ability to follow musical short-term rules as well as larger spans of musical development. 
+							</p>
 
 							<p>
-							If a model lacks the ability to create musical long-term structures, the generated composition might sound like it is “noodling”; the lack of overall coherence. However, long-term structures require a bunch of other musical requirements to work reliably before they can express their effect. In most of my generative approaches, I trained my model with a song that I sought to imitate with a generated composition. A model imitated a song well when it took up musical motifs from the original song as well as short melody progressions that were distinct for the training song. Most models did naturally pick up the harmonics correctly when subtle or no key changes took place.</p> 
+								If a model lacks the ability to create musical long-term structures, the generated composition might sound like it is “noodling”; the lack of overall coherence. However, long-term structures build on other musical requirements that need to work reliably before they can express their effect. In most of my generative approaches, I trained my model with a song that I sought to imitate using an algorithm. A model imitated a song well when it took up musical motifs from the original song as well as short melody progressions that were distinct for the training song. Most models did naturally pick up the harmonics correctly when subtle or no key changes took place.</p> 
 
 							<p>
-							To make all models musically sound, all models considered the three out of  four main properties of musical sounds:</p>
+							To make all models musically sound, they considered three out of four main properties of musical sounds:</p>
 
 							<ul>
 
 							<li>Pitch</li>
-							<li>Dynamics</li>
+							<li>Dynamic</li>
 							<li>Duration</li>
 							<li><strike>Tone Color</strike></li>
 
 							</ul>
 							<p>
-							While tone color is an essential part of musical sounds, I limited my project to the generation of MIDI-files which are loosely the digital equivalent to written score. The tone color (or instrument choice) is in the hands of the interpret. The synthesis of instrument sounds is another area that is heavily being explored through new machine learning technologies. Check out the <a href="https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb" target="_blank">GANSynth Google Colab instrument synthesis notebook</a>. 
-							</p>
+								While tone color is an essential part of musical sounds, I limited my project to the generation of MIDI-files which are loosely the digital equivalent to written score. The tone color (or instrument choice) is in the hands of the interpret. The synthesis of instrument sounds is another area that is heavily being explored through new machine learning technologies. Check out the <a href="https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb" target="_blank">GANSynth Google Colab instrument synthesis notebook</a>. 
+							</p></br></br>
 							<h2>Different Approaches</h2>
 							<p>
-							The following machine learning approaches explore the different capabilities of current generative music attempts. For my first attempt, Markov chains, I used the visual programming software Max/MSP, which is commonly used for music and media development. For the more complex models, I made use of complex pre-trained models long short-term memory-based (LSTM) recurrent neuronal networks and attention-based neuronal networks.
+								The following machine learning approaches explore the different capabilities of current generative music attempts. For my first attempt, Markov chains, I used the visual programming software Max/MSP, which is commonly used for music and media development. For the more complex models, I made use of the open-source Python library <a href="https://magenta.tensorflow.org/" target="_blank">Magenta Tensorflow</a>.
 							</p>
 							<h3>Markov Chains</h3>
 							<p>
-								Markov chains are good at finding motifs and small recognizable musical patterns. However, they lack the ability to create long-term structures. When they create them, they create them in an inconsistent, not necessarily musically logical pattern.
+								Markov chains are good at finding motifs and small recognizable musical patterns. However, they lack the ability to create long-term structures. When they create them, they create them in an inconsistent, not necessarily musically logical pattern. I used the software <a href="https://cycling74.com/products/max/" target="_blank">Max/MSP</a> to generate music in real time after I had trained the model with a MIDI-file.</br>
+								Max/MSP offers an intuitive visual programming interface. I decided to use Max/MSP over Python as it allowed me to flexibly adjust parameters in the programm, create MIDI-signals in real time, and easily integrate it into other projects. I created Markov chains with the user-added <i>ml.markov</i> object [5].
 							</p>
 							<p>
 								This is the original MIDI-song that I used for training the Markov chain. Please note that this is a recording of a MIDI-file that is played on a virtual keyboard.</br></br>
@@ -117,6 +119,11 @@
 								Your browser does not support the audio element.
 								</audio>
 							</p>
+
+							<figure>
+							  <img src="images/projects/generative_music/max_patch_markov_1.JPG" alt="Small boxes with names such as trigger or markov refer to functions in the software Max/MSP. Boxes are connected via wires, which visualize data flow." style="width:80%" align="middle" >
+							  <figcaption><b>Figure 2 - A snippet of the Max/MSP patch that builds markov models based on dynamics, note lengths, and chords</b></figcaption>
+							</figure></br></br>
 
 							<p>
 								The following sound file is the recording of a Markov chain composition generated based on the song above. </br> </br>
@@ -130,33 +137,41 @@
 
 							<h3>LSTM-Based Model - Performance RNN</h3>
 							<p>
-							The following website offers a well-written introduction to the <a href="https://magenta.tensorflow.org/performance-rnn" target="_blank">Magenta Performance RNN</a>. 
-							
+								For the exploration of more complicated models, I used Magenta Tensorflow. <a href="https://magenta.tensorflow.org/" target="_blank">Magenta Tensorflow</a> is an open source python library, which explores the role of machine learning as a tool in creative processes such as music and art. It includes complex pre-trained long short-term memory-based (LSTM) recurrent neuronal networks and attention-based neuronal networks.
+							</p>
+							<p>
+								The following website offers a well-written introduction to the <a href="https://magenta.tensorflow.org/performance-rnn" target="_blank">Magenta Performance RNN</a>. 							
 							</p>
 
 							<h3>Transformer-Based Model - Music Transformer</h3>
-							<p>Check out this mostly well-working <a href="https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb" target="_blank">Google Colab notebook</a>.</br>
-							Here is an informative <a href="https://magenta.tensorflow.org/music-transformer" target="_blank">article</a> by written by the creators of the Google Colab notebook.</p>
+
+							<p>
+								Check out this mostly well-working <a href="https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb" target="_blank">Google Colab notebook</a>.</br>
+								Here is an informative <a href="https://magenta.tensorflow.org/music-transformer" target="_blank">article</a> by written by the creators of the Google Colab notebook.
+							</p></br></br>
 
 							
 
 
 
-
+							<hr>
 							<h3>Sources</h3>
 
 							<p>
-							Agnew, Sam. “Generating Music with Python and Neural Networks Using Magenta for TensorFlow.” Twilio Blog, Twilio, 18 Dec. 2018, www.twilio.com/blog/generate-music-python-neural-networks-magenta-tensorflow.
+							<b>[1] </b>Agnew, Sam. “Generating Music with Python and Neural Networks Using Magenta for TensorFlow.” Twilio Blog, Twilio, 18 Dec. 2018, www.twilio.com/blog/generate-music-python-neural-networks-magenta-tensorflow.
 							</p>
 							<p>
-							Lin, Alvin. “Generating Music Using Markov Chains.” Hackernoon, 19 Nov. 2016, hackernoon.com/generating-music-using-markov-chains-40c3f3f46405.
+							<b>[2] </b>Lin, Alvin. “Generating Music Using Markov Chains.” Hackernoon, 19 Nov. 2016, hackernoon.com/generating-music-using-markov-chains-40c3f3f46405.
 							Pearce-Davies, Samuel. “Ml.markov Tutorial – Machine Learning in Max/MSP.” YouTube, 5 May 2019, www.youtube.com/watch?v=LG-GYFyJw74.
 							</p>
 							<p>
-							Simon, Ian, and Sageev Oore. “Performance RNN: Generating Music with Expressive Timing and Dynamics.” Magenta, 29 June 2017, magenta.tensorflow.org/performance-rnn.
+							<b>[3] </b>Simon, Ian, and Sageev Oore. “Performance RNN: Generating Music with Expressive Timing and Dynamics.” Magenta, 29 June 2017, magenta.tensorflow.org/performance-rnn.
 							</p>
 							<p>
-							Simon, Ian, et al. “Generating Piano Music with Transformer.” Google Colab, 2019, colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb.
+							<b>[4] </b>Simon, Ian, et al. “Generating Piano Music with Transformer.” Google Colab, 2019, colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb.
+							</p>
+							<p>
+								<b>[5] </b>Smith, Benjamin D. and Guy E. Garnett. “Unsupervised Play: Machine Learning Toolkit for Max.” New Interfaces for Musical Expression (NIME). Ann Arbor, MI: ICMA, 2012.
 							</p>
 						</div>
 					</div>
