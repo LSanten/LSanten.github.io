@@ -86,7 +86,7 @@
 							</p>
 
 							<p>
-								If a model cannot to create musical long-term structures, the generated composition might sound like it is “noodling”, the lack of overall coherence. However, long-term arrangements build on other musical requirements that need to work reliably before they can express their effect. In most of my generative approaches, I trained my model with a song that I sought to imitate using an algorithm. A model resembled a song when it took up musical motifs from the original song as well as short melody progressions that were distinct for the training song. Most models did naturally pick up the harmonics correctly when subtle or no key changes took place.</p> 
+								If a model cannot create musical long-term structures, the generated composition might sound like it is “noodling”, due to the lack of overall coherence. However, long-term arrangements build on other musical requirements that need to work reliably before they can express their effect. In most of my generative approaches, I trained my model with a song that I sought to imitate using an algorithm. A model resembled a song when it took up musical motifs from the original song as well as short melody progressions that were distinct for the training song. Most models did naturally pick up the harmonics correctly when subtle or no key changes took place.</p> 
 
 							<p>
 							To make all models musically sound, my models considered three out of four main properties of musical sounds:</p>
@@ -100,7 +100,7 @@
 
 							</ul>
 							<p>
-								While tone color is an essential part of musical sounds, I limited my project to the generation of MIDI-files, which are loosely the digital equivalent to written score. The tone color (or instrument choice) is in the hands of the interpret. The synthesis of instrument sounds is another area that is heavily being explored through new machine learning technologies. Check out the <a href="https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb" target="_blank">GANSynth Google Colab instrument synthesis notebook</a>. 
+								While tone color is an essential part of musical sounds, I limited my project to the generation of MIDI-files, which are loosely the digital equivalent to written score. The tone color (or instrument choice) is in the hands of the interpreter. The synthesis of instrument sounds is another area that is heavily being explored through new machine learning technologies. Check out the <a href="https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb" target="_blank">GANSynth Google Colab instrument synthesis notebook</a>. 
 							</p></br></br>
 							<h2>Different Approaches</h2>
 							<p>
@@ -108,12 +108,18 @@
 							</p>
 							<h3>Markov Chains</h3>
 							<p>
-								A Markov chain is a stochastic model that describes the probability of transitioning from one state to any other state of the system. Depending on the Markov chain's <i>depth</i>, the likelihood of transition to another state depends on a fixed amount of preceding events. For most of my generative compositions, I used a depth of six, meaning that the algorithm chose the next note based on the last six notes played. The higher the depth, the more similar does the composition sound compared to the original training piece.
+								<ul class="actions">
+									<li><a href="zip_files/markov_chain_max_patch.zip" class="button icon solid fa-download" target="_blank">Markov Chain - Max/MSP Patch</a></li>
+								</ul>
+							</p>
+							<p>
+								A Markov chain is a stochastic model that describes the probability of transitioning from one state to any other state of the system. Depending on the Markov chain's <i>depth</i>, the likelihood of transition to another state depends on a fixed amount of preceding events. For most of my generative compositions, I used a depth of six, meaning that the algorithm chose the next note based on the last six notes played. The higher the depth, the more similar the composition sounds compared to the original training piece.
 							</p>
 							<p>
 								Markov chains are good at finding motifs and small recognizable musical patterns. However, they lack the ability to create long-term structures. When they create them, they create them in an inconsistent, not necessarily musically logical pattern. I used the software <a href="https://cycling74.com/products/max/" target="_blank">Max/MSP</a> to generate music in real-time after I had trained the model with a MIDI-file.</br>
 								Max/MSP offers an intuitive visual programming interface. I decided to use Max/MSP over Python as it allowed me to adjust parameters in the profram flexibly, create MIDI-signals in real-time, and easily integrate it into other projects. I created Markov chains with the user-added <i>ml.markov</i> object [5].
 							</p>
+							
 							<p>
 								This is the original MIDI-song that I used for training the Markov chain. Please note that this is a recording of a MIDI-file that is played on a virtual keyboard. The tone color (piano sound) is arbitrary.</br></br>
 								<b>Avril 14th</b> by <b>Aphex Twin</b>:</br>
@@ -169,6 +175,7 @@
 								</audio>
 							</p>
 
+
 							<!--<h3>LSTM-Based Model - Performance RNN</h3>
 							<p>
 								For the exploration of more complicated models, I used Magenta Tensorflow. <a href="https://magenta.tensorflow.org/" target="_blank">Magenta Tensorflow</a> is an open source python library, which explores the role of machine learning as a tool in creative processes such as music and art.
@@ -182,7 +189,7 @@
 
 							<h3>Transformer-Based Model - Music Transformer</h3>
 							<p>
-								The Transformer is an attention-based neuronal network that considers long-term and short-term structures. It uses expressive timing as well as an attention-based model that leads to improved long-term coherence. Any long-term coherence was missing in the examples above. The transformer model, however,  incorporates long-term structures by using <a href="https://arxiv.org/abs/1803.02155" target="_blank">relative attention</a>, which means that it considers the length between two events. Due to this feature, it is able to pick up motifs and velocity progressions. It implements them skillfully in the generated score. The image below shows a visualization of the model-internal self-reference. The arcs represent which past notes informed the current note.
+								The Transformer is an attention-based neuronal network that considers long-term and short-term structures. It uses expressive timing as well as an attention-based model that leads to improved long-term coherence. Expressive timing means that the model doesn not quantize the placement of notes. For instance, it might play a note slightly earlier than it is notated in the score. Expressive timing and long-term coherence were missing in the examples above. The transformer model, however,  incorporates long-term structures by using <a href="https://arxiv.org/abs/1803.02155" target="_blank">relative attention</a>, which means that it considers the length between two events. Due to this feature, it is able to pick up motifs and velocity progressions. It implements them skillfully in the generated score. Very recently, transformer-based models have proven to be more effective in language learning tasks. As transformer-based models work with relative distances when applied to language learning tasks, they are quite useful when applied to music. The Music Transformer remembers sequences and the relative position of notes, it gives them attention. The weight of single notes is affected by how much each other note affects the note. Consequently, the models only pays attention to significant events. The image below shows a visualization of the model-internal self-reference. The arcs represent which past notes informed the current note.</br>Please not that the Music Transformer is not a recurrent model.
 
 								<figure>
 								  <img src="images/projects/generative_music/Generative Music_Transformer_Self-reference.JPG" alt="Numerous horizontal lines with varying length and y-axis placement. Lines represent notes. Vertical bar in the middle, which represents current time. Arcs of different radii go back to past notes and represent that the current not was informed by the correlating past note." style="width:80%" align="middle" >
