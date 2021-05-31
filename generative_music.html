@@ -22,6 +22,18 @@
 
 		}
 		</style>
+
+
+				<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-198326221-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-198326221-1');
+		</script>
+
 	</head>
 	<body class="is-preload">
 		<!-- Wrapper -->
@@ -82,11 +94,11 @@
 
 							<p>
 								The term generative music describes music that is created by a system, often algorithms. In my particular case, I used different algorithms to generate music based on specific pieces.
-								The different approaches to generative music can be categorized accordingly to their ability to create musical compositions. The musicality of the algorithm, therefore, depends on its ability to follow musical short-term rules as well as musical long-term logic. 
+								The different approaches to generative music can be categorized accordingly to their ability to create musical compositions. The musicality of the algorithm, therefore, depends on its ability to follow musical short-term rules as well as musical long-term logic.
 							</p>
 
 							<p>
-								If a model cannot create musical long-term structures, the generated composition might sound like it is “noodling”, due to the lack of overall coherence. However, long-term arrangements build on other musical requirements that need to work reliably before they can express their effect. In most of my generative approaches, I trained my model with a song that I sought to imitate using an algorithm. A model resembled a song when it took up musical motifs from the original song as well as short melody progressions that were distinct for the training song. Most models did naturally pick up the harmonics correctly when subtle or no key changes took place.</p> 
+								If a model cannot create musical long-term structures, the generated composition might sound like it is “noodling”, due to the lack of overall coherence. However, long-term arrangements build on other musical requirements that need to work reliably before they can express their effect. In most of my generative approaches, I trained my model with a song that I sought to imitate using an algorithm. A model resembled a song when it took up musical motifs from the original song as well as short melody progressions that were distinct for the training song. Most models did naturally pick up the harmonics correctly when subtle or no key changes took place.</p>
 
 							<p>
 							To make all models musically sound, my models considered three out of four main properties of musical sounds:</p>
@@ -100,7 +112,7 @@
 
 							</ul>
 							<p>
-								While tone color is an essential part of musical sounds, I limited my project to the generation of MIDI-files, which are loosely the digital equivalent to written score. The tone color (or instrument choice) is in the hands of the interpreter. The synthesis of instrument sounds is another area that is heavily being explored through new machine learning technologies. Check out the <a href="https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb" target="_blank">GANSynth Google Colab instrument synthesis notebook</a>. 
+								While tone color is an essential part of musical sounds, I limited my project to the generation of MIDI-files, which are loosely the digital equivalent to written score. The tone color (or instrument choice) is in the hands of the interpreter. The synthesis of instrument sounds is another area that is heavily being explored through new machine learning technologies. Check out the <a href="https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb" target="_blank">GANSynth Google Colab instrument synthesis notebook</a>.
 							</p></br></br>
 							<h2>Different Approaches</h2>
 							<p>
@@ -119,7 +131,7 @@
 								Markov chains are good at finding motifs and small recognizable musical patterns. However, they lack the ability to create long-term structures. When they create them, they create them in an inconsistent, not necessarily musically logical pattern. I used the software <a href="https://cycling74.com/products/max/" target="_blank">Max/MSP</a> to generate music in real-time after I had trained the model with a MIDI-file.</br>
 								Max/MSP offers an intuitive visual programming interface. I decided to use Max/MSP over Python as it allowed me to adjust parameters in the profram flexibly, create MIDI-signals in real-time, and easily integrate it into other projects. I created Markov chains with the user-added <i>ml.markov</i> object [5].
 							</p>
-							
+
 							<p>
 								This is the original MIDI-song that I used for training the Markov chain. Please note that this is a recording of a MIDI-file that is played on a virtual keyboard. The tone color (piano sound) is arbitrary.</br></br>
 								<b>(Please note that this won't play on iPhones)</b></br>
@@ -169,7 +181,7 @@
 								  <source src="./audio/Orignial_BWV_1004.mp3" type="audio/ogg" alt="">
 								Your browser does not support the audio element.
 								</audio></br>
-								<b>Markov chain</b> generated version of  <b> Violin Partita No. 2 in D Minor (BWV 1004)</b> by <b>J. S. Bach</b>:</br>								
+								<b>Markov chain</b> generated version of  <b> Violin Partita No. 2 in D Minor (BWV 1004)</b> by <b>J. S. Bach</b>:</br>
 								<audio controls>
 								  <source src="./audio/Markov_Bach.mp3" type="audio/ogg" alt="">
 								Your browser does not support the audio element.
@@ -185,7 +197,7 @@
 								The Performance RNN is a complex pre-trained long short-term memory-based (LSTM) recurrent neuronal networks
 							</p>
 							<p>
-								The following website offers a well-written introduction to the <a href="https://magenta.tensorflow.org/performance-rnn" target="_blank">Magenta Performance RNN</a>. 							
+								The following website offers a well-written introduction to the <a href="https://magenta.tensorflow.org/performance-rnn" target="_blank">Magenta Performance RNN</a>.
 							</p>-->
 
 							<h3>Transformer-Based Model - Music Transformer</h3>
@@ -210,7 +222,7 @@
 								For the following generated example, I used a very long primer of 1:51 min in order to introduce characteristic features of the original piece before the algorithm took over. Skip to 1:51 min if you don't want to listen to the entire primer again. </br></br>
 
 								Transformer generated version (start at 1:51) of <b> Violin Partita No. 2 in D Minor (BWV 1004)</b> by <b>J. S. Bach</b>:</br>
-								
+
 								<audio controls>
 								  <source src="./audio/Transformer_Long_BWV_1004_1-51_start.mp3" type="audio/ogg" alt="">
 								Your browser does not support the audio element.
@@ -220,11 +232,11 @@
 								  <img src="images/projects/generative_music/Generative_Transformer_Bach.JPG" alt="" style="width:50%" align="middle" >
 								  <figcaption><b>Figure 3 - Visualization of Generated Piece based on Violin Partita No. 2 in D Minor</b></figcaption>
 								</figure></br>
-								
+
 							</p>
 							<p>
 								If you want to learn more about the Music Transformer or just play around with it, check out this mostly well-working <a href="https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb" target="_blank">Google Colab notebook</a>.</br>
-								Here is an informative <a href="https://magenta.tensorflow.org/music-transformer" target="_blank">article</a> written by the creators of the Google Colab notebook. Since it is a pre-trained model, its generations have a quite "classical" character. I recommend using classical pieces as the training pieces. 
+								Here is an informative <a href="https://magenta.tensorflow.org/music-transformer" target="_blank">article</a> written by the creators of the Google Colab notebook. Since it is a pre-trained model, its generations have a quite "classical" character. I recommend using classical pieces as the training pieces.
 							</p>
 							<h4>Failed Transformer-Based Pieces</h4>
 							<p>
@@ -233,13 +245,13 @@
 								</br></br>
 
 								<b>#1</b> Failed Transformer Generation (start at 0:25) of <b>Avril 14th</b> by <b>Aphex Twin</b>:</br>
-								
+
 								<audio controls>
 								  <source src="./audio/Transformer_Failed_Avril-14th_25_sec.mp3" type="audio/ogg" alt="">
 								Your browser does not support the audio element.
 								</audio></br>
 								<b>#2 (this one is fun!)</b> Failed Transformer Generation (start at 0:16) of <b>Avril 14th</b> by <b>Aphex Twin</b>:</br>
-								
+
 								<audio controls>
 								  <source src="./audio/TensorFlow_Breaks_Avril14th_Aphex_Twin_01.mp3" type="audio/ogg" alt="">
 								Your browser does not support the audio element.
@@ -248,7 +260,7 @@
 
 						</br></br>
 
-							
+
 
 
 
