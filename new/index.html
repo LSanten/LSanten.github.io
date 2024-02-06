@@ -35,6 +35,12 @@
   <meta property="og:type" content="website" />
   <meta property="og:url" content="" />
   <meta property="og:updated_time" content="2020-03-15T15:40:24+06:00" />
+
+  <!-- FOR EXPAND BUTTON -->
+  <style>
+  #more {display: none;}
+  </style>
+  <!-- END EXPAND BUTTON -->
 </head>
 <body>
   <!-- navigation -->
@@ -258,60 +264,71 @@
             
           </div>
         </article>
+
+
       </div>
 
 
       <div class="col-lg-4 mb-5">
         <h2 class="h5 section-title"><i>Representing myself:</i><br>Selected Writings</h2>
-        
+
         <article class="card mb-4">
-          <div class="card-body d-flex">
-            <img class="card-img-sm" src="images/post/post-3.jpg">
-            <div class="ml-3">
-              <h4><a href="post-details.html" class="post-title">Bachelor's Thesis: Holistic Engineering for a Thriving World</a></h4>
-              <ul class="card-meta list-inline mb-0">
-                <li class="list-inline-item mb-0">
-                  <i class="ti-calendar"></i>June 2021
-                </li>
-              </ul>
-              <p>This work has become the foundation for my engineering practice: We are whole to begin with. As engineers & researchers, we may become nature's apprenctice. I draw deep insights from complex systems thinking to re-discover a holistic approach to life.</p>
-            </div>
-          </div>
+        <div class="post-slider">
+            <img src="images/banner.png" class="card-img-top" alt="post-thumb">
+        </div>
+        <div class="card-body">
+            <h4 class="mb-3"><a class="post-title" href="https://leonsanten.info/collaboration-holisticEngineeringThesis-mostRecent.html" target="_blank">What does it mean to be a holistic engineer?</a></h4>
+            <ul class="card-meta list-inline">
+            
+            
+            <li class="list-inline-item">
+                <i class="ti-calendar"></i>June 2021
+            </li>
+            <li class="list-inline-item">
+                <ul class="card-meta-tag list-inline">
+                <li class="list-inline-item">Bachelor's Thesis</li>
+                </ul>
+            </li>
+            </ul>
+            <p>I critically examine the scientific method and develop a holistic approach to creating solutions to climate change: we may become nature's apprenctice, change our research methedology to empowering  affected communities (instead of studying them), and approach our interconnected world through the all-embracing science of complex systems thinking.</p>
+            <a href="https://leonsanten.info/collaboration-holisticEngineeringThesis-mostRecent.html" class="btn btn-outline-primary" target="_blank">Read More</a>
+        </div>
         </article>
-        
+
         <article class="card mb-4">
-          <div class="card-body d-flex">
-            <img class="card-img-sm" src="images/post/post-2.jpg">
-            <div class="ml-3">
-              <h4><a href="post-details.html" class="post-title">The Design Files - Homes Minimalist</a></h4>
-              <ul class="card-meta list-inline mb-0">
-                <li class="list-inline-item mb-0">
-                  <i class="ti-calendar"></i>14 jan, 2020
-                </li>
-                <li class="list-inline-item mb-0">
-                  <i class="ti-timer"></i>2 Min To Read
-                </li>
-              </ul>
-            </div>
-          </div>
+        <div class="post-slider">
+            <img src="images/banner.png" class="card-img-top" alt="post-thumb">
+        </div>
+        <div class="card-body">
+            <h4 class="mb-3"><a class="post-title" href="https://leonsanten.info/collaboration-holisticEngineeringThesis-mostRecent.html" target="_blank">What does it mean to be a holistic engineer?</a></h4>
+            <ul class="card-meta list-inline">
+            
+            
+            <li class="list-inline-item">
+                <i class="ti-calendar"></i>June 2021
+            </li>
+            <li class="list-inline-item">
+                <ul class="card-meta-tag list-inline">
+                <li class="list-inline-item">Bachelor's Thesis</li>
+                </ul>
+            </li>
+            </ul>
+            <span id="dots"><p>complex systems thinking • participatory research methedologies • reductionism of the scientific method</p></span><span id="more"><p>I critically examine the scientific method and develop a holistic approach to creating solutions to climate change: we may become nature's apprenctice, change our research methedology to empowering  affected communities (instead of studying them), and approach our interconnected world through the all-embracing science of complex systems thinking.</p>
+            <p><a href="https://leonsanten.info/collaboration-holisticEngineeringThesis-mostRecent.html" class="btn btn-primary mb-2" target="_blank">Read More</a></p></span>
+            
+
+            <li class="list-inline-item">
+                <ul class="card-meta-tag list-inline">
+                <li class="list-inline-item"><a onclick="myFunction()" id="myBtn">Show Summary</a></li>
+                </ul>
+            </li>
+            
+
+            
+        </div>
         </article>
+
         
-        <article class="card mb-4">
-          <div class="card-body d-flex">
-            <img class="card-img-sm" src="images/post/post-4.jpg">
-            <div class="ml-3">
-              <h4><a href="post-details.html" class="post-title">The Skinny Confidential</a></h4>
-              <ul class="card-meta list-inline mb-0">
-                <li class="list-inline-item mb-0">
-                  <i class="ti-calendar"></i>14 jan, 2020
-                </li>
-                <li class="list-inline-item mb-0">
-                  <i class="ti-timer"></i>2 Min To Read
-                </li>
-              </ul>
-            </div>
-          </div>
-        </article>
       </div>
       
       
@@ -769,4 +786,25 @@
 
   <!-- Main Script -->
   <script src="js/script.js"></script></body>
+
+
+  <!-- FOR EXPAND BUTTON -->
+  <script>
+  function myFunction() {
+    var dots = document.getElementById("dots");
+    var moreText = document.getElementById("more");
+    var btnText = document.getElementById("myBtn");
+
+    if (dots.style.display === "none") {
+      dots.style.display = "inline";
+      btnText.innerHTML = "Show Summary"; 
+      moreText.style.display = "none";
+    } else {
+      dots.style.display = "none";
+      btnText.innerHTML = "Show less"; 
+      moreText.style.display = "inline";
+    }
+  }
+  </script>
+  <!-- END EXPAND BUTTON -->
 </html>
