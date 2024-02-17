@@ -1488,6 +1488,13 @@ mark {
   background-color: #555;
 }
 
+.contenthiddenfirst {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+
 
 .more{
    display: none;
@@ -1502,6 +1509,7 @@ mark {
 .post:not(:last-child){
    margin-bottom: 30px;
 }
+
 button{
   background-color: #007cbe;
   border: none;
@@ -1520,6 +1528,8 @@ button{
   z-index: 1;
 
 }
+
+
 
 /*# sourceMappingURL=style.css.map */
 
