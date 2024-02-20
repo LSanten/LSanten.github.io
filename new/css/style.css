@@ -81,6 +81,11 @@ h6, .h6 {
   box-shadow: none !important;
 }
 
+.btn.active {
+  background-color: #666;
+  color: white;
+}
+
 .btn-primary {
   background: #4FD675;
   color: #fff;
@@ -1529,7 +1534,20 @@ button{
 
 }
 
+/*# FOR FILTERS ADDED BY MYSELF */
+.filterDiv {
+  display: none;
+  
+}
 
+.show {
+  display: block;
+}
+
+.container {
+  margin-top: 20px;
+  overflow: hidden;
+}
 
 /*# sourceMappingURL=style.css.map */
 
