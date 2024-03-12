@@ -706,11 +706,11 @@ mark {
   margin-bottom: 10px;
 }
 .card-meta li:not(:last-child) {
-  border-right: 1px solid #EBEBEB;
+  border-right: 1px solid #b4b4b4;
   padding-right: 8px;
 }
 .card-meta i {
-  color: #dddddd;
+  color: #6e6e6e;
   margin-right: 5px;
 }
 .card-meta-author {
@@ -738,7 +738,7 @@ mark {
 .card-meta-tag li a {
   padding: 0px 8px;
   border-radius: 30px;
-  border: 1px solid #EBEBEB;
+  border: 1px solid #a95fb94d;
   color: #555;
   display: inline-block;
 }
