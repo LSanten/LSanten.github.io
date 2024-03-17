@@ -773,7 +773,7 @@ mark {
 }
 
 .post-slider {
-  overflow: hidden;
+  overflow: visible;
 }
 .post-slider:hover .prevArrow {
   left: 10px;
