@@ -1531,7 +1531,11 @@ button{
   -webkit-font-smoothing: antialiased;
   font-weight: 700;
   z-index: 1;
+  transition: background-color 0.3s ease;
 
+}
+button:hover {
+    background-color: #45a049;
 }
 
 /*# FOR FILTERS ADDED BY MYSELF */
@@ -1549,6 +1553,14 @@ button{
   overflow: hidden;
 }
 
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
 /*# sourceMappingURL=style.css.map */
 
 /*# sourceMappingURL=style.css.map */
