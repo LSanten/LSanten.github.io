@@ -65,7 +65,6 @@ $(window).on('load', function () {
 		arrows: true,
 		prevArrow: '<button type=\'button\' class=\'prevArrow\'><i class=\'ti-angle-left\'></i></button>',
 		nextArrow: '<button type=\'button\' class=\'nextArrow\'><i class=\'ti-angle-right\'></i></button>'
-		lazyLoad: 'ondemand' //addededddd
 	});
 
 	// copy to clipboard
