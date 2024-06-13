@@ -60,7 +60,7 @@ $(window).on('load', function () {
 	$('.post-slider').slick({
 		slidesToShow: 1,
 		slidesToScroll: 1,
-		autoplay: true,
+		autoplay: false,
 		dots: false,
 		arrows: true,
 		prevArrow: '<button type=\'button\' class=\'prevArrow\'><i class=\'ti-angle-left\'></i></button>',
