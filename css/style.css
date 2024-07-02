@@ -118,7 +118,7 @@ body {
 }
 
 ::selection {
-  background: #2ec458;
+  background: #ffc107;
   color: #fff;
 }
 
@@ -1106,7 +1106,7 @@ mark {
   margin-bottom: 30px;
   padding: 15px;
   border-radius: 5px;
-  border-top: 6px solid #b7673691;
+  border-top: 6px solid #c3cabf;
   background-color: #fff;
 }
 .widget-title {
