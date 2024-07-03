@@ -117,7 +117,7 @@ body {
 
 body::before {
   content: '';
-  position: fixed; /* Use fixed position for full viewport coverage */
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
