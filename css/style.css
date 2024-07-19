@@ -108,7 +108,7 @@ h6, .h6 {
 }
 
 body {
-  background: linear-gradient(to bottom, #D5F9DD, #FDCFF1);
+  background: linear-gradient(to bottom, #DFF5F5, #FDCFF1);
   line-height: 1.7;
   font-family: "Nunito Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -691,7 +691,7 @@ mark {
 
 .card {
   border: 0;
-  background-color: #d7eaff;
+  background-color: #f1f7ff;
   transition: 0.2s ease;
 }
 .card-body {
