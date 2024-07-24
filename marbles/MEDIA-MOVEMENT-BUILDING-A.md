@@ -16,7 +16,7 @@ Their practice of media creation is aligned with the following principles follow
 
 
 ## Changing the narrative to have more productive conversation and create direct action (regarding homelessness)
-![](../media/cleanshot_2024-02-08-at-13-36-07@2x.png)
+![](media/cleanshot_2024-02-08-at-13-36-07@2x.png)
 from [invisible people](https://invisiblepeople.tv/stories-from-homeless-people/)
 
 more places that interrupt the dominant narrative:
