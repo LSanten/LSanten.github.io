@@ -1,5 +1,6 @@
 # The Gayatri mantra
 The Gayatri has 24 syllables, and is listed below with phonetic pronunciation in brackets:
+
 Om bhuh, bhuvah, swaha (Aumm Bhoor Bhoo-va Su-va-ha)
 
 Tat savitur varenyam (Tat Sa-vee-toor Var-ayn-yam)
@@ -7,7 +8,8 @@ Tat savitur varenyam (Tat Sa-vee-toor Var-ayn-yam)
 Bhargo devasya dhimahi (Bar-go Day-vas-ya Dhee-ma-hee)
 
 Dhiyo yo nah prachodayat (Dhee-yo Yo Nah Pra-cho-da-yaat)
-Dhiyo yo nah prachodayahane
+
+In the video below, they sing the last line: Dhiyo yo nah prachodayahane
 
 ![](media/cleanshot_2024-04-19-at-23-01-02@2x.png)
 https://www.youtube.com/watch?v=GCuu8Ri9G-o&t=
