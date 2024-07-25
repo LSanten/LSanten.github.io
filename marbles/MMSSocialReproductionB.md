@@ -3,6 +3,7 @@ The system's capacity to be conducive to health & wellbeing is re-created in the
 
 ## a particular conditioning of the environment leads to the emergence of behaviors and relationships conducive to a thriving existence for living beings
 This drawing is part of a blog post that explores the self-referential (autopoietic) nature of social systems. The way communication is accepted and rejected within social systems may be rooted in values that condition structures. These structure are conducive to the emergence & growth of certain seeds and not others. Read more via the blog article on [frameworks for energy justice](https://www.omprakash.org/blog/frameworks-for-a-just-energy-network) over here.
+
 ![](media/MMSHealthAutopoiesis-merge-05.png)
 
 ![](media/MMSHealthAutopoiesis-merge-06.png)

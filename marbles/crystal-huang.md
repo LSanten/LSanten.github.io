@@ -1,1 +1,0 @@
-connected to [[org-people-power-solar-cooperative]]
