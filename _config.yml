@@ -35,7 +35,6 @@ plugins:
 collections:
   marbles:
     output: true
-    source: marbles-md
     permalink: /marbles/:path/
 
 # Exclude from processing.
