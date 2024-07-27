@@ -1,0 +1,318 @@
+<!DOCTYPE HTML>
+<!--
+	Phantom by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Generative Music</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="shortcut icon" href="images/favicon/favicon_2.ico">
+
+		<style>
+		body {
+		  background-image: url("images/drop.png");
+		  background-repeat: no-repeat;
+		  background-position: 71% 0%;
+		  background-size: 70px 259px;
+
+		}
+		</style>
+
+
+				<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-198326221-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-198326221-1');
+		</script>
+
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
+
+							<!-- Logo -->
+								<a href="index.html" class="logo">
+									<span class="symbol"><img src="images/favicon/favicon_2.ico" alt="" /></span><span class="title">Leon Santen</span>
+								</a>
+
+							<!-- Nav -->
+							<!-- IN DEVELOPMENT
+								<nav>
+									<ul>
+										<li><a href="#menu">Menu</a></li>
+									</ul>
+								</nav>
+							IN DEVELOPMENT END-->
+
+						</div>
+					</header>
+
+				<!-- Menu -->
+				<!-- IN DEVELOPMENT
+					<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="generic.html">Ipsum veroeros</a></li>
+							<li><a href="generic.html">Tempus etiam</a></li>
+							<li><a href="generic.html">Consequat dolor</a></li>
+							<li><a href="elements.html">Elements</a></li>
+						</ul>
+					</nav>
+				IN DEVELOPMENT END-->
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<h1>Exploration of Generative Music Approaches</h1>
+							<ul class="icons">
+								<li class="icon fa-clock">December 2019</li>
+							</ul>
+							<p>
+							This project explores the capabilities and limits of machine-learning-based approaches to generative music. It is a deliverable for the class Machine Learning.
+							</p>
+
+							<figure>
+							  <img src="images/projects/generative_music/Generative Music_Avril_14th.JPG" alt="Horizontal bars that indicate the length and pitch of the generated notes. Y-axis correlates to pitch. X-axis correlates to time." style="width:80%" align="middle" >
+							  <figcaption><b>Figure 1 - The continuation of Avril 14th by Aphex Twin generated with a transformer-based model</b></figcaption>
+							</figure>
+							<br/><br/>
+							<h2>The Basics of Generative Music</h2>
+
+							<p>
+								The term generative music describes music that is created by a system, often algorithms. In my particular case, I used different algorithms to generate music based on specific pieces.
+								The different approaches to generative music can be categorized accordingly to their ability to create musical compositions. The musicality of the algorithm, therefore, depends on its ability to follow musical short-term rules as well as musical long-term logic.
+							</p>
+
+							<p>
+								If a model cannot create musical long-term structures, the generated composition might sound like it is “noodling”, due to the lack of overall coherence. However, long-term arrangements build on other musical requirements that need to work reliably before they can express their effect. In most of my generative approaches, I trained my model with a song that I sought to imitate using an algorithm. A model resembled a song when it took up musical motifs from the original song as well as short melody progressions that were distinct for the training song. Most models did naturally pick up the harmonics correctly when subtle or no key changes took place.</p>
+
+							<p>
+							To make all models musically sound, my models considered three out of four main properties of musical sounds:</p>
+
+							<ul>
+
+							<li>Pitch</li>
+							<li>Dynamic</li>
+							<li>Duration</li>
+							<li><strike>Tone Color</strike></li>
+
+							</ul>
+							<p>
+								While tone color is an essential part of musical sounds, I limited my project to the generation of MIDI-files, which are loosely the digital equivalent to written score. The tone color (or instrument choice) is in the hands of the interpreter. The synthesis of instrument sounds is another area that is heavily being explored through new machine learning technologies. Check out the <a href="https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb" target="_blank">GANSynth Google Colab instrument synthesis notebook</a>.
+							</p></br></br>
+							<h2>Different Approaches</h2>
+							<p>
+								The following machine learning approaches explore the different capabilities of current generative music attempts. For my first attempt, Markov chains, I used the visual programming software Max/MSP, which is commonly used for music and media development. A program created with Max/MSP is called a <i>patch</i>. </br>For the more complex models, I made use of the open-source Python library <a href="https://magenta.tensorflow.org/" target="_blank">Magenta Tensorflow</a>. I used an attention-based algorithm that was particularly good at implementing long-term structure
+							</p>
+							<h3>Markov Chains</h3>
+							<p>
+								<ul class="actions">
+									<li><a href="zip_files/markov_chain_max_patch.zip" class="button icon solid fa-download" target="_blank">Markov Chain - Max/MSP Patch</a></li>
+								</ul>
+							</p>
+							<p>
+								A Markov chain is a stochastic model that describes the probability of transitioning from one state to any other state of the system. Depending on the Markov chain's <i>depth</i>, the likelihood of transition to another state depends on a fixed amount of preceding events. For most of my generative compositions, I used a depth of six, meaning that the algorithm chose the next note based on the last six notes played. The higher the depth, the more similar the composition sounds compared to the original training piece.
+							</p>
+							<p>
+								Markov chains are good at finding motifs and small recognizable musical patterns. However, they lack the ability to create long-term structures. When they create them, they create them in an inconsistent, not necessarily musically logical pattern. I used the software <a href="https://cycling74.com/products/max/" target="_blank">Max/MSP</a> to generate music in real-time after I had trained the model with a MIDI-file.</br>
+								Max/MSP offers an intuitive visual programming interface. I decided to use Max/MSP over Python as it allowed me to adjust parameters in the profram flexibly, create MIDI-signals in real-time, and easily integrate it into other projects. I created Markov chains with the user-added <i>ml.markov</i> object [5].
+							</p>
+
+							<p>
+								This is the original MIDI-song that I used for training the Markov chain. Please note that this is a recording of a MIDI-file that is played on a virtual keyboard. The tone color (piano sound) is arbitrary.</br></br>
+								<b>(Please note that this won't play on iPhones)</b></br>
+								<b>Avril 14th</b> by <b>Aphex Twin</b>:</br>
+								<audio controls>
+								  <source src="./audio/henry-avril_14th_original.mp3" type="audio/ogg" alt="The original MIDI-file version of the song Avril 14th by Aphex Twin played on piano.">
+								Your browser does not support the audio element.
+								</audio>
+							</p>
+							<h4>Simple Version - Pitch, Dynamics, and Chords</h4>
+							<p>
+								The first version of my Markov chain did only consider  pitch, dynamics, and chords when being trained. I started the generation of music by giving it the first note of the piece, and it successfully generated new notes with varying pitch and velocity. As I implemented chord recognition into the Max/MSP patch, it played chords as well as single notes. Notes and chords were generated every 200 milliseconds. There were no pauses. As you will clearly hear, however, the generated music lacks any duration changes, which makes listening to it a strenuous experience. Listen to the recording below to get a feeling for the musical quality of a generative piece that does not consider pauses and the length of notes.
+								</br> </br>
+								Simple Markov chain generation (velocity, pitch, chords) based on <b>Avril 14th</b> by <b>Aphex Twin</b>:</br>
+								<audio controls>
+								  <source src="./audio/Markov_Avril_14th_Simple.mp3" type="audio/ogg" alt="The simple Markov chain generated version of the song Avril 14th by Aphex Twin played on piano.">
+								Your browser does not support the audio element.
+								</audio>
+							</p>
+
+							<h4>Sophisticated Version - Pitch, Dynamics, Chords, and Duration(!)</h4>
+							<p>
+								As you must have noticed, the previous recording is barely endurable. I improved the Max/MSP patch by filtering out the length of notes and pauses and trained another ml.markov object with the same song as above. You can find an image of a part of the patch right below if you're curious what it looked like.
+							</p>
+
+							<figure>
+							  <img src="images/projects/generative_music/max_patch_markov_1.JPG" alt="Small boxes with names such as trigger or markov refer to functions in the software Max/MSP. Boxes are connected via wires, which visualize data flow." style="width:80%" align="middle" >
+							  <figcaption><b>Figure 2 - A snippet of the Max/MSP patch that builds markov models based on dynamics, note lengths, and chords</b></figcaption>
+							</figure></br></br>
+
+							<p>
+								The final Markov model considers pitch, dynamic, and duration with a depth of six. I was quite fascinated by the musical complexity of the following recording. If you compare the record below with the first recording on this page, you will recognize similar motifs as well as longer melody patterns. The simple Markov model did also feature the generation of motifs. However, the implementation of duration and pauses brings the generated piece to another expressional level.</br> </br>
+								Musical Markov chain generation (velocity, pitch, chords, <b>+ duration</b>) based on <b>Avril 14th</b> by <b>Aphex Twin</b>:</br>
+								<audio controls>
+								  <source src="./audio/Markov_Avril_14th.mp3" type="audio/ogg" alt="The Markov chain generated version of the song Avril 14th by Aphex Twin played on piano.">
+								Your browser does not support the audio element.
+								</audio>
+
+							</p>
+							<h4>Other Exampels</h4>
+							<p>
+								The example right below is generated with my Markov model. The following piece is the same piece that I used to train the more advanced model (read Music Transformer section below).
+
+								</br> </br>
+								Original Version of <b> Violin Partita No. 2 in D Minor (BWV 1004)</b> by <b>J. S. Bach</b>:</br>
+								<audio controls>
+								  <source src="./audio/Orignial_BWV_1004.mp3" type="audio/ogg" alt="">
+								Your browser does not support the audio element.
+								</audio></br>
+								<b>Markov chain</b> generated version of  <b> Violin Partita No. 2 in D Minor (BWV 1004)</b> by <b>J. S. Bach</b>:</br>
+								<audio controls>
+								  <source src="./audio/Markov_Bach.mp3" type="audio/ogg" alt="">
+								Your browser does not support the audio element.
+								</audio>
+							</p>
+
+
+							<!--<h3>LSTM-Based Model - Performance RNN</h3>
+							<p>
+								For the exploration of more complicated models, I used Magenta Tensorflow. <a href="https://magenta.tensorflow.org/" target="_blank">Magenta Tensorflow</a> is an open source python library, which explores the role of machine learning as a tool in creative processes such as music and art.
+							</p>
+							<p>
+								The Performance RNN is a complex pre-trained long short-term memory-based (LSTM) recurrent neuronal networks
+							</p>
+							<p>
+								The following website offers a well-written introduction to the <a href="https://magenta.tensorflow.org/performance-rnn" target="_blank">Magenta Performance RNN</a>.
+							</p>-->
+
+							<h3>Transformer-Based Model - Music Transformer</h3>
+							<p>
+								The Transformer is an attention-based neuronal network that considers long-term and short-term structures. It uses expressive timing as well as an attention-based model that leads to improved long-term coherence. Expressive timing means that the model doesn not quantize the placement of notes. For instance, it might play a note slightly earlier than it is notated in the score. Expressive timing and long-term coherence were missing in the examples above. The transformer model, however,  incorporates long-term structures by using <a href="https://arxiv.org/abs/1803.02155" target="_blank">relative attention</a>, which means that it considers the length between two events. Due to this feature, it is able to pick up motifs and velocity progressions. It implements them skillfully in the generated score. Very recently, transformer-based models have proven to be more effective in language learning tasks. As transformer-based models work with relative distances when applied to language learning tasks, they are quite useful when applied to music. The Music Transformer remembers sequences and the relative position of notes, it gives them attention. The weight of single notes is affected by how much each other note affects the note. Consequently, the models only pays attention to significant events. The image below shows a visualization of the model-internal self-reference. The arcs represent which past notes informed the current note.</br>Please not that the Music Transformer is not a recurrent model.
+
+								<figure>
+								  <img src="images/projects/generative_music/Generative Music_Transformer_Self-reference.JPG" alt="Numerous horizontal lines with varying length and y-axis placement. Lines represent notes. Vertical bar in the middle, which represents current time. Arcs of different radii go back to past notes and represent that the current not was informed by the correlating past note." style="width:80%" align="middle" >
+								  <figcaption><b>Figure 3 - Visualization of Self-Reference of Transformer Model</b></figcaption>
+								</figure></br></br>
+							</p>
+							<p>
+								The Transformer model was trained on transcribed YouTube piano recordings. Consequently, its generated style shows similarities to these pieces. Its style does not work as well with <i>modern</i> classical pieces (if you're curious what the generative version of Avril 14th sounds like, check out the recording at the end of this section). Due to this reason, I used Bach's piece <i>Violin Partita No. 2 in D Minor (BWV 1004)</i> for priming the algorithm. The sequence that I used for priming the algorithm is right below. It was originally written for the violin. I used a version that was arranged for the piano to keep some amount of comparability among the examples on this page.
+								</br> </br>
+								Original Version of <b> Violin Partita No. 2 in D Minor (BWV 1004)</b> by <b>J. S. Bach</b>:</br>
+								<audio controls>
+								  <source src="./audio/Orignial_BWV_1004.mp3" type="audio/ogg" alt="">
+								Your browser does not support the audio element.
+								</audio>
+							</p>
+							<p>
+								For the following generated example, I used a very long primer of 1:51 min in order to introduce characteristic features of the original piece before the algorithm took over. Skip to 1:51 min if you don't want to listen to the entire primer again. </br></br>
+
+								Transformer generated version (start at 1:51) of <b> Violin Partita No. 2 in D Minor (BWV 1004)</b> by <b>J. S. Bach</b>:</br>
+
+								<audio controls>
+								  <source src="./audio/Transformer_Long_BWV_1004_1-51_start.mp3" type="audio/ogg" alt="">
+								Your browser does not support the audio element.
+								</audio>
+
+								<figure>
+								  <img src="images/projects/generative_music/Generative_Transformer_Bach.JPG" alt="" style="width:50%" align="middle" >
+								  <figcaption><b>Figure 3 - Visualization of Generated Piece based on Violin Partita No. 2 in D Minor</b></figcaption>
+								</figure></br>
+
+							</p>
+							<p>
+								If you want to learn more about the Music Transformer or just play around with it, check out this mostly well-working <a href="https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb" target="_blank">Google Colab notebook</a>.</br>
+								Here is an informative <a href="https://magenta.tensorflow.org/music-transformer" target="_blank">article</a> written by the creators of the Google Colab notebook. Since it is a pre-trained model, its generations have a quite "classical" character. I recommend using classical pieces as the training pieces.
+							</p>
+							<h4>Failed Transformer-Based Pieces</h4>
+							<p>
+								As mentioned above, the transformer-based model was trained on piano transcriptions. It consequently mimics the style of the transcriptions and doesn't work with pieces that show different characteristics. Here two small failures:
+
+								</br></br>
+
+								<b>#1</b> Failed Transformer Generation (start at 0:25) of <b>Avril 14th</b> by <b>Aphex Twin</b>:</br>
+
+								<audio controls>
+								  <source src="./audio/Transformer_Failed_Avril-14th_25_sec.mp3" type="audio/ogg" alt="">
+								Your browser does not support the audio element.
+								</audio></br>
+								<b>#2 (this one is fun!)</b> Failed Transformer Generation (start at 0:16) of <b>Avril 14th</b> by <b>Aphex Twin</b>:</br>
+
+								<audio controls>
+								  <source src="./audio/TensorFlow_Breaks_Avril14th_Aphex_Twin_01.mp3" type="audio/ogg" alt="">
+								Your browser does not support the audio element.
+								</audio>
+							</p>
+
+						</br></br>
+
+
+
+
+
+							<hr>
+							<h3>Sources</h3>
+
+							<p>
+							<b>[1] </b>Agnew, Sam. “Generating Music with Python and Neural Networks Using Magenta for TensorFlow.” Twilio Blog, Twilio, 18 Dec. 2018, www.twilio.com/blog/generate-music-python-neural-networks-magenta-tensorflow.
+							</p>
+							<p>
+							<b>[2] </b>Lin, Alvin. “Generating Music Using Markov Chains.” Hackernoon, 19 Nov. 2016, hackernoon.com/generating-music-using-markov-chains-40c3f3f46405.
+							Pearce-Davies, Samuel. “Ml.markov Tutorial – Machine Learning in Max/MSP.” YouTube, 5 May 2019, www.youtube.com/watch?v=LG-GYFyJw74.
+							</p>
+							<p>
+							<b>[3] </b>Simon, Ian, and Sageev Oore. “Performance RNN: Generating Music with Expressive Timing and Dynamics.” Magenta, 29 June 2017, magenta.tensorflow.org/performance-rnn.
+							</p>
+							<p>
+							<b>[4] </b>Simon, Ian, et al. “Generating Piano Music with Transformer.” Google Colab, 2019, colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb.
+							</p>
+							<p>
+								<b>[5] </b>Smith, Benjamin D. and Guy E. Garnett. “Unsupervised Play: Machine Learning Toolkit for Max.” New Interfaces for Musical Expression (NIME). Ann Arbor, MI: ICMA, 2012.
+							</p>
+						</div>
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<section>
+								<h2>Get in touch</h2>
+								<ul class="icons">
+									<li><a href="mailto:leon.santen@icloud.com" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
+									<li><a href="tel:001-781-535-4848" class="icon solid style2 fa-phone"><span class="label">Phone</span></a></li>
+									<li><a href="https://github.com/LSanten" class="icon brands style2 fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+									<li><a href="https://www.instagram.com/leoncurly/" class="icon brands style2 fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+									<li><a href="https://www.facebook.com/leon.sa.50" class="icon brands style2 fa-facebook-f" target="_blank"><span class="label">Facebook</span></a></li>
+								</ul>
+							</section>
+							<ul class="copyright">
+								<li>&copy; Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
