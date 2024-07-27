@@ -7,3 +7,6 @@
 - I don’t feel hurt/ I have all the understanding if you forget to respond or respond late. I have done it countless times before. My longest was 6 months and never until today. 
 - Michelle’s friend:  "**your value to me is not tied to the quickness to which you respond to my messages.**" 
 
+this relates back to my masters thesis insight: we need communication about communication 
+
+![MESH-CAP_summary-graphics-HIGH-RES-01](media/MESH-CAP_summary-graphics-HIGH-RES-01.png)
