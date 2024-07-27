@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '../assets/main.css' | relative_url }}">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1>{{ site.title }}</h1>
+        <nav>
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <div class="container">
+        {{ content }}
+      </div>
+    </main>
+    <footer>
+      <div class="container">
+        <p>&copy; {{ "now" | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>
