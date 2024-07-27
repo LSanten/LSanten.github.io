@@ -9,7 +9,7 @@
 
 <html lang="en-us"><head>
   <meta charset="utf-8">
-  <title>my marble sharings</title>
+  <title>{{ page.title }}</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -196,7 +196,7 @@
         <article>
 
 
-          {content}
+          {{ content | wikify_links | wikify_images }}
           
         </article>
         

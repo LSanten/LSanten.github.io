@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENERGY-ENG-A.md",
+                "file": "MY-GRAPHICS-WITH-COMMUNICATION-IN-MIND.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENERGY-ENG-A.md",
+                "file": "MY-GRAPHICS-WITH-COMMUNICATION-IN-MIND.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENERGY-ENG-A.md",
+                "file": "MY-GRAPHICS-WITH-COMMUNICATION-IN-MIND.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENERGY-ENG-A.md"
+                "file": "MY-GRAPHICS-WITH-COMMUNICATION-IN-MIND.md"
               }
             }
           }
@@ -205,6 +205,8 @@
   },
   "active": "d88b50b02d15e769",
   "lastOpenFiles": [
+    "Welcome.md",
+    "ENERGY-ENG-A.md",
     "FRAMEWORKS-COMMUNITY-WEAVING.md",
     "org-people-power-solar-cooperative.md",
     "ENGINEERING-SYSTEMIC-PATTERNS-A.md",
