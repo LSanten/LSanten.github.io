@@ -2,7 +2,7 @@
 layout: default
 title: "My graphics with communication in mind"
 ---
-
+# A collection of my graphics
 What visual spaces do we need to stay connected as a city?
 
 

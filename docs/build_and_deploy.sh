@@ -10,9 +10,9 @@ jekyll build --destination docs
 cp -r manual_files/* docs/
 
 # Commit and push to the repository
-git add docs
-git commit -m "Deploying site with manual files"
-git push origin main
+#git add docs
+#git commit -m "Deploying site with manual files"
+#git push origin main
 
 
 # Execute by running 
