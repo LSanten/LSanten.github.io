@@ -40,19 +40,19 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 h1, .h1 {
-  font-size: 52px;
+  font-size: 40px;
 }
 
 h2, .h2 {
-  font-size: 36px;
+  font-size: 28px;
 }
 
 h3, .h3 {
-  font-size: 24px;
+  font-size: 20px;
 }
 
 h4, .h4 {
-  font-size: 18px;
+  font-size: 17px;
 }
 
 h5, .h5 {
@@ -139,7 +139,8 @@ body {
 img {
   vertical-align: middle;
   border: 0;
-  max-width: 100%;
+  max-width: 90%;
+  display: block;
   height: auto;
   border-radius: 20px; /* Adjust the radius as needed */
 }

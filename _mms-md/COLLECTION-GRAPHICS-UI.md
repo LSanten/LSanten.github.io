@@ -3,34 +3,30 @@ layout: default
 title: "My graphics with communication in mind"
 ---
 # A collection of my graphics
-What visual spaces do we need to stay connected as a city?
 
-
-add
-
-- wind turbine pros and cons
-- interface for movement-oriented project sharing: this container helps us to share projects in a way that allows recipients to continue the depicted work instead of merely reading about its glory. 
-- autopoesis tree 
-- eckhard tolle visuals 
-- obviously images of interface designs (and odi's mockups from presentation)
-- wind turbine graphics at olin and in the forest
-
-# Creating Marbles during my Master's Program
-## visualizing entangled phenomena with metaphors - informed by *complex systems thinking*
+## when I visualize complex processes metaphorically...
 
 ![](media/MMSHealthAutopoiesis-merge-05.png)
+
 ![](media/MMSHealthAutopoiesis-merge-06.png)
 
+## when I talk to my friends on social media...
+![](media/MMSCommuniA-1.png)
 
-![](media/cleanshot_2024-07-26-at-22-37-45@2x.png)
-![](media/cleanshot_2024-07-26-at-22-41-43@2x.png)
+![](media/Pasted%20image%2020240727174315.png)
 
-### whose project work is around us? 
+
+## when I talk to engineers...
+![](media/cleanshot_2024-07-27-at-17-48-57@2x.png)
+
+![](media/cleanshot_2024-07-27-at-17-51-14@2x.png)
+## when I want to help my classmates cooperate better...
 ![](media/cleanshot_2024-07-26-at-20-06-40@2x.png)
 
-### capstone project: visual metaphors for cooperation among trans-disciplinary climate justice organizers
+## when I try to understand  trans-disciplinary cooperation with the help of nature...
 
 ![](media/cleanshot_2024-07-26-at-20-09-42@2x.png)
+
 ![](media/cleanshot_2024-07-26-at-20-10-08@2x.png)
 
 ### interface design for collaborative systems thinking: building systemic intelligence
@@ -56,24 +52,40 @@ For instance, we may visually represent
 
 
 add visualization of nature/ consciousness touching itself (eckhart tolle visual)
-## unconventionally streamlined interfaces using low-tech (static but responsive)
+## when I design streamlined interfaces...
 
 [bodywork.whitneyx.info](https://bodywork.whitneyx.info/)
-![](media/cleanshot_2024-07-24-at-14-53-14@2x.png)
+![](media/cleanshot_2024-07-27-at-17-45-57@2x.png)
 
-### backend and frontend work
+### when I built my first backend and frontend in 2018
 ![](media/cleanshot_2024-07-26-at-19-20-23@2x.png)
+
 ![](media/cleanshot_2024-07-26-at-19-19-40@2x.png)
 
 ## scientific graphics
 ![](media/Pasted%20image%2020240726194710.png)
+
 ![](media/Pasted%20image%2020240726194745.png)
 ## Scattered visual work
 
-![](media/MMSCommuniA-1.png)
+
 ![](media/Pasted%20image%2020240726191642.png)
 
 
 
 ![](media/Pasted%20image%2020240726191735.png)
 ![](media/cleanshot_2024-07-26-at-19-31-57@2x.png)
+
+## other things to add
+
+What visual spaces do we need to stay connected as a city?
+
+
+add
+
+
+- interface for movement-oriented project sharing: this container helps us to share projects in a way that allows recipients to continue the depicted work instead of merely reading about its glory. 
+- autopoesis tree 
+- eckhard tolle visuals 
+- obviously images of interface designs (and odi's mockups from presentation)
+- wind turbine graphics at olin and in the forest
