@@ -1,9 +1,10 @@
 ---
-layout: default
-title: "My graphics with communication in mind"
+layout: letter
+title: My graphics with communication in mind
 ---
 # A collection of my graphics
 Dear critical creators at SF Chronicle, 
+
 I only started creating intentional graphics in 2022. It is my new passion to communicate this way. Let me share with you what visuals I create *when...*
 
 ## when I visualize complex processes metaphorically...
