@@ -84,7 +84,7 @@ I only started creating intentional graphics in 2022. It is my new passion to co
 ## when I design for scientific publications...
 ![](media/Pasted%20image%2020240726194710.png)
 
-![](media/Pasted%20image%2020240726194745.png)
+
 
 ![](media/cleanshot_2024-07-28-at-13-34-33@2x.png)
 
