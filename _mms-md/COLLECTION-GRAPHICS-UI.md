@@ -7,6 +7,11 @@ Dear critical creators at SF Chronicle,
 
 I only started creating intentional graphics in 2022. It is my new passion to communicate this way. Let me share with you what visuals I create *when...*
 
+
+<center>
+![](media/cleanshot_2024-07-28-at-17-17-04.gif)
+</center>
+
 ## when I visualize complex processes metaphorically...
 ![](media/MMSHealthAutopoiesis-merge-05.png)
 
@@ -95,7 +100,6 @@ I only started creating intentional graphics in 2022. It is my new passion to co
 ## when I share too many things with you...
 ![](media/Pasted%20image%2020240726191735.png)
 
-![](media/cleanshot_2024-07-28-at-17-17-04.gif)
 
 
 
