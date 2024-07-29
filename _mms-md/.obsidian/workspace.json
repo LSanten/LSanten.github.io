@@ -45,9 +45,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "letter-to-the-SF-Chronicle.md",
+                "file": "COLLECTION-GRAPHICS-UI.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "letter-to-the-SF-Chronicle.md",
+                "file": "COLLECTION-GRAPHICS-UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "letter-to-the-SF-Chronicle.md",
+                "file": "COLLECTION-GRAPHICS-UI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "letter-to-the-SF-Chronicle.md"
+                "file": "COLLECTION-GRAPHICS-UI.md"
               }
             }
           }
@@ -205,8 +205,8 @@
   },
   "active": "eb917d4022f7319e",
   "lastOpenFiles": [
-    "COLLECTION-GRAPHICS-UI.md",
     "letter-to-the-SF-Chronicle.md",
+    "COLLECTION-GRAPHICS-UI.md",
     "MIXBASE-DOCUMENTATION.md",
     "media/cleanshot_2024-07-28-at-17-17-04.gif",
     "AUTOPOIESIS-A.md",
