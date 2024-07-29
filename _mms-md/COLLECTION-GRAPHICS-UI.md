@@ -3,7 +3,8 @@ layout: default
 title: "My graphics with communication in mind"
 ---
 # A collection of my graphics
-Dear critical creators at SF Chronicle, I only started creating intentional graphics in 2022. It is my new passion to communicate this way. Let me share with you what visuals I create *when...*
+Dear critical creators at SF Chronicle, 
+I only started creating intentional graphics in 2022. It is my new passion to communicate this way. Let me share with you what visuals I create *when...*
 
 ## when I visualize complex processes metaphorically...
 ![](media/MMSHealthAutopoiesis-merge-05.png)
@@ -27,6 +28,14 @@ Dear critical creators at SF Chronicle, I only started creating intentional grap
 ![](media/cleanshot_2024-07-26-at-20-06-40@2x.png)
 
 
+## when I co-design with communities to envision change...
+![](media/cleanshot_2024-07-28-at-12-24-06@2x.png)
+
+![](media/cleanshot_2024-07-28-at-13-06-39@2x.png)
+
+![](media/cleanshot_2024-07-28-at-13-08-34@2x.png)
+
+
 ## when I try to understand  trans-disciplinary cooperation with the help of nature...
 
 ![](media/cleanshot_2024-07-26-at-20-09-42@2x.png)
@@ -36,14 +45,6 @@ Dear critical creators at SF Chronicle, I only started creating intentional grap
 ![](media/cleanshot_2024-07-28-at-14-12-29@2x.png)
 
 ![](media/cleanshot_2024-07-28-at-14-13-59@2x.png)
-
-
-## when I co-design with communities to envision change...
-![](media/cleanshot_2024-07-28-at-12-24-06@2x.png)
-
-![](media/cleanshot_2024-07-28-at-13-06-39@2x.png)
-
-![](media/cleanshot_2024-07-28-at-13-08-34@2x.png)
 
 
 ## when I design interfaces for collaborative systems thinking and efficient *nutrient circulation*... 
