@@ -2,16 +2,16 @@
 layout: letter
 title: My graphics with communication in mind
 ---
-# A collection of my graphics
+# A selection of graphics
 Dear critical creators at SF Chronicle, 
 
-I only started creating intentional graphics in 2022. It is my new passion to communicate this way. Let me share with you what visuals I create *when...*
+I only started creating intentional graphics in 2022. It is my new passion to communicate this way. Let me share with you five categories of what visuals I create *when...*
 
 ## when I visualize complex processes metaphorically...
 ![](media/MMSHealthAutopoiesis-merge-05.png)
 
 ![](media/MMSHealthAutopoiesis-merge-06.png)
-
+…and here is a [blog post](https://www.omprakash.org/blog/just-transition-blog-reflection--4) that implements the imagery in a vulnerable context. 
 
 ## when I critically research common narratives...
 ![](media/cleanshot_2024-07-27-at-17-48-57@2x.png)
@@ -23,19 +23,20 @@ I only started creating intentional graphics in 2022. It is my new passion to co
 ## when I co-design with communities to envision change...
 ![](media/cleanshot_2024-07-28-at-12-24-06@2x.png)
 
-## when I design streamlined interfaces...
+## when I design streamlined, UX-friendly interfaces...
 [bodywork.whitneyx.info](https://bodywork.whitneyx.info/)
 ![](media/cleanshot_2024-07-27-at-17-45-57@2x.png)
-
-## when I create visuals for papers...
+![](media/cleanshot_2024-07-28-at-14-17-14@2x.png)
+## when I create visuals for research papers...
 ![](media/cleanshot_2024-07-28-at-13-34-33@2x.png)
 
 ![](media/Pasted%20image%2020240726194745.png)
 
 
 
-## find more a longer portfolio [over here](https://leonsanten.info/marbles/COLLECTION-GRAPHICS-UI/)
+## find my longer portfolio [over here](https://leonsanten.info/marbles/COLLECTION-GRAPHICS-UI/)
 
+I am very eager to grow with you! 
 
 Warmly, 
 
