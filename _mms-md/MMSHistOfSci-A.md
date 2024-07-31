@@ -3,13 +3,11 @@ layout: default
 title: "Mmshistofsci a"
 ---
 
-# history of science
+# A critical synthesis: history of the scientific method
 
-## v1
 ![](media/cleanshot_2024-07-12-at-12-13-08@2x.png)
 
 
-*changes:* where does engineering rooted in militarism start?
 
 This might trigger you: we need to be aware of the limitations of the scientific method. 
 
@@ -27,6 +25,7 @@ Any stance someone takes to fight climate change is based on what we as humans v
 
 Yet, the scientific method 
 
-
-
 Science has brought about amazing innovation. Yet, we see massive social and ecological destruction. 
+
+### Future additions or changes:
+*changes:* where does engineering rooted in militarism start?

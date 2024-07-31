@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COLLECTION-GRAPHICS-UI.md",
+                "file": "CLIMATE-CHANGE-A.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MILIT-A.md",
+                "file": "MMSHistOfSci-A.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9e93b6f1959b5e49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PERSONAL-VALUE-SYSTEM.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "milit",
+                "query": "histofsci",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MILIT-A.md",
+                "file": "MMSHistOfSci-A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MILIT-A.md",
+                "file": "MMSHistOfSci-A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MILIT-A.md"
+                "file": "MMSHistOfSci-A.md"
               }
             }
           }
@@ -170,11 +182,15 @@
   },
   "active": "eb917d4022f7319e",
   "lastOpenFiles": [
+    "COOP-PRINCIPLES.md",
+    "PERSONAL-VALUE-SYSTEM.md",
+    "CLIMATE-CHANGE-A.md",
+    "202308111213.md",
     "COLLECTION-GRAPHICS-UI.md",
+    "MILIT-A.md",
     "letter-to-the-SF-Chronicle.md",
     "MMSHistOfSci-A.md",
     "HistOfSci-A.md",
-    "MILIT-A.md",
     "CERT-ORG.md",
     "ADAPT-CYCLES-A.md",
     "AUTOPOIESIS-A.md",
@@ -202,10 +218,6 @@
     "STREAMING-COMMUNITY-PLATF.md",
     "ADAPT-CHANGE.md",
     "MMSSocialReproductionB.md",
-    "MMSSocialReproductionA.md",
-    "EYTSongDownloadingConversion.md",
-    "MEDIA-MOVEMENT-BUILDING-A.md",
-    "MMSCityPublicReportCenter.md",
     "template-for-marbles.html",
     "js/template-for-marbles.html",
     "MMSIllustrationCollection copy.html"
