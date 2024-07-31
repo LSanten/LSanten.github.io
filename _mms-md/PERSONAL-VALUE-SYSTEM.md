@@ -1,3 +1,7 @@
+---
+layout: default
+title: '"Personal value system"'
+---
 # My value system 
 Baseline values of mine include:
 - **Care**
