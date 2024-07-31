@@ -2,5 +2,5 @@
   "attachmentFolderPath": "media/",
   "newFileLocation": "current",
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": false
 }
