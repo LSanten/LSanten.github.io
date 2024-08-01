@@ -148,7 +148,8 @@ img {
 a,
 a:hover,
 a:focus {
-  text-decoration: none;
+  text-decoration: underline dotted;; /* Remove default underline */
+  
 }
 
 a,
@@ -164,7 +165,7 @@ select:focus {
 }
 
 a:hover {
-  color: #4FD675;
+  color: #00cdae;
 }
 
 .slick-slide {
