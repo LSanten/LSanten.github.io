@@ -4,6 +4,7 @@ title: "Mmshistofsci a"
 ---
 
 # A critical synthesis: history of the scientific method
+## People and world events that shaped the scientific method
 
 ![](media/cleanshot_2024-07-12-at-12-13-08@2x.png)
 

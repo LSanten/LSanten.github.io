@@ -16,43 +16,15 @@ I only started creating intentional graphics in 2022. It is my new passion to co
 
 ![](media/MMSHealthAutopoiesis-merge-06.png)
 
-
-## when I talk to my friends on social media...
-![](media/MMSCommuniA-1.png)
-
-![](media/Pasted%20image%2020240727174315.png)
-
-![](media/cleanshot_2024-07-28-at-14-05-07@2x.png)
-
-
-## when I talk to engineers...
+## when I critically reflect with engineers...
 ![](media/cleanshot_2024-07-27-at-17-48-57@2x.png)
 
 ![](media/cleanshot_2024-07-27-at-17-51-14@2x.png)
-## when I want to help my classmates cooperate better...
-![](media/cleanshot_2024-07-26-at-20-06-40@2x.png)
-
 
 ## when I co-design with communities to envision change...
 ![](media/cleanshot_2024-07-28-at-12-24-06@2x.png)
 
-![](media/cleanshot_2024-07-28-at-13-06-39@2x.png)
-
-![](media/cleanshot_2024-07-28-at-13-08-34@2x.png)
-
-
-## when I try to understand  trans-disciplinary cooperation with the help of nature...
-
-![](media/cleanshot_2024-07-26-at-20-09-42@2x.png)
-
-![](media/cleanshot_2024-07-26-at-20-10-08@2x.png)
-
-![](media/cleanshot_2024-07-28-at-14-12-29@2x.png)
-
-![](media/cleanshot_2024-07-28-at-14-13-59@2x.png)
-
-
-## when I design interfaces for collaborative systems thinking and efficient *nutrient circulation*... 
+## when I design interfaces for collaborative systems thinking and sensing each other as humans... 
 ![](media/cleanshot_2024-07-28-at-13-52-29@2x.png)
 
 ![](media/cleanshot_2024-07-28-at-13-51-37@2x.png)
@@ -74,8 +46,34 @@ I only started creating intentional graphics in 2022. It is my new passion to co
 [bodywork.whitneyx.info](https://bodywork.whitneyx.info/)
 ![](media/cleanshot_2024-07-27-at-17-45-57@2x.png)
 
+## when I try to understand  trans-disciplinary cooperation with the help of nature...
 
-### when I built my first backend and frontend in 2018...
+![](media/cleanshot_2024-07-26-at-20-09-42@2x.png)
+
+![](media/cleanshot_2024-07-26-at-20-10-08@2x.png)
+
+![](media/cleanshot_2024-07-28-at-14-12-29@2x.png)
+
+![](media/cleanshot_2024-07-28-at-14-13-59@2x.png)
+
+
+
+
+## when I talk to my friends on social media...
+![](media/MMSCommuniA-1.png)
+
+![](media/Pasted%20image%2020240727174315.png)
+
+![](media/cleanshot_2024-07-28-at-14-05-07@2x.png)
+
+
+## when I want to help my classmates cooperate better...
+![](media/cleanshot_2024-07-26-at-20-06-40@2x.png)
+
+
+
+
+## when I built my first backend and frontend in 2018...
 ![](media/cleanshot_2024-07-26-at-19-20-23@2x.png)
 
 ![](media/cleanshot_2024-07-26-at-19-19-40@2x.png)

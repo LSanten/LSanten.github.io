@@ -21,8 +21,8 @@ This drawing is part of a blog post that explores the self-referential (autopoie
 
 
 
-### therefore, people (or systems) who are experience disconnection between parts of their system will likely recreate similar structural patterns as they create new systems
-An engineer, for instance, creates lots of social and material structures. If the engineer lives with large (energetic) blockages between their emotional side, their physical body, and their work, they are likely to create new systems that similarly create blockages between these parts. Values and beliefs can be considered as some of the essence that continues to exist through someone's creations. If the engineer values productivity and does not value regeneration and balance, their social media platform will likely condition the behavior of users with their own values [[ONTOLOGICAL-PRIMITIVES]]. 
+### Therefore, people (or systems) that experience disconnection between parts of their system will recreate similar structural patterns as they create new systems
+An engineer, for instance, creates social and material structures. If the engineer lives with large (energetic) blockages between their emotional side, their physical body, and their work, they are likely to create new systems that similarly create blockages between these parts. Values and beliefs can be considered as some of the essence that continues to exist through someone's creations. If the engineer values productivity and does not value regeneration and balance, their social media platform they are building as a software engineer will likely condition the behavior of users with their  respective value system (see [[ONTOLOGICAL-PRIMITIVES]] for more detail on values). 
 
 #engineering #recreation #education
 ![](media/MMSHealthAutopoiesis-merge-01.png)

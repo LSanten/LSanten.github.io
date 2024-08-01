@@ -21,9 +21,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ONTOLOGICAL-PRIMITIVES.md",
+                "file": "COLLECTION-GRAPHICS-UI.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -62,9 +62,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49727261d7b37bf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "letter-to-the-SF-Chronicle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff14437d3901adb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COLLECTION-JUST-ENERGY-HUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MMSFinanceVisual.md",
+                "file": "COLLECTION-GRAPHICS-UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MMSFinanceVisual.md",
+                "file": "COLLECTION-GRAPHICS-UI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MMSFinanceVisual.md"
+                "file": "COLLECTION-GRAPHICS-UI.md"
               }
             }
           }
@@ -191,18 +215,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db1a3970a28d44b7",
+  "active": "00a4d57dc8cf708b",
   "lastOpenFiles": [
+    "COLLECTION-JUST-ENERGY-HUB.md",
+    "COLLECTION-GRAPHICS-UI.md",
+    "ONTOLOGICAL-PRIMITIVES.md",
+    "letter-to-the-SF-Chronicle.md",
+    "MMSFinanceVisual.md",
     "CLIMATE-CHANGE-A.md",
     "PERSONAL-VALUE-SYSTEM.md",
-    "ONTOLOGICAL-PRIMITIVES.md",
     "AUTOPOIESIS-A.md",
     "MMSHistOfSci-A.md",
     "COOP-PRINCIPLES.md",
     "202308111213.md",
-    "COLLECTION-GRAPHICS-UI.md",
     "MILIT-A.md",
-    "letter-to-the-SF-Chronicle.md",
     "HistOfSci-A.md",
     "CERT-ORG.md",
     "ADAPT-CYCLES-A.md",
@@ -227,8 +253,6 @@
     "COLLABORATIVE-ECOSYSTEMS-A.md",
     "MMSHealthAutopoiesis.md",
     "STREAMING-COMMUNITY-PLATF.md",
-    "ADAPT-CHANGE.md",
-    "MMSSocialReproductionB.md",
     "template-for-marbles.html",
     "js/template-for-marbles.html",
     "MMSIllustrationCollection copy.html"
