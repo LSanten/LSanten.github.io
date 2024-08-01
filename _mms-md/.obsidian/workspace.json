@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLIMATE-CHANGE-A.md",
+                "file": "MMSFinanceVisual.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ontolo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLIMATE-CHANGE-A.md",
+                "file": "MMSFinanceVisual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CLIMATE-CHANGE-A.md",
+                "file": "MMSFinanceVisual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLIMATE-CHANGE-A.md"
+                "file": "MMSFinanceVisual.md"
               }
             }
           }
@@ -194,10 +193,10 @@
   },
   "active": "db1a3970a28d44b7",
   "lastOpenFiles": [
+    "CLIMATE-CHANGE-A.md",
     "PERSONAL-VALUE-SYSTEM.md",
     "ONTOLOGICAL-PRIMITIVES.md",
     "AUTOPOIESIS-A.md",
-    "CLIMATE-CHANGE-A.md",
     "MMSHistOfSci-A.md",
     "COOP-PRINCIPLES.md",
     "202308111213.md",
