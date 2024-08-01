@@ -107,6 +107,30 @@ h6, .h6 {
   color: #fff;
 }
 
+.custom-button {
+  background-color: #007cbe; /* Custom background color */
+  border: none; /* Remove border */
+  color: white; /* Text color */
+  padding: 2px 15px; /* Padding */
+  text-align: center; /* Center text */
+  text-decoration: none; /* Remove text underline */
+  display: inline-block; /* Inline block display */
+  font-size: 14px; /* Font size */
+  margin: 4px 2px; /* Margin */
+  cursor: pointer; /* Pointer cursor */
+  border-radius: 20px; /* Border radius */
+  font-family: "Nunito Sans", sans-serif; /* Font family */
+  -webkit-font-smoothing: antialiased; /* Smooth font */
+  font-weight: 700; /* Font weight */
+  z-index: 1; /* Z-index */
+  transition: background-color 0.3s ease; /* Transition for background color */
+  position: relative;
+}
+
+.custom-button:hover {
+  background-color: #45a049; /* Hover background color */
+}
+
 body {
   background-color: #eed6f1;
   overflow-x: hidden;
