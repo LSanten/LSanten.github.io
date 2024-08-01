@@ -165,9 +165,22 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-9 mx-auto">
-        <h3>I have a note for you</h3>
-        <h5>from <a href="https://leonsanten.info/" target="_blank" style="color: #D69DDE; text-decoration: none;">Leon Santen</a></h5>
-        
+        <h4>Here, I hand you a <i>marble</i> of mine.<br>
+Maybe, you want to put it in your pouch of marbles.</h4>
+        <h5>Yours, <a href="https://leonsanten.info/" target="_blank" style="color: #D69DDE; text-decoration: none;">Leon</a></h5>
+        <span class="dots"></span>
+
+            <span class="more">
+              <p style="text-decoration: none; border: 2px solid black; padding: 4px 8px; background-color: #fdffda; border-radius: 15px; color: black;">In my world, a marble is a metaphorical container for a note that I want to share with you. It can be an idea, an insight, a piece of knowledge, or a question that I consider valuable for my life's ongoing dialogue.<br><br>
+
+              Therefore, I host it publicly to continue the flow of nutritious information in an effort to enlighten my dialogue with you, friends, and co-creators to build new systems, envision different realities, or contemplate scientific insights.<br><br>
+
+              In the past, I didn’t have a way to share ideas or insights with others. This marbles website is the manifestation of my desire to share intentionally with the world. If you want to do it too, let me know. I can help you
+</p>
+              
+            </span>
+
+            <button class="read">⏷ You may ask, what is a marble?</button>
         
       </div>
     </div>
@@ -291,11 +304,11 @@
      $(".read").click(function(){
         $(this).prev().toggle();
         $(this).siblings('.dots').toggle();
-        if($(this).text()=='⏶ Put the letter back into the envelope 📩'){
-    $(this).text('⏷ Open the letter 💌');
+        if($(this).text()=='⏶ show less 📩'){
+    $(this).text(' 💌 ');
         }
         else{
-    $(this).text('⏶ Put the letter back into the envelope 📩');
+    $(this).text('⏶ show less 📩');
         }
      });
   });
