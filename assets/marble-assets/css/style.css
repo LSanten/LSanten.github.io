@@ -139,7 +139,7 @@ body {
 img {
   vertical-align: middle;
   border: 0;
-  max-width: 90%;
+  max-width: 100%;
   display: block;
   height: auto;
   border-radius: 20px; /* Adjust the radius as needed */
@@ -189,8 +189,8 @@ mark {
 }
 
 .section {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 20px;
 }
 .section-sm {
   padding-top: 80px;
