@@ -41,7 +41,13 @@ Let me share: visuals I create *when...*
 
 ![](media/cleanshot_2024-07-28-at-17-14-00@2x.png)
 
-![](media/cleanshot_2024-07-26-at-22-27-53@2x.png)
+![](media/MMSPhilOfSciA_1.png)
+
+![](media/MMSPhilOfSciA_2.png)
+
+![](media/MMSPhilOfSciA_4.png)
+
+
 
 
 ## when I design streamlined interfaces...
