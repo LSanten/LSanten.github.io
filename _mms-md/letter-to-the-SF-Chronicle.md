@@ -1,5 +1,5 @@
 ---
-layout: letter
+layout: default
 title: My graphics with communication in mind
 ---
 # A selection of graphics

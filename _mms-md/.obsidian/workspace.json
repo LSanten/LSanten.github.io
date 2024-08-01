@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COLLECTION-GRAPHICS-UI.md",
+                "file": "letter-to-the-SF-Chronicle.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COLLECTION-GRAPHICS-UI.md",
+                "file": "letter-to-the-SF-Chronicle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COLLECTION-GRAPHICS-UI.md",
+                "file": "letter-to-the-SF-Chronicle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COLLECTION-GRAPHICS-UI.md"
+                "file": "letter-to-the-SF-Chronicle.md"
               }
             }
           }
@@ -217,8 +217,8 @@
   },
   "active": "00a4d57dc8cf708b",
   "lastOpenFiles": [
-    "COLLECTION-JUST-ENERGY-HUB.md",
     "COLLECTION-GRAPHICS-UI.md",
+    "COLLECTION-JUST-ENERGY-HUB.md",
     "ONTOLOGICAL-PRIMITIVES.md",
     "letter-to-the-SF-Chronicle.md",
     "MMSFinanceVisual.md",
