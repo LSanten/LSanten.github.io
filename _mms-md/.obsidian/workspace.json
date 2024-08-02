@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPLEXITY-A.md",
+                "file": "PERSONAL-VALUE-SYSTEM.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "COM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPLEXITY-A.md",
+                "file": "PERSONAL-VALUE-SYSTEM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPLEXITY-A.md",
+                "file": "PERSONAL-VALUE-SYSTEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,11 +207,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPLEXITY-A.md"
+                "file": "PERSONAL-VALUE-SYSTEM.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,10 +229,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb4684323e0b09f5",
+  "active": "04f34741d88409d4",
   "lastOpenFiles": [
-    "COLLECTION-GRAPHICS-UI.md",
     "COMPLEXITY-A.md",
+    "COLLECTION-GRAPHICS-UI.md",
     "MMSPhilOfSciA.md",
     "MMSHistOfSci-A.md",
     "PERSONAL-VALUE-SYSTEM.md",
