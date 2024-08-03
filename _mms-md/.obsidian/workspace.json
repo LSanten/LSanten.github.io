@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PERSONAL-VALUE-SYSTEM.md",
+                "file": "CLIMATE-CHANGE-A.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,8 +146,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PERSONAL-VALUE-SYSTEM.md",
+                "file": "CLIMATE-CHANGE-A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PERSONAL-VALUE-SYSTEM.md",
+                "file": "CLIMATE-CHANGE-A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PERSONAL-VALUE-SYSTEM.md"
+                "file": "CLIMATE-CHANGE-A.md"
               }
             }
           }
@@ -229,13 +228,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04f34741d88409d4",
+  "active": "cb4684323e0b09f5",
   "lastOpenFiles": [
+    "PERSONAL-VALUE-SYSTEM.md",
     "COMPLEXITY-A.md",
     "COLLECTION-GRAPHICS-UI.md",
     "MMSPhilOfSciA.md",
     "MMSHistOfSci-A.md",
-    "PERSONAL-VALUE-SYSTEM.md",
     "MMSFinanceVisual.md",
     "letter-to-the-SF-Chronicle.md",
     "COLLECTION-JUST-ENERGY-HUB.md",

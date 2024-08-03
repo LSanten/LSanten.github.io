@@ -8,10 +8,10 @@ title: "Climate change a"
 (I use 'solving climate change' synonymous with healing our social-ecological systems from unnecessary suffering, violence, and degradation.)
 
 Gopal Dayaneni is the one whose words have left an imprint on me regarding the idea that 
- >*"the cause of the crisis is in the injustice"* so we need to *transform relationships of power*:
+ >The cause of the crisis is in the injustice, so we need to *transform relationships of power*.
 
->"You don't get to this place of earth system disruption without an enormous amount of coercion"
->"mountains don't blow up by themselves" "you need to control labor & capital" 
+>You don't get to this place of earth system disruption without an enormous amount of coercion.
+>Mountains don't blow up by themselves, you need to control labor & capital.
 
 
 -Gopal Dayaneni @ Pachamama Conference 2023 
