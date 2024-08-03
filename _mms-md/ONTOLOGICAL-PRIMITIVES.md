@@ -12,15 +12,16 @@ Ontological primitives are the essences from which our actions and behaviors ari
 
 (McGilchrist 2021) - [[MCGILCHRIST2021-VID]]
 
-*maybe one can say that we need to "meet" in all these domains to connect with each other fully*
+*Maybe one can say that we need to "meet" in all these domains to connect with each other fully*
 
-Insight: When we do work, we always build something bigger than just the project we work on. This bigger thing then brings forth a whole new being of existence that cannot be reduced to a piece of material creation. This energetic (non-material) creation continues to grow its ontolgocila primitives. Therefore, it matters more that we pay attention to the space we create rather than the outcomes of them. 
+### Insight
+When we do work, we always build something bigger than just the project we work on. This bigger thing then brings forth a whole new being of existence that cannot be reduced to a piece of material creation. This energetic (non-material) creation continues to grow its ontological primitives. Therefore, it matters more that we pay attention to the space we create rather than the outcomes of them. 
 
-This also leads to the realization that it is less important how productive we are or that we do "enough" work. It is more important that we do the work within a certain caring & loving environemnt and with good energy & intentions. These energies will continue to swirl and grow whereas the project will always be done and interest into it will fall apart naturally (as all identities do). But values, sense of the sacred etc are not identities. (#education #space-holding)
+This also leads to the realization that it is less important how productive we are or that we do "enough" work. It is more important that we do the work within a certain caring & loving environment and with good energy & intentions. These energies will continue to swirl and grow whereas the project will always be done and interest into it will fall apart naturally (as all identities do). But values, sense of the sacred and paradigm of beliefs are not identities and continue to stay unless examined, questioned, and intentionally transformed. ( #education #space-holding)
 
-## As ontological primitives contition our behvairos and actions, they condition the social and physical structures we create. These structures, then, reproduce the ontological primitives in an autopoietic fashion
-see [[AUTOPOIESIS-A]] for the concept of re-creation
-see [[MMSSocialReproduction]] for ways in which current paradigms re-appear in (engineering) education
+### As ontological primitives condition our behaviors and actions, they condition the social and physical structures we create. These structures, then, reproduce the ontological primitives in an autopoietic fashion
+See [[AUTOPOIESIS-A]] for the concept of re-creation
+See [[MMSSocialReproductionB]] for ways in which current paradigms re-appear in (engineering) education. 
 
 
 
