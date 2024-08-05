@@ -101,10 +101,10 @@ mistaking of *distinction as seperation*: the process of creation is a matter of
 ## science & reason are crucial
 *"science needs to be more scientific by investigating the various posibillities in an undogmatic way. and reason, too, should not be dogmatic"* #philosophy-of-science problematic: if we don't see the assumptions we have made, we don't see the limitations of the model
 
-## there is no war between sciencey & reason <--> intuition & imagination
+## there is no war between science & reason <--> intuition & imagination
 they all do necessary things. they complement one another. the problem comes when one things - because it sees less - that it sees all (*dunning kruger effect*) [33:00]
 
-## the thrings that give us psychological, physical health
+## the things that give us psychological, physical health
 - social cohesion
 - proximity to and involvement with the natural world
 - having a spiritual belief about the world 

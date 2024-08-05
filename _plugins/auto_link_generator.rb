@@ -1,43 +1,44 @@
 module Jekyll
   class AutoLinkGenerator < Generator
     def generate(site)
-      site.pages.each do |page|
-        page.content = autolink(page.content)
-      end
+      puts "AutoLinkGenerator is running"
+      
+      process_files(site.pages)
+      process_files(site.posts.docs)
+      process_collection_files(site.collections['mms-md'].docs)
+    end
 
-      site.posts.docs.each do |post|
-        post.content = autolink(post.content)
+    def process_files(files)
+      files.each do |file|
+        puts "Processing file: #{file.path}"
+        file.content = autolink(file.content)
+      end
+    end
+
+    def process_collection_files(files)
+      files.each do |file|
+        puts "Processing collection file: #{file.path}"
+        file.content = autolink(file.content)
       end
     end
 
     def autolink(input)
-      # Regular expression to detect plain URLs
+      puts "Processing content"
+      # Regular expression to detect plain URLs not within Markdown links
       url_regex = %r{
-        (                           # Capture 1: entire matched URL
-          (?:
-            https?:\/\/             # http or https protocol
-            |                       #   or
-            www\d{0,3}[.]           # "www.", "www1.", "www2." ... "www999."
-            |                       #   or
-            [a-z0-9.\-]+[.][a-z]{2,4}\/  # looks like domain name followed by a slash
-          )
-          (?:                       # One or more:
-            [^\s()<>]+              # Run of non-space, non-()<>
-            |                       #   or
-            \(([^()\s<>]+|(\([^()\s<>]+\)))\)  # balanced parens, up to 2 levels
-          )+
-          (?:                       # End with:
-            \(([^()\s<>]+|(\([^()\s<>]+\)))\)  # balanced parens, up to 2 levels
-            |                       #   or
-            [^\s`!()\[\]{};:'".,<>?«»“”‘’]        # not a space or one of these punct chars
-          )
-        )
+        (?<!\[)          # Negative lookbehind to ensure the URL is not preceded by '['
+        (?<!\]\()        # Negative lookbehind to ensure the URL is not preceded by ']('
+        \b               # Word boundary
+        (https?:\/\/     # Match http or https protocol
+          [^\s()<>\[\]]+ # Match non-space characters, excluding parentheses and brackets
+          (?:\/[^\s()<>\[\]]*)* # Ensure the trailing characters like / are included
+        )\/?             # Ensure trailing slash is included
+        (?![^\s]*\])     # Negative lookahead to ensure the URL is not followed by 'anything till a closing bracket'
       }x
 
       input.gsub(url_regex) do |url|
-        # Ensure the URL has a protocol prefix
-        link = url.match(%r{^https?://}) ? url : "http://#{url}"
-        "<a href=\"#{link}\" target=\"_blank\">#{url}</a>"
+        puts "Found URL: #{url}"
+        "<a href=\"#{url}\" target=\"_blank\">#{url}</a>"
       end
     end
   end
