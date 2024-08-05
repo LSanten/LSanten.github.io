@@ -27,7 +27,7 @@ for md_file in md_files:
     file_path = os.path.join(folder_path, md_file)
     title = extract_first_title(file_path)
     filename = os.path.splitext(md_file)[0]
-    output_content += f"[[{filename}]] - {title}\n\n"
+    output_content += f"- [[{filename}]] - {title}\n"
 
 # Write the output content to the all.md file
 with open(output_file, 'w', encoding='utf-8') as file:
