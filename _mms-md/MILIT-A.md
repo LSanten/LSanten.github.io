@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Milit a"
 ---
 
 # Stats surrounding the scale of the US military industrial complex

@@ -1,5 +1,8 @@
 ---
 layout: letter
+---
+
+
 title: My graphics with communication in mind
 ---
 # A selection of graphics

@@ -51,6 +51,8 @@ collections:
 include:
   - _mms_md/media
 
+markdown: kramdown
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
