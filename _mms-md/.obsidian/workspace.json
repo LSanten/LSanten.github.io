@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+                "file": "ONTOLOGICAL-PRIMITIVES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+                "file": "ONTOLOGICAL-PRIMITIVES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md"
+                "file": "ONTOLOGICAL-PRIMITIVES.md"
               }
             }
           }
@@ -265,8 +265,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51edb8fc716b3b9c",
+  "active": "9910435358528125",
   "lastOpenFiles": [
+    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
     "MMSPhilOfSciA.md",
     "PERSONAL-VALUE-SYSTEM.md",
     "ONTOLOGICAL-PRIMITIVES.md",
@@ -274,7 +275,6 @@
     "MMSSocialReproductionA.md",
     "MMSSocialReproductionB.md",
     "MMSHistOfSci-A.md",
-    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
     "media/cleanshot_2024-08-06-at-11-54-49@2x.png",
     "COLLECTION-GRAPHICS-UI.md",
     "media/cleanshot_2024-08-06-at-11-48-33@2x.png",
