@@ -14,6 +14,8 @@ Ontological primitives are the essences from which our actions and behaviors ari
 
 *Maybe one can say that we need to "meet" in all these domains to connect with each other fully*
 
+![](media/cleanshot_2024-07-28-at-17-14-00@2x.png)
+
 ### Insight
 When we do work, we always build something bigger than just the project we work on. This bigger thing then brings forth a whole new being of existence that cannot be reduced to a piece of material creation. This energetic (non-material) creation continues to grow its ontological primitives. Therefore, it matters more that we pay attention to the space we create rather than the outcomes of them. 
 

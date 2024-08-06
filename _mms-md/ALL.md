@@ -132,6 +132,7 @@ layout: default
 - [[MESH-CAP]] - No Title
 - [[MESH-EJ-THESIS]] - No Title
 - [[MESH-JEH-Overview-A]] - No Title
+- [[METAPHORICAL-RELATIONSHIPS-OF-ORGS]] - How do we visualize the systemic relationships (good or bad) of organizations?
 - [[MICRO-GRIDS-A]] - Microgrids and 
 - [[MILIT-A]] - Stats surrounding the scale of the US military industrial complex
 - [[MILIT-B]] - No Title

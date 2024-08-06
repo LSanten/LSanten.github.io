@@ -4,7 +4,6 @@ title: "Autopoiesis a"
 ---
 
 # The essence of our social systems is reproduced in the structures they create
-We can think of the newly arising structures as potential fruits. 
 We can think of the essence of our social systems as the code or ontological primitives (smallest building blocks of what we consider valuable, reality, purpose, and sacred [[ONTOLOGICAL-PRIMITIVES]]).
 
 ![](media/cleanshot_2024-07-28-at-17-14-00@2x.png)

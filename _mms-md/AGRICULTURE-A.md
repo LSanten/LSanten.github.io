@@ -10,7 +10,9 @@ Agriculture contributes about 25% of  all greenhouse gas (GHG) emissions, and ab
 
 
 #agriculture #livestock
+
 __________
+
 REFERENCES
 
 Mulvaney, D. (2020). Sustainable Energy Transitions: Socio-Ecological Dimensions of Decarbonization (1st ed. 2020, p. 258). Palgrave Macmillan.
