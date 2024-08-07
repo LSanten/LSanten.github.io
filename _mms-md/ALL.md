@@ -97,6 +97,7 @@ layout: default
 - [[INTELLIGENCE-A]] - intelligence is compression
 - [[INTERDISCIPLINARITY-A]] - How do we create an interdisciplinary course?
 - [[INTERVIEWING-A]] - No Title
+- [[INTO-PERSPECTIVE]] - Putting world wide challenges and push for innovation into perspective 
 - [[INTRINSIC-EDUCATION-A]] - INSIGHT: I feel like the real goal of education is to figure out how to genuinly explore
 - [[IPCC-TRANSITION]] - IPCC AR6 sees transition needs in 5 realms
 - [[JUST-TRANSITION-PRINC]] - Just Transition Principles
@@ -138,6 +139,7 @@ layout: default
 - [[MILIT-B]] - No Title
 - [[MINING-A]] - No Title
 - [[MIXBASE-DOCUMENTATION]] - No Title
+- [[MMS-POST-IDEAS]] - No Title
 - [[MMSBigTechA]] - Isn’t it wild that we haven’t heard of Mark Zuckerberg talk about his understanding of friendship and community?
 - [[MMSCapitalismA]] - Difference and division are core-components of capitalist thriving 
 - [[MMSCityPublicReportCenter]] - No Title
@@ -195,6 +197,7 @@ layout: default
 - [[PROGRESS-A]] - We need to be given back the right to define progress for oursevles, for our communities 
 - [[PropOfSciences]] - the propositions or interests of the social & natural sciences
 - [[PROSPERITY]] - How to define prosperity (in the context of degrowth)
+- [[QUOTES-CREATION-PEACE]] - No Title
 - [[RADICALNESS]] - Radicalness means to go back to the roots of the injustice
 - [[READING-RECS-A]] - Philosophical readings that I want to share with all my friends
 - [[RECYCLING-A]] - Avoided CO2 emission for recycling & avoided production for various materials 
@@ -209,6 +212,7 @@ layout: default
 - [[RESUME-WRITINGS-B]] - Spirituality and ecological justice: How can we transform ourselves?
 - [[RESUME-WRITINGS-C]] - Envisioning architectural & engineering relationships to the land inspired by  indigenous ways of being
 - [[RESUME-WRITINGS-UPLOAD]] - Things that need to uploaded to the writings section
+- [[ROOTS-OF-RENEWABLES]] - Title options
 - [[SCIENCE-OF-HOLISM-FRAMEWORK]] - No Title
 - [[SEEDS-A]] - Commercial agriculture uses low variety of seeds
 - [[SENSING-B]] - Otto scharmers framework for turning inward to see the external system within ourselves
