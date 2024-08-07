@@ -11,5 +11,5 @@ title: "Radicalness"
 
 
 
-https://www.opendemocracy.net/en/transformation/why-social-movements-need-radical-imagination/
+[1] - https://www.opendemocracy.net/en/transformation/why-social-movements-need-radical-imagination/
 
