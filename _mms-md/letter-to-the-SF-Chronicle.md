@@ -1,10 +1,6 @@
 ---
 layout: letter
 ---
-
-
-title: My graphics with communication in mind
----
 # A selection of graphics
 Dear critical creators at SF Chronicle, 
 

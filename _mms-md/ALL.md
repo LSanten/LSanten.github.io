@@ -212,7 +212,7 @@ layout: default
 - [[RESUME-WRITINGS-B]] - Spirituality and ecological justice: How can we transform ourselves?
 - [[RESUME-WRITINGS-C]] - Envisioning architectural & engineering relationships to the land inspired by  indigenous ways of being
 - [[RESUME-WRITINGS-UPLOAD]] - Things that need to uploaded to the writings section
-- [[ROOTS-OF-RENEWABLES]] - Title options 
+- [[ROOTS-OF-RENEWABLES]] - No Title
 - [[SCIENCE-OF-HOLISM-FRAMEWORK]] - No Title
 - [[SEEDS-A]] - Commercial agriculture uses low variety of seeds
 - [[SENSING-B]] - Otto scharmers framework for turning inward to see the external system within ourselves
