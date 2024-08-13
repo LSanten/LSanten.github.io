@@ -4,7 +4,9 @@ title: My graphics with communication in mind
 ---
 # A collection of my graphics
 
-I only started creating intentional graphics in 2022 after realizing that I need visuals to become the trans-disciplinary communicator I seek to be. It is my new passion to be a visual critical thinker. I have a long list of "to-come" creations and hope to dedicate much more time to this.
+You are about to witness a recently developed passion: eliciting critical thinking & communication through the power of visuals. I  started creating intentional graphics in 2022 after realizing that I need visuals to become the trans-disciplinary communicator I seek to be. 
+
+I have a long list of "to-come" creations and hope to dedicate much more time to this.
 
 Let me share: visuals I create *when...*
 
@@ -109,7 +111,7 @@ Let me share: visuals I create *when...*
 
 
 ## thank you for scrolling all this way!
-You witnessed a recently developed passion: eliciting critical thinking & communication through the power of visuals. I hope this inspires you. I am looking for co-creators. Maybe it's you?
+I hope this inspires you. I am looking for co-creators. Maybe it's you?
 
 Warmly, 
 Leon 
