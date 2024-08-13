@@ -144,7 +144,7 @@ layout: default
 - [[MMSCapitalismA]] - Difference and division are core-components of capitalist thriving 
 - [[MMSCityPublicReportCenter]] - No Title
 - [[MMSCollaborationA]] - Intellectual property is wasteful and threatens our planet
-- [[MMSCommuniA]] - Original intentions behind mostly.mutual.studio
+- [[MMSCommuniA]] - Original intentions behind *My Marble Sharings* (also called mostly.mutual.studio) 
 - [[MMSDigitalComA]] - Communicating about communication between friends
 - [[MMSFinanceVisual]] - most of the money on this planet is not tied to any real valuable thing
 - [[MMSHealthAutopoiesis]] - No Title

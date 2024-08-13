@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "letter-to-the-SF-Chronicle.md",
+                "file": "MMSCommuniA.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mmscommuni",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,7 +206,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -226,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "letter-to-the-SF-Chronicle.md",
+                "file": "MMSCommuniA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "letter-to-the-SF-Chronicle.md",
+                "file": "MMSCommuniA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "letter-to-the-SF-Chronicle.md"
+                "file": "MMSCommuniA.md"
               }
             }
           }
@@ -290,6 +291,8 @@
   },
   "active": "ff14437d3901adb9",
   "lastOpenFiles": [
+    "ALL.md",
+    "letter-to-the-SF-Chronicle.md",
     "ROOTS-OF-RENEWABLES.md",
     "COLLECTION-JUST-ENERGY-HUB.md",
     "SUST-JOBS.md",
@@ -299,7 +302,6 @@
     "INSPIRATION-ILLUSTRATIONS.md",
     "MMS-POST-IDEAS.md",
     "QUOTES-CREATION-PEACE.md",
-    "ALL.md",
     "QUOTES-CREATION.md",
     "media/F5EB86CA-3387-4905-8B87-0736AE3987AF_1_201_a.jpeg",
     "media/3912982B-355E-44B1-9956-8DB892A23FD6_1_201_a.jpeg",
@@ -314,7 +316,6 @@
     "MMSHistOfSci-A.md",
     "media/cleanshot_2024-08-06-at-11-54-49@2x.png",
     "media/cleanshot_2024-08-06-at-11-48-33@2x.png",
-    "letter-to-the-SF-Chronicle.md",
     "TEST.md",
     "MILIT-A.md",
     "Welcome.md",
