@@ -3,7 +3,7 @@ layout: default
 title: "Energy eng a"
 ---
 # Renewable energy systems require far more resources than to build than oil-based equivalents 
-Renewable energy systems require 2000-7000% more minerals to deliver the same amount of energy compared with the current fossil-fuel technologies (see an article here). Electric vehicles require 400% more minerals. 
+Renewable energy systems require 2000-7000% more minerals to deliver the same amount of energy compared with the current fossil-fuel technologies. Electric vehicles require 400% more minerals. 
 
 >To convert our current energy systems as planned by Western governments, we would face the largest increase of production of metals in human history.
 >
