@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COLLECTION-GRAPHICS-UI.md",
+                "file": "ENERGY-ENG-A.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENERGY-ENG-A.md",
+                "file": "PROSPERITY-A.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -177,7 +177,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "test",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -276,15 +276,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51edb8fc716b3b9c",
+  "active": "769c5fe623121181",
   "lastOpenFiles": [
-    "TEST.md",
-    "ALL.md",
+    "PROSPERITY-A.md",
     "ENERGY-ENG-A.md",
+    "COLLECTION-GRAPHICS-UI.md",
+    "ALL.md",
+    "DEGROWTH-SDG-IPCC.md",
+    "OVERVIEW-DEGROWTH.md",
+    "MMSCommuniA.md",
+    "TEST.md",
     "ROOTS-OF-RENEWABLES.md",
     "MILIT-A.md",
-    "MMSCommuniA.md",
-    "COLLECTION-GRAPHICS-UI.md",
     "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
     "CLIMATE-CHANGE-A.md",
     "EXTRACTION-A.md",
@@ -302,10 +305,7 @@
     "SLOWING-DOWN-A.md",
     "media/IMG_4373.png",
     "COLLECTION-JUST-ENERGY-HUB.md",
-    "letter-to-the-SF-Chronicle.md",
-    "SUST-JOBS.md",
     "media/ROOTS-OF-RENEWABLES_1.png",
-    "INSPIRATION-ILLUSTRATIONS.md",
     "media/F5EB86CA-3387-4905-8B87-0736AE3987AF_1_201_a.jpeg",
     "media/3912982B-355E-44B1-9956-8DB892A23FD6_1_201_a.jpeg",
     "media/cleanshot_2024-08-06-at-11-54-49@2x.png",

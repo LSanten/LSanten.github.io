@@ -11,6 +11,11 @@ Renewable energy systems require 2000-7000% more minerals to deliver the same am
 
 This is because all Western governments plan on increasing energy consumption during the transition to "renewable" energy. The question always remains, is it actually sustainable to take apart our planet to mine even more resources to build green technology?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sgOEGKDVvsg?si=SpxArLbni58gAdht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/sgOEGKDVvsg?si=SpxArLbni58gAdht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 The increased need for mining and extractive processes across the globe relates to my illustration [ROOTS-OF-RENEWABLES](ROOTS-OF-RENEWABLES.md).
+
+## Degrowth and prosperity
+Knowing that renewable energy expansion will come at the cost of increasing eco-system damage in the Global South, everything points at *degrowth.*
+
+We might have to redefine what it means to live a prosperous life (see [PROSPERITY-A](PROSPERITY-A.md)).

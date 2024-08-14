@@ -196,7 +196,7 @@ layout: default
 - [[PROBLEMS-B]] - Good and bad problems to have
 - [[PROGRESS-A]] - We need to be given back the right to define progress for oursevles, for our communities 
 - [[PropOfSciences]] - the propositions or interests of the social & natural sciences
-- [[PROSPERITY]] - How to define prosperity (in the context of degrowth)
+- [[PROSPERITY-A]] - How to define prosperity (in the context of degrowth)
 - [[QUOTES-CREATION-PEACE]] - No Title
 - [[RADICALNESS]] - Radicalness means to go back to the roots of the injustice
 - [[READING-RECS-A]] - Philosophical readings that I want to share with all my friends

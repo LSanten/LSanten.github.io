@@ -5,7 +5,7 @@ title: "Overview degrowth"
 
 
 ## technology dynamics
-"The efforts to invent and introduce more environmentally friendly technologies – to reduce T (throughput per unit produced) in the IPAT equation3 – has been  dwarfed by the increases in P (population) and especially in A (af fl  uence). The  rebound effect  has been too strong in relation to the attempts to dematerialize  production"
+"The efforts to invent and introduce more environmentally friendly technologies – to reduce T (throughput per unit produced) in the IPAT equation3 – has been  dwarfed by the increases in P (population) and especially in A (affluence). The  rebound effect  has been too strong in relation to the attempts to dematerialize  production"
 
 ## fighting Okun’s law 
 A yearly growth rate of 2–3 percent is needed just to keep unemployment from  increasing. A combination of degrowth with macroeconomic stability therefore  requires new policies for  sharing work  and  changing the work–life balance .  Reduced working hours can compensate for the loss of jobs due to increases in  labor productivity (Andersson & Eriksson 2010, p.134).
