@@ -1600,19 +1600,19 @@ button:hover {
 blockquote{
   display:block;
   background: #fff;
-  padding: 15px 20px 15px 45px;
+  padding: 15px 20px 1px 45px;
   margin: 0 0 20px;
   position: relative;
   
   /*Font*/
   font-family: Georgia, serif;
-  font-size: 16px;
+  font-size: 17px;
   line-height: 1.2;
   color: #666;
-  text-align: justify;
+  text-align: left;
   
   /*Borders - (Optional)*/
-  border-left: 15px solid #00adbe;
+  border-left: 7px solid #00adbe;
   border-right: 2px solid #0c64c769;
   
   /*Box Shadow - (Optional)*/
@@ -1626,7 +1626,7 @@ blockquote::before{
   
   /*Font*/
   font-family: Georgia, serif;
-  font-size: 60px;
+  font-size: 40px;
   font-weight: bold;
   color: #999;
   
