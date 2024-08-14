@@ -11,18 +11,21 @@ Below is a framework that I developed to explore the relationships between vario
 ## My approach to contemplating weaknesses of engineering systems 
 ![](media/cleanshot_2024-07-27-at-17-48-57@2x.png)
 
+![](media/ROOTS-OF-RENEWABLES_1.png)
+Above illustration currently in the works... ([ROOTS-OF-RENEWABLES](ROOTS-OF-RENEWABLES.md))
 ## We (or I) need to work on building a container to summarize the extractive or regenerative potential of social systems
 Here is an example of a table that investigates the "wrongdoing" or socially regenerative practices embodied by companies needed for the supply chain of the wind turbine owned by the Just Energy Hub at Olin College of Engineering (researched by Ashley Nicole Zarasua, Lily Mesri, Tara Birgani). This list is based one the [just transition principles](https://climatejusticealliance.org/just-transition/).
+
+I am currently wondering how to represent these scores and numbers in a visual container such as a flower with differently sized pedals. 
+
+If you want to hear more about 
 
 ![](media/cleanshot_2024-08-06-at-11-54-49@2x.png)
 
 ## How does this work relate to other *marbles* I want to share with you?
 
-The Just Transition Principles, for instance, are rooted in values such as "care, cooperation, and consent." Companies that uphold other values such as "growth" or "profit" plant these values as they plant seeds for new organizational structures. These values continue to live on in them. 
-
-Values can be considered the essence of social structures. Read more about them in the note [ONTOLOGICAL-PRIMITIVES](ONTOLOGICAL-PRIMITIVES.md). 
-
 It is the most *radical* thing to go back to these value roots and approach building new regenerative systems from this perspective (see [RADICALNESS](RADICALNESS.md) for more on what this means).
+
 
 
 

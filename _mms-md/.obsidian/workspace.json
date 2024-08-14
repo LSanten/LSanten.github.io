@@ -177,7 +177,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "roots",
+                "query": "roots-of-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -279,10 +279,12 @@
   },
   "active": "51edb8fc716b3b9c",
   "lastOpenFiles": [
+    "ROOTS-OF-RENEWABLES.md",
+    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+    "CLIMATE-CHANGE-A.md",
+    "EXTRACTION-A.md",
     "ONTOLOGICAL-PRIMITIVES.md",
     "RADICALNESS.md",
-    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
-    "ROOTS-OF-RENEWABLES.md",
     "COLLECTION-GRAPHICS-UI.md",
     "PERSONAL-VALUE-SYSTEM.md",
     "MICRO-GRIDS-A.md",
@@ -307,8 +309,6 @@
     "QUOTES-CREATION.md",
     "media/F5EB86CA-3387-4905-8B87-0736AE3987AF_1_201_a.jpeg",
     "media/3912982B-355E-44B1-9956-8DB892A23FD6_1_201_a.jpeg",
-    "INTO-PERSPECTIVE.md",
-    "MMSPhilOfSciA.md",
     "media/cleanshot_2024-08-06-at-11-54-49@2x.png",
     "media/cleanshot_2024-08-06-at-11-48-33@2x.png",
     "media/cleanshot_2024-08-04-at-16-19-28@2x.png",
