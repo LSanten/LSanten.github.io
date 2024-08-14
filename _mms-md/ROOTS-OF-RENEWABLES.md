@@ -6,9 +6,12 @@ Hi friend, thanks for reading. I have many thoughts but need your help finding a
 
 ![](media/ROOTS-OF-RENEWABLES_1.png)
 
+## inspiration evolved from this earlier illustration 
+
+![](media/cleanshot_2024-07-27-at-17-48-57@2x.png)
 
 
-## current favorite 
+## other title ideas for the first illustration
 what would it mean to be a radical engineer?
 
 The word *radical* inherits its meaning from latin, meaning *rooted*. Radicalness means to go back to the roots of the injustice. 
@@ -38,12 +41,9 @@ the current state of green technology can’t be the final solution. so we (engi
 
 
 ### insights or quotes that arose during this creative process 
-> theres no real structural integrity if it’s physically stable but socially destructive is there a better word that describes physical destructive instability? )
+> Engineers love structural integrity. But there is no structural integrity if it’s physically stable but socially destructive. (is there a better word that describes physical destructive instability?)
 
 
-## inspiration evolved from this earlier illustration 
-
-![](media/cleanshot_2024-07-27-at-17-48-57@2x.png)
 
 ## questions on my mind (aka question-quotes)
 When will engineers transparently admit their shortcomings with the same rigor they design their technology?
