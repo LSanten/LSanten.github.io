@@ -24,6 +24,7 @@ Citing from [[AGRICULTURE-A]]: Agriculture contributes about 25% of  all greenho
 
 
 __________
+
 REFERENCES
 
 Mulvaney, D. (2020). Sustainable Energy Transitions: Socio-Ecological Dimensions of Decarbonization (1st ed. 2020, p. 258). Palgrave Macmillan.

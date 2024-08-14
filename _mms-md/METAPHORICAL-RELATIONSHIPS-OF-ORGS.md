@@ -16,3 +16,13 @@ Here is an example of a table that investigates the "wrongdoing" or socially reg
 
 ![](media/cleanshot_2024-08-06-at-11-54-49@2x.png)
 
+## How does this work relate to other *marbles* I want to share with you?
+
+The Just Transition Principles, for instance, are rooted in values such as "care, cooperation, and consent." Companies that uphold other values such as "growth" or "profit" plant these values as they plant seeds for new organizational structures. These values continue to live on in them. 
+
+Values can be considered the essence of social structures. Read more about them in the note [ONTOLOGICAL-PRIMITIVES](ONTOLOGICAL-PRIMITIVES.md). 
+
+It is the most *radical* thing to go back to these value roots and approach building new regenerative systems from this perspective (see [RADICALNESS](RADICALNESS.md) for more on what this means).
+
+
+

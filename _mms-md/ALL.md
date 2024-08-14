@@ -26,7 +26,7 @@ layout: default
 - [[CIRCULAR-ECON-B]] - Our society quite devoid of practical teachings about stuff and home
 - [[CIRCULAR-ECON-C]] - Much money and nutrients would be saved if materials were re-used
 - [[CIRCULAR-ECON-D]] - Why we need to take circular economy frameworks with a grain of salt
-- [[CIRCULAR-ECON-E]] - We need to consider intellectual property as a material in the circula econoomy - it needs to circulate among the whole ecosystem 
+- [[CIRCULAR-ECON-E]] - We need to consider intellectual property as a material in the circular economy - it needs to circulate among the whole ecosystem 
 - [[CIRCULAR-ECON-F]] - Resrouces for no-waste shopping in the East Bay of San Francisco 
 - [[CIRCULAR-ECON-G]] - Idea for a virtual platform: An Amazon-like database for products that can truly last a life-time (and are ethical)
 - [[CLIMATE-ACT-RESOURCES-A]] - A list of useful links in the climate activism and climate tech world 

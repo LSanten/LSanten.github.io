@@ -3,7 +3,7 @@ layout: default
 title: "Circular econ e"
 ---
 
-# We need to consider intellectual property as a material in the circula econoomy - it needs to circulate among the whole ecosystem 
+# We need to consider intellectual property as a material in the circular economy - it needs to circulate among the whole ecosystem 
 
 Circular economy certificates and LCA consultancies do not consider the potential of cooperating with other organizations
 
