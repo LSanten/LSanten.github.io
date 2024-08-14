@@ -60,7 +60,7 @@ layout: default
 - [[ELECYT-LASER-VIZ-A]] - An overview for my "laser music visualizer"
 - [[EMANCIPATORY-ACTION-RESEARCH-A]] - What is emancipatory action research?
 - [[ENERGY-CONSUMPTION-A]] - building energy use accounts for 40% of total energy use
-- [[ENERGY-ENG-A]] - Building renewable energy systems require far more resources than building oil-based equivalents 
+- [[ENERGY-ENG-A]] - Building renewable energy systems requires far more resources than building oil-based equivalents 
 - [[ENERGY-JUSTICE-A]] - Framework for energy justice: AAA
 - [[ENERGY-VEGAN]] - Let's be energy-vegans 
 - [[ENG-WAR]] - Ethymologically engineering is rooted in creating war tools
