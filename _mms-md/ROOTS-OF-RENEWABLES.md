@@ -39,6 +39,7 @@ the current state of green technology can’t be the final solution. so we (engi
 ## about the roots
 [[RADICALNESS]] means to go back to the roots of the injustice. It could make sense to focus the message on "going back to the roots of the injustice and paying attention wherever engineering practices contribute to injustice"
 
+This is a metaphorical depiction, which I use across my illustration (see [METAPHORICAL-RELATIONSHIPS-OF-ORGS](METAPHORICAL-RELATIONSHIPS-OF-ORGS.md)).
 
 ### insights or quotes that arose during this creative process 
 > Engineers love structural integrity. But there is no structural integrity if it’s physically stable but socially destructive. (is there a better word that describes physical destructive instability?)

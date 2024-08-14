@@ -24,22 +24,37 @@ module Jekyll
 
     def autolink(input)
       puts "Processing content"
-      # Regular expression to detect plain URLs not within Markdown links
+
+      # Regular expression to detect plain URLs not within Markdown links or HTML tags
       url_regex = %r{
         (?<!\[)          # Negative lookbehind to ensure the URL is not preceded by '['
         (?<!\]\()        # Negative lookbehind to ensure the URL is not preceded by ']('
+        (?<!["'])        # Negative lookbehind to ensure the URL is not inside an HTML attribute value
         \b               # Word boundary
         (https?:\/\/     # Match http or https protocol
           [^\s()<>\[\]]+ # Match non-space characters, excluding parentheses and brackets
           (?:\/[^\s()<>\[\]]*)* # Ensure the trailing characters like / are included
         )\/?             # Ensure trailing slash is included
         (?![^\s]*\])     # Negative lookahead to ensure the URL is not followed by 'anything till a closing bracket'
+        (?!["'])         # Negative lookahead to ensure the URL is not followed by ' or "
       }x
 
-      input.gsub(url_regex) do |url|
-        puts "Found URL: #{url}"
-        "<a href=\"#{url}\" target=\"_blank\">#{url}</a>"
+      # Process content outside of HTML tags
+      input = input.gsub(/(<[^>]+>)/) { |match| "SPLIT#{match}SPLIT" }
+      parts = input.split("SPLIT")
+
+      parts.map! do |part|
+        if part.match(/<[^>]+>/) # Skip HTML tags
+          part
+        else
+          part.gsub(url_regex) do |url|
+            puts "Found URL: #{url}"
+            "<a href=\"#{url}\" target=\"_blank\">#{url}</a>"
+          end
+        end
       end
+
+      parts.join
     end
   end
 end
