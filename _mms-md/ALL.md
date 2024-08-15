@@ -144,6 +144,7 @@ layout: default
 - [[MMSCapitalismA]] - Difference and division are core-components of capitalist thriving 
 - [[MMSCityPublicReportCenter]] - No Title
 - [[MMSCollaborationA]] - Intellectual property is wasteful and threatens our planet
+- [[MMSCommuni-1]] - Question to the community: How do you stare aware of people's efforts and insights beyond your own discipline?
 - [[MMSCommuniA]] - Original intentions behind *My Marble Sharings* (also called mostly.mutual.studio) 
 - [[MMSDigitalComA]] - Communicating about communication between friends
 - [[MMSFinanceVisual]] - most of the money on this planet is not tied to any real valuable thing
@@ -164,6 +165,7 @@ layout: default
 - [[MMSSystemIntervention-A]] - How to intervene successfully in social systems, which are considered complex systems
 - [[MMSTuningIntoSeparation]] - Notice how we justify killing
 - [[MMSWasteA]] - Quotes and insights around E-Waste
+- [[NATEL-ENERGY-MEDIA]] - The of a fish safety scientist at natel energy
 - [[NATURE-PARADIGMS]] - Paradigms that show up in nature 
 - [[NEED-A]] - No Title
 - [[NOTETAKING-A]] - Resources for notetaking
