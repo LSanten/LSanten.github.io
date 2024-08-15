@@ -6,6 +6,10 @@ Hi friend, thanks for reading. I have many thoughts but need your help finding a
 
 ![](media/ROOTS-OF-RENEWABLES_1.png)
 
+green energy here but at what cost in the global south? 
+
+we need a just transition
+
 ## inspiration evolved from this earlier illustration 
 
 ![](media/cleanshot_2024-07-27-at-17-48-57@2x.png)

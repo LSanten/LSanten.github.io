@@ -117,7 +117,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENERGY-ENG-A.md",
+                "file": "MICRO-GRIDS-A.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "553c373c76b76aa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMSCommuni-1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "753535f5ec765e69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NATEL-ENERGY-MEDIA.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -214,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENERGY-ENG-A.md",
+                "file": "NATEL-ENERGY-MEDIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENERGY-ENG-A.md",
+                "file": "NATEL-ENERGY-MEDIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENERGY-ENG-A.md"
+                "file": "NATEL-ENERGY-MEDIA.md"
               }
             }
           }
@@ -276,10 +300,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "769c5fe623121181",
+  "active": "753535f5ec765e69",
   "lastOpenFiles": [
-    "PROSPERITY-A.md",
+    "media/20240813-DSC04420.jpg",
+    "media/20240726-DSC03629.jpg",
+    "media/20240726-DSC03623.jpg",
+    "media/20240729-DSC04046.jpg",
+    "media/20240813-DSC04402.jpg",
+    "media/20240717-IMG_6697.jpg",
+    "media/2024_Leon_whitesturgeon_retrieval.gif",
+    "media/20240729-DJI_0745.jpg",
+    "MMSCommuni-1.md",
+    "NATEL-ENERGY-MEDIA.md",
+    "media/linkedin community question 1.png",
+    "MICRO-GRIDS-A.md",
+    "media/linkedin community question.png",
     "ENERGY-ENG-A.md",
+    "PROSPERITY-A.md",
     "COLLECTION-GRAPHICS-UI.md",
     "ALL.md",
     "DEGROWTH-SDG-IPCC.md",
@@ -294,26 +331,13 @@
     "ONTOLOGICAL-PRIMITIVES.md",
     "RADICALNESS.md",
     "PERSONAL-VALUE-SYSTEM.md",
-    "MICRO-GRIDS-A.md",
     "ENERGY-CONSUMPTION-A.md",
     "EFFORT-BROKEN-FEEDBACK.md",
     "CIRCULAR-ECON-E.md",
     "CIRCULAR-ECON-C.md",
     "AGRICULTURE-A.md",
     "MMSMeatStickA.md",
-    "SEEDS-A.md",
-    "SLOWING-DOWN-A.md",
     "media/IMG_4373.png",
-    "COLLECTION-JUST-ENERGY-HUB.md",
-    "media/ROOTS-OF-RENEWABLES_1.png",
-    "media/F5EB86CA-3387-4905-8B87-0736AE3987AF_1_201_a.jpeg",
-    "media/3912982B-355E-44B1-9956-8DB892A23FD6_1_201_a.jpeg",
-    "media/cleanshot_2024-08-06-at-11-54-49@2x.png",
-    "media/cleanshot_2024-08-06-at-11-48-33@2x.png",
-    "media/cleanshot_2024-08-04-at-16-19-28@2x.png",
-    "media/cleanshot_2024-07-28-at-21-22-42@2x.png",
-    "media/cleanshot_2024-07-28-at-17-17-04.gif",
-    "media/cleanshot_2024-07-28-at-17-14-00@2x.png",
     "template-for-marbles.html",
     "js/template-for-marbles.html",
     "MMSIllustrationCollection copy.html"
