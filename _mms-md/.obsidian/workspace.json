@@ -141,19 +141,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NATEL-ENERGY-MEDIA.md",
+                "file": "MMSCommuni-1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "51edb8fc716b3b9c",
+            "id": "b7041ccc6a6dc7b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROSPERITY-A.md",
+                "file": "COMMUNICATION-LIVING-ROOM.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,14 +165,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+                "file": "MESH-CAP-C.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -201,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "living room",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,7 +218,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -238,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NATEL-ENERGY-MEDIA.md",
+                "file": "COMMUNICATION-LIVING-ROOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NATEL-ENERGY-MEDIA.md",
+                "file": "COMMUNICATION-LIVING-ROOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NATEL-ENERGY-MEDIA.md"
+                "file": "COMMUNICATION-LIVING-ROOM.md"
               }
             }
           }
@@ -300,8 +301,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "753535f5ec765e69",
+  "active": "b7041ccc6a6dc7b7",
   "lastOpenFiles": [
+    "MESH-CAP-C.md",
+    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+    "COMMUNICATION-LIVING-ROOM.md",
+    "MMSCommuni-1.md",
+    "NATEL-ENERGY-MEDIA.md",
     "media/20240813-DSC04420.jpg",
     "media/20240726-DSC03629.jpg",
     "media/20240726-DSC03623.jpg",
@@ -310,8 +316,6 @@
     "media/20240717-IMG_6697.jpg",
     "media/2024_Leon_whitesturgeon_retrieval.gif",
     "media/20240729-DJI_0745.jpg",
-    "MMSCommuni-1.md",
-    "NATEL-ENERGY-MEDIA.md",
     "media/linkedin community question 1.png",
     "MICRO-GRIDS-A.md",
     "media/linkedin community question.png",
@@ -325,7 +329,6 @@
     "TEST.md",
     "ROOTS-OF-RENEWABLES.md",
     "MILIT-A.md",
-    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
     "CLIMATE-CHANGE-A.md",
     "EXTRACTION-A.md",
     "ONTOLOGICAL-PRIMITIVES.md",
@@ -336,8 +339,6 @@
     "CIRCULAR-ECON-E.md",
     "CIRCULAR-ECON-C.md",
     "AGRICULTURE-A.md",
-    "MMSMeatStickA.md",
-    "media/IMG_4373.png",
     "template-for-marbles.html",
     "js/template-for-marbles.html",
     "MMSIllustrationCollection copy.html"
