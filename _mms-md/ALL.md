@@ -40,6 +40,7 @@ layout: default
 - [[COLLECTION-JUST-ENERGY-HUB]] - No Title
 - [[COMBAT-A]] - Insight: it's useful for a system of violence that we are conditioned to react to critique or voicing concern with feeling hurt and fighting back because it keeps our society in a state of fighting instead of working together
 - [[COMMUNICATION-A]] - It seems crucial to talk about how we talk
+- [[COMMUNICATION-LIVING-ROOM]] - What should our communication space look like?
 - [[COMMUNITY-A]] - A saving dump of concepts and resources related to community building
 - [[COMPLEX-SYSTEMS-FRAMEWORK-A]] - Cynefin framework
 - [[COMPLEXITY-A]] - People and systems complexity 
