@@ -6,7 +6,10 @@ Hi friend, thanks for reading. I have many thoughts but need your help understan
 
 ![](media/cleanshot_2024-08-17-at-22-33-05@2x.png)
 
+## contemplating the ending punch
+![](media/cleanshot_2024-08-17-at-22-57-49@2x.png)
 
+![](media/cleanshot_2024-08-17-at-22-59-13@2x.png)
 
 ## inspiration evolved from this earlier illustration 
 
