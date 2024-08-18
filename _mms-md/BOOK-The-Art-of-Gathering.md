@@ -4,9 +4,10 @@ layout: default
 # Book notes: "The Art of Gathering - How we meet and why it matters"
 by Priya Parker
 
-This is a collection of meaningful insights from a book that has validated my frustrations of going to events with no purpose, and it has offered guidance for designing and facilitating my gatherings. 
+*This is a collection of meaningful insights from a book that has validated my frustrations of going to events with no purpose (lots of late night club events and markets), and it has offered guidance for designing and facilitating my own gatherings (clearly choose and communicate a reason for coming together that rallies people and offers guidance). As a DJ, it makes me wonder what the purpose of the space I hold with music can be and it reaffirms my idea that sharing about the purpose of music is an essential part of the performance (even though most artists default to the unwritten script, which is often tolerated, heavily soaked in drug consumption)*. 
 
-My main insights are that every event should have a clear & bold purpose that sets it apart from other events, sparks curiosity, and maybe even unsettles. Clear purpose can  help us to make decisions. Who should be invited? Who shouldn't be there? 
+## To say that "Christmas celebration" is a purpose is not enough!
+The first large point that Priya makes is that every event should have a clear & bold purpose that sets it apart from other events, sparks curiosity, and maybe even unsettles. It should be a little bit risky. Not every person on this planet should have to like it. Being particular and not inclusive of all ways of being and perspectives is necessary to create a space that respects the time of the attendees. Clear purpose can  help us to make decisions. Who should be invited? Who shouldn't be there? 
 
 Clear purpose protects us from defaulting back to the "unwritten scripts that we associate with locations [or generic event types]" (p. 54)
 
@@ -21,6 +22,10 @@ Clear purpose protects us from defaulting back to the "unwritten scripts that we
 
 ## Don't be a chill host
 >A ubiquitous strain of 21st-century culture is infecting our gatherings: being chill. The desire to host while being non-invasive. "Chill" is the idea that it's better to be relaxed, and low-key, better not to care, better not to make a big deal. It is, in the words of all of Alana Massey's essay "Against chill," a "laid-back attitude, an absence of neurosis." It "presides over the funeral of reasonable expectations." It "takes and never gives." (p. 73-74)
+
+## Stuff matters less than purpose - purpose can help choose what stuff is needed
+If the energy is right and people feel united through meaningful engagement, the size of the speakers and variety of drinks matters less.
+
 ____
 
 Parker, P. (2020). _The art of gathering: How we meet and why it matters_. Penguin.
