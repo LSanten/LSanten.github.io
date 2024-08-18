@@ -241,5 +241,6 @@ layout: default
 - [[WASTE-A]] - Companies need to face the e-waste they create
 - [[WASTE-B]] - Food Waste Overview
 - [[WASTE-C]] - An excerpt from "Neither Wolf nor Dog": why do Indians keep so much trash on their land if it could be so easy to clean it up?
+- [[WASTE-D]] - This year, systems designed by engineers have contributed to the following
 - [[WEBSITE-SIZE-CHECK-A]] - Check the size of your website including images
 - [[WORK-BALANCE]] - No Title
