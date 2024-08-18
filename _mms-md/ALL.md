@@ -18,6 +18,7 @@ layout: default
 - [[AYURVEDA-DOSHAS]] - No Title
 - [[BELIEVING-A]] - if we believe, we can't think
 - [[BIOMIMICRY-A]] - Biomimicry lessons mapped against the wisdom of the Nonngar people of Western Australia
+- [[BOOK-The-Art-of-Gathering]] - Book notes: "The Art of Gathering - How we meet and why it matters"
 - [[BUBBLE-HASHTAGS]] - List of hashtags used to indentify a variety of bubbles
 - [[CAPABILITIES-FOR-LIFE-FRAMEWORK]] - A framework to nurture life-centric capabilities.
 - [[CERT-ORG]] - An organization that certifies circular economy endavours on sliding scales among various rubrics
