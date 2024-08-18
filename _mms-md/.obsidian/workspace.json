@@ -184,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -213,7 +213,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "waste",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WASTE-D.md",
+                "file": "ROOTS-OF-RENEWABLES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WASTE-D.md",
+                "file": "ROOTS-OF-RENEWABLES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WASTE-D.md"
+                "file": "ROOTS-OF-RENEWABLES.md"
               }
             }
           }
@@ -312,18 +312,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d39cbb24c742ce1f",
+  "active": "997fde3656b656bf",
   "lastOpenFiles": [
-    "WASTE-C.md",
+    "MESH-CAP-C.md",
+    "ROOTS-OF-RENEWABLES.md",
+    "media/cleanshot_2024-08-17-at-22-33-05@2x.png",
     "WASTE-D.md",
+    "WASTE-C.md",
     "WASTE-B.md",
     "MMSWasteA.md",
     "BOOK-The-Art-of-Gathering.md",
-    "ROOTS-OF-RENEWABLES.md",
     "COMMUNICATION-LIVING-ROOM.md",
     "MMSCommuni-1.md",
     "INSTALLATION-1.md",
-    "MESH-CAP-C.md",
     "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
     "NATEL-ENERGY-MEDIA.md",
     "media/20240813-DSC04420.jpg",
@@ -336,7 +337,6 @@
     "media/20240729-DJI_0745.jpg",
     "media/linkedin community question 1.png",
     "MICRO-GRIDS-A.md",
-    "media/linkedin community question.png",
     "ENERGY-ENG-A.md",
     "PROSPERITY-A.md",
     "COLLECTION-GRAPHICS-UI.md",
@@ -349,7 +349,6 @@
     "CLIMATE-CHANGE-A.md",
     "EXTRACTION-A.md",
     "ONTOLOGICAL-PRIMITIVES.md",
-    "RADICALNESS.md",
     "template-for-marbles.html",
     "js/template-for-marbles.html",
     "MMSIllustrationCollection copy.html"

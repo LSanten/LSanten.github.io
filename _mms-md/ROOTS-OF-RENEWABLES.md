@@ -1,14 +1,12 @@
 ---
 layout: default
+authors: Leon Santen, Odalys Benitez
 ---
-Hi friend, thanks for reading. I have many thoughts but need your help finding a condensed version of my message for the illustration below. All message ideas are listed below. I want to keep it concise and not too wordy. What simple message would be nice to drive home? 
+Hi friend, thanks for reading. I have many thoughts but need your help understanding if the illustration below speaks for itself. I want to keep it concise and but also cover a few adjacent thoughts. Is there a message that you consider important and should be added to this? 
+
+![](media/cleanshot_2024-08-17-at-22-33-05@2x.png)
 
 
-![](media/ROOTS-OF-RENEWABLES_1.png)
-
-green energy here but at what cost in the global south? 
-
-we need a just transition
 
 ## inspiration evolved from this earlier illustration 
 
@@ -16,15 +14,10 @@ we need a just transition
 
 
 ## other title ideas for the first illustration
-what would it mean to be a radical engineer?
-
-The word *radical* inherits its meaning from latin, meaning *rooted*. Radicalness means to go back to the roots of the injustice. 
-
-Radical engineers would therefore share transparently about areas of their work that contribute to injustices. 
-
-
-then roots of injustices  should be labelled labeled similar to
-image 
+- what would it mean to be a radical engineer?
+- The word *radical* inherits its meaning from latin, meaning *rooted*. Radicalness means to go back to the roots of the injustice. \
+- Radical engineers would therefore share transparently about areas of their work that contribute to injustices. 
+- green energy here but at what cost in the global south? 
 ## more options 
 
 I am currently unsure what narrative works best. Some narratives are below. The draft image is another potential narrative:
@@ -48,7 +41,7 @@ This is a metaphorical depiction, which I use across my illustration (see [METAP
 ### insights or quotes that arose during this creative process 
 > Engineers love structural integrity. But there is no structural integrity if it’s physically stable but socially destructive. (is there a better word that describes physical destructive instability?)
 
-
+>we need to change the narrative from "how much harm is okay?" to "how can we reduce the harm?" ( from imagening climate futures seminar)
 
 ## questions on my mind (aka question-quotes)
 When will engineers transparently admit their shortcomings with the same rigor they design their technology?
@@ -58,4 +51,12 @@ When will engineers transparently design for eco-social stability with the same 
 ## links to share in final post 
 - an example of community-oriented mining 
 - studies that show mining pollution 
+- how african countries are interely owned by other coutnries due to mining etc (i think on insta?)
 - caroline’s mining 
+- 
+
+
+## history of images
+
+V1
+![](media/ROOTS-OF-RENEWABLES_1.png)
