@@ -4,13 +4,14 @@ authors: Leon Santen, Odalys Benitez
 ---
 Hi friend, thanks for reading. I have many thoughts but need your help understanding if the illustration below speaks for itself. I want to keep it concise and but also cover a few adjacent thoughts. Is there a message that you consider important and should be added to this? 
 
-![](media/cleanshot_2024-08-17-at-22-33-05@2x.png)
-
+![](media/IMG_0128.jpeg)
+add in the middle: radical engineering means to go back to the roots of the injustice
 ## contemplating the ending punch
 ![](media/cleanshot_2024-08-17-at-22-57-49@2x.png)
 
 ![](media/cleanshot_2024-08-17-at-22-59-13@2x.png)
-
+our current engineers systems will hurt this planet. 
+the largest 
 ## inspiration evolved from this earlier illustration 
 
 ![](media/cleanshot_2024-07-27-at-17-48-57@2x.png)
@@ -56,10 +57,12 @@ When will engineers transparently design for eco-social stability with the same 
 - studies that show mining pollution 
 - how african countries are interely owned by other coutnries due to mining etc (i think on insta?)
 - caroline’s mining 
-- 
-
+- [JUST-TRANSITION-PRINCIPLES](JUST-TRANSITION-PRINC.md)
 
 ## history of images
+
+V2
+![](media/cleanshot_2024-08-17-at-22-33-05@2x.png)
 
 V1
 ![](media/ROOTS-OF-RENEWABLES_1.png)

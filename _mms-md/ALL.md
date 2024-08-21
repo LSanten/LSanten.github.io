@@ -102,7 +102,7 @@ layout: default
 - [[INTO-PERSPECTIVE]] - Putting world wide challenges and push for innovation into perspective 
 - [[INTRINSIC-EDUCATION-A]] - INSIGHT: I feel like the real goal of education is to figure out how to genuinly explore
 - [[IPCC-TRANSITION]] - IPCC AR6 sees transition needs in 5 realms
-- [[JUST-TRANSITION-PRINC]] - Just Transition Principles
+- [[JUST-TRANSITION-PRINC]] - What are the Just Transition Principles?
 - [[KNOWING-A]] - It is normal to not know until we know
 - [[KNOWLEDGE-ORGANIZATION-A]] - No Title
 - [[letter-to-the-SF-Chronicle]] - A selection of graphics
@@ -226,6 +226,7 @@ layout: default
 - [[SOIL-A]] - A Textural Classification of Soils
 - [[SOLAR-ENERGY-A]] - "Land-sparing" solar installations save land and use land wisely 
 - [[SOMATIC-HEAL-WHITENESS]] - Healing internalized white-supremacy start with healing the relationship to ourselves
+- [[SPIRIT-A]] - No Title
 - [[SPIRIT-TRANSFORMATION]] - spiritual transformation 
 - [[SPIRIT-WORK-A]] - The relationship between working with oneself and working together
 - [[ST-HL-A]] - We need different stories as healers
@@ -244,3 +245,4 @@ layout: default
 - [[WASTE-D]] - This year, systems designed by engineers have contributed to the following
 - [[WEBSITE-SIZE-CHECK-A]] - Check the size of your website including images
 - [[WORK-BALANCE]] - No Title
+- [[WORK-WEEK-A]] - No Title

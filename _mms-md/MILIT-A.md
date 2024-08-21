@@ -49,7 +49,7 @@ They socially reproduce themselves in our social structures [[MMSSocialReproduct
 
 Regarding this topic, also look at Alvares' take on how the [scientific method is deeply violent in nature](https://archive.unu.edu/unupress/unupbooks/uu05se/uu05se07.htm) and intertwined with colonialism & capitalism. Also see my illustration [[MMSHistOfSci-A]].
 
-![](media/cleanshot_2023-10-17-at-20-25-10@2x.png)
+
 
 ________
 REFERENCES

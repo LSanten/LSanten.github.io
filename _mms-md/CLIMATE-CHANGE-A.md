@@ -18,3 +18,5 @@ Gopal Dayaneni is the one whose words have left an imprint on me regarding the i
 (disruption & coercion relate to [[EXTRACTION-A]])
 
 He and Linda Vanasupa  have continuously pointed at the key-leverage point to address the cause of climate change by re-learning and re-integrating the practice of the **values** *cooperation, care, and consent*. 
+
+No technical solution can address the root cause of climate change if it doesn’t intentionally change the place from which we operate (also known as [ONTOLOGICAL-PRIMITIVES](ONTOLOGICAL-PRIMITIVES.md)). 

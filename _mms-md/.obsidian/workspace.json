@@ -8,39 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e058db58c436b8cc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "00a4d57dc8cf708b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMSPhilOfSciA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb917d4022f7319e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PERSONAL-VALUE-SYSTEM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9910435358528125",
+            "id": "66be5fcfc3fca31b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,139 +20,18 @@
             }
           },
           {
-            "id": "9e93b6f1959b5e49",
+            "id": "ed433a387fe0ad7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROOTS-OF-RENEWABLES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db1a3970a28d44b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMSFinanceVisual.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49727261d7b37bf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "letter-to-the-SF-Chronicle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff14437d3901adb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMSCommuniA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "997fde3656b656bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROOTS-OF-RENEWABLES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "769c5fe623121181",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MICRO-GRIDS-A.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "553c373c76b76aa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMSCommuni-1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "753535f5ec765e69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMMUNICATION-LIVING-ROOM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e5c31482294736a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WASTE-C.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d39cbb24c742ce1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WASTE-D.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4c9d6a7a1328dec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MESH-CAP-C.md",
+                "file": "MILIT-A.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "alvar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -250,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROOTS-OF-RENEWABLES.md",
+                "file": "ONTOLOGICAL-PRIMITIVES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROOTS-OF-RENEWABLES.md",
+                "file": "ONTOLOGICAL-PRIMITIVES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROOTS-OF-RENEWABLES.md"
+                "file": "ONTOLOGICAL-PRIMITIVES.md"
               }
             }
           }
@@ -312,44 +160,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "997fde3656b656bf",
+  "active": "66be5fcfc3fca31b",
   "lastOpenFiles": [
+    "MMSHistOfSci-A.md",
+    "MILIT-A.md",
+    "SPIRIT-A.md",
+    "ALL.md",
+    "COLLECTION-GRAPHICS-UI.md",
+    "WORK-WEEK-A.md",
+    "media/IMG_0128.jpeg",
+    "ONTOLOGICAL-PRIMITIVES.md",
+    "INSPIRATION-ILLUSTRATIONS.md",
+    "MICRO-GRIDS-A.md",
+    "COLLECTION-JUST-ENERGY-HUB.md",
+    "MMSFinanceVisual.md",
+    "ROOTS-OF-RENEWABLES.md",
+    "JUST-TRANSITION-PRINC.md",
+    "media/cleanshot_2024-08-18-at-15-11-53@2x.png",
+    "media/2023-09-11.md",
+    "ENERGY-ENG-A.md",
+    "RENEW-MINING-A.md",
+    "MINING-A.md",
+    "WASTE-D.md",
+    "MESH-CAP-C.md",
+    "media/cleanshot_2024-08-18-at-13-14-31@2x.png",
+    "INSPO-DRAWING-A.md",
     "media/cleanshot_2024-08-17-at-22-59-13@2x.png",
     "media/cleanshot_2024-08-17-at-22-57-49@2x.png",
-    "MESH-CAP-C.md",
-    "ROOTS-OF-RENEWABLES.md",
     "media/cleanshot_2024-08-17-at-22-33-05@2x.png",
-    "WASTE-D.md",
     "WASTE-C.md",
     "WASTE-B.md",
     "MMSWasteA.md",
     "BOOK-The-Art-of-Gathering.md",
     "COMMUNICATION-LIVING-ROOM.md",
     "MMSCommuni-1.md",
-    "INSTALLATION-1.md",
-    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
-    "NATEL-ENERGY-MEDIA.md",
     "media/20240813-DSC04420.jpg",
     "media/20240726-DSC03629.jpg",
     "media/20240726-DSC03623.jpg",
     "media/20240729-DSC04046.jpg",
-    "media/20240813-DSC04402.jpg",
-    "media/20240717-IMG_6697.jpg",
-    "media/2024_Leon_whitesturgeon_retrieval.gif",
-    "media/20240729-DJI_0745.jpg",
-    "MICRO-GRIDS-A.md",
-    "ENERGY-ENG-A.md",
-    "PROSPERITY-A.md",
-    "COLLECTION-GRAPHICS-UI.md",
-    "ALL.md",
-    "DEGROWTH-SDG-IPCC.md",
-    "OVERVIEW-DEGROWTH.md",
-    "MMSCommuniA.md",
-    "TEST.md",
-    "MILIT-A.md",
-    "CLIMATE-CHANGE-A.md",
-    "EXTRACTION-A.md",
-    "ONTOLOGICAL-PRIMITIVES.md",
     "template-for-marbles.html",
     "js/template-for-marbles.html",
     "MMSIllustrationCollection copy.html"

@@ -12,7 +12,8 @@ Ontological primitives are the essences from which our actions and behaviors ari
 
 (McGilchrist 2021) - [[MCGILCHRIST2021-VID]]
 
-*Maybe one can say that we need to "meet" in all these domains to connect with each other fully*.
+*I have recently come to realize that connecting deeply with other humans tends to overlap with all three areas mentioned above.*.
+
 
 ![](media/cleanshot_2024-07-28-at-17-14-00@2x.png)
 
