@@ -27,7 +27,7 @@ Any stance someone takes to fight climate change is based on what we as humans v
 Science has brought about amazing innovation. Yet, we see massive social and ecological destruction. 
 
 ### Science, violence, and militarism 
-I can recommend this article by Indian sociologist Alvares contemplating Western why the  [Western scientific method is deeply violent in nature](https://archive.unu.edu/unupress/unupbooks/uu05se/uu05se07.htm) and intertwined with colonialism & capitalism.
+I can recommend this article by Indian sociologist Alvares contemplating why the  [Western scientific method is deeply violent in nature](https://archive.unu.edu/unupress/unupbooks/uu05se/uu05se07.htm) and intertwined with colonialism & capitalism.
 
 ### Values embedded in the scientific method
 While Francis Bacon and others claimed that science is value free, this position holds up values of *reductionism* in itself. To disregard values or the talk about values, is a political stance. Regarding this, two works are important.

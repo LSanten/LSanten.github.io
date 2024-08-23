@@ -6,6 +6,8 @@ Hi friend, thanks for reading. I have many thoughts but need your help understan
 
 ![](media/IMG_0128.jpeg)
 add in the middle: radical engineering means to go back to the roots of the injustice
+
+
 ## contemplating the ending punch
 ![](media/cleanshot_2024-08-17-at-22-57-49@2x.png)
 

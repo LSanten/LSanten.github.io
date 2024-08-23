@@ -4,15 +4,17 @@ title: "Mmssocialreproductionb"
 ---
 
 # What environments aid the emergence of a regenerative future?
-The system's capacity to be conducive to health & wellbeing is re-created in the systems that emerge from it. This is the autopoietic (self-reproducing) effect of social systems. As these systems are self-referential, the new structures they create carry the embedded values, beliefs, purpose etc. [[ONTOLOGICAL-PRIMITIVES]].
+Generally speaking, I argue that the system's capacity to be conducive to health & wellbeing is re-created in the systems that emerge from it. This is the autopoietic (self-reproducing) effect of social systems. As these systems are self-referential, the new structures they create carry the embedded values, beliefs, purpose of the parental  systems (also called [[ONTOLOGICAL-PRIMITIVES]]).
 
 ## What conditioning of the environment leads to the emergence of health? 
-This drawing is part of a blog post that explores the self-referential (autopoietic) nature of social systems. The way communication is accepted and rejected within social systems may be rooted in values that condition structures. These structure are conducive to the emergence & growth of certain seeds and not others. Read more via the blog article on [frameworks for energy justice](https://www.omprakash.org/blog/frameworks-for-a-just-energy-network) over here.
+This drawing is part of a blog post that explores the self-referential (autopoietic) nature of social systems.
+Read more via the blog article on [frameworks for energy justice](https://www.omprakash.org/blog/frameworks-for-a-just-energy-network) over here.
+
 
 ![](media/MMSHealthAutopoiesis-merge-05.png)
 
 ![](media/MMSHealthAutopoiesis-merge-06.png)
-
+The way communication is accepted and rejected within social systems may be rooted in values that condition structures. These structure are conducive to the emergence & growth of certain seeds and not others. 
 ### References from the illustration:
 - [Just Transition Principles](https://climatejusticealliance.org/just-transition/)
 - [Jemez Principles for Democratic Organizing](https://climatejusticealliance.org/jemez-principles/)

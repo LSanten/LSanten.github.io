@@ -3,9 +3,8 @@ layout: default
 title: "Milit b"
 ---
 
-## Climate Collateral Webinar
-
-### **[Climate Crossfire: How NATO’s 2% military spending targets contribute to climate breakdown](https://www.tni.org/en/publication/climate-crossfire)**
+# Slides from the Climate Collateral Webinar
+### [Climate Crossfire: How NATO’s 2% military spending targets contribute to climate breakdown](https://www.tni.org/en/publication/climate-crossfire)
 
 - at least 5.5% of all GHG emissions are emitted by global military (not including conflict emissions)
 - world-wide military spendings increased 21% since 2013
@@ -35,7 +34,7 @@ ANNOTATION: colors above should be flipped.
 
 
 
-### **[Less War, Less Warming: A Reparative Approach to US and UK Military Ecological Damages](https://www.common-wealth.org/publications/less-war-less-warming-a-reparative-approach-to-us-and-uk-military-ecological-damages)**
+### [Less War, Less Warming: A Reparative Approach to US and UK Military Ecological Damages](https://www.common-wealth.org/publications/less-war-less-warming-a-reparative-approach-to-us-and-uk-military-ecological-damages)
 
 US soldier now consumes around 20 gallons a day 
 ![](media/cleanshot_2023-11-28-at-08-00-00@2x.png)
@@ -52,16 +51,16 @@ using military to compensate for the lack of social structure by sourcing from a
 
 you can't just have a green military. 
 
-### **Mitzi Joelle Tan** 
+### Words from **Mitzi Joelle Tan** 
 
 Palestine is a climate justice issue. The people who are exposed to war and violence are more vulnerable to climate change. Herrassment of communities by the military due to climate tensions. 
 
---> Climate justice is really just the **the fight for life**. To decide for life is the human right. 
+>Climate justice is really just the **fight for life**. To decide for life is the human right. 
 
 
 
 
-### other resources
+### all mentioned resources
 - **[Climate Collateral
 How military spending accelerates climate breakdown](https://www.tni.org/en/publication/climate-collateral)**
 - [No, Arms Dealers Don’t Count as “Environmentally and Socially Responsible” Investments](https://jacobin.com/2023/06/arms-dealers-environment-social-responsibility-investments-green-warfare-security)
