@@ -3,14 +3,16 @@ layout: default
 title: "Mmscommunia"
 ---
 
-# Original intentions behind *My Marble Sharings* (also called mostly.mutual.studio) 
-I've been contemplating communication between friends, co-learners, and change-makers for several years. **How can I create a medium to facilitate "movement building" in my personal circles?** It's always been hard for me to share my thoughts appropriately with my friends and co-creators. I might have an old piece of academic writing somewhere. But how do I share it? And where is it again? 
+# Original intentions behind mostly.mutual.studio (also *My Marble Sharings*) 
+I've been contemplating communication between friends, co-learners, and change-makers for several years and even wrote my master's thesis about [raising our systemic intelligence](https://www.omprakash.org/blog/leon-capstone-blog-week-14-overview). **How can I create a medium to facilitate "movement building" in my personal circles?** It's always been hard for me to share my thoughts appropriately with my friends and co-creators. I might have an old piece of academic writing somewhere. But how do I share it? And where is it again? 
 
-I started an instagram account with the name @mostly.mutual.studio to start the intentional process of sharing & collecting *insights, concepts, creations, and proposals*. While I don't feel attached to instagram as a platform, I am attached to my creations because they create the building block for communicating my visions & insights. My goal is to host little snippets (or "bubbles", as I call them,) on my website to share them with others and invite people to work on them with me. 
+At first, I started an instagram account with the name [@mostly.mutual.studio](https://www.instagram.com/mostly.mutual.studio/) to aid this process. I don't think Instagram works well for the intentional co-creative process.
 
-This is a technical project as well as a research exploration. The first few sharings are more of archival nature. However, my plan is to create more generative & collaborative work down the road. 
+I realized that I need a more flexible tool to adjust ideas and share them fast, so I developed this website platform that automatically syncs my phone notes to the internet. This way, you can get a peak into my ongoing learning process. This website is an invitation to connect with me! <3
 
-Below is the slide that captures the original ideas behind this platform creation.
+**If you are curious about the technical details**: I use a note-taking and knowledge management system called [Zettelkasten](https://zettelkasten.de/introduction/) (with a free app called [Obsidian](https://obsidian.md/)). This note-taking system mimics the brain and allows me to interlink ideas, working similarly to the brain. I then coded a script that converts the Obsidian (markdown files) with Jekyll (to HTML files that I can host on this website).
+
+## Below are the slides that capture the original ideas behind this platform creation
 ![](media/MMSCommuniA-1.png)
 
 ![](media/MMSCommuniA-2.png)

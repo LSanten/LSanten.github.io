@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ONTOLOGICAL-PRIMITIVES.md",
+                "file": "MMSSocialReproductionB.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MILIT-A.md",
+                "file": "EYTLaserViz-A.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95d7df41d8c5e317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMSHomepage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fad765d7bdc90f35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMSCommuniB.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alvar",
+                "query": "what environments",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ONTOLOGICAL-PRIMITIVES.md",
+                "file": "MMSSocialReproductionB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ONTOLOGICAL-PRIMITIVES.md",
+                "file": "MMSSocialReproductionB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ONTOLOGICAL-PRIMITIVES.md"
+                "file": "MMSSocialReproductionB.md"
               }
             }
           }
@@ -162,16 +186,27 @@
   },
   "active": "66be5fcfc3fca31b",
   "lastOpenFiles": [
+    "MMSHomepage.md",
+    "MMSSocialReproductionB.md",
+    "ALL.md",
+    "MMSCommuniA.md",
+    "MMSCommuniB.md",
+    "MMSQ-Staying-aware.md",
+    "EYTLaserViz-A.md",
+    "MILIT-A.md",
+    "media/A1DA36E5-C0B1-47A4-85C4-A8E3459CEB57_1_105_c.jpeg",
+    "EYTCareClubInspo-B-Drinks.md",
+    "EYTCareClubInspo-A.md",
+    "MMSHealthTechCommuniA.md",
+    "MCGILCHRIST2021-VID.md",
+    "ONTOLOGICAL-PRIMITIVES.md",
     "SYSTEMIC-INTELLIGENCE-SPACE.md",
     "media/IMG_4455.jpeg",
     "MMSHistOfSci-A.md",
-    "MILIT-A.md",
     "SPIRIT-A.md",
-    "ALL.md",
     "COLLECTION-GRAPHICS-UI.md",
     "WORK-WEEK-A.md",
     "media/IMG_0128.jpeg",
-    "ONTOLOGICAL-PRIMITIVES.md",
     "INSPIRATION-ILLUSTRATIONS.md",
     "MICRO-GRIDS-A.md",
     "COLLECTION-JUST-ENERGY-HUB.md",
@@ -181,23 +216,12 @@
     "media/cleanshot_2024-08-18-at-15-11-53@2x.png",
     "media/2023-09-11.md",
     "ENERGY-ENG-A.md",
-    "RENEW-MINING-A.md",
-    "MINING-A.md",
-    "WASTE-D.md",
-    "MESH-CAP-C.md",
     "media/cleanshot_2024-08-18-at-13-14-31@2x.png",
-    "INSPO-DRAWING-A.md",
     "media/cleanshot_2024-08-17-at-22-59-13@2x.png",
     "media/cleanshot_2024-08-17-at-22-57-49@2x.png",
     "media/cleanshot_2024-08-17-at-22-33-05@2x.png",
-    "WASTE-C.md",
-    "WASTE-B.md",
-    "MMSWasteA.md",
-    "BOOK-The-Art-of-Gathering.md",
-    "COMMUNICATION-LIVING-ROOM.md",
     "media/20240813-DSC04420.jpg",
     "media/20240726-DSC03629.jpg",
-    "media/20240726-DSC03623.jpg",
     "template-for-marbles.html",
     "js/template-for-marbles.html",
     "MMSIllustrationCollection copy.html"

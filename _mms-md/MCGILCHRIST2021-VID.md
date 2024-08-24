@@ -3,7 +3,8 @@ layout: default
 title: "Mcgilchrist2021 vid"
 ---
 
-# Notes of Video: Our Unmaking of the World - and the return to being
+# Notes for Video: Our Unmaking of the World - and the return to being
+*This is a collection of notes for a video interview for McGilchrist's book "Unmaking of the World and the return to being. (contact me for the link)*
 
 - "if there is something wrong with the world right now, maybe it relates to how we think"
 - we have become mesmorized with a mechanistic, reductionist way of thinking of the left brain half
@@ -16,7 +17,7 @@ left: essentially connected, fresh, unique, never fully certain, all that is imp
 
 __how we attend to the world changes what we find there__
 
-disinction: of being present in the word and allowing the world to presence to us (Heidegger uses this) 
+distinction: of being present in the world and allowing the world to presence to us (Heidegger uses this) 
 <---> living in a representation (a scheme, a theory, a map)
 
 ## Questions of the book 

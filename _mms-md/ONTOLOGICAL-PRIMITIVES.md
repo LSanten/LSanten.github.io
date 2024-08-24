@@ -10,7 +10,7 @@ Ontological primitives are the essences from which our actions and behaviors ari
 - purpose
 - sense of the sacred
 
-(McGilchrist 2021) - [[MCGILCHRIST2021-VID]]
+(McGilchrist 2021) -  [[MCGILCHRIST2021-VID]]
 
 *I have recently come to realize that whenever I connect deeply with other humans, we overlap in the three areas mentioned above: values, core beliefs, and what we hold sacred*
 
@@ -28,8 +28,8 @@ See [[AUTOPOIESIS-A]] for the concept of re-creation.
 
 See [[MMSSocialReproductionB]] for ways in which current paradigms re-appear in (engineering) education. 
 
-### An artist who relates to value ecology
-ricardo levins morales (based )
+### Notes: An artist who relates the ideas from above & ecology
+- ricardo levins morales (based )
 
 
 _____

@@ -23,7 +23,7 @@ layout: default
 - [[CAPABILITIES-FOR-LIFE-FRAMEWORK]] - A framework to nurture life-centric capabilities.
 - [[CERT-ORG]] - An organization that certifies circular economy endavours on sliding scales among various rubrics
 - [[CHOMSKY-GLOBAL-HEG-VID]] - Noam Chomsky -- "Global Hegemony: The Facts, The Images"
-- [[CIRCULAR-ECON-A]] - Circular economy in a visual
+- [[CIRCULAR-ECON-A]] - Overview: Circular economy in a visual and links 
 - [[CIRCULAR-ECON-B]] - Our society quite devoid of practical teachings about stuff and home
 - [[CIRCULAR-ECON-C]] - Much money and nutrients would be saved if materials were re-used
 - [[CIRCULAR-ECON-D]] - Why we need to take circular economy frameworks with a grain of salt
@@ -113,7 +113,7 @@ layout: default
 - [[MANTRA-SRI-YANTRA]] - No Title
 - [[MARKET-CONF-A]] - IDEA: create a market space to network, surface insights & proposals, and interconnect movement efforts
 - [[MASLOWS-NEEDS-BEYOND]] - classic Maslow model: pyramid of needs
-- [[MCGILCHRIST2021-VID]] - Notes of Video: Our Unmaking of the World - and the return to being
+- [[MCGILCHRIST2021-VID]] - Notes for Video: Our Unmaking of the World - and the return to being
 - [[MEDIA-MOVEMENT-BUILDING-A]] - Movement building principles for media creation
 - [[MEDITATION-BREATHING-RATIOS-PRANAYAMA]] - Effect of various breathing rations or breathing rhythms 
 - [[MEDITATION-SAMATHA-STAGES]] - The stages of Samatha Meditation
@@ -138,7 +138,7 @@ layout: default
 - [[METAPHORICAL-RELATIONSHIPS-OF-ORGS]] - How do we visualize the systemic relationships (good or bad) of organizations?
 - [[MICRO-GRIDS-A]] - Microgrids and 
 - [[MILIT-A]] - Stats surrounding the scale of the US military industrial complex
-- [[MILIT-B]] - No Title
+- [[MILIT-B]] - Slides from the Climate Collateral Webinar
 - [[MINING-A]] - No Title
 - [[MIXBASE-DOCUMENTATION]] - No Title
 - [[MMS-POST-IDEAS]] - No Title
@@ -146,13 +146,14 @@ layout: default
 - [[MMSCapitalismA]] - Difference and division are core-components of capitalist thriving 
 - [[MMSCityPublicReportCenter]] - No Title
 - [[MMSCollaborationA]] - Intellectual property is wasteful and threatens our planet
-- [[MMSCommuni-1]] - Question to the community: How do you stare aware of people's efforts and insights beyond your own discipline?
-- [[MMSCommuniA]] - Original intentions behind *My Marble Sharings* (also called mostly.mutual.studio) 
+- [[MMSCommuniA]] - Original intentions behind mostly.mutual.studio (also *My Marble Sharings*) 
+- [[MMSCommuniB]] - How I want to structure my week to reduce digital stimulation 
 - [[MMSDigitalComA]] - Communicating about communication between friends
 - [[MMSFinanceVisual]] - most of the money on this planet is not tied to any real valuable thing
 - [[MMSHealthAutopoiesis]] - No Title
 - [[MMSHealthTechCommuniA]] - A proposal to change communication around and interface design for battery health
 - [[MMSHistOfSci-A]] - A critical synthesis: history of the scientific method
+- [[MMSHomepage]] - My pouch of marbles for *mostly.mutual studio*
 - [[MMSHothouse]] - No Title
 - [[MMSLoans]] - The problems around issuing loans (the way banks are allowed to do it)
 - [[MMSMeatStickA]] - A sticker to speak to the innate nature of humans to refrain from causing immense animal suffering 
@@ -160,6 +161,7 @@ layout: default
 - [[MMSNutritionLabeling]] - Envisioning nutrition in grocery stores and on tech products
 - [[MMSOlinSystemsBuilding]] - No Title
 - [[MMSPhilOfSciA]] - One building block for Philosophy of Science
+- [[MMSQ-Staying-aware]] - Question to the community: How do you stare aware of people's efforts and insights beyond your own discipline?
 - [[MMSSensingA]] - A visual methaphor for the process/phenomenon of sensing our world and feeling the whole reality
 - [[MMSSocialReproductionA]] - Autopoiesis and the re-production of social systems 
 - [[MMSSocialReproductionB]] - What environments aid the emergence of a regenerative future?
@@ -233,6 +235,7 @@ layout: default
 - [[STREAMING-COMMUNITY-PLATF]] - Streaming platform for music that shows you map of local artists around you
 - [[SUST-JOBS]] - No Title
 - [[SYSTEMIC-CHANGE-A]] - No Title
+- [[SYSTEMIC-INTELLIGENCE-SPACE]] - No Title
 - [[TECH-INTERDEP-A]] - No Title
 - [[TEST]] - Test Links
 - [[THREE-WELLBEING-THINGS]] - No Title
