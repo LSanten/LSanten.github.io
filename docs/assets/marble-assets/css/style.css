@@ -132,7 +132,7 @@ h6, .h6 {
 }
 
 body {
-  background-color: #eed6f1;
+  background-color: #EEE2F3;
   overflow-x: hidden;
 }
 
@@ -142,7 +142,7 @@ body {
 }
 
 ::selection {
-  background: #2ec458;
+  background: #60bac8;
   color: #fff;
 }
 
