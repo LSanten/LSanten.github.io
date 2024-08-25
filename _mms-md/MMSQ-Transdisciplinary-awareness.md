@@ -21,9 +21,10 @@ I posted this question on August 17th 2024 on LinkedIn and Instagram. I compiled
 ### Regarding LinkedIn
 - LinkedIn works surprisingly well to connect us with exciting new people across disciplines
 - **It is very important** to train the algorithm by reposting, liking, and commenting. 
+- Some recommend professional groups. 
 
 ### Building the needed communication space: What's missing?
-Leon's design work for building trans-disciplinary communication spaces are summarized in this [marble post](MMSSystemicCooperationInterface-A.md). 
+Leon's design work for building trans-disciplinary communication spaces is summarized in this [marble post](MMSSystemicCooperationInterface-A.md). 
 ### Ideas mentioned in [Hajar's post](https://www.linkedin.com/posts/hajargaia_im-curious-about-using-this-platform-to-activity-7231262079662329856-HGfP?utm_source=share&utm_medium=member_desktop) 
 >In my view, a platform that would allow to map out various actors (individual changemakers, organizations, advocacy groups, gov agencies etc...) thematically and geographically to facilitate collaborative transformative action. An integrated AI language model could allow to tag and search organizations based on keywords and thus reduce the linguistic fragmentation (i.e sustainability vs. regeneration) , while also "matching" actors working on aligned initiatives. This platform would present a mix of Linkedin and Hylo features, allowing for the creation of sub-communities and hosting co-labs and offers & needs markets to facilitate "radical" collaboration across silos. This kind of platform would be stewarded by what can be referred to as "transformation catalysts". I'll share a brilliant article by [](https://www.linkedin.com/in/ACoAAAFOOXwBfhdWrXXt7Hdb-KYBnncDE6UbtBQ)[Sandra Waddock](https://www.linkedin.com/in/sandra-waddock/) in case this sounds of interest: [https://lnkd.in/ezKsW3cs](https://lnkd.in/ezKsW3cs)
 >

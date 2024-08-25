@@ -3,6 +3,7 @@ layout: default
 ---
 # Building a practice and visual space for trans-disciplinary cooperation
 ![](media/MESH-CAP_summary-graphics-HIGH-RES-08.png)
+
 For the last two years, I have been on a quest to understand what forms of communication my community of local and international change makers requires (see my [master's thesis](https://www.omprakash.org/blog/leon-capstone-blog-week-14-overview)).  
 
 Many friends of mine have voiced the need to sense each other better (to let emerge action), not just for complex climate change project but for understanding who wants to live on a farm in the next 10 years. 
@@ -13,7 +14,11 @@ First I want to make the point that building a community practice is far more im
 
 ![](media/MESH-CAP_summary-graphics-HIGH-RES-01.png)
 
-However, a digital might help to keep the flow of nutrients going. Tools can also help to ease understanding of a landscape. **I see great power in visuals because complex processes can simply not be expressed within linear feeds!**
+A digital tool might help to keep the flow of nutrients going. Tools can also help to ease understanding of a landscape. 
+
+>I see great power in visuals because complex processes can simply not be expressed within linear feeds!
+
+![](media/cleanshot_2024-08-24-at-17-56-47@2x.png)
 
 ![](media/MESH-CAP_summary-graphics-HIGH-RES-03.png)
 
@@ -33,14 +38,6 @@ On a conceptual level, I want to emphasize that our interfaces are like boxes fo
 
 
 
-
-
-
-
-
-
-
-
-
+### This work arose during my capstone project, which is summarized below:
 
 ![](media/MESH-CAP_summary-graphics-HIGH-RES-09.png)
