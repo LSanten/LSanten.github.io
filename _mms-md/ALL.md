@@ -15,7 +15,7 @@ layout: default
 - [[APP-IDEA-C]] - A cute sharing ideas among friends platform
 - [[APPS-USEFUL-A]] - Apps useful for planning 
 - [[AUTOPOIESIS-A]] - The essence of our social systems is reproduced in the structures they create
-- [[AYURVEDA-DOSHAS]] - No Title
+- [[AYURVEDA-DOSHAS]] - The ayurvedic doshas
 - [[BELIEVING-A]] - if we believe, we can't think
 - [[BIOMIMICRY-A]] - Biomimicry lessons mapped against the wisdom of the Nonngar people of Western Australia
 - [[BOOK-The-Art-of-Gathering]] - Book notes: "The Art of Gathering - How we meet and why it matters"
@@ -171,6 +171,7 @@ layout: default
 - [[MMSSystemIntervention-A]] - How to intervene successfully in social systems, which are considered complex systems
 - [[MMSTuningIntoSeparation]] - Notice how we justify killing
 - [[MMSWasteA]] - Quotes and insights around E-Waste
+- [[NATEL-ENERGY-FISH-SAFE-STUDIES]] - My environmental science work with Natel Energy
 - [[NATEL-ENERGY-MEDIA]] - The of a fish safety scientist at natel energy
 - [[NATURE-PARADIGMS]] - Paradigms that show up in nature 
 - [[NEED-A]] - No Title
