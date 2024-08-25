@@ -19,6 +19,7 @@ layout: default
 - [[BELIEVING-A]] - if we believe, we can't think
 - [[BIOMIMICRY-A]] - Biomimicry lessons mapped against the wisdom of the Nonngar people of Western Australia
 - [[BOOK-The-Art-of-Gathering]] - Book notes: "The Art of Gathering - How we meet and why it matters"
+- [[BOUNDARY-SPANNING]] - No Title
 - [[BUBBLE-HASHTAGS]] - List of hashtags used to indentify a variety of bubbles
 - [[CAPABILITIES-FOR-LIFE-FRAMEWORK]] - A framework to nurture life-centric capabilities.
 - [[CERT-ORG]] - An organization that certifies circular economy endavours on sliding scales among various rubrics
@@ -92,7 +93,7 @@ layout: default
 - [[GRADES-A]] - VISUAL: Grades are a sad mix of rejection and merely good enough
 - [[IMAGINATION-A]] - Immersion into the unknown & imagination
 - [[INDEXING-CODING-WHY]] - One perspective on why indexing and numbering arrays in coding is so weird
-- [[INNOVATORS-COMPASS-A]] - No Title
+- [[INNOVATORS-COMPASS-A]] - The design tool called "Innovators Compass"
 - [[INSPIRATION-ILLUSTRATIONS]] - Illustrations that inspire me to create 
 - [[INSPO-DRAWING-A]] - Inspiration for drawing people in illustrations 
 - [[INSTALLATION-1]] - Use all times square screens as monitors for city systems such as waste flows, monetary streams, consumption patterns
@@ -161,7 +162,7 @@ layout: default
 - [[MMSNutritionLabeling]] - Envisioning nutrition in grocery stores and on tech products
 - [[MMSOlinSystemsBuilding]] - No Title
 - [[MMSPhilOfSciA]] - One building block for Philosophy of Science
-- [[MMSQ-Transdisciplinary-awareness]] - Question to the community: How do you stare aware of people's efforts and insights beyond your own discipline?
+- [[MMSQ-Transdisciplinary-awareness]] - Question to the community: How do you stay aware of people's efforts and insights beyond your own discipline?
 - [[MMSSensingA]] - A visual methaphor for the process/phenomenon of sensing our world and feeling the whole reality
 - [[MMSSocialReproductionA]] - Autopoiesis and the re-production of social systems 
 - [[MMSSocialReproductionB]] - What environments aid the emergence of a regenerative future?
