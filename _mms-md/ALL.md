@@ -161,11 +161,12 @@ layout: default
 - [[MMSNutritionLabeling]] - Envisioning nutrition in grocery stores and on tech products
 - [[MMSOlinSystemsBuilding]] - No Title
 - [[MMSPhilOfSciA]] - One building block for Philosophy of Science
-- [[MMSQ-Staying-aware]] - Question to the community: How do you stare aware of people's efforts and insights beyond your own discipline?
+- [[MMSQ-Transdisciplinary-awareness]] - Question to the community: How do you stare aware of people's efforts and insights beyond your own discipline?
 - [[MMSSensingA]] - A visual methaphor for the process/phenomenon of sensing our world and feeling the whole reality
 - [[MMSSocialReproductionA]] - Autopoiesis and the re-production of social systems 
 - [[MMSSocialReproductionB]] - What environments aid the emergence of a regenerative future?
 - [[MMSStickPlsComp]] - can public places please compost & recycle?
+- [[MMSSystemicCooperationInterface-A]] - Building a practice and visual space for trans-disciplinary cooperation
 - [[MMSSystemIntervention-A]] - How to intervene successfully in social systems, which are considered complex systems
 - [[MMSTuningIntoSeparation]] - Notice how we justify killing
 - [[MMSWasteA]] - Quotes and insights around E-Waste

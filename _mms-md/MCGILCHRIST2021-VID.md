@@ -4,7 +4,7 @@ title: "Mcgilchrist2021 vid"
 ---
 
 # Notes for Video: Our Unmaking of the World - and the return to being
-*This is a collection of notes for a video interview for McGilchrist's book "Unmaking of the World and the return to being. (contact me for the link)*
+*This is a collection of notes for a video interview with McGilchrist about his book "Unmaking of the World and the return to being. (contact me for the link).* Here you go:
 
 - "if there is something wrong with the world right now, maybe it relates to how we think"
 - we have become mesmorized with a mechanistic, reductionist way of thinking of the left brain half

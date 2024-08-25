@@ -4,17 +4,17 @@ title: "Ontological primitives"
 ---
 
 # What are ontological primitives?
-Ontological primitives are the essences from which our actions and behaviors arise. They are the smallest building blocks of ontological base understandings (regarding the nature of reality & being) such as:
+*Ontological primitives* are the essences from which our actions and behaviors arise. They are the smallest building blocks of ontological base understandings (regarding the nature of reality & being), meaning that they cannot be broken down into anything smaller. Ontological primitives are:
 
-- value
+- values
 - purpose
 - sense of the sacred
 
-(McGilchrist 2021) -  [[MCGILCHRIST2021-VID]]
+(McGilchrist 2021) -  here is a scattered set of notes that includes this idea:  [[MCGILCHRIST2021-VID]]
 
-*I have recently come to realize that whenever I connect deeply with other humans, we overlap in the three areas mentioned above: values, core beliefs, and what we hold sacred*
+*I have recently come to realize that whenever I connect deeply with other humans, I overlap in the three areas mentioned above: values, core beliefs, and what we hold sacred*
 
-**Below is an illustration which draws an analogy between the recreation of DNA in its fruits and the recreation of values in emergent social structures**
+**Below is an illustration which draws an analogy between the recreation of DNA in its fruits and the recreation of values that re-emerge in our social structures.** This illustration is a work in progress. I don't consider it perfect and am trying to fine-tune it. Let me know if you have ideas to make it more concrete (or don't understand my overall message all together).
 
 ![](media/cleanshot_2024-07-28-at-17-14-00@2x.png)
 
