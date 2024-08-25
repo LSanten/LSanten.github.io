@@ -18,3 +18,4 @@ layout: default
 
 ![](media/20240726-DSC03629.jpg)
 
+![](media/cleanshot_2024-08-25-at-14-49-46@2x.png)

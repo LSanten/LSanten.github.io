@@ -2,7 +2,7 @@
 layout: default
 title: "Ayurveda doshas"
 ---
-
+# The ayurvedic doshas
 
 
 

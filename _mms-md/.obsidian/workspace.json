@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EYTLaserViz-A.md",
+                "file": "COLLECTION-GRAPHICS-UI.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSCommuniA.md",
+                "file": "NATEL-ENERGY-MEDIA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fee50479200f187b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOUNDARY-SPANNING.md",
+                "file": "AYURVEDA-DOSHAS.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "doshas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MMSQ-Transdisciplinary-awareness.md",
+                "file": "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MMSQ-Transdisciplinary-awareness.md",
+                "file": "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MMSQ-Transdisciplinary-awareness.md"
+                "file": "NATEL-ENERGY-FISH-SAFE-STUDIES.md"
               }
             }
           }
@@ -208,20 +221,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fad765d7bdc90f35",
+  "active": "fee50479200f187b",
   "lastOpenFiles": [
+    "COLLECTION-GRAPHICS-UI.md",
+    "NATEL-ENERGY-MEDIA.md",
+    "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
+    "media/cleanshot_2024-08-25-at-14-49-46@2x.png",
+    "media/D59E8B7F-8DA7-4902-BBEA-9E338850E740_1_201_a.heic",
+    "AYURVEDA-DOSHAS.md",
+    "ALL.md",
     "BOUNDARY-SPANNING.md",
+    "MMSQ-Transdisciplinary-awareness.md",
+    "media/cleanshot_2024-08-25-at-14-46-21@2x.png",
+    "media/cleanshot_2024-08-25-at-14-45-53@2x.png",
+    "INNOVATORS-COMPASS-A.md",
+    "EYTLaserViz-A.md",
     "MMSCommuniA.md",
     "MMSSystemicCooperationInterface-A.md",
     "MMSHomepage.md",
-    "MMSQ-Transdisciplinary-awareness.md",
     "media/cleanshot_2024-08-25-at-13-33-49@2x.png",
-    "INNOVATORS-COMPASS-A.md",
     "LIBERATORY-DESIGN-A.md",
-    "ALL.md",
     "media/cleanshot_2024-08-24-at-17-56-47@2x.png",
     "MMSSocialReproductionB.md",
-    "EYTLaserViz-A.md",
     "MEDIA-MOVEMENT-BUILDING-A.md",
     "SYSTEMIC-INTELLIGENCE-SPACE.md",
     "MCGILCHRIST2021-VID.md",
@@ -235,16 +256,9 @@
     "media/IMG_4455.jpeg",
     "MMSHistOfSci-A.md",
     "SPIRIT-A.md",
-    "COLLECTION-GRAPHICS-UI.md",
-    "WORK-WEEK-A.md",
     "media/IMG_0128.jpeg",
-    "INSPIRATION-ILLUSTRATIONS.md",
-    "MICRO-GRIDS-A.md",
     "media/cleanshot_2024-08-18-at-15-11-53@2x.png",
     "media/cleanshot_2024-08-18-at-13-14-31@2x.png",
-    "media/cleanshot_2024-08-17-at-22-59-13@2x.png",
-    "media/cleanshot_2024-08-17-at-22-57-49@2x.png",
-    "media/cleanshot_2024-08-17-at-22-33-05@2x.png",
     "template-for-marbles.html",
     "js/template-for-marbles.html",
     "MMSIllustrationCollection copy.html"
