@@ -6,9 +6,9 @@ layout: default
 
 For the last two years, I have been on a quest to understand what forms of communication my community of local and international change makers requires (see my [master's thesis](https://www.omprakash.org/blog/leon-capstone-blog-week-14-overview)).  
 
-Many friends of mine have voiced the need to sense each other better (to let emerge action), not just for complex climate change project but for understanding who wants to live on a farm in the next 10 years. 
+Many friends of mine have voiced the need to sense each other better (to let emerge action), not just for complex climate change projects but for understanding who wants to live on a farm in the next 10 years. 
 
-Here, we might think about digital tools right away. However, I am very cautious of building tools before understand what we truly need. During many interviews, research, and my training in human-centered design (or approaches such as *designing with country*), one notion will always come up again: **what is the practice we need on a collective level?**
+Here, we might think about digital tools right away. However, I am very cautious of building tools before we understand what we truly need. During many interviews, research, and my training in human-centered design (or approaches such as *designing with country*), one notion will always come up again: **what is the practice we need on a collective level?**
 
 First I want to make the point that building a community practice is far more important than building a digital tool. 
 

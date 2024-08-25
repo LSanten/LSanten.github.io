@@ -2,18 +2,18 @@
 layout: default
 ---
 
-# Question to the community: How do you stare aware of people's efforts and insights beyond your own discipline?
+# Question to the community: How do you stay aware of people's efforts and insights beyond your own discipline?
 
 ![Print reading "How do you stare aware of people's efforts and insights beyond your own discipline?" below is a circle of dots that connect to each other, looking like a cell or organism. below it reads: "for interweaving our climate justice efforts"](media/linkedin%20community%20question%201.png)
 
 ## Compiled responses from the community
 I posted this question on August 17th 2024 on LinkedIn and Instagram. I compiled responses below. Hajar Tazi, Caroline Baillie, and Mahtaub Golab contributed majorly to the resources below. 
-### Recommended (online) conferences/gatherings
+### Recommended conferences/gatherings
 - Synergia's online MOOC "**Toward Co-operative Commonwealth**: Transition in a Perilous Century" ([link](https://synergiainstitute.org/mooc-overview/))
 - **The Fito Network festival** is a great opportunity for knowledge-sharing and collaborative sensemaking - a social impact network ([link](https://www.fito.network/))
 - A bi-annual conference and festival - **The Gathering of Tribes** ([link](https://www.linkedin.com/company/gatheringoftribes/))
 
-### Other great communities
+### Recommended communities
 - **The Deep Transformation Network** ([link](https://deeptransformation.network/sign_up?from=https%3A%2F%2Fdeeptransformation.network%2F%3Fautojoin%3D1&space_id=6647176))
 - The **Gaianet** hosts the largest database of organizations & folks working towards "growing the roots of a New Earth" ([link](https://www.gaianet.earth/))
 - **Science for the People** is an international organization with chapters in many major cities trying to reclaim science to reduce class struggle and liberate the historically oppressed ([link](https://scienceforthepeople.org/))
