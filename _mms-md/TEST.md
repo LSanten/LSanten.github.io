@@ -18,5 +18,11 @@ This is a test page with some links:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sgOEGKDVvsg?si=SpxArLbni58gAdht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Icons 
+
+<i class="ti-calendar"></i> original calendar <br>
+<i class="fas fa-calendar-alt"></i> font awesome calendar symbol <br>
+<i class="fas fa-clock"></i> clock symbol
 
 
+here are all font awesome characters: https://fontawesome.com/v4/icons/

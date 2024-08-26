@@ -3,7 +3,7 @@ layout: default
 title: "Circular econ a"
 ---
 
-# Overview: Circular economy in a visual and links 
+# Overview: Circular economy
 
 ![](media/cleanshot_2023-11-01-at-18-28-34@2x.png)
 https://www.ellenmacarthurfoundation.org/circular-economy-diagram

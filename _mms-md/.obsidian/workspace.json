@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NATEL-ENERGY-MEDIA.md",
+                "file": "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
+                "file": "TEST.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +85,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AYURVEDA-DOSHAS.md",
+                "file": "NATEL-ENERGY-MEDIA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "doshas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,8 +138,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,14 +220,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fee50479200f187b",
+  "active": "95d7df41d8c5e317",
   "lastOpenFiles": [
-    "COLLECTION-GRAPHICS-UI.md",
     "NATEL-ENERGY-MEDIA.md",
+    "AYURVEDA-DOSHAS.md",
     "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
+    "MMSSocialReproductionB.md",
+    "COLLECTION-GRAPHICS-UI.md",
+    "TEST.md",
     "media/cleanshot_2024-08-25-at-14-49-46@2x.png",
     "media/D59E8B7F-8DA7-4902-BBEA-9E338850E740_1_201_a.heic",
-    "AYURVEDA-DOSHAS.md",
     "ALL.md",
     "BOUNDARY-SPANNING.md",
     "MMSQ-Transdisciplinary-awareness.md",
@@ -242,7 +243,6 @@
     "media/cleanshot_2024-08-25-at-13-33-49@2x.png",
     "LIBERATORY-DESIGN-A.md",
     "media/cleanshot_2024-08-24-at-17-56-47@2x.png",
-    "MMSSocialReproductionB.md",
     "MEDIA-MOVEMENT-BUILDING-A.md",
     "SYSTEMIC-INTELLIGENCE-SPACE.md",
     "MCGILCHRIST2021-VID.md",

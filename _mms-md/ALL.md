@@ -24,7 +24,7 @@ layout: default
 - [[CAPABILITIES-FOR-LIFE-FRAMEWORK]] - A framework to nurture life-centric capabilities.
 - [[CERT-ORG]] - An organization that certifies circular economy endavours on sliding scales among various rubrics
 - [[CHOMSKY-GLOBAL-HEG-VID]] - Noam Chomsky -- "Global Hegemony: The Facts, The Images"
-- [[CIRCULAR-ECON-A]] - Overview: Circular economy in a visual and links 
+- [[CIRCULAR-ECON-A]] - Overview: Circular economy
 - [[CIRCULAR-ECON-B]] - Our society quite devoid of practical teachings about stuff and home
 - [[CIRCULAR-ECON-C]] - Much money and nutrients would be saved if materials were re-used
 - [[CIRCULAR-ECON-D]] - Why we need to take circular economy frameworks with a grain of salt
