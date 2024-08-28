@@ -232,10 +232,12 @@ layout: default
 - [[SOLAR-ENERGY-A]] - "Land-sparing" solar installations save land and use land wisely 
 - [[SOMATIC-HEAL-WHITENESS]] - Healing internalized white-supremacy start with healing the relationship to ourselves
 - [[SPIRIT-A]] - No Title
+- [[SPIRIT-PODCASTS]] - No Title
 - [[SPIRIT-TRANSFORMATION]] - spiritual transformation 
 - [[SPIRIT-WORK-A]] - The relationship between working with oneself and working together
 - [[ST-HL-A]] - We need different stories as healers
 - [[STREAMING-COMMUNITY-PLATF]] - Streaming platform for music that shows you map of local artists around you
+- [[SURVIVAL-OF-THE-FRIENDLIEST]] - Survival of the friendlist
 - [[SUST-JOBS]] - No Title
 - [[SYSTEMIC-CHANGE-A]] - No Title
 - [[SYSTEMIC-INTELLIGENCE-SPACE]] - No Title
