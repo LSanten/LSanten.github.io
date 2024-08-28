@@ -24,11 +24,13 @@ When we engage in work, we always build something bigger than just the project w
 This also leads me to the realization that it is more important that we do the work in a caring & loving environment and with good energy & intentions rather than focus on our productivity and doing "enough." 
 
 ### Related marbles
-See [[AUTOPOIESIS-A]] for the concept of re-creation.
+
 
 See [[MMSSocialReproductionB]] for ways in which current paradigms re-appear in (engineering) education. 
 
-### Notes: An artist who relates the ideas from above to ecology
+[[AUTOPOIESIS-A]] for the concept of re-creation.
+
+### 📝 Notes: An artist who relates the ideas from above to ecology
 - ricardo levins morales
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSSocialReproductionB.md",
+                "file": "ONTOLOGICAL-PRIMITIVES.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEST.md",
+                "file": "COLLECTION-GRAPHICS-UI.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +149,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MMSSystemicCooperationInterface-A.md",
+                "file": "ONTOLOGICAL-PRIMITIVES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MMSSystemicCooperationInterface-A.md",
+                "file": "ONTOLOGICAL-PRIMITIVES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MMSSystemicCooperationInterface-A.md"
+                "file": "ONTOLOGICAL-PRIMITIVES.md"
               }
             }
           }
@@ -232,28 +232,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28d25f2972a56d4f",
+  "active": "66be5fcfc3fca31b",
   "lastOpenFiles": [
+    "AUTOPOIESIS-A.md",
+    "MMSSystemicCooperationInterface-A.md",
+    "ONTOLOGICAL-PRIMITIVES.md",
+    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+    "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
+    "COLLECTION-GRAPHICS-UI.md",
+    "MMSQ-Transdisciplinary-awareness.md",
+    "INNOVATORS-COMPASS-A.md",
+    "MMSSocialReproductionB.md",
+    "ALL.md",
+    "TEST.md",
     "SURVIVAL-OF-THE-FRIENDLIEST.md",
     "SPIRIT-PODCASTS.md",
     "media/cleanshot_2024-08-26-at-20-14-01@2x.png",
-    "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
     "NATEL-ENERGY-MEDIA.md",
     "AYURVEDA-DOSHAS.md",
-    "MMSSocialReproductionB.md",
-    "COLLECTION-GRAPHICS-UI.md",
-    "TEST.md",
     "media/cleanshot_2024-08-25-at-14-49-46@2x.png",
     "media/D59E8B7F-8DA7-4902-BBEA-9E338850E740_1_201_a.heic",
-    "ALL.md",
     "BOUNDARY-SPANNING.md",
-    "MMSQ-Transdisciplinary-awareness.md",
     "media/cleanshot_2024-08-25-at-14-46-21@2x.png",
     "media/cleanshot_2024-08-25-at-14-45-53@2x.png",
-    "INNOVATORS-COMPASS-A.md",
     "EYTLaserViz-A.md",
     "MMSCommuniA.md",
-    "MMSSystemicCooperationInterface-A.md",
     "MMSHomepage.md",
     "media/cleanshot_2024-08-25-at-13-33-49@2x.png",
     "LIBERATORY-DESIGN-A.md",
@@ -261,13 +264,10 @@
     "MEDIA-MOVEMENT-BUILDING-A.md",
     "SYSTEMIC-INTELLIGENCE-SPACE.md",
     "MCGILCHRIST2021-VID.md",
-    "ONTOLOGICAL-PRIMITIVES.md",
     "MMSCommuniB.md",
     "MILIT-A.md",
     "media/A1DA36E5-C0B1-47A4-85C4-A8E3459CEB57_1_105_c.jpeg",
     "EYTCareClubInspo-B-Drinks.md",
-    "EYTCareClubInspo-A.md",
-    "MMSHealthTechCommuniA.md",
     "media/IMG_4455.jpeg",
     "media/IMG_0128.jpeg",
     "media/cleanshot_2024-08-18-at-15-11-53@2x.png",
