@@ -3,5 +3,12 @@
   "newFileLocation": "current",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "plugins/",
+    "images/",
+    "css/",
+    "js/",
+    "favicon_io/"
+  ]
 }

@@ -6,6 +6,8 @@ title: "Installation 1"
 # Use all times square screens as monitors for city systems such as waste flows, monetary streams, consumption patterns
 
 --> waste pathogen monitoring 
+5251
+title: what if the time square was used to communicate the most pressing challenges of our time 
 
 I tend to contemplate the invisible nature of waste in cities. Where does it go? Why is there no public education spot in a city that shows us where things go? Imagine the New York Times Square being used as a report center for the citizens. There could be graphics that show waste streams, consumption trends, and monetary flows. Where is money being invested? 
 

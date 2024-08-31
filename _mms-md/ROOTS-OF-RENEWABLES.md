@@ -60,6 +60,7 @@ When will engineers transparently design for eco-social stability with the same 
 - how african countries are interely owned by other coutnries due to mining etc (i think on insta?)
 - caroline’s mining 
 - [JUST-TRANSITION-PRINCIPLES](JUST-TRANSITION-PRINC.md)
+- [RADICALNESS](RADICALNESS.md)
 
 ## history of images
 

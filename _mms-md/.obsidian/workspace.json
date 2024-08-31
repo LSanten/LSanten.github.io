@@ -20,90 +20,15 @@
             }
           },
           {
-            "id": "ed433a387fe0ad7c",
+            "id": "ad31a96979d45bad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COLLECTION-GRAPHICS-UI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95d7df41d8c5e317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28d25f2972a56d4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMSSystemicCooperationInterface-A.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fee50479200f187b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COLLECTION-GRAPHICS-UI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fad765d7bdc90f35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMSQ-Transdisciplinary-awareness.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "112a947628949d25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INNOVATORS-COMPASS-A.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "824170dcbe4673b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NATEL-ENERGY-MEDIA.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ONTOLOGICAL-PRIMITIVES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ONTOLOGICAL-PRIMITIVES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ONTOLOGICAL-PRIMITIVES.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -232,47 +152,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66be5fcfc3fca31b",
+  "active": "ad31a96979d45bad",
   "lastOpenFiles": [
-    "AUTOPOIESIS-A.md",
-    "MMSSystemicCooperationInterface-A.md",
-    "ONTOLOGICAL-PRIMITIVES.md",
-    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
-    "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
-    "COLLECTION-GRAPHICS-UI.md",
+    "MESH-EJ-THESIS.md",
+    "MESH-CAP-EPIST-A.md",
+    "CREATIVE-MARKETING-RESOURCES.md",
+    "media/cleanshot_2024-08-29-at-16-59-32@2x.png",
+    "media/cleanshot_2024-08-29-at-16-54-38@2x.png",
     "MMSQ-Transdisciplinary-awareness.md",
+    "ROOTS-OF-RENEWABLES.md",
+    "COLLECTION-GRAPHICS-UI.md",
+    "MMSSystemicCooperationInterface-A.md",
+    "ALL.md",
+    "MMSDigitalComA.md",
+    "NATEL-ENERGY-MEDIA.md",
+    "AUTOPOIESIS-A.md",
+    "ONTOLOGICAL-PRIMITIVES.md",
+    "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
+    "MMSPhilOfSciA.md",
+    "media/MMSPhilOfSciA_13.png",
+    "media/MMSPhilOfSciA_12.png",
+    "media/MMSPhilOfSciA_3-05.png",
+    "media/MMSPhilOfSciA_6.png.tmp$$",
+    "media/MMSPhilOfSciA_3-03.png",
+    "media/MMSPhilOfSciA_4.png.tmp$$",
+    "media/MMSPhilOfSciA_3-05.png.tmp$$",
+    "media/MMSPhilOfSciA_3-03.png.tmp$$",
+    "media/MMSPhilOfSciA_2 copy.png",
+    "media/MMSPhilOfSciA_2.png.tmp$$",
+    "media/MMSPhilOfSciA_2 copy 2.png",
+    "media/MMSPhilOfSciA_2 copy.png.tmp$$",
+    "media/MMSPhilOfSciA_2 copy 2.png.tmp$$",
+    "media/MMSPhilOfSciA_1.png.tmp$$",
+    "MMSHistOfSci-A.md",
+    "media/cleanshot_2024-08-28-at-12-36-54@2x.png",
+    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
     "INNOVATORS-COMPASS-A.md",
     "MMSSocialReproductionB.md",
-    "ALL.md",
     "TEST.md",
     "SURVIVAL-OF-THE-FRIENDLIEST.md",
     "SPIRIT-PODCASTS.md",
     "media/cleanshot_2024-08-26-at-20-14-01@2x.png",
-    "NATEL-ENERGY-MEDIA.md",
     "AYURVEDA-DOSHAS.md",
-    "media/cleanshot_2024-08-25-at-14-49-46@2x.png",
     "media/D59E8B7F-8DA7-4902-BBEA-9E338850E740_1_201_a.heic",
     "BOUNDARY-SPANNING.md",
-    "media/cleanshot_2024-08-25-at-14-46-21@2x.png",
-    "media/cleanshot_2024-08-25-at-14-45-53@2x.png",
     "EYTLaserViz-A.md",
     "MMSCommuniA.md",
     "MMSHomepage.md",
-    "media/cleanshot_2024-08-25-at-13-33-49@2x.png",
-    "LIBERATORY-DESIGN-A.md",
-    "media/cleanshot_2024-08-24-at-17-56-47@2x.png",
-    "MEDIA-MOVEMENT-BUILDING-A.md",
-    "SYSTEMIC-INTELLIGENCE-SPACE.md",
-    "MCGILCHRIST2021-VID.md",
-    "MMSCommuniB.md",
-    "MILIT-A.md",
-    "media/A1DA36E5-C0B1-47A4-85C4-A8E3459CEB57_1_105_c.jpeg",
-    "EYTCareClubInspo-B-Drinks.md",
-    "media/IMG_4455.jpeg",
-    "media/IMG_0128.jpeg",
-    "media/cleanshot_2024-08-18-at-15-11-53@2x.png",
-    "template-for-marbles.html",
-    "js/template-for-marbles.html",
-    "MMSIllustrationCollection copy.html"
+    "template-for-marbles.html"
   ]
 }

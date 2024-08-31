@@ -12,7 +12,7 @@ title: "Ontological primitives"
 
 (McGilchrist 2021) -  here is a scattered set of notes that includes this idea:  [[MCGILCHRIST2021-VID]]
 
-*I have recently come to realize that whenever I connect deeply with other humans, I overlap in the three areas mentioned above: values, core beliefs, and what we hold sacred*
+*I have recently come to realize that whenever I connect deeply with other humans, I overlap in the three areas mentioned above: values, purpose, and what we hold sacred.*
 
 **Below is an illustration which draws an analogy between the recreation of DNA in its fruits and the recreation of values that re-emerge in our social structures.** This illustration is a work in progress. I don't consider it perfect and am trying to fine-tune it. Let me know if you have ideas to make it more concrete (or don't understand my overall message all together).
 

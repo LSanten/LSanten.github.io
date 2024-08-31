@@ -14,9 +14,17 @@ I posted this question on August 17th 2024 on LinkedIn and Instagram. I compiled
 - A bi-annual conference and festival - **The Gathering of Tribes** ([link](https://www.linkedin.com/company/gatheringoftribes/))
 
 ### Recommended communities
+*As we think about general solutions for collaborative communication, Rob Hurwich mentions that there are many different platforms and it would be very ideal/helpful to have inter-operable profiles.*
+
+>... even if there are multiple platforms, I think the core feature is the Member Profile, whether that be an individual or organization. If the underlying data of this profile is able to be interoperable, then I think that allows for a much greater possibility of being able to connect all actors who want to participate.
+>
+>~ Rob Hurwich (on [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7231262079662329856?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7231262079662329856%2C7231709615573389313%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287231709615573389313%2Curn%3Ali%3Aactivity%3A7231262079662329856%29))
+
 - **The Deep Transformation Network** ([link](https://deeptransformation.network/sign_up?from=https%3A%2F%2Fdeeptransformation.network%2F%3Fautojoin%3D1&space_id=6647176))
 - The **Gaianet** hosts the largest database of organizations & folks working towards "growing the roots of a New Earth" ([link](https://www.gaianet.earth/))
 - **Science for the People** is an international organization with chapters in many major cities trying to reclaim science to reduce class struggle and liberate the historically oppressed ([link](https://scienceforthepeople.org/))
+- Planetary Health Alliance on Hylo ([link](https://www.hylo.com/groups/pha))
+- Hylo is a bio-regional collaboration network with great offers & needs features ([link](https://www.hylo.com/))
 
 ### Regarding LinkedIn
 - LinkedIn works surprisingly well to connect us with exciting new people across disciplines

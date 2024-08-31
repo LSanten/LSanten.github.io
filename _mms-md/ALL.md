@@ -50,6 +50,7 @@ layout: default
 - [[CONFERENCE-COMMUNI-OVERV]] - A list of ideas for improving conference or retreat style conversations
 - [[COOP-EXPECTATIONS]] - No Title
 - [[COOP-PRINCIPLES]] - Coopeartive Principles
+- [[CREATIVE-MARKETING-RESOURCES]] - No Title
 - [[CUTE-A]] - Name idea: the lame baby club
 - [[DEATH-A]] - It’s all about the ability to create relationships and let go of relationships. 
 - [[DEGROWTH-SDG-IPCC]] - SDGs addressed by degrowth
@@ -254,3 +255,6 @@ layout: default
 - [[WEBSITE-SIZE-CHECK-A]] - Check the size of your website including images
 - [[WORK-BALANCE]] - No Title
 - [[WORK-WEEK-A]] - No Title
+
+
+#excludeFromGraph

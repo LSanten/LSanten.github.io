@@ -9,16 +9,13 @@ For the last two years, I have been on a quest to understand what forms of commu
 Many friends of mine have voiced the need to sense each other better (to let emerge action); for complex climate change projects but also group sensing and reasoning such as understanding who wants to live on a farm in the next 10 years. 
 
 Here, we might think about digital tools right away. However, I am very cautious of building tools before we understand what we truly need. Therefore, I decided to dedicate my master's capstone project to this inquiry. I talked to collaboration experts, knowledge management innovators, interviewed climate change activists, and co-envisioned practices and spaces for climate justice work with my fellow students and change-maker friends. 
-
-During all these interviews, the essence of my work crystalized: **We need to focus on  building a collective communication. And any tools needs to serve our collective communication practice.**
-
 ## We need *communication about communication*
 
 ![](media/MESH-CAP_summary-graphics-HIGH-RES-01.png)
 
-A digital tool might help to keep the flow of nutrients going. Tools can also help to ease understanding of a landscape. But they are only as useful as 
+A digital tool might help to keep the flow of nutrients going. Tools can also help to ease understanding of a landscape. But tools are only as useful as the human practice they support or elicit.
 
->I see great power in visuals because complex processes can simply not be expressed or easily understood through linear frameworks! Yet, almost all of our digital communication spaces provide linear communication feeds. 
+>I see great power in visuals because complex processes can simply not be expressed or easily understood through linear frameworks. Yet, almost all of our digital communication spaces provide linear communication feeds. 
 
 ![](media/cleanshot_2024-08-24-at-17-56-47@2x.png)
 
@@ -26,7 +23,7 @@ A digital tool might help to keep the flow of nutrients going. Tools can also he
 
 ![](media/MESH-CAP_summary-graphics-HIGH-RES-05.png)
 
-## While the creations from above embody my research insights, I want to emphasize everything starts with building relationships as whole humans
+## Everything starts with building relationships as whole humans
 
 ![](media/MESH-CAP_summary-graphics-HIGH-RES-06.png)
 
@@ -52,9 +49,13 @@ Please not that many ideas arose prior to the official capstone project because 
 If you want to read my full thesis paper, I invite you to follow this [blog post](https://www.omprakash.org/blog/leon-capstone-blog-week-14-overview), which links to the full paper.
 
 ## More on using nature as a useful visual metaphor
-As I continue my work of using visual to raise understanding of social & ecological processes and relationships, I build on my visualization frameworks depicted below. 
+As I continue my work of using visuals to raise understanding of social & ecological processes and relationships, I build on my visualization frameworks depicted below. 
 
-Plants grow structures to grow fruits and reproduce. They grow roots that draw and exchange nutrients. Social systems similarly create (social )structures to grow specific fruits (products, outcomes). Social systems also have specific needs, which are vital for their functioning. 
+First of all, I conceptualize projects as plants that grow due to the nurturing care of humans. Humans essentially tend to a garden. 
+
+![](media/cleanshot_2024-08-28-at-12-36-54@2x.png)
+
+Secondly, the plants grow structures to grow fruits and reproduce. They grow roots that draw and exchange nutrients. Social systems similarly create (social )structures to grow specific fruits (products, outcomes). Social systems also have specific needs, which are vital for their functioning. 
 
 The visualization of needs, offers, products, and social structures connected to these organs seems crucial. Yet, it is quite complicated to visualize such complex relationships. So far, the usage of eco-system analogies has proven to be the most helpful.
 ![](media/cleanshot_2024-07-26-at-20-09-42@2x.png)
