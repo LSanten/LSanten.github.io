@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ONTOLOGICAL-PRIMITIVES.md",
+                "file": "PERSONAL-VALUE-SYSTEM.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,12 +23,40 @@
             "id": "ad31a96979d45bad",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ROOTS-OF-RENEWABLES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4660e3a02c728cec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ELECYT-LASER-VIZ-A.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2583522d5ab6bf70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MEDIA-MOVEMENT-BUILDING-A.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -57,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "eyt laser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ELECYT-LASER-VIZ-A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ELECYT-LASER-VIZ-A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ELECYT-LASER-VIZ-A.md"
+              }
             }
           }
         ],
@@ -152,23 +185,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad31a96979d45bad",
+  "active": "4660e3a02c728cec",
   "lastOpenFiles": [
+    "ALL.md",
+    "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
+    "media/cleanshot_2024-08-25-at-14-49-46@2x.png",
+    "CREATIVE-MARKETING-RESOURCE-A.md",
+    "MEDIA-MOVEMENT-BUILDING-A.md",
+    "PERSONAL-VALUE-SYSTEM.md",
+    "ROOTS-OF-RENEWABLES.md",
+    "media/cleanshot_2024-09-01-at-14-40-52@2x.png",
+    "ONTOLOGICAL-PRIMITIVES.md",
     "MESH-EJ-THESIS.md",
     "MESH-CAP-EPIST-A.md",
-    "CREATIVE-MARKETING-RESOURCES.md",
     "media/cleanshot_2024-08-29-at-16-59-32@2x.png",
     "media/cleanshot_2024-08-29-at-16-54-38@2x.png",
     "MMSQ-Transdisciplinary-awareness.md",
-    "ROOTS-OF-RENEWABLES.md",
     "COLLECTION-GRAPHICS-UI.md",
     "MMSSystemicCooperationInterface-A.md",
-    "ALL.md",
     "MMSDigitalComA.md",
     "NATEL-ENERGY-MEDIA.md",
     "AUTOPOIESIS-A.md",
-    "ONTOLOGICAL-PRIMITIVES.md",
-    "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
     "MMSPhilOfSciA.md",
     "media/MMSPhilOfSciA_13.png",
     "media/MMSPhilOfSciA_12.png",
@@ -185,20 +222,15 @@
     "media/MMSPhilOfSciA_2 copy 2.png.tmp$$",
     "media/MMSPhilOfSciA_1.png.tmp$$",
     "MMSHistOfSci-A.md",
-    "media/cleanshot_2024-08-28-at-12-36-54@2x.png",
     "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
     "INNOVATORS-COMPASS-A.md",
     "MMSSocialReproductionB.md",
     "TEST.md",
     "SURVIVAL-OF-THE-FRIENDLIEST.md",
     "SPIRIT-PODCASTS.md",
-    "media/cleanshot_2024-08-26-at-20-14-01@2x.png",
     "AYURVEDA-DOSHAS.md",
     "media/D59E8B7F-8DA7-4902-BBEA-9E338850E740_1_201_a.heic",
     "BOUNDARY-SPANNING.md",
-    "EYTLaserViz-A.md",
-    "MMSCommuniA.md",
-    "MMSHomepage.md",
     "template-for-marbles.html"
   ]
 }

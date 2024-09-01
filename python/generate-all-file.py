@@ -32,7 +32,7 @@ for md_file in md_files:
 # Write the output content to the all.md file
 with open(output_file, 'w', encoding='utf-8') as file:
     file.write(output_content)
-    file.write("\n\n#excludeFromGraph")  # Add this line to append the tag at the end
+    file.write("\n\n#excludeFromGraph (to filter out write -tag:)")  # Add this line to append the tag at the end
 
 print(f"Generated {output_file} with the list of markdown files and their first titles.")
 

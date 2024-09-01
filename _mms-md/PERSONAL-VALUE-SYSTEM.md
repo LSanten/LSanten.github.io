@@ -23,11 +23,17 @@ My baseline values include:
 
 ### Quotes that resonate and drive my work
  >*"the cause of the crisis is in the injustice"* so we need to *transform relationships of power* 
+ >
+ >~ Gopal Dayaneni @ Pachamama Conference 2023
  
+(see more under [[CLIMATE-CHANGE-A]])
 
--Gopal Dayaneni @ Pachamama Conference 2023; (see more under [[CLIMATE-CHANGE-A]])
 
 
 ### When I work with other people, these values come to mind
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FmD5UJsqvpUOGTyDATTcw2t%2Fweb-of-co-op-values%3Ftype%3Dwhiteboard%26t%3DfQMa0L0wEBQESzKN-1" allowfullscreen></iframe>
 Also see note [[COOP-PRINCIPLES]].
+
+### My movement from why to how to what
+This frameworks is inspired by [Simon Sinek's](https://youtu.be/qp0HIF3SfI4?si=WnfNJJMAL4t8W6Sk) video. He argues that communicating our why before we community our how and what helps others to build movement with us. 
+![](media/cleanshot_2024-09-01-at-14-40-52@2x.png)
