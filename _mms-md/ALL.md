@@ -14,7 +14,7 @@ layout: default
 - [[APP-IDEA-B]] - An app for different forms of communication: letters, short notices etc...
 - [[APP-IDEA-C]] - A cute sharing ideas among friends platform
 - [[APPS-USEFUL-A]] - Apps useful for planning 
-- [[AUTOPOIESIS-A]] - The essence of our social systems is reproduced in the structures they create
+- [[AUTOPOIESIS-A]] - How our social systems can be considered *alive* and reproduce their value essences
 - [[AYURVEDA-DOSHAS]] - The ayurvedic doshas
 - [[BELIEVING-A]] - if we believe, we can't think
 - [[BIOMIMICRY-A]] - Biomimicry lessons mapped against the wisdom of the Nonngar people of Western Australia

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PERSONAL-VALUE-SYSTEM.md",
+                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELECYT-LASER-VIZ-A.md",
+                "file": "COLLECTION-GRAPHICS-UI.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MEDIA-MOVEMENT-BUILDING-A.md",
+                "file": "MMSSystemicCooperationInterface-A.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eyt laser",
+                "query": "garden",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELECYT-LASER-VIZ-A.md",
+                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELECYT-LASER-VIZ-A.md",
+                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELECYT-LASER-VIZ-A.md"
+                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md"
               }
             }
           }
@@ -185,27 +184,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4660e3a02c728cec",
+  "active": "66be5fcfc3fca31b",
   "lastOpenFiles": [
+    "ROOTS-OF-RENEWABLES.md",
+    "COLLECTION-GRAPHICS-UI.md",
+    "MMSSystemicCooperationInterface-A.md",
+    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+    "ONTOLOGICAL-PRIMITIVES.md",
+    "AUTOPOIESIS-A.md",
     "ALL.md",
+    "MMSCommuniB.md",
+    "PERSONAL-VALUE-SYSTEM.md",
+    "MMSHomepage.md",
+    "MMSQ-Transdisciplinary-awareness.md",
+    "MEDIA-MOVEMENT-BUILDING-A.md",
+    "ELECYT-LASER-VIZ-A.md",
     "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
     "media/cleanshot_2024-08-25-at-14-49-46@2x.png",
     "CREATIVE-MARKETING-RESOURCE-A.md",
-    "MEDIA-MOVEMENT-BUILDING-A.md",
-    "PERSONAL-VALUE-SYSTEM.md",
-    "ROOTS-OF-RENEWABLES.md",
     "media/cleanshot_2024-09-01-at-14-40-52@2x.png",
-    "ONTOLOGICAL-PRIMITIVES.md",
     "MESH-EJ-THESIS.md",
     "MESH-CAP-EPIST-A.md",
     "media/cleanshot_2024-08-29-at-16-59-32@2x.png",
     "media/cleanshot_2024-08-29-at-16-54-38@2x.png",
-    "MMSQ-Transdisciplinary-awareness.md",
-    "COLLECTION-GRAPHICS-UI.md",
-    "MMSSystemicCooperationInterface-A.md",
     "MMSDigitalComA.md",
     "NATEL-ENERGY-MEDIA.md",
-    "AUTOPOIESIS-A.md",
     "MMSPhilOfSciA.md",
     "media/MMSPhilOfSciA_13.png",
     "media/MMSPhilOfSciA_12.png",
@@ -222,15 +225,12 @@
     "media/MMSPhilOfSciA_2 copy 2.png.tmp$$",
     "media/MMSPhilOfSciA_1.png.tmp$$",
     "MMSHistOfSci-A.md",
-    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
     "INNOVATORS-COMPASS-A.md",
     "MMSSocialReproductionB.md",
     "TEST.md",
     "SURVIVAL-OF-THE-FRIENDLIEST.md",
     "SPIRIT-PODCASTS.md",
-    "AYURVEDA-DOSHAS.md",
     "media/D59E8B7F-8DA7-4902-BBEA-9E338850E740_1_201_a.heic",
-    "BOUNDARY-SPANNING.md",
     "template-for-marbles.html"
   ]
 }
