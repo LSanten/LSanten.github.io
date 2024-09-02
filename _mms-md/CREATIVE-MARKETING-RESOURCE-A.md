@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-## Personal marketing - how great leaders inspire action
+# Personal marketing - how great leaders inspire action
 *framework by Simon Sinek*
 
 He argues that communicating our why before we community our how and what helps others to build movement with us: start with what you believe and why you do it

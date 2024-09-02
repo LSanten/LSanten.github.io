@@ -50,7 +50,7 @@ layout: default
 - [[CONFERENCE-COMMUNI-OVERV]] - A list of ideas for improving conference or retreat style conversations
 - [[COOP-EXPECTATIONS]] - No Title
 - [[COOP-PRINCIPLES]] - Coopeartive Principles
-- [[CREATIVE-MARKETING-RESOURCE-A]] - No Title
+- [[CREATIVE-MARKETING-RESOURCE-A]] - Personal marketing - how great leaders inspire action
 - [[CUTE-A]] - Name idea: the lame baby club
 - [[DEATH-A]] - It’s all about the ability to create relationships and let go of relationships. 
 - [[DEGROWTH-SDG-IPCC]] - SDGs addressed by degrowth
