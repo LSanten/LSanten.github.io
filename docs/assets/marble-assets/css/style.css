@@ -1656,3 +1656,8 @@ blockquote a:hover{
 blockquote em{
   font-style: italic;
 }
+
+iframe {
+    width: 100% !important;
+}
+
