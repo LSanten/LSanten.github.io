@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSQ-Transdisciplinary-awareness.md",
+                "file": "QUOTES-CREATION-PEACE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d1a47f616d26333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMSPhilOfSciA.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MMSQ",
+                "query": "philof",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MMSQ-Transdisciplinary-awareness.md",
+                "file": "MMSPhilOfSciA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MMSQ-Transdisciplinary-awareness.md",
+                "file": "MMSPhilOfSciA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MMSQ-Transdisciplinary-awareness.md"
+                "file": "MMSPhilOfSciA.md"
               }
             }
           }
@@ -219,26 +231,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad31a96979d45bad",
+  "active": "3d1a47f616d26333",
   "lastOpenFiles": [
+    "media/cleanshot_2024-09-03-at-16-40-24@2x.png",
+    "media/MMSPhilOfSciA_8.png",
+    "media/MMSPhilOfSciA_7.png",
+    "media/MMSPhilOfSciA_8.png.tmp$$",
+    "media/MMSPhilOfSciA_6.png",
+    "media/MMSPhilOfSciA_5.png",
+    "media/MMSPhilOfSciA_7.png.tmp$$",
+    "media/MMSPhilOfSciA_6.png.tmp$$",
+    "media/MMSPhilOfSciA_4.png",
+    "media/MMSPhilOfSciA_5.png.tmp$$",
+    "media/MMSPhilOfSciA_3.png",
+    "media/MMSPhilOfSciA_4.png.tmp$$",
+    "media/MMSPhilOfSciA_1.png",
+    "media/MMSPhilOfSciA_2.png",
+    "media/MMSPhilOfSciA_3.png.tmp$$",
+    "media/MMSPhilOfSciA_2.png.tmp$$",
+    "media/MMSPhilOfSciA_1.png.tmp$$",
+    "media/MMSPhilOfSciA_3-05.png",
+    "media/MMSPhilOfSciA_3-03.png",
+    "media/MMSPhilOfSciA_3-05.png.tmp$$",
+    "media/MMSPhilOfSciA_3-03.png.tmp$$",
     "ALL.md",
+    "QUOTES-INJUSTICE-SILENCE.md",
+    "QUOTES-CREATION-PEACE.md",
+    "MMSQ-Transdisciplinary-awareness.md",
     "JUST-TRANSITION-PRINC.md",
     "ROOTS-OF-RENEWABLES.md",
     "LIVESTOCK-LAND-HOUSING-HOUSELESS.md",
     "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
     "AGRICULTURE-A.md",
     "RADICALNESS.md",
-    "media/roots-of-renewables.png",
     "PLANT-BASED-DIET-A.md",
     "MMSMeatStickA.md",
     "COLLECTION-GRAPHICS-UI.md",
     "GRAPHIC-DESIGN-TIPS-COLLECTION.md",
-    "media/cleanshot_2024-09-02-at-19-11-16@2x.png",
-    "media/cleanshot_2024-09-02-at-19-09-45@2x.png",
-    "media/cleanshot_2024-09-02-at-19-05-16@2x.png",
-    "media/cleanshot_2024-09-02-at-19-01-58@2x.png",
-    "media/cleanshot_2024-09-02-at-18-58-04@2x.png",
-    "media/cleanshot_2024-09-02-at-18-34-40@2x.png",
     "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
     "AUTOPOIESIS-A.md",
     "CREATIVE-MARKETING-RESOURCE-A.md",
@@ -249,23 +278,6 @@
     "MMSCommuniB.md",
     "PERSONAL-VALUE-SYSTEM.md",
     "MMSHomepage.md",
-    "MMSQ-Transdisciplinary-awareness.md",
-    "ELECYT-LASER-VIZ-A.md",
-    "media/cleanshot_2024-08-25-at-14-49-46@2x.png",
-    "media/cleanshot_2024-09-01-at-14-40-52@2x.png",
-    "MESH-EJ-THESIS.md",
-    "MESH-CAP-EPIST-A.md",
-    "media/cleanshot_2024-08-29-at-16-59-32@2x.png",
-    "MMSDigitalComA.md",
-    "media/MMSPhilOfSciA_6.png.tmp$$",
-    "media/MMSPhilOfSciA_4.png.tmp$$",
-    "media/MMSPhilOfSciA_3-05.png.tmp$$",
-    "media/MMSPhilOfSciA_3-03.png.tmp$$",
-    "media/MMSPhilOfSciA_2.png.tmp$$",
-    "media/MMSPhilOfSciA_2 copy.png.tmp$$",
-    "media/MMSPhilOfSciA_2 copy 2.png.tmp$$",
-    "media/MMSPhilOfSciA_1.png.tmp$$",
-    "media/D59E8B7F-8DA7-4902-BBEA-9E338850E740_1_201_a.heic",
-    "template-for-marbles.html"
+    "ELECYT-LASER-VIZ-A.md"
   ]
 }

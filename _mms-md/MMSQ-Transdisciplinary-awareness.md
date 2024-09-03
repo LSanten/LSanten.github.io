@@ -27,7 +27,7 @@ I posted this question on August 17th 2024 on LinkedIn and Instagram. I compiled
 - Hylo is a bio-regional collaboration network with great offers & needs features ([link](https://www.hylo.com/))
 
 ### Emerging projects and communities
-- Complex Chaos - "Helping humanity cooperate" ([link](https://www.linkedin.com/company/complexchaos-ai/posts/?feedView=all) and [article](https://www.linkedin.com/pulse/genesis-evolution-complexchaos-tomy-lorsch-kqoic/?trackingId=%2F08tU%2Ba85lU2pqTikMsN1g%3D%3D) )
+- Complex Chaos - "Helping humanity cooperate" ([link](https://www.linkedin.com/company/complexchaos-ai/posts/?feedView=all) and [article](https://www.linkedin.com/pulse/genesis-evolution-complexchaos-tomy-lorsch-kqoic/?trackingId=%2F08tU%2Ba85lU2pqTikMsN1g%3D%3D) )q
 
 ### Regarding LinkedIn
 - LinkedIn works surprisingly well to connect us with exciting new people across disciplines
