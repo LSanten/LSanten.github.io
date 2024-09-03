@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JUST-TRANSITION-PRINC.md",
+                "file": "MMSQ-Transdisciplinary-awareness.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +85,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIVESTOCK-LAND-HOUSING-HOUSELESS.md",
+                "file": "ROOTS-OF-RENEWABLES.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "natel energy",
+                "query": "MMSQ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
+                "file": "MMSQ-Transdisciplinary-awareness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
+                "file": "MMSQ-Transdisciplinary-awareness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NATEL-ENERGY-FISH-SAFE-STUDIES.md"
+                "file": "MMSQ-Transdisciplinary-awareness.md"
               }
             }
           }
@@ -219,15 +219,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2583522d5ab6bf70",
+  "active": "ad31a96979d45bad",
   "lastOpenFiles": [
-    "ROOTS-OF-RENEWABLES.md",
-    "AGRICULTURE-A.md",
+    "ALL.md",
     "JUST-TRANSITION-PRINC.md",
+    "ROOTS-OF-RENEWABLES.md",
+    "LIVESTOCK-LAND-HOUSING-HOUSELESS.md",
+    "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
+    "AGRICULTURE-A.md",
     "RADICALNESS.md",
     "media/roots-of-renewables.png",
     "PLANT-BASED-DIET-A.md",
-    "LIVESTOCK-LAND-HOUSING-HOUSELESS.md",
     "MMSMeatStickA.md",
     "COLLECTION-GRAPHICS-UI.md",
     "GRAPHIC-DESIGN-TIPS-COLLECTION.md",
@@ -244,13 +246,11 @@
     "MMSSystemicCooperationInterface-A.md",
     "MMSCommuniA.md",
     "ONTOLOGICAL-PRIMITIVES.md",
-    "ALL.md",
     "MMSCommuniB.md",
     "PERSONAL-VALUE-SYSTEM.md",
     "MMSHomepage.md",
     "MMSQ-Transdisciplinary-awareness.md",
     "ELECYT-LASER-VIZ-A.md",
-    "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
     "media/cleanshot_2024-08-25-at-14-49-46@2x.png",
     "media/cleanshot_2024-09-01-at-14-40-52@2x.png",
     "MESH-EJ-THESIS.md",

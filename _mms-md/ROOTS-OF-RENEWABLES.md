@@ -2,7 +2,7 @@
 layout: default
 authors: Leon Santen, Odalys Benitez
 ---
-# What would it mean to be a radical climate justice engineer?
+# Visualizing the roots of renewables
 The word *radical* inherits its meaning from latin, meaning *rooted*. Radicalness means to go back to the roots of the injustice (see more on [radicalness](RADICALNESS.md)).
 
 Green energy here but at what cost in the global south?
