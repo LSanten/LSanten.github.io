@@ -3,9 +3,29 @@ layout: default
 title: "Mmsphilofscia"
 ---
 
-# One building block for Philosophy of Science
+# Building blocks for my philosophy of science
+
+![](media/MMSPhilOfSciA_1.png)
+
+![](media/MMSPhilOfSciA_2.png)
+
+![](media/MMSPhilOfSciA_3.png)
+
+![](media/MMSPhilOfSciA_5.png)
+
+### This table should have queer methodologies
+![](media/MMSPhilOfSciA_6.png)
+
+![](media/cleanshot_2024-09-03-at-16-40-24@2x.png)
 
 
+![](media/MMSPhilOfSciA_4.png)
+
+
+
+
+## Other pieces that could important in the right context
+![](media/MMSPhilOfSciA_7.png)
 
 
 "every form of acquiring knowledge is just a form of story telling that adhered to its own guidlines of validity" - Reem

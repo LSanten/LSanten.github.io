@@ -164,7 +164,7 @@ layout: default
 - [[MMSMusicStorageA]] - storing playlists and artists visually would help browsing, memory, and create a feeling of realtionship to the collection
 - [[MMSNutritionLabeling]] - Envisioning nutrition in grocery stores and on tech products
 - [[MMSOlinSystemsBuilding]] - No Title
-- [[MMSPhilOfSciA]] - One building block for Philosophy of Science
+- [[MMSPhilOfSciA]] - Building blocks for my philosophy of science
 - [[MMSQ-Transdisciplinary-awareness]] - Question to the community: How do you stay aware of people's efforts and insights beyond your own discipline?
 - [[MMSSensingA]] - A visual methaphor for the process/phenomenon of sensing our world and feeling the whole reality
 - [[MMSSocialReproductionA]] - Autopoiesis and the re-production of social systems 
@@ -211,6 +211,7 @@ layout: default
 - [[PropOfSciences]] - the propositions or interests of the social & natural sciences
 - [[PROSPERITY-A]] - How to define prosperity (in the context of degrowth)
 - [[QUOTES-CREATION-PEACE]] - No Title
+- [[QUOTES-INJUSTICE-SILENCE]] - No Title
 - [[RADICALNESS]] - Radicalness means to go back to the roots of the injustice
 - [[READING-RECS-A]] - Philosophical readings that I want to share with all my friends
 - [[RECYCLING-A]] - Avoided CO2 emission for recycling & avoided production for various materials 
