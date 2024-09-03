@@ -35,7 +35,7 @@ Through organizing my network of scientists and activists across disciplines, I 
 
 On a conceptual level, I want to emphasize that we can think of interfaces as places for information. We need to pay close attention to the structure of these places because structure conditions behavior.
 
-Below is an adjacent design construct that I developed to share project work with people to continue *movement building* within the project's field. Why is this important? Well, we don't care about sharing a project to brag. **We want to share so others can jump on the train**. But to do that, we need to share about particular parts of the project. The information container below needs more work but is based on the  [movement building media principles](MEDIA-MOVEMENT-BUILDING-A.md) , which have proven to be very effective in developing the design concept below. I hope it makes sense! 
+Below is an adjacent design construct that I developed to share project work with people to continue *movement building* within the project's field. Why is this important? Well, we don't care about sharing a project to brag. **We want to share so others can jump on the train**. But to do that, we need to share about particular parts of the project. The information container below needs more work but is based on the [movement building media principles](MEDIA-MOVEMENT-BUILDING-A.md) , which have proven to be very effective in developing the design concept below. I hope it makes sense! 
 
 ![](media/MESH-CAP_summary-graphics-HIGH-RES-07.png)
 

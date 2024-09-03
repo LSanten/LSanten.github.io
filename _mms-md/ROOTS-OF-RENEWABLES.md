@@ -2,20 +2,23 @@
 layout: default
 authors: Leon Santen, Odalys Benitez
 ---
-Hi friend, thanks for reading. I have many thoughts but need your help understanding if the illustration below speaks for itself. I want to keep it concise and but also cover a few adjacent thoughts. Is there a message that you consider important and should be added to this? 
+# What would it mean to be a radical climate justice engineer?
+The word *radical* inherits its meaning from latin, meaning *rooted*. Radicalness means to go back to the roots of the injustice (see more on [radicalness](RADICALNESS.md)).
 
-![](media/IMG_0128.jpeg)
+Green energy here but at what cost in the global south?
+
+![](media/roots-of-renewables.png)
+
+
 
 
 add in the middle: radical engineering means to go back to the roots of the injustice
 
-conclusion: we don't need to be perfect right now but we need to be vulnerable enough to grow
-## contemplating the ending punch
-![](media/cleanshot_2024-08-17-at-22-57-49@2x.png)
 
-![](media/cleanshot_2024-08-17-at-22-59-13@2x.png)
-our current engineers systems will hurt this planet. 
-the largest 
+What if engineers were transparent/honest about the roots of their "clean" products?
+Subtitle: only when we admit shortcomings, can we address them in the future. 
+conclusion: we don't need to be perfect right now but we need to be vulnerable enough to grow
+
 ## inspiration evolved from this earlier illustration 
 
 ![](media/cleanshot_2024-07-27-at-17-48-57@2x.png)
@@ -23,9 +26,9 @@ the largest
 
 ## other title ideas for the first illustration
 - what would it mean to be a radical engineer?
-- The word *radical* inherits its meaning from latin, meaning *rooted*. Radicalness means to go back to the roots of the injustice. \
+- \
 - Radical engineers would therefore share transparently about areas of their work that contribute to injustices. 
-- green energy here but at what cost in the global south? 
+- 
 ## more options 
 
 I am currently unsure what narrative works best. Some narratives are below. The draft image is another potential narrative:
@@ -71,10 +74,21 @@ When will engineers transparently design for eco-social stability with the same 
 
 
 
-## history of images
+## Old versions
 
+
+V3
+![](media/IMG_0128.jpeg)
 V2
 ![](media/cleanshot_2024-08-17-at-22-33-05@2x.png)
 
 V1
 ![](media/ROOTS-OF-RENEWABLES_1.png)
+
+
+## contemplating the ending punch
+![](media/cleanshot_2024-08-17-at-22-57-49@2x.png)
+
+![](media/cleanshot_2024-08-17-at-22-59-13@2x.png)
+our current engineers systems will hurt this planet. 
+the largest 

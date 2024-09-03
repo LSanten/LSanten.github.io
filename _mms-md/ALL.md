@@ -92,6 +92,7 @@ layout: default
 - [[FREE-WILL-A]] - "The opposite of free will is not determinism but compulsion" 
 - [[GLUCOSE-A]] - No Title
 - [[GRADES-A]] - VISUAL: Grades are a sad mix of rejection and merely good enough
+- [[GRAPHIC-DESIGN-TIPS-COLLECTION]] - No Title
 - [[IMAGINATION-A]] - Immersion into the unknown & imagination
 - [[INDEXING-CODING-WHY]] - One perspective on why indexing and numbering arrays in coding is so weird
 - [[INNOVATORS-COMPASS-A]] - The design tool called "Innovators Compass"
@@ -109,6 +110,7 @@ layout: default
 - [[KNOWLEDGE-ORGANIZATION-A]] - No Title
 - [[letter-to-the-SF-Chronicle]] - A selection of graphics
 - [[LIBERATORY-DESIGN-A]] - No Title
+- [[LIVESTOCK-LAND-HOUSING-HOUSELESS]] - Illustration that compares land used for livestock compared with land needed to house houseless folks
 - [[LUHMANN-COMMUNI-A]] - It is not individuals but the structures through which they communicate that build our social systems (which are different from psychic systems) 
 - [[LUHMANN-COMMUNI-B]] - Communication "arises through a synthesis of three different selections, namely, selection of information, selection of the utterance of  this information, and a selective understanding or misunderstanding of this utterance and its information"
 - [[MANTRA-GAYATRI]] - The Gayatri mantra
@@ -191,6 +193,7 @@ layout: default
 - [[PED-OF-LOVE]] - No Title
 - [[PERSONAL-VALUE-SYSTEM]] - My value system 
 - [[PHENOMENA-A]] - Phenomena of life
+- [[PLANT-BASED-DIET-A]] - Plant-based diet facts from documentary "The Game Changers"
 - [[PLUS1SOUNDA]] - Loud high pitch sounds damage your ears more than low pitch sounds
 - [[POLICY-RESTAURANT-A]] - very easy policy: all restaurants use only reusable to go boxes
 - [[PORTFOLIO-SYSTEMS-THINKING-ILLUSTRATIONS]] - No Title
@@ -222,7 +225,7 @@ layout: default
 - [[RESUME-WRITINGS-B]] - Spirituality and ecological justice: How can we transform ourselves?
 - [[RESUME-WRITINGS-C]] - Envisioning architectural & engineering relationships to the land inspired by  indigenous ways of being
 - [[RESUME-WRITINGS-UPLOAD]] - Things that need to uploaded to the writings section
-- [[ROOTS-OF-RENEWABLES]] - No Title
+- [[ROOTS-OF-RENEWABLES]] - What would it mean to be a radical climate justice engineer?
 - [[SCIENCE-OF-HOLISM-FRAMEWORK]] - No Title
 - [[SEEDS-A]] - Commercial agriculture uses low variety of seeds
 - [[SENSING-B]] - Otto scharmers framework for turning inward to see the external system within ourselves

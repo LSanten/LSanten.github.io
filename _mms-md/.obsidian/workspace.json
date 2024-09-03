@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROOTS-OF-RENEWABLES.md",
+                "file": "JUST-TRANSITION-PRINC.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COLLECTION-GRAPHICS-UI.md",
+                "file": "AGRICULTURE-A.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CREATIVE-MARKETING-RESOURCE-A.md",
+                "file": "ROOTS-OF-RENEWABLES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a44b746785c5dae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMSMeatStickA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d381409474a7b40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PLANT-BASED-DIET-A.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38a82d00d4283260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIVESTOCK-LAND-HOUSING-HOUSELESS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "creative",
+                "query": "agricult",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CREATIVE-MARKETING-RESOURCE-A.md",
+                "file": "ROOTS-OF-RENEWABLES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CREATIVE-MARKETING-RESOURCE-A.md",
+                "file": "ROOTS-OF-RENEWABLES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,17 +199,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CREATIVE-MARKETING-RESOURCE-A.md"
+                "file": "ROOTS-OF-RENEWABLES.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,50 +221,50 @@
   },
   "active": "2583522d5ab6bf70",
   "lastOpenFiles": [
-    "MMSSystemicCooperationInterface-A.md",
-    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+    "AGRICULTURE-A.md",
+    "JUST-TRANSITION-PRINC.md",
     "ROOTS-OF-RENEWABLES.md",
+    "RADICALNESS.md",
+    "media/roots-of-renewables.png",
+    "PLANT-BASED-DIET-A.md",
+    "LIVESTOCK-LAND-HOUSING-HOUSELESS.md",
+    "MMSMeatStickA.md",
     "COLLECTION-GRAPHICS-UI.md",
-    "ONTOLOGICAL-PRIMITIVES.md",
+    "GRAPHIC-DESIGN-TIPS-COLLECTION.md",
+    "media/cleanshot_2024-09-02-at-19-11-16@2x.png",
+    "media/cleanshot_2024-09-02-at-19-09-45@2x.png",
+    "media/cleanshot_2024-09-02-at-19-05-16@2x.png",
+    "media/cleanshot_2024-09-02-at-19-01-58@2x.png",
+    "media/cleanshot_2024-09-02-at-18-58-04@2x.png",
+    "media/cleanshot_2024-09-02-at-18-34-40@2x.png",
+    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
     "AUTOPOIESIS-A.md",
+    "CREATIVE-MARKETING-RESOURCE-A.md",
+    "MEDIA-MOVEMENT-BUILDING-A.md",
+    "MMSSystemicCooperationInterface-A.md",
+    "MMSCommuniA.md",
+    "ONTOLOGICAL-PRIMITIVES.md",
     "ALL.md",
     "MMSCommuniB.md",
     "PERSONAL-VALUE-SYSTEM.md",
     "MMSHomepage.md",
     "MMSQ-Transdisciplinary-awareness.md",
-    "MEDIA-MOVEMENT-BUILDING-A.md",
     "ELECYT-LASER-VIZ-A.md",
     "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
     "media/cleanshot_2024-08-25-at-14-49-46@2x.png",
-    "CREATIVE-MARKETING-RESOURCE-A.md",
     "media/cleanshot_2024-09-01-at-14-40-52@2x.png",
     "MESH-EJ-THESIS.md",
     "MESH-CAP-EPIST-A.md",
     "media/cleanshot_2024-08-29-at-16-59-32@2x.png",
-    "media/cleanshot_2024-08-29-at-16-54-38@2x.png",
     "MMSDigitalComA.md",
-    "NATEL-ENERGY-MEDIA.md",
-    "MMSPhilOfSciA.md",
-    "media/MMSPhilOfSciA_13.png",
-    "media/MMSPhilOfSciA_12.png",
-    "media/MMSPhilOfSciA_3-05.png",
     "media/MMSPhilOfSciA_6.png.tmp$$",
-    "media/MMSPhilOfSciA_3-03.png",
     "media/MMSPhilOfSciA_4.png.tmp$$",
     "media/MMSPhilOfSciA_3-05.png.tmp$$",
     "media/MMSPhilOfSciA_3-03.png.tmp$$",
-    "media/MMSPhilOfSciA_2 copy.png",
     "media/MMSPhilOfSciA_2.png.tmp$$",
-    "media/MMSPhilOfSciA_2 copy 2.png",
     "media/MMSPhilOfSciA_2 copy.png.tmp$$",
     "media/MMSPhilOfSciA_2 copy 2.png.tmp$$",
     "media/MMSPhilOfSciA_1.png.tmp$$",
-    "MMSHistOfSci-A.md",
-    "INNOVATORS-COMPASS-A.md",
-    "MMSSocialReproductionB.md",
-    "TEST.md",
-    "SURVIVAL-OF-THE-FRIENDLIEST.md",
-    "SPIRIT-PODCASTS.md",
     "media/D59E8B7F-8DA7-4902-BBEA-9E338850E740_1_201_a.heic",
     "template-for-marbles.html"
   ]
