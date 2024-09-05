@@ -49,6 +49,13 @@ Leon's design work for building trans-disciplinary communication spaces is summa
 >
 >~ Wout-Jan Koridon
 
+
+>Thanks [](https://www.linkedin.com/in/ACoAABpQN6kB70-BxMUQNnHly1PP7Gqbp92iBHU)[Hajar Tazi](https://www.linkedin.com/in/hajargaia/)! This is such a vital exploration. As far as [Holistic Systems Cooperative](https://www.linkedin.com/company/holisticsystems/), we are primarily concentrating on the question of how individuals can meet our needs and earn a meaningful livelihood while also cultivating societal transformation. Our approach functions similarly to how you mentioned and that Gaianet is creating. Such as a member database where we can match people’s needs and offerings. In addition, a reputation system can help create more trust and efficiency in working together. 
+>
+>The unique aspect of what we’re developing is the exchange and sharing of value. So in addition to connecting members, we’re creating a contribution-based ecosystem where people can exchange services & goods without the need for fiat money, and where we can all add the multitude types of value we bring to a growing pool that helps support all involved. This includes social capital such as reputation, referrals, and community support. Or intellectual capital such as knowledge or templates. 
+>
+>In practical terms, it’s an opportunity for professional development and capitalizing our unused capacity. At the same time, we’re able to experiment in developing novel economic systems. I know others are working on similar ideas also.
+
 ## Other important insights
 ### Framework: we need the archetypes of *head, heart, and hands*
 - Hajar Tazi re-surfaced the importance of integrating all three archetypes

@@ -7,8 +7,13 @@ The word *radical* inherits its meaning from latin, meaning *rooted*. Radicalnes
 
 Green energy here but at what cost in the global south?
 
-![](media/roots-of-renewables.png)
+What if engineers were transparent/honest about the roots of their "clean" products?
+Subtitle: only when we admit shortcomings, can we address them in the future. 
+conclusion: we don't need to be perfect right now but we need to be vulnerable enough to grow.
 
+
+
+![](media/roots-of-renewables.png)
 
 
 
@@ -17,7 +22,7 @@ add in the middle: radical engineering means to go back to the roots of the inju
 
 What if engineers were transparent/honest about the roots of their "clean" products?
 Subtitle: only when we admit shortcomings, can we address them in the future. 
-conclusion: we don't need to be perfect right now but we need to be vulnerable enough to grow
+
 
 ## inspiration evolved from this earlier illustration 
 
@@ -76,6 +81,8 @@ When will engineers transparently design for eco-social stability with the same 
 
 ## Old versions
 
+V4
+![](media/roots-of-renewables-old.png)
 
 V3
 ![](media/IMG_0128.jpeg)

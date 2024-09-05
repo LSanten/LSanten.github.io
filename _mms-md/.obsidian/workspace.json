@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QUOTES-CREATION-PEACE.md",
+                "file": "MCGILCHRIST2021-VID.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSPhilOfSciA.md",
+                "file": "MMSCommuniB.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,55 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AGRICULTURE-A.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2583522d5ab6bf70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a44b746785c5dae6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMSMeatStickA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d381409474a7b40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PLANT-BASED-DIET-A.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38a82d00d4283260",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROOTS-OF-RENEWABLES.md",
+                "file": "MMSPhilOfSciA.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "philof",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,12 +102,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 266.5
   },
   "right": {
     "id": "493ec273596b77eb",
@@ -171,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MMSPhilOfSciA.md",
+                "file": "MMSCommuniB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MMSPhilOfSciA.md",
+                "file": "MMSCommuniB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MMSPhilOfSciA.md"
+                "file": "MMSCommuniB.md"
               }
             }
           }
@@ -233,6 +184,23 @@
   },
   "active": "3d1a47f616d26333",
   "lastOpenFiles": [
+    "MCGILCHRIST2021-VID.md",
+    "MMSCommuniA.md",
+    "TEST.md",
+    "ALL.md",
+    "MESH-CAP-EPIST-A.md",
+    "MILIT-A.md",
+    "MMSQ-Transdisciplinary-awareness.md",
+    "MMSPhilOfSciA.md",
+    "QUOTES-CREATION-PEACE.md",
+    "AGRICULTURE-A.md",
+    "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
+    "MMSMeatStickA.md",
+    "INSPIRATION-ILLUSTRATIONS.md",
+    "media/cleanshot_2024-09-04-at-14-34-55@2x.png",
+    "ROOTS-OF-RENEWABLES.md",
+    "media/roots-of-renewables.png",
+    "media/roots-of-renewables-old.png",
     "media/cleanshot_2024-09-03-at-16-40-24@2x.png",
     "media/MMSPhilOfSciA_8.png",
     "media/MMSPhilOfSciA_7.png",
@@ -245,39 +213,22 @@
     "media/MMSPhilOfSciA_5.png.tmp$$",
     "media/MMSPhilOfSciA_3.png",
     "media/MMSPhilOfSciA_4.png.tmp$$",
-    "media/MMSPhilOfSciA_1.png",
-    "media/MMSPhilOfSciA_2.png",
     "media/MMSPhilOfSciA_3.png.tmp$$",
     "media/MMSPhilOfSciA_2.png.tmp$$",
     "media/MMSPhilOfSciA_1.png.tmp$$",
-    "media/MMSPhilOfSciA_3-05.png",
-    "media/MMSPhilOfSciA_3-03.png",
     "media/MMSPhilOfSciA_3-05.png.tmp$$",
     "media/MMSPhilOfSciA_3-03.png.tmp$$",
-    "ALL.md",
     "QUOTES-INJUSTICE-SILENCE.md",
-    "QUOTES-CREATION-PEACE.md",
-    "MMSQ-Transdisciplinary-awareness.md",
     "JUST-TRANSITION-PRINC.md",
-    "ROOTS-OF-RENEWABLES.md",
     "LIVESTOCK-LAND-HOUSING-HOUSELESS.md",
-    "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
-    "AGRICULTURE-A.md",
     "RADICALNESS.md",
     "PLANT-BASED-DIET-A.md",
-    "MMSMeatStickA.md",
     "COLLECTION-GRAPHICS-UI.md",
     "GRAPHIC-DESIGN-TIPS-COLLECTION.md",
     "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
     "AUTOPOIESIS-A.md",
     "CREATIVE-MARKETING-RESOURCE-A.md",
     "MEDIA-MOVEMENT-BUILDING-A.md",
-    "MMSSystemicCooperationInterface-A.md",
-    "MMSCommuniA.md",
-    "ONTOLOGICAL-PRIMITIVES.md",
-    "MMSCommuniB.md",
-    "PERSONAL-VALUE-SYSTEM.md",
-    "MMSHomepage.md",
-    "ELECYT-LASER-VIZ-A.md"
+    "MMSSystemicCooperationInterface-A.md"
   ]
 }
