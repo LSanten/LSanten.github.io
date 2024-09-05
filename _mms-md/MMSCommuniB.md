@@ -8,7 +8,8 @@ I tend to think about weekly patterns visually and regularly reflect on my phone
 
 ________
 
-#visualizing-time #time-management #phone-usage
+#visualizing-time #time-management #phone-usage #rhythms #weekly-rhythm
+
 
 
 
