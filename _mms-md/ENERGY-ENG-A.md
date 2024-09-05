@@ -13,6 +13,12 @@ This is because all Western governments plan on increasing energy consumption du
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/sgOEGKDVvsg?si=SpxArLbni58gAdht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
+
+## The massive amount of materials needed 
+![](media/cleanshot_2024-09-04-at-22-17-31@2x.png)
+
+![](media/cleanshot_2024-09-04-at-22-16-10@2x.png)
+
 The increased need for mining and extractive processes across the globe relates to my illustration [ROOTS-OF-RENEWABLES](ROOTS-OF-RENEWABLES.md).
 
 ## Degrowth and prosperity

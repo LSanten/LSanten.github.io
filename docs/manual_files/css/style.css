@@ -1160,8 +1160,8 @@ mark {
   text-align: center;
 }
 .widget-about img {
-  height: 170px;
-  width: 170px;
+  height: 250px;
+  width: 250px;
   -o-object-fit: cover;
      object-fit: cover;
   border-radius: 50%;
@@ -1172,8 +1172,8 @@ mark {
 }
 @media (max-width: 1200px) {
   .widget-about img {
-    height: 150px;
-    width: 150px;
+    height: 200px;
+    width: 200px;
   }
 }
 .widget-author .media {
