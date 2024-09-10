@@ -30,10 +30,9 @@ Leon 🌻
 *they/any* <br>
 
 
-
 [leonsanten.info](https://leonsanten.info/)<br>+1 (781)535-4848<br>lsanten@olin.edu
 
-💠 [my resume for you](https://leonsanten.info/pdfs/energy-democracy-resume.pdf) 💠
+💠 [my resume for you](https://leonsanten.info/pdfs/energy-democracy-resume.pdf) 💠 
 
 <center><img src="https://leonsanten.info/images/myself4.jpg" style="width: 30%; object-fit: contain; border-radius: 10px;"></center><br><br>
 
