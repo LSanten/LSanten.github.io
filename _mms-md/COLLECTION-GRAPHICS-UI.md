@@ -21,9 +21,9 @@ Let me share: visuals I create *when...*
 ![](media/MMSHealthAutopoiesis-merge-06.png)
 
 ## when I critically reflect with engineers...
-![](media/cleanshot_2024-07-27-at-17-48-57@2x.png)
+![](media/roots-of-renewables.png)
 
-![](media/ROOTS-OF-RENEWABLES_1.png)
+![](media/cleanshot_2024-07-27-at-17-48-57@2x.png)
 
 ![](media/cleanshot_2024-07-27-at-17-51-14@2x.png)
 

@@ -19,6 +19,7 @@ layout: default
 - [[BELIEVING-A]] - if we believe, we can't think
 - [[BIOMIMICRY-A]] - Biomimicry lessons mapped against the wisdom of the Nonngar people of Western Australia
 - [[BOOK-The-Art-of-Gathering]] - Book notes: "The Art of Gathering - How we meet and why it matters"
+- [[BOOK-The-Bliss-of-Inner-Fire]] - No Title
 - [[BOUNDARY-SPANNING]] - No Title
 - [[BUBBLE-HASHTAGS]] - List of hashtags used to indentify a variety of bubbles
 - [[CAPABILITIES-FOR-LIFE-FRAMEWORK]] - A framework to nurture life-centric capabilities.
@@ -108,6 +109,7 @@ layout: default
 - [[JUST-TRANSITION-PRINC]] - What are the Just Transition Principles?
 - [[KNOWING-A]] - It is normal to not know until we know
 - [[KNOWLEDGE-ORGANIZATION-A]] - No Title
+- [[letter-to-people-power-solar-cooperative]] - No Title
 - [[letter-to-the-SF-Chronicle]] - A selection of graphics
 - [[LIBERATORY-DESIGN-A]] - No Title
 - [[LIVESTOCK-LAND-HOUSING-HOUSELESS]] - Illustration that compares land used for livestock compared with land needed to house houseless folks
@@ -229,7 +231,7 @@ layout: default
 - [[ROOTS-OF-RENEWABLES]] - Visualizing the roots of renewables
 - [[SCIENCE-OF-HOLISM-FRAMEWORK]] - No Title
 - [[SEEDS-A]] - Commercial agriculture uses low variety of seeds
-- [[SENSING-B]] - Otto scharmers framework for turning inward to see the external system within ourselves
+- [[SENSING-B]] - Otto Scharmer's framework for turning inward to see the external system within ourselves
 - [[SETH-PRACTICES-A]] - Practices for energy, flow of qi, loosening, and reflection
 - [[SLOWING-DOWN-A]] - 
 - [[SMALLBUSINESS-RENT]] - if rent is low, businesses can sell for different prices if they also practice transparency and democratic shaping

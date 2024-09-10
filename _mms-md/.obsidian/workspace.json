@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+                "file": "ROOTS-OF-RENEWABLES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f78f28f2e0af91a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "letter-to-people-power-solar-cooperative.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENERGY-ENG-A.md",
+                "file": "MANTRA-GAYATRI.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSCommuniB.md",
+                "file": "COLLECTION-GRAPHICS-UI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,9 +97,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "energy eng",
+                "query": "collection",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENERGY-ENG-A.md",
+                "file": "letter-to-people-power-solar-cooperative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENERGY-ENG-A.md",
+                "file": "letter-to-people-power-solar-cooperative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENERGY-ENG-A.md"
+                "file": "letter-to-people-power-solar-cooperative.md"
               }
             }
           }
@@ -171,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,27 +196,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad31a96979d45bad",
+  "active": "f78f28f2e0af91a3",
   "lastOpenFiles": [
+    "COLLECTION-GRAPHICS-UI.md",
+    "MMSPhilOfSciA.md",
+    "ROOTS-OF-RENEWABLES.md",
+    "MMSCommuniB.md",
+    "letter-to-people-power-solar-cooperative.md",
+    "media/roots-of-renewables.png",
+    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+    "MANTRA-GAYATRI.md",
+    "SENSING-B.md",
+    "ALL.md",
+    "BOOK-The-Bliss-of-Inner-Fire.md",
+    "ENERGY-ENG-A.md",
     "media/cleanshot_2024-09-04-at-22-17-31@2x.png",
     "media/cleanshot_2024-09-04-at-22-16-10@2x.png",
     "MCGILCHRIST2021-VID.md",
-    "MMSCommuniB.md",
     "MMSCommuniA.md",
     "TEST.md",
-    "ALL.md",
     "MESH-CAP-EPIST-A.md",
     "MILIT-A.md",
     "MMSQ-Transdisciplinary-awareness.md",
-    "MMSPhilOfSciA.md",
     "QUOTES-CREATION-PEACE.md",
     "AGRICULTURE-A.md",
     "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
     "MMSMeatStickA.md",
     "INSPIRATION-ILLUSTRATIONS.md",
     "media/cleanshot_2024-09-04-at-14-34-55@2x.png",
-    "ROOTS-OF-RENEWABLES.md",
-    "media/roots-of-renewables.png",
     "media/roots-of-renewables-old.png",
     "media/cleanshot_2024-09-03-at-16-40-24@2x.png",
     "media/MMSPhilOfSciA_8.png",
@@ -213,7 +233,6 @@
     "media/MMSPhilOfSciA_5.png",
     "media/MMSPhilOfSciA_7.png.tmp$$",
     "media/MMSPhilOfSciA_6.png.tmp$$",
-    "media/MMSPhilOfSciA_4.png",
     "media/MMSPhilOfSciA_5.png.tmp$$",
     "media/MMSPhilOfSciA_4.png.tmp$$",
     "media/MMSPhilOfSciA_3.png.tmp$$",
@@ -224,12 +243,6 @@
     "QUOTES-INJUSTICE-SILENCE.md",
     "JUST-TRANSITION-PRINC.md",
     "LIVESTOCK-LAND-HOUSING-HOUSELESS.md",
-    "RADICALNESS.md",
-    "PLANT-BASED-DIET-A.md",
-    "COLLECTION-GRAPHICS-UI.md",
-    "GRAPHIC-DESIGN-TIPS-COLLECTION.md",
-    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
-    "AUTOPOIESIS-A.md",
-    "CREATIVE-MARKETING-RESOURCE-A.md"
+    "RADICALNESS.md"
   ]
 }
