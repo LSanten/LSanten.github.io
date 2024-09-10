@@ -13,7 +13,7 @@ You described yourself as technology agnostic. Wonderful way to put it! Related 
 >
 >I take intentional steps to embody the values **health, cooperation, care, and consent** and feel such a strong pull to your work because you emanate these frequencies back to me. 
 
-On a more technical level level, my experience spans managing and installing solar system upgrades, building sun trackers, wind turbine siting studies, and environmental research. However, I’ve found just as much value in the communication side of things, such as developing community-owned maintenance manuals and facilitating spaces for dialogue and collaboration. I’m passionate about growing as a communicator, facilitator, and space holder, and I consider these skills integral to my work.
+On a more technical level, my experience spans managing and installing solar system upgrades, building sun trackers, wind turbine siting studies, and environmental research. However, I’ve found just as much value in the communication side of things, such as developing community-owned maintenance manuals and facilitating spaces for dialogue and collaboration. I’m passionate about growing as a communicator, facilitator, and space holder, and I consider these skills integral to my work.
 
 I’m a self-starter with a strong ambition to interweave efforts as they align with larger goals. Many of the projects I’ve been involved in, whether it was constructing a tiny house using natural materials or co-founding a **self-governed permaculture off-the-grid program** for engineering students, were initiatives I nurtured through grant-writing and fundraising and grew from seed - rather than projects I was assigned to.
 
@@ -28,7 +28,12 @@ Warmly,
 Leon 🌻
 
 *they/any* <br>
-[leonsanten.info](https://leonsanten.info/)
+
+
+
+[leonsanten.info](https://leonsanten.info/)<br>+1 (781)535-4848<br>lsanten@olin.edu
+
+💠 [my resume for you](https://leonsanten.info/pdfs/energy-democracy-resume.pdf) 💠
 
 <center><img src="https://leonsanten.info/images/myself4.jpg" style="width: 30%; object-fit: contain; border-radius: 10px;"></center><br><br>
 
