@@ -5,6 +5,7 @@ layout: default
 - [[202308111213]] - No Title
 - [[202308212300]] - if we learn how to deal with stress, the healthy mechanisms stay healthy
 - [[202309131344]] - our economic system is intrinsically undemocractic 
+- [[ACADEMIC-IMPERIALISM]] - Indian sociologist Claude Alvares talks about academic imperialism
 - [[ADAPT-CHANGE]] - No Title
 - [[ADAPT-CYCLES-A]] - adaptive cycles help us to understand how to transform our systems
 - [[AGRICULTURE-A]] - Summary of emissions of agriculture and livestock
@@ -45,6 +46,7 @@ layout: default
 - [[COMMUNICATION-A]] - It seems crucial to talk about how we talk
 - [[COMMUNICATION-LIVING-ROOM]] - What should our communication space look like?
 - [[COMMUNITY-A]] - A saving dump of concepts and resources related to community building
+- [[COMPETITION-OVER-RESOURCES]] - No Title
 - [[COMPLEX-SYSTEMS-FRAMEWORK-A]] - Cynefin framework
 - [[COMPLEXITY-A]] - People and systems complexity 
 - [[CONFERENCE-COMMUNI-A]] - Tell people who participated or spoke up during a conference panel what you liked about their words and ways of speaking 
@@ -62,6 +64,7 @@ layout: default
 - [[ECOLOGY-A]] - Ecological problems originate in societal structures and problems
 - [[ECON-GROWTH-A]] - Neoliberalism did not even achieve bigger growth, instead it shifted capital from lower classes to upper classes 
 - [[EFFORT-BROKEN-FEEDBACK]] - Effort is evidence for broken feedback loops
+- [[ELECTRICITY-BOTTOM-BILLION]] - No Title
 - [[ELECYT-LASER-VIZ-A]] - An overview for my "laser music visualizer"
 - [[EMANCIPATORY-ACTION-RESEARCH-A]] - What is emancipatory action research?
 - [[ENERGY-CONSUMPTION-A]] - building energy use accounts for 40% of total energy use
@@ -155,12 +158,13 @@ layout: default
 - [[MMSCommuniA]] - Original intentions behind mostly.mutual.studio (also *My Marble Sharings*) 
 - [[MMSCommuniB]] - How I want to structure my week to reduce digital stimulation 
 - [[MMSDigitalComA]] - Communicating about communication between friends
-- [[MMSFinanceVisual]] - most of the money on this planet is not tied to any real valuable thing
+- [[MMSFinanceVisual]] - Most of the international transactions on this planet are not tied to any real valuable thing; gambles serving no social purpose but affecting everyone 
 - [[MMSHealthAutopoiesis]] - No Title
 - [[MMSHealthTechCommuniA]] - A proposal to change communication around and interface design for battery health
 - [[MMSHistOfSci-A]] - A critical synthesis: history of the scientific method
 - [[MMSHomepage]] - My pouch of marbles for *mostly.mutual studio*
 - [[MMSHothouse]] - No Title
+- [[MMSInTheWorks]] - Marbles in the works - mostly.mutual.studio
 - [[MMSLoans]] - The problems around issuing loans (the way banks are allowed to do it)
 - [[MMSMeatStickA]] - A sticker to speak to the innate nature of humans to refrain from causing immense animal suffering 
 - [[MMSMusicStorageA]] - storing playlists and artists visually would help browsing, memory, and create a feeling of realtionship to the collection
@@ -188,7 +192,7 @@ layout: default
 - [[ORG-A]] - How to tag my zettels
 - [[org-movement-building]] - No Title
 - [[org-people-power-solar-cooperative]] - No Title
-- [[OVERVIEW-CAPITALISM]] - what is capitalism
+- [[OVERVIEW-CAPITALISM]] - What is capitalism?
 - [[OVERVIEW-DEGROWTH]] - No Title
 - [[PEACE-A]] - You don't need and can't have nation state boarders for peace
 - [[PEACE-ENGINEERING-A]] - Peace engineering requires engineers to be integrated into the commuity
@@ -248,8 +252,9 @@ layout: default
 - [[SUST-JOBS]] - No Title
 - [[SYSTEMIC-CHANGE-A]] - No Title
 - [[SYSTEMIC-INTELLIGENCE-SPACE]] - No Title
+- [[SYSTEMIC-STORYTELLING-INTERFACE]] - Design pieces for systemic storytelling interface
 - [[TECH-INTERDEP-A]] - No Title
-- [[TEST]] - Test Links
+- [[TEST]] - This is the test document with a nice title complementing the rest
 - [[THREE-WELLBEING-THINGS]] - No Title
 - [[TRAGEDY-COMMONS-A]] - No Title
 - [[UNLEARNING-A]] - We need to completely rework & unlearn our lives and social systems

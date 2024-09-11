@@ -20,12 +20,48 @@
             }
           },
           {
+            "id": "6e241cf3f3877209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMSInTheWorks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f78f28f2e0af91a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "letter-to-people-power-solar-cooperative.md",
+                "file": "MMSFinanceVisual.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "875f04ce7715fe9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMSInTheWorks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90f06ad895347253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMSHistOfSci-A.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +85,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COLLECTION-GRAPHICS-UI.md",
+                "file": "COMPETITION-OVER-RESOURCES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a9ec2ab995de124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MILIT-A.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -97,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "collection",
+                "query": "milit",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -135,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "letter-to-people-power-solar-cooperative.md",
+                "file": "MILIT-A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "letter-to-people-power-solar-cooperative.md",
+                "file": "MILIT-A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "letter-to-people-power-solar-cooperative.md"
+                "file": "MILIT-A.md"
               }
             }
           }
@@ -196,41 +244,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f78f28f2e0af91a3",
+  "active": "8a9ec2ab995de124",
   "lastOpenFiles": [
-    "COLLECTION-GRAPHICS-UI.md",
-    "MMSPhilOfSciA.md",
-    "ROOTS-OF-RENEWABLES.md",
-    "MMSCommuniB.md",
+    "TEST.md",
+    "ALL.md",
     "letter-to-people-power-solar-cooperative.md",
+    "BOOK-The-Bliss-of-Inner-Fire.md",
+    "MMSFinanceVisual.md",
+    "MMSHistOfSci-A.md",
+    "INNOVATORS-COMPASS-A.md",
+    "OVERVIEW-CAPITALISM.md",
+    "COMPETITION-OVER-RESOURCES.md",
+    "ROOTS-OF-RENEWABLES.md",
+    "MMSInTheWorks.md",
+    "SYSTEMIC-STORYTELLING-INTERFACE.md",
+    "ELECTRICITY-BOTTOM-BILLION.md",
+    "ACADEMIC-IMPERIALISM.md",
+    "media/cleanshot_2024-09-11-at-14-16-35@2x.png",
+    "media/IMG_0134.gif",
+    "media/E2A74843-7757-4F99-B6C4-AE51F1354E05_1_102_o 1.jpeg",
+    "media/E2A74843-7757-4F99-B6C4-AE51F1354E05_1_102_o.jpeg",
+    "COLLECTION-GRAPHICS-UI.md",
+    "media/cleanshot_2024-09-10-at-19-44-46@2x.png",
+    "BOUNDARY-SPANNING.md",
+    "AGRICULTURE-A.md",
+    "SENSING-B.md",
+    "QUOTES-INJUSTICE-SILENCE.md",
+    "ENERGY-ENG-A.md",
+    "media/IMG_4535.jpeg",
+    "media/image.jpg",
+    "MMSPhilOfSciA.md",
+    "MMSCommuniB.md",
     "media/roots-of-renewables.png",
     "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
     "MANTRA-GAYATRI.md",
-    "SENSING-B.md",
-    "ALL.md",
-    "BOOK-The-Bliss-of-Inner-Fire.md",
-    "ENERGY-ENG-A.md",
     "media/cleanshot_2024-09-04-at-22-17-31@2x.png",
     "media/cleanshot_2024-09-04-at-22-16-10@2x.png",
     "MCGILCHRIST2021-VID.md",
     "MMSCommuniA.md",
-    "TEST.md",
-    "MESH-CAP-EPIST-A.md",
-    "MILIT-A.md",
-    "MMSQ-Transdisciplinary-awareness.md",
-    "QUOTES-CREATION-PEACE.md",
-    "AGRICULTURE-A.md",
-    "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
-    "MMSMeatStickA.md",
-    "INSPIRATION-ILLUSTRATIONS.md",
-    "media/cleanshot_2024-09-04-at-14-34-55@2x.png",
-    "media/roots-of-renewables-old.png",
-    "media/cleanshot_2024-09-03-at-16-40-24@2x.png",
-    "media/MMSPhilOfSciA_8.png",
-    "media/MMSPhilOfSciA_7.png",
     "media/MMSPhilOfSciA_8.png.tmp$$",
-    "media/MMSPhilOfSciA_6.png",
-    "media/MMSPhilOfSciA_5.png",
     "media/MMSPhilOfSciA_7.png.tmp$$",
     "media/MMSPhilOfSciA_6.png.tmp$$",
     "media/MMSPhilOfSciA_5.png.tmp$$",
@@ -239,10 +291,6 @@
     "media/MMSPhilOfSciA_2.png.tmp$$",
     "media/MMSPhilOfSciA_1.png.tmp$$",
     "media/MMSPhilOfSciA_3-05.png.tmp$$",
-    "media/MMSPhilOfSciA_3-03.png.tmp$$",
-    "QUOTES-INJUSTICE-SILENCE.md",
-    "JUST-TRANSITION-PRINC.md",
-    "LIVESTOCK-LAND-HOUSING-HOUSELESS.md",
-    "RADICALNESS.md"
+    "media/MMSPhilOfSciA_3-03.png.tmp$$"
   ]
 }

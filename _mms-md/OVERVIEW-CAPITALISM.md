@@ -3,8 +3,7 @@ layout: default
 title: "Overview capitalism"
 ---
 
-
-# what is capitalism
+# What is capitalism?
 "Capitalism is an economic system in which  employers, using privately owned capital, hire wage labor to produce commodities for the purpose of making a profit" (Andersson & Eriksson 2010, p.125) Also [[DICTATORSHIP-A]] for a definition of "workplace dictatorship."
 
 Another good book might be "how to be an anti-capitalist in the 21st centure" by Olin Wright.
@@ -28,3 +27,7 @@ ______
 Andersson, J. O., & Eriksson, R. (2010). Chapter 9 “Growth and Degrowth - Is Another Economy Possible? In Elements of Ecological Economics (1st ed., p. 176). Taylor & Francis.
 
 Scharmer, O., & Kaeufer, K. (2013). Leading from the Emerging Future: From Ego-System to Eco-System Economies (1st ed., p. 304). Berrett-Koehler Publishers.
+
+
+### Related marbles
+- [[COMPETITION-OVER-RESOURCES]]

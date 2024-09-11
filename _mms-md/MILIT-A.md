@@ -4,10 +4,10 @@ layout: default
 
 # Stats surrounding the scale of the US military industrial complex
 
-## The US Department of Defense (DoD) is the second largest employer world-wide with 2.9 million people [1]
-The single largest employer is the Indian Ministry of defense. India had a popluation of 1.42 Billion people in 2022. The United states had a population of 333 Million people in 2022. 
+## The US Department of Defense (DoD) is the second largest employer world-wide with 2.9 million people
+The single largest employer is the Indian Ministry of defense. India had a population of 1.42 Billion people in 2022. The United states had a population of 333 Million people in 2022. [1]
 
-If the US had the population of India and kepts its ratio, its military aparatus would reach 12,4 Million people, 4.15x the size of the current Indian army. 
+If the US had the population of India and kept its ratio, its military apparatus would reach 12,4 Million people, 4.15x the size of the current Indian army. 
 
 Worded differently, per capita, the US DoD is 4.15x larger than the Indian Ministry of Defence. 
 
@@ -15,11 +15,11 @@ Worded differently, per capita, the US DoD is 4.15x larger than the Indian Minis
 
 ## US Yearly defense expenses are at least 2.21x larger than the one-time "milestone" investment from the Inflaction Reducation Act to fight climate change 
 
-The section of Biden's Inflation Reducation Act (IRA) that seeks to address climate change is $ 369 billion large [2]. This is a major milestone in US history concerning climate change-related initiatives.  <---> Compare this with the yearly fiscal expenses for defense that amount to $ 816 billion for 2023 [3]. This is a ratio of 2.21x. The IRA is a one-time act, defense expenses happen yearly. 
+The section of Biden's Inflation Reducation Act (IRA) that seeks to address climate change is $ 369 billion large [2]. This is a major milestone in US history concerning climate change-related initiatives. Compare this with the yearly fiscal expenses for defense that amount to $ 816 billion for 2023 [3]. This is a ratio of 2.21x. The IRA is a one-time act, defense expenses happen yearly. 
 
-The US Government shipped $ 75 billions of weapons to Ukraine for cluster bombs etc. 
+The US Government shipped $ 75 billions of weapons to Ukraine.
 
-US military buys as much fuel as portugal, emits more than romania, and other heavy-emitting nations (see [[MILIT-B]]).
+US military buys as much fuel as Portugal, emits more than Romania, and other heavy-emitting nations (see [[MILIT-B]]).
 
 ## US Fiscal military expenses have risen in the last years
 The numbers below and above are directly taken from the US Government reports. Indepent research, however, claims that military expenses reached 1.53 Trillion in 2022 instead of the the official numbers of $ 766 Billion due to a limited categorization on the US Government's end [5]. 
@@ -29,13 +29,16 @@ The numbers below and above are directly taken from the US Government reports. I
 - U.S. military spending/defense budget for **2019 was $734.34B**, a 7.6% increase from 2018.[6]
 - U.S. military spending/defense budget for **2018 was $682.49B**, a 5.53% increase from 2017. [6]
 
-## Engineering related stats
+## The Department of Defense (DoD) is likely the largest employer of engineers in the US
 
---> The Department of Defense says that it is likely the largest employer of engineers in the United States [4].
+In the article [Defense Department Engineers Drive Mission Success](https://www.defense.gov/News/News-Stories/Article/Article/2942301/defense-department-engineers-drive-mission-success/), issued by the Department of Defense, Barabara McQuiston states that the Dod is "likely the largest employer of engineers in the United States, and the department will need even more to continue to protect the nation" [4].
 
-"McQuiston said things like transistors, cell phones, 5G cellular technology, computers and the internet all point back to DOD investments." [4] This piece of info could be used to infer that we need the DOD for innovation, or it could be used to infer that the competitive, laissez-faire free market is not innovative enough on its own and that public investments are important to steer the advancements in our society "correctly." This insight can essentially be taken as a counter argument against neo-liberal arguments that the free market has brought about all the amazing technology that we have now. 
+>"The DOD has over 100,000 engineers, and they are incredibly important to us," McQuiston said. "You can imagine the range of capabilities and personnel that we have working on the hardest problems — from civil engineers and software engineers to material engineers and chemical engineers — just a whole range of engineers looking at some of the toughest problems for DOD. We couldn't function without them. They touch everything that we do. [They] create the possibilities for the future and the solutions we need for today." [4]
 
-## World-wide military expenses compared with peacebuilding expenses
+### Many technological innovations go back to DoD research and design funded by tax dollars (not the free market)
+"McQuiston said things like transistors, cell phones, 5G cellular technology, computers and the internet all point back to DOD investments." [4] This piece of info could be used to infer that we need the DOD for innovation, or it could be used to infer that the competitive, laissez-faire free market is not innovative enough on its own and that public investments are important to steer the advancements in our society "correctly." This insight can essentially be taken as a counter argument against the neoliberal arguments that the free market has brought about all the amazing technological advancements we have today. Instead, it becomes obvious that political investments and funding are crucial to steer progress in the right directions. 
+
+## World-wide military expenses compared with official development assistance (ODA)
 
 ![](media/cleanshot_2023-11-27-at-19-21-59@2x.png)
 [7] - UN report
@@ -52,7 +55,7 @@ Regarding this topic, also look at Alvares' take on how the [scientific method i
 
 
 ________
-REFERENCES
+## References
 
 [1] - https://www.statista.com/chart/3585/the-worlds-biggest-employers/
 

@@ -21,13 +21,13 @@ body {
   font-family: "Nunito Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   color: #555;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 p {
-  font-weight: 490;
-  color: #555;
-  font-size: 15px;
+  font-weight: 400;
+  color: #2d2d2d;
+  font-size: 16px;
   line-height: 1.6;
   font-family: "Nunito Sans", sans-serif;
 }
@@ -35,32 +35,42 @@ p {
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   color: #333;
   font-family: "Nunito Sans", sans-serif;
-  font-weight: 800;
   line-height: 1.2;
 }
 
 h1, .h1 {
-  font-size: 33px;
+  font-size: 37px;
+  font-weight: 700;
+  color: #303664;
 }
 
 h2, .h2 {
   font-size: 26px;
+  font-weight: 500;
+  color: #333;
 }
 
 h3, .h3 {
   font-size: 20px;
+  font-weight: 700;
+  color: #333;
 }
 
 h4, .h4 {
   font-size: 17px;
+  font-weight: 600;
+  color: #333;
 }
 
 h5, .h5 {
   font-size: 15px;
+  font-weight: 600;
+  color: #333;
 }
 
 h6, .h6 {
   font-size: 13px;
+  font-weight: 600;
 }
 
 /* Button style */

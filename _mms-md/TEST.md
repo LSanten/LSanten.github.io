@@ -1,8 +1,11 @@
 ---
 layout: default
 ---
-# Test Links
+# This is the test document with a nice title complementing the rest
+## And a subtitle that works well
+Just some words to fill the void because we always need to talk. So we can talk all day long for nonsense and so much more. 
 
+### The Third title
 This is a test page with some links:
 - [scientific method is deeply violent in nature](https://archive.unu.edu/unupress/unupbooks/uu05se/uu05se07.htm) # Should not be converted
 - https://example.com/  # Should be converted and include trailing slash
@@ -10,7 +13,7 @@ This is a test page with some links:
 - https://www.test.com/some/path/  # Should be converted and include trailing slash
 
 
-
+### Here we have the third title
 - [External Link](https://theanarchistlibrary.org/library/anonymous-kill-the-couple-in-your-head) 
 - [Internal Markdown Link](MILIT-A.md) link with brackets and parantheses 
 - [[MILIT-A]] link with markdown convention
