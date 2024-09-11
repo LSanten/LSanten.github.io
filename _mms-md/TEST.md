@@ -2,7 +2,7 @@
 layout: default
 ---
 # This is the test document with a nice title complementing the rest
-## And a subtitle that works well
+## And a subtitle that works well with special formatting
 Just some words to fill the void because we always need to talk. So we can talk all day long for nonsense and so much more. 
 
 ### The Third title
@@ -29,6 +29,27 @@ This is a test page with some links:
 
 
 here are all font awesome characters: https://fontawesome.com/v4/icons/
+
+
+# Testing another main title to see how it behaves
+## This title shouldn't have a very big gap below and should be normal color
+The single largest employer is the Indian Ministry of defense. India had a population of 1.42 Billion people in 2022. The United states had a population of 333 Million people in 2022 [1].
+
+If the US had the population of India and kept its ratio, its military apparatus would reach 12.4 Million people, 4.15x the size of the current Indian army. 
+
+Worded differently, per capita, the US DoD is 4.15x larger than the Indian Ministry of Defense. 
+## This title should have a light gap above
+The single largest employer is the Indian Ministry of defense. India had a population of 1.42 Billion people in 2022. The United states had a population of 333 Million people in 2022 [1].
+
+If the US had the population of India and kept its ratio, its military apparatus would reach 12.4 Million people, 4.15x the size of the current Indian army. 
+
+Worded differently, per capita, the US DoD is 4.15x larger than the Indian Ministry of Defense. 
+## This title should have a light gap above
+The single largest employer is the Indian Ministry of defense. India had a population of 1.42 Billion people in 2022. The United states had a population of 333 Million people in 2022 [1].
+
+If the US had the population of India and kept its ratio, its military apparatus would reach 12.4 Million people, 4.15x the size of the current Indian army. 
+
+Worded differently, per capita, the US DoD is 4.15x larger than the Indian Ministry of Defense. 
 
 
 

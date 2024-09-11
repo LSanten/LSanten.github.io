@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Stats surrounding the scale of the US military industrial complex
+# Statistics surrounding the scale of the US military industrial complex
+## A collection of insightful comparisons
+
 
 ## The US Department of Defense (DoD) is the second largest employer world-wide with 2.9 million people
 The single largest employer is the Indian Ministry of defense. India had a population of 1.42 Billion people in 2022. The United states had a population of 333 Million people in 2022 [1].

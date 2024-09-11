@@ -109,14 +109,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSPhilOfSciA.md",
+                "file": "TEST.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -162,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MILIT-A.md",
+                "file": "TEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MILIT-A.md",
+                "file": "TEST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MILIT-A.md"
+                "file": "TEST.md"
               }
             }
           }
@@ -244,9 +243,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a9ec2ab995de124",
+  "active": "4660e3a02c728cec",
   "lastOpenFiles": [
+    "MILIT-A.md",
     "TEST.md",
+    "MMSPhilOfSciA.md",
     "ALL.md",
     "letter-to-people-power-solar-cooperative.md",
     "BOOK-The-Bliss-of-Inner-Fire.md",
@@ -273,7 +274,6 @@
     "ENERGY-ENG-A.md",
     "media/IMG_4535.jpeg",
     "media/image.jpg",
-    "MMSPhilOfSciA.md",
     "MMSCommuniB.md",
     "media/roots-of-renewables.png",
     "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
@@ -281,7 +281,6 @@
     "media/cleanshot_2024-09-04-at-22-17-31@2x.png",
     "media/cleanshot_2024-09-04-at-22-16-10@2x.png",
     "MCGILCHRIST2021-VID.md",
-    "MMSCommuniA.md",
     "media/MMSPhilOfSciA_8.png.tmp$$",
     "media/MMSPhilOfSciA_7.png.tmp$$",
     "media/MMSPhilOfSciA_6.png.tmp$$",
