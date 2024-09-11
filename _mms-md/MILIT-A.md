@@ -5,24 +5,24 @@ layout: default
 # Stats surrounding the scale of the US military industrial complex
 
 ## The US Department of Defense (DoD) is the second largest employer world-wide with 2.9 million people
-The single largest employer is the Indian Ministry of defense. India had a population of 1.42 Billion people in 2022. The United states had a population of 333 Million people in 2022. [1]
+The single largest employer is the Indian Ministry of defense. India had a population of 1.42 Billion people in 2022. The United states had a population of 333 Million people in 2022 [1].
 
-If the US had the population of India and kept its ratio, its military apparatus would reach 12,4 Million people, 4.15x the size of the current Indian army. 
+If the US had the population of India and kept its ratio, its military apparatus would reach 12.4 Million people, 4.15x the size of the current Indian army. 
 
-Worded differently, per capita, the US DoD is 4.15x larger than the Indian Ministry of Defence. 
+Worded differently, per capita, the US DoD is 4.15x larger than the Indian Ministry of Defense. 
 
 ![](media/cleanshot_2023-11-03-at-13-58-06@2x.png)
 
-## US Yearly defense expenses are at least 2.21x larger than the one-time "milestone" investment from the Inflaction Reducation Act to fight climate change 
+## US Yearly defense expenses are at least 2.21x larger than the one-time "milestone" investment from the Inflation Reduction Act to fight climate change 
 
-The section of Biden's Inflation Reducation Act (IRA) that seeks to address climate change is $ 369 billion large [2]. This is a major milestone in US history concerning climate change-related initiatives. Compare this with the yearly fiscal expenses for defense that amount to $ 816 billion for 2023 [3]. This is a ratio of 2.21x. The IRA is a one-time act, defense expenses happen yearly. 
+The section of Biden's Inflation Reduction Act (IRA) that seeks to address climate change is $ 369 billion large [2]. This is a major milestone in US history concerning climate change-related initiatives. Compare this with the yearly fiscal expenses for defense that amount to $ 816 billion for 2023 [3]. This is a ratio of 2.21x. The IRA is a one-time act, defense expenses happen yearly. 
 
 The US Government shipped $ 75 billions of weapons to Ukraine.
 
 US military buys as much fuel as Portugal, emits more than Romania, and other heavy-emitting nations (see [[MILIT-B]]).
 
 ## US Fiscal military expenses have risen in the last years
-The numbers below and above are directly taken from the US Government reports. Indepent research, however, claims that military expenses reached 1.53 Trillion in 2022 instead of the the official numbers of $ 766 Billion due to a limited categorization on the US Government's end [5]. 
+The numbers below and above are directly taken from the US Government reports. Independent research, however, claims that military expenses reached 1.53 Trillion in 2022 instead of the the official numbers of $ 766 Billion due to a limited categorization on the US Government's end [5]. 
 
 - U.S. military spending/defense budget for **2021 was $800.67B**, a 2.86% increase from 2020.[6]
 - U.S. military spending/defense budget for **2020 was $778.40B**, a 6% increase from 2019.[6]
@@ -31,7 +31,7 @@ The numbers below and above are directly taken from the US Government reports. I
 
 ## The Department of Defense (DoD) is likely the largest employer of engineers in the US
 
-In the article [Defense Department Engineers Drive Mission Success](https://www.defense.gov/News/News-Stories/Article/Article/2942301/defense-department-engineers-drive-mission-success/), issued by the Department of Defense, Barabara McQuiston states that the Dod is "likely the largest employer of engineers in the United States, and the department will need even more to continue to protect the nation" [4].
+In the article [Defense Department Engineers Drive Mission Success](https://www.defense.gov/News/News-Stories/Article/Article/2942301/defense-department-engineers-drive-mission-success/), issued by the Department of Defense, Barbara McQuiston states that the Dod is "likely the largest employer of engineers in the United States, and the department will need even more to continue to protect the nation" [4].
 
 >"The DOD has over 100,000 engineers, and they are incredibly important to us," McQuiston said. "You can imagine the range of capabilities and personnel that we have working on the hardest problems — from civil engineers and software engineers to material engineers and chemical engineers — just a whole range of engineers looking at some of the toughest problems for DOD. We couldn't function without them. They touch everything that we do. [They] create the possibilities for the future and the solutions we need for today." [4]
 
