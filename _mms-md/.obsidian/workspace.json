@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MILIT-B.md",
+                "file": "MILIT-A.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MILIT-B.md",
+                "file": "MILIT-A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MILIT-B.md",
+                "file": "MILIT-A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MILIT-B.md"
+                "file": "MILIT-A.md"
               }
             }
           }
@@ -245,8 +245,8 @@
   },
   "active": "8a9ec2ab995de124",
   "lastOpenFiles": [
-    "MILIT-A.md",
     "MILIT-B.md",
+    "MILIT-A.md",
     "TEST.md",
     "MMSPhilOfSciA.md",
     "ALL.md",

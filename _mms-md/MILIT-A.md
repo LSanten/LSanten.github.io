@@ -6,9 +6,9 @@ layout: default
 ## An attempt to develop intuition
 I have a hard time making sense of numbers on their own. This is my attempt to put numbers into global context and get a grasp of the (invisible) flows that keep our world entrenched in violence. For more marbles on this topic, refer to slides in [MILIT-B](MILIT-B.md), focusing on the relationship of the military ind. complex to climate justice. 
 ## The US Department of Defense (DoD) is the second largest employer world-wide with 2.9 million people
-The single largest employer is the Indian Ministry of defense. India had a population of 1.42 Billion people in 2022. The United states had a population of 333 Million people in 2022 [1].
+The single largest employer is the Indian Ministry of Defense. India had a population of 1.42 Billion people in 2022. The United states had a population of 333 Million people in 2022 [1].
 
-If the US had the population of India and kept its ratio, its military apparatus would reach 12.4 Million people, 4.15x the size of the current Indian army. 
+If the US had the population of India and kept its ratio, its military apparatus would reach 12.4 Million people, 4.15x the size of the current Indian Ministry of Defense. 
 
 Worded differently, per capita, the US DoD is 4.15x larger than the Indian Ministry of Defense. 
 
