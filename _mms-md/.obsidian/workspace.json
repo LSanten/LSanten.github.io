@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MILIT-A.md",
+                "file": "MILIT-B.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEST.md",
+                "file": "MILIT-B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEST.md",
+                "file": "MILIT-B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEST.md"
+                "file": "MILIT-B.md"
               }
             }
           }
@@ -243,9 +243,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4660e3a02c728cec",
+  "active": "8a9ec2ab995de124",
   "lastOpenFiles": [
     "MILIT-A.md",
+    "MILIT-B.md",
     "TEST.md",
     "MMSPhilOfSciA.md",
     "ALL.md",
@@ -280,7 +281,6 @@
     "MANTRA-GAYATRI.md",
     "media/cleanshot_2024-09-04-at-22-17-31@2x.png",
     "media/cleanshot_2024-09-04-at-22-16-10@2x.png",
-    "MCGILCHRIST2021-VID.md",
     "media/MMSPhilOfSciA_8.png.tmp$$",
     "media/MMSPhilOfSciA_7.png.tmp$$",
     "media/MMSPhilOfSciA_6.png.tmp$$",

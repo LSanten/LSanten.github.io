@@ -52,9 +52,15 @@ h1:first-of-type {
 
 /* This changes how the h2 subtitle looks but only when it is behind the frist h1 in the document*/
 h1:first-of-type + h2 {
-  margin-bottom: 50px; /* Add margin-bottom to the first h2 following the first h1 */
+  margin-bottom: 45px; /* Add margin-bottom to the first h2 following the first h1 */
   color: #a544a0;
   font-weight: 600;
+}
+
+
+/* If the first h1 is not followed by h2, add a margin */
+h1:first-of-type:not(:has(+ h2)) {
+  margin-bottom: 45px; /* Add margin if h1 is NOT followed by h2 */
 }
 
 h2, .h2 {

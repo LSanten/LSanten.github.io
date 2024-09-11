@@ -3,8 +3,9 @@ layout: default
 title: "Milit b"
 ---
 
-# Slides from the Climate Collateral Webinar
-### [Climate Crossfire: How NATO’s 2% military spending targets contribute to climate breakdown](https://www.tni.org/en/publication/climate-crossfire)
+# The Climate Collateral Webinar
+## A collection of insightful slides
+## Climate Crossfire: How NATO’s 2% military spending targets contribute to climate breakdown ([link](https://www.tni.org/en/publication/climate-crossfire))
 
 - at least 5.5% of all GHG emissions are emitted by global military (not including conflict emissions)
 - world-wide military spendings increased 21% since 2013
@@ -14,16 +15,19 @@ title: "Milit b"
 
 ![](media/cleanshot_2023-11-28-at-07-49-05@2x.png)
 
+Regarding the graphic below, I wonder if it is the right choice to compare military spendings in dollars. Shouldn't it rather focus on the impact of the money? One billion dollars might have a higher yield of military production in China than in NATO states. 
+
 ![](media/cleanshot_2023-11-28-at-07-49-34@2x.png)
 
 ![](media/cleanshot_2023-11-28-at-07-50-34@2x.png)
 
-Relative to Israel's size, it is the largest arms dealer. Spends 24 bln dollar / a year on military. The US department of Defense is the second largest employer world-wide, and per capita, it is more than 4x larger than the Indian defence department (which is the largest employer world-wide) [[MILIT-A]].
+Relative to Israel's size, it is the largest arms dealer. Spends 24 bln dollar / a year on military. The US department of Defense is the second largest employer world-wide, and per capita, it is more than 4x larger than the Indian defence department (which is the largest employer world-wide) - see [[MILIT-A]].
 
 ![](media/cleanshot_2023-11-28-at-07-53-33@2x.png)
-climate change is being talked about as a "security threat" to national security. Threat to operations of the military (sea bases), or poor countries becoming a threat to rich countries due to conflict and migration - so migration needs to be controlled. 
 
-ANNOTATION: colors above should be flipped.
+⚠️ **colors above should be flipped**
+
+Climate change is being talked about as a "security threat" to national security. Threat to operations of the military (sea bases), or poor countries becoming a threat to rich countries due to conflict and migration - so migration needs to be controlled. 
 
 ![](media/cleanshot_2023-11-28-at-07-55-44@2x.png)
 
@@ -34,9 +38,10 @@ ANNOTATION: colors above should be flipped.
 
 
 
-### [Less War, Less Warming: A Reparative Approach to US and UK Military Ecological Damages](https://www.common-wealth.org/publications/less-war-less-warming-a-reparative-approach-to-us-and-uk-military-ecological-damages)
+## Less War, Less Warming: A Reparative Approach to US and UK Military Ecological Damages ([link](https://www.common-wealth.org/publications/less-war-less-warming-a-reparative-approach-to-us-and-uk-military-ecological-damages))
 
-US soldier now consumes around 20 gallons a day 
+US soldier now consumes around 20 gallons a day.
+
 ![](media/cleanshot_2023-11-28-at-08-00-00@2x.png)
 
 ![](media/cleanshot_2023-11-28-at-08-01-14@2x.png)
@@ -47,22 +52,13 @@ US soldier now consumes around 20 gallons a day
 
 ![](media/cleanshot_2023-11-28-at-08-05-53@2x.png)
 
-using military to compensate for the lack of social structure by sourcing from all over the world/US. 
-
-you can't just have a green military. 
-
-### Words from **Mitzi Joelle Tan** 
-
-Palestine is a climate justice issue. The people who are exposed to war and violence are more vulnerable to climate change. Herrassment of communities by the military due to climate tensions. 
+>You can't just have a green military. 
 
 >Climate justice is really just the **fight for life**. To decide for life is the human right. 
 
 
-
-
-### all mentioned resources
-- **[Climate Collateral
-How military spending accelerates climate breakdown](https://www.tni.org/en/publication/climate-collateral)**
+## Links for mentioned resources
+- **[Climate Collateral How military spending accelerates climate breakdown](https://www.tni.org/en/publication/climate-collateral)**
 - [No, Arms Dealers Don’t Count as “Environmentally and Socially Responsible” Investments](https://jacobin.com/2023/06/arms-dealers-environment-social-responsibility-investments-green-warfare-security)
 - [AN URGENT CALL FROM PALESTINIAN TRADE UNIONS: END ALL COMPLICITY, STOP ARMING ISRAEL](https://www.workersinpalestine.org/the-calls-languages/english)
 - [another great report on arms workers perspective on a just transition](https://www.thebritishacademy.ac.uk/documents/4197/Just-transitions-decarbonising-diversifying-defence-uk-usa.pdf)

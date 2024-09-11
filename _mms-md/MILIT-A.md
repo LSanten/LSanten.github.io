@@ -3,9 +3,8 @@ layout: default
 ---
 
 # Statistics surrounding the scale of the US military industrial complex
-## A collection of insightful comparisons
-
-
+## An attempt to develop intuition
+I have a hard time making sense of numbers on their own. This is my attempt to put numbers into global context and get a grasp of the (invisible) flows that keep our world entrenched in violence. For more marbles on this topic, refer to slides in [MILIT-B](MILIT-B.md), focusing on the relationship of the military ind. complex to climate justice. 
 ## The US Department of Defense (DoD) is the second largest employer world-wide with 2.9 million people
 The single largest employer is the Indian Ministry of defense. India had a population of 1.42 Billion people in 2022. The United states had a population of 333 Million people in 2022 [1].
 
@@ -41,18 +40,21 @@ In the article [Defense Department Engineers Drive Mission Success](https://www.
 "McQuiston said things like transistors, cell phones, 5G cellular technology, computers and the internet all point back to DOD investments." [4] This piece of info could be used to infer that we need the DOD for innovation, or it could be used to infer that the competitive, laissez-faire free market is not innovative enough on its own and that public investments are important to steer the advancements in our society "correctly." This insight can essentially be taken as a counter argument against the neoliberal arguments that the free market has brought about all the amazing technological advancements we have today. Instead, it becomes obvious that political investments and funding are crucial to steer progress in the right directions. 
 
 ## World-wide military expenses compared with official development assistance (ODA)
+While the graphic below illuminates the asymmetry between military financing and other forms of financing. ODA is not specifically peace building 
 
+%% RESOURCES FROM JERRY
+https://www.financeforpeace.org/
+
+https://www.interpeace.org/event/enhancing-partnerships-for-financing-peace/#:~:text=Key%20messages.%20New%20partnerships%20with%20key%20actors,success%20of%20many%20mitigation%20and%20adaptation%20projects. %%
 ![](media/cleanshot_2023-11-27-at-19-21-59@2x.png)
 [7] - UN report
 
-## Media with no specific categorization as of now
-
-### Capitalism and the military industrial complex are deeply interwoven 
-They socially reproduce themselves in our social structures [[MMSSocialReproductionA]].
+## The capitalist market and the military industrial complex
+Regarding the violent nature of our social systems, also look at Alvares's take on how the [scientific method is deeply violent in nature](https://archive.unu.edu/unupress/unupbooks/uu05se/uu05se07.htm) and intertwined with colonialism & capitalism. Also see [my timeline illustration](MMSHistOfSci-A.md) that visualizes the concepts & ideas that influenced the evolution of the scientific method, which has co-evolved with the technology-centric innovation & development paradigm.
 
 ![](media/cleanshot_2023-10-17-at-20-25-10@2x.png)
 
-Regarding this topic, also look at Alvares' take on how the [scientific method is deeply violent in nature](https://archive.unu.edu/unupress/unupbooks/uu05se/uu05se07.htm) and intertwined with colonialism & capitalism. Also see my illustration [[MMSHistOfSci-A]].
+
 
 
 

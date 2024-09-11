@@ -147,7 +147,7 @@ layout: default
 - [[METAPHORICAL-RELATIONSHIPS-OF-ORGS]] - How do we visualize the systemic relationships (good or bad) of organizations?
 - [[MICRO-GRIDS-A]] - Microgrids and 
 - [[MILIT-A]] - Statistics surrounding the scale of the US military industrial complex
-- [[MILIT-B]] - Slides from the Climate Collateral Webinar
+- [[MILIT-B]] - The Climate Collateral Webinar
 - [[MINING-A]] - No Title
 - [[MIXBASE-DOCUMENTATION]] - No Title
 - [[MMS-POST-IDEAS]] - No Title
