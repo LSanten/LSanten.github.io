@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "4c1098a8a16d9d5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "letter-to-rhizome-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6e241cf3f3877209",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSInTheWorks.md",
+                "file": "SYSTEMIC-STORYTELLING-INTERFACE.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,67 +68,19 @@
             }
           },
           {
-            "id": "90f06ad895347253",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMSHistOfSci-A.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad31a96979d45bad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MANTRA-GAYATRI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3d1a47f616d26333",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPETITION-OVER-RESOURCES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a9ec2ab995de124",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MILIT-A.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4660e3a02c728cec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEST.md",
+                "file": "COLLECTION-GRAPHICS-UI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "milit",
+                "query": "IMG_0134",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -162,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MILIT-A.md",
+                "file": "letter-to-rhizome-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MILIT-A.md",
+                "file": "letter-to-rhizome-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MILIT-A.md"
+                "file": "letter-to-rhizome-2024.md"
               }
             }
           }
@@ -243,30 +208,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a9ec2ab995de124",
+  "active": "4c1098a8a16d9d5e",
   "lastOpenFiles": [
-    "MILIT-B.md",
+    "MMSFinanceVisual.md",
+    "SYSTEMIC-STORYTELLING-INTERFACE.md",
+    "ROOTS-OF-RENEWABLES.md",
+    "letter-to-rhizome-2024.md",
+    "MMSInTheWorks.md",
+    "COLLECTION-GRAPHICS-UI.md",
+    "COMPETITION-OVER-RESOURCES.md",
     "MILIT-A.md",
     "TEST.md",
+    "MMSHistOfSci-A.md",
+    "MANTRA-GAYATRI.md",
+    "MILIT-B.md",
     "MMSPhilOfSciA.md",
     "ALL.md",
     "letter-to-people-power-solar-cooperative.md",
     "BOOK-The-Bliss-of-Inner-Fire.md",
-    "MMSFinanceVisual.md",
-    "MMSHistOfSci-A.md",
     "INNOVATORS-COMPASS-A.md",
     "OVERVIEW-CAPITALISM.md",
-    "COMPETITION-OVER-RESOURCES.md",
-    "ROOTS-OF-RENEWABLES.md",
-    "MMSInTheWorks.md",
-    "SYSTEMIC-STORYTELLING-INTERFACE.md",
     "ELECTRICITY-BOTTOM-BILLION.md",
     "ACADEMIC-IMPERIALISM.md",
     "media/cleanshot_2024-09-11-at-14-16-35@2x.png",
     "media/IMG_0134.gif",
     "media/E2A74843-7757-4F99-B6C4-AE51F1354E05_1_102_o 1.jpeg",
     "media/E2A74843-7757-4F99-B6C4-AE51F1354E05_1_102_o.jpeg",
-    "COLLECTION-GRAPHICS-UI.md",
     "media/cleanshot_2024-09-10-at-19-44-46@2x.png",
     "BOUNDARY-SPANNING.md",
     "AGRICULTURE-A.md",
@@ -277,8 +244,6 @@
     "media/image.jpg",
     "MMSCommuniB.md",
     "media/roots-of-renewables.png",
-    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
-    "MANTRA-GAYATRI.md",
     "media/cleanshot_2024-09-04-at-22-17-31@2x.png",
     "media/cleanshot_2024-09-04-at-22-16-10@2x.png",
     "media/MMSPhilOfSciA_8.png.tmp$$",

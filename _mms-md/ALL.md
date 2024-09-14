@@ -46,7 +46,7 @@ layout: default
 - [[COMMUNICATION-A]] - It seems crucial to talk about how we talk
 - [[COMMUNICATION-LIVING-ROOM]] - What should our communication space look like?
 - [[COMMUNITY-A]] - A saving dump of concepts and resources related to community building
-- [[COMPETITION-OVER-RESOURCES]] - No Title
+- [[COMPETITION-OVER-RESOURCES]] - Competition over resources
 - [[COMPLEX-SYSTEMS-FRAMEWORK-A]] - Cynefin framework
 - [[COMPLEXITY-A]] - People and systems complexity 
 - [[CONFERENCE-COMMUNI-A]] - Tell people who participated or spoke up during a conference panel what you liked about their words and ways of speaking 
@@ -113,6 +113,7 @@ layout: default
 - [[KNOWING-A]] - It is normal to not know until we know
 - [[KNOWLEDGE-ORGANIZATION-A]] - No Title
 - [[letter-to-people-power-solar-cooperative]] - No Title
+- [[letter-to-rhizome-2024]] - Design pieces for systemic sensing interface
 - [[letter-to-the-SF-Chronicle]] - A selection of graphics
 - [[LIBERATORY-DESIGN-A]] - No Title
 - [[LIVESTOCK-LAND-HOUSING-HOUSELESS]] - Illustration that compares land used for livestock compared with land needed to house houseless folks
@@ -252,7 +253,7 @@ layout: default
 - [[SUST-JOBS]] - No Title
 - [[SYSTEMIC-CHANGE-A]] - No Title
 - [[SYSTEMIC-INTELLIGENCE-SPACE]] - No Title
-- [[SYSTEMIC-STORYTELLING-INTERFACE]] - Design pieces for systemic storytelling interface
+- [[SYSTEMIC-STORYTELLING-INTERFACE]] - No Title
 - [[TECH-INTERDEP-A]] - No Title
 - [[TEST]] - This is the test document with a nice title complementing the rest
 - [[THREE-WELLBEING-THINGS]] - No Title

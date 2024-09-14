@@ -29,6 +29,13 @@ I posted this question on August 17th 2024 on LinkedIn and Instagram. I compiled
 ### Emerging projects and communities
 - Complex Chaos - "Helping humanity cooperate" ([link](https://www.linkedin.com/company/complexchaos-ai/posts/?feedView=all) and [article](https://www.linkedin.com/pulse/genesis-evolution-complexchaos-tomy-lorsch-kqoic/?trackingId=%2F08tU%2Ba85lU2pqTikMsN1g%3D%3D) )q
 
+
+### Holistic educational programs and places
+-  Schuhmacher College 
+- Masters in Engineering Sustainability and Health - University of San Diego 
+
+
+
 ### Regarding LinkedIn
 - LinkedIn works surprisingly well to connect us with exciting new people across disciplines
 - **It is very important** to train the algorithm by reposting, liking, and commenting. 
