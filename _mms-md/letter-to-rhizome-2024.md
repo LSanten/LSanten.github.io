@@ -1,24 +1,22 @@
 ---
 layout: letter-odi
 ---
-<i class="fas fa-calendar-alt"> September 15th 2024</i>
+<i class="fas fa-calendar-alt"> Sept. 15th 2024</i>
 # Climate justice cross-pollination for a regenerative economy
 ## Enabling a practice for value-creation & co-sensing
 
 
 >
 >Dear enablers at Rhizome,
-> 
->We collected a variety of media that references our past explorations, current design concept, and concepts driving our work. 
 >
->May it help you gain insights into our dedication and alignment with your values. 
+>May this vertical slide show help you gain insights into our dedication, alignment with your values, past explorations, and current design concept!
 >
->Warmly, 
->
->Leon Santen & Odalys Benitez 
+>[Leon Santen](https://leonsanten.info/) & [Odalys Benitez](https://odalysbenitez.com/)
 
 
-## At the core of our work lies *inducing a community practice* (our tool is just a facilitator along the way)
+## At the core of our work lies *inducing an iterative community practice* 
+
+
 ![](media/cleanshot_2024-07-28-at-14-12-29@2x.png)
 ## The previous work that led to our proposed design concept
 You can find the intro to our prior work [over here](MMSSystemicCooperationInterface-A.md).
@@ -56,6 +54,7 @@ MESH: [Online Master of Science in Engineering, Sustainability and Health](https
 ![](media/cleanshot_2024-09-15-at-17-28-18@2x.png)
 
 ### We helped group members understand who is doing what with visuals (outsiders and students loved this!)
+
 ![](media/cleanshot_2024-09-10-at-19-44-46@2x.png)
 
 ### We contemplated how we need to share information so others can jump on the same activism train
