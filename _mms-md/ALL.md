@@ -113,7 +113,7 @@ layout: default
 - [[KNOWING-A]] - It is normal to not know until we know
 - [[KNOWLEDGE-ORGANIZATION-A]] - No Title
 - [[letter-to-people-power-solar-cooperative]] - No Title
-- [[letter-to-rhizome-2024]] - Design pieces for systemic sensing interface
+- [[letter-to-rhizome-2024]] - Climate justice cross-pollination for a regenerative economy
 - [[letter-to-the-SF-Chronicle]] - A selection of graphics
 - [[LIBERATORY-DESIGN-A]] - No Title
 - [[LIVESTOCK-LAND-HOUSING-HOUSELESS]] - Illustration that compares land used for livestock compared with land needed to house houseless folks
