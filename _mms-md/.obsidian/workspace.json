@@ -23,11 +23,9 @@
             "id": "4c1098a8a16d9d5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "letter-to-rhizome-2024.md",
-                "mode": "source",
-                "source": false
+                "file": "media/IMG_0134.gif"
               }
             }
           },
@@ -49,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSFinanceVisual.md",
+                "file": "letter-to-rhizome-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +71,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COLLECTION-GRAPHICS-UI.md",
+                "file": "TEST.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IMG_0134",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -126,8 +124,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,17 +205,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c1098a8a16d9d5e",
+  "active": "f78f28f2e0af91a3",
   "lastOpenFiles": [
+    "media/cleanshot_2024-09-15-at-17-39-04@2x.png",
     "MMSFinanceVisual.md",
-    "SYSTEMIC-STORYTELLING-INTERFACE.md",
-    "ROOTS-OF-RENEWABLES.md",
+    "media/IMG_0134.gif",
     "letter-to-rhizome-2024.md",
+    "ROOTS-OF-RENEWABLES.md",
     "MMSInTheWorks.md",
+    "TEST.md",
     "COLLECTION-GRAPHICS-UI.md",
+    "media/cleanshot_2024-09-15-at-17-28-18@2x.png",
+    "SYSTEMIC-STORYTELLING-INTERFACE.md",
     "COMPETITION-OVER-RESOURCES.md",
     "MILIT-A.md",
-    "TEST.md",
     "MMSHistOfSci-A.md",
     "MANTRA-GAYATRI.md",
     "MILIT-B.md",
@@ -231,7 +231,6 @@
     "ELECTRICITY-BOTTOM-BILLION.md",
     "ACADEMIC-IMPERIALISM.md",
     "media/cleanshot_2024-09-11-at-14-16-35@2x.png",
-    "media/IMG_0134.gif",
     "media/E2A74843-7757-4F99-B6C4-AE51F1354E05_1_102_o 1.jpeg",
     "media/E2A74843-7757-4F99-B6C4-AE51F1354E05_1_102_o.jpeg",
     "media/cleanshot_2024-09-10-at-19-44-46@2x.png",
@@ -242,10 +241,8 @@
     "ENERGY-ENG-A.md",
     "media/IMG_4535.jpeg",
     "media/image.jpg",
-    "MMSCommuniB.md",
     "media/roots-of-renewables.png",
     "media/cleanshot_2024-09-04-at-22-17-31@2x.png",
-    "media/cleanshot_2024-09-04-at-22-16-10@2x.png",
     "media/MMSPhilOfSciA_8.png.tmp$$",
     "media/MMSPhilOfSciA_7.png.tmp$$",
     "media/MMSPhilOfSciA_6.png.tmp$$",
