@@ -53,8 +53,6 @@ As I continue my work of using visuals to raise understanding of social & ecolog
 
 First of all, I conceptualize projects as plants that grow due to the nurturing care of humans. Humans essentially tend to a garden. 
 
-crea
-
 Secondly, the plants grow structures to grow fruits and reproduce. They grow roots that draw and exchange nutrients. Social systems similarly create (social )structures to grow specific fruits (products, outcomes). Social systems also have specific needs, which are vital for their functioning. 
 
 The visualization of needs, offers, products, and social structures connected to these organs seems crucial. Yet, it is quite complicated to visualize such complex relationships. So far, the usage of eco-system analogies has proven to be the most helpful.

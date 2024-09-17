@@ -10,8 +10,9 @@ layout: default
 I posted this question on August 17th 2024 on LinkedIn and Instagram. I compiled responses below. Hajar Tazi, Caroline Baillie, and Mahtaub Golab contributed majorly to the resources below. 
 ### Recommended conferences/gatherings
 - Synergia's online MOOC "**Toward Co-operative Commonwealth**: Transition in a Perilous Century" ([link](https://synergiainstitute.org/mooc-overview/))
-- **The Fito Network festival** is a great opportunity for knowledge-sharing and collaborative sensemaking - a social impact network ([link](https://www.fito.network/))
-- A bi-annual conference and festival - **The Gathering of Tribes** ([link](https://www.linkedin.com/company/gatheringoftribes/))
+- **The Fito Network festival** is a great opportunity for knowledge-sharing and collaborative sense making - a social impact network ([link](https://www.fito.network/))
+- Weaving ecosystems - a bi-annual conference and festival - **The Gathering of Tribes** ([link](https://www.linkedin.com/company/gatheringoftribes/))
+- Biophilia BarCamp Un-conference ([link](https://www.living-future.eu/biophilia-barcamp-call/))
 
 ### Recommended communities
 *As we think about general solutions for collaborative communication, Rob Hurwich mentions that there are many different platforms and it would be very ideal/helpful to have inter-operable profiles.*

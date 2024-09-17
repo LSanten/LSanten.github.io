@@ -14,6 +14,7 @@ layout: default
 - [[APP-IDEA-A]] - An app for friends where we share intentions for the week and spontaneous trips
 - [[APP-IDEA-B]] - An app for different forms of communication: letters, short notices etc...
 - [[APP-IDEA-C]] - A cute sharing ideas among friends platform
+- [[APP-IDEA-D]] - A news app that collects the most important news pieces during offline time
 - [[APPS-USEFUL-A]] - Apps useful for planning 
 - [[AUTOPOIESIS-A]] - How our social systems can be considered *alive* and reproduce their value essences
 - [[AYURVEDA-DOSHAS]] - The ayurvedic doshas

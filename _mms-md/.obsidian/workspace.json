@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROOTS-OF-RENEWABLES.md",
+                "file": "SEEDS-A.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+                "file": "MMSQ-Transdisciplinary-awareness.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,14 +71,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEST.md",
+                "file": "MMSInTheWorks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metaphor",
+                "query": "mmsq",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "letter-to-rhizome-2024.md",
+                "file": "MMSQ-Transdisciplinary-awareness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "letter-to-rhizome-2024.md",
+                "file": "MMSQ-Transdisciplinary-awareness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "letter-to-rhizome-2024.md"
+                "file": "MMSQ-Transdisciplinary-awareness.md"
               }
             }
           }
@@ -206,21 +206,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f78f28f2e0af91a3",
+  "active": "875f04ce7715fe9b",
   "lastOpenFiles": [
+    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+    "MMSInTheWorks.md",
+    "APP-IDEA-D.md",
+    "ALL.md",
+    "TEST.md",
+    "SEEDS-A.md",
+    "media/19FF1C48-12D3-4CD4-B241-1E21AD87F4AA_1_105_c.jpeg",
+    "AGRICULTURE-A.md",
+    "CIRCULAR-ECON-B.md",
+    "ROOTS-OF-RENEWABLES.md",
+    "letter-to-rhizome-2024.md",
     "media/flower_mockup.gif",
     "SYSTEMIC-STORYTELLING-INTERFACE.md",
-    "letter-to-rhizome-2024.md",
-    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
-    "ROOTS-OF-RENEWABLES.md",
-    "ALL.md",
-    "MMSInTheWorks.md",
     "media/Frame 16.png",
     "media/cleanshot_2024-09-15-at-23-25-39@2x.png",
     "media/cleanshot_2024-09-15-at-17-39-04@2x.png",
     "MMSFinanceVisual.md",
     "media/IMG_0134.gif",
-    "TEST.md",
     "COLLECTION-GRAPHICS-UI.md",
     "media/cleanshot_2024-09-15-at-17-28-18@2x.png",
     "COMPETITION-OVER-RESOURCES.md",
@@ -238,12 +243,7 @@
     "media/cleanshot_2024-09-11-at-14-16-35@2x.png",
     "media/E2A74843-7757-4F99-B6C4-AE51F1354E05_1_102_o 1.jpeg",
     "media/E2A74843-7757-4F99-B6C4-AE51F1354E05_1_102_o.jpeg",
-    "media/cleanshot_2024-09-10-at-19-44-46@2x.png",
     "BOUNDARY-SPANNING.md",
-    "AGRICULTURE-A.md",
-    "SENSING-B.md",
-    "QUOTES-INJUSTICE-SILENCE.md",
-    "media/IMG_4535.jpeg",
     "media/MMSPhilOfSciA_8.png.tmp$$",
     "media/MMSPhilOfSciA_7.png.tmp$$",
     "media/MMSPhilOfSciA_6.png.tmp$$",
