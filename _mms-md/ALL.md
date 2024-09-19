@@ -110,6 +110,7 @@ layout: default
 - [[INTO-PERSPECTIVE]] - Putting world wide challenges and push for innovation into perspective 
 - [[INTRINSIC-EDUCATION-A]] - INSIGHT: I feel like the real goal of education is to figure out how to genuinly explore
 - [[IPCC-TRANSITION]] - IPCC AR6 sees transition needs in 5 realms
+- [[JOB-BOARD-CLIMATE-DESIGN-SOCIAL-JUSTICE]] - No Title
 - [[JUST-TRANSITION-PRINC]] - What are the Just Transition Principles?
 - [[KNOWING-A]] - It is normal to not know until we know
 - [[KNOWLEDGE-ORGANIZATION-A]] - No Title
