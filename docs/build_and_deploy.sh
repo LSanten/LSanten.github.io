@@ -15,6 +15,9 @@ jekyll build --destination docs
 # Copy manual files into docs
 cp -r manual_files/* docs/
 
+# Add magic symbol to internal links
+python3 python/add-magic-symbol.py # Add headers with template settings if it doesn't exist (needs to be after the generate-all-file)
+
 # Commit and push to the repository
 #git add docs
 #git commit -m "Deploying site with manual files"

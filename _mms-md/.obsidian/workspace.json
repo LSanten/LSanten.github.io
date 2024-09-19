@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SETH-PRACTICES-A.md",
+                "file": "MMSHistOfSci-A.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "histof",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -136,7 +136,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SETH-PRACTICES-A.md",
+                "file": "MMSHistOfSci-A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SETH-PRACTICES-A.md",
+                "file": "MMSHistOfSci-A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SETH-PRACTICES-A.md"
+                "file": "MMSHistOfSci-A.md"
               }
             }
           }
@@ -217,10 +218,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8146d7966a57ae2f",
+  "active": "a7f41c018c64ae86",
   "lastOpenFiles": [
-    "JOB-BOARD-CLIMATE-DESIGN-SOCIAL-JUSTICE.md",
+    "media/cleanshot_2024-09-19-at-15-43-58@2x.png",
+    "PLANT-BASED-DIET-A.md",
     "SEEDS-A.md",
+    "JOB-BOARD-CLIMATE-DESIGN-SOCIAL-JUSTICE.md",
     "SYSTEMIC-STORYTELLING-INTERFACE.md",
     "letter-to-rhizome-2024.md",
     "MMSInTheWorks.md",
@@ -250,8 +253,6 @@
     "MMSHistOfSci-A.md",
     "MANTRA-GAYATRI.md",
     "MILIT-B.md",
-    "MMSPhilOfSciA.md",
-    "letter-to-people-power-solar-cooperative.md",
     "media/cleanshot_2024-09-11-at-14-16-35@2x.png",
     "media/E2A74843-7757-4F99-B6C4-AE51F1354E05_1_102_o 1.jpeg",
     "media/E2A74843-7757-4F99-B6C4-AE51F1354E05_1_102_o.jpeg",

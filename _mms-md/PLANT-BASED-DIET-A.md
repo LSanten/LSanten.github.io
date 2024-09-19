@@ -5,7 +5,7 @@ layout: default
 
 One of the best documentaries to convince sporty people to switch to a plant based diet to increase strength, stamina, and health is [The Game Changers](https://www.imdb.com/title/tt7455754/) (I watched it on Netflix).
 
-- The roman gladiators were called *barely and bean eaters*.
+- The roman gladiators were called *barley and bean eaters*.
 - Arnold Schwarzenegger is now on a plant-based diet. 
 - Serena and Venus Williams and Novac Djocovic are on a plant based diet, Messi largely avoids meat
 - The strongest man on earth is on a plant-based diet.
