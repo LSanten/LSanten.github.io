@@ -7,7 +7,7 @@ layout: default
 > 
 > ~ David Cain [1]
 
-
+![](media/cleanshot_2024-09-19-at-21-58-00@2x.png)
 
 
 _________

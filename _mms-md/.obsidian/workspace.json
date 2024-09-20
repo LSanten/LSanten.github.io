@@ -69,11 +69,9 @@
             "id": "a7f41c018c64ae86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
-                "mode": "source",
-                "source": false
+                "file": "media/time-square- high res.jpg"
               }
             }
           },
@@ -119,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Values can be considered the essence of social structures. Read more about them in the not",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -136,8 +134,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+                "file": "media/time-square- high res.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+                "file": "media/time-square- high res.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md"
+                "file": "media/time-square- high res.jpg"
               }
             }
           }
@@ -220,13 +217,32 @@
   },
   "active": "a7f41c018c64ae86",
   "lastOpenFiles": [
+    "media/roots-of-renewables-old.png",
+    "media/roots-of-renewables.png",
+    "media/timessquare.jpg",
+    "media/cleanshot_2024-09-19-at-21-58-00@2x.png",
+    "WORK-WEEK-A.md",
     "MMSHistOfSci-A.md",
+    "UNLEARNING-A.md",
+    "WORK-BALANCE.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "WEBSITE-SIZE-CHECK-A.md",
+    "WASTE-D.md",
+    "letter-to-the-SF-Chronicle.md",
+    "letter-to-rhizome-2024.md",
+    "letter-to-people-power-solar-cooperative.md",
+    "CIRCULAR-ECON-E.md",
+    "org-people-power-solar-cooperative.md",
+    "org-movement-building.md",
+    "WASTE-A.md",
+    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+    "media/IMG_4611.png",
     "media/cleanshot_2024-09-19-at-15-43-58@2x.png",
     "PLANT-BASED-DIET-A.md",
     "SEEDS-A.md",
     "JOB-BOARD-CLIMATE-DESIGN-SOCIAL-JUSTICE.md",
     "SYSTEMIC-STORYTELLING-INTERFACE.md",
-    "letter-to-rhizome-2024.md",
     "MMSInTheWorks.md",
     "SETH-PRACTICES-A.md",
     "SUST-JOBS.md",
@@ -234,27 +250,11 @@
     "ALL.md",
     "EFFORT-BROKEN-FEEDBACK.md",
     "MMSQ-Transdisciplinary-awareness.md",
-    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
-    "APP-IDEA-D.md",
-    "TEST.md",
     "media/19FF1C48-12D3-4CD4-B241-1E21AD87F4AA_1_105_c.jpeg",
-    "AGRICULTURE-A.md",
-    "CIRCULAR-ECON-B.md",
-    "ROOTS-OF-RENEWABLES.md",
     "media/flower_mockup.gif",
     "media/Frame 16.png",
     "media/cleanshot_2024-09-15-at-23-25-39@2x.png",
     "media/cleanshot_2024-09-15-at-17-39-04@2x.png",
-    "MMSFinanceVisual.md",
-    "media/IMG_0134.gif",
-    "COLLECTION-GRAPHICS-UI.md",
-    "media/cleanshot_2024-09-15-at-17-28-18@2x.png",
-    "COMPETITION-OVER-RESOURCES.md",
-    "MILIT-A.md",
-    "MANTRA-GAYATRI.md",
-    "MILIT-B.md",
-    "media/cleanshot_2024-09-11-at-14-16-35@2x.png",
-    "media/E2A74843-7757-4F99-B6C4-AE51F1354E05_1_102_o 1.jpeg",
     "media/MMSPhilOfSciA_8.png.tmp$$",
     "media/MMSPhilOfSciA_7.png.tmp$$",
     "media/MMSPhilOfSciA_6.png.tmp$$",

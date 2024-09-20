@@ -37,3 +37,5 @@ Add industrial revolution language.
 --> ![](media/cleanshot_2024-09-19-at-15-43-58@2x.png)
 
 %%
+
+![](media/IMG
