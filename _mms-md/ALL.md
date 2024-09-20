@@ -193,8 +193,6 @@ layout: default
 - [[ONTOLOGICAL-PRIMITIVES]] - What are ontological primitives?
 - [[OPP-LIB-PRAC-A]] - The Wheel of Oppression and Liberation
 - [[ORG-A]] - How to tag my zettels
-- [[org-movement-building]] - No Title
-- [[org-people-power-solar-cooperative]] - No Title
 - [[OVERVIEW-CAPITALISM]] - What is capitalism?
 - [[OVERVIEW-DEGROWTH]] - No Title
 - [[PEACE-A]] - You don't need and can't have nation state boarders for peace
