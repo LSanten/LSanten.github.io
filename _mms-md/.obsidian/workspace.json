@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSHistOfSci-A.md",
+                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,8 +119,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "histof",
-                "matchingCase": false,
+                "query": "Values can be considered the essence of social structures. Read more about them in the not",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MMSHistOfSci-A.md",
+                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MMSHistOfSci-A.md",
+                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MMSHistOfSci-A.md"
+                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md"
               }
             }
           }
@@ -220,6 +220,7 @@
   },
   "active": "a7f41c018c64ae86",
   "lastOpenFiles": [
+    "MMSHistOfSci-A.md",
     "media/cleanshot_2024-09-19-at-15-43-58@2x.png",
     "PLANT-BASED-DIET-A.md",
     "SEEDS-A.md",
@@ -250,12 +251,10 @@
     "media/cleanshot_2024-09-15-at-17-28-18@2x.png",
     "COMPETITION-OVER-RESOURCES.md",
     "MILIT-A.md",
-    "MMSHistOfSci-A.md",
     "MANTRA-GAYATRI.md",
     "MILIT-B.md",
     "media/cleanshot_2024-09-11-at-14-16-35@2x.png",
     "media/E2A74843-7757-4F99-B6C4-AE51F1354E05_1_102_o 1.jpeg",
-    "media/E2A74843-7757-4F99-B6C4-AE51F1354E05_1_102_o.jpeg",
     "media/MMSPhilOfSciA_8.png.tmp$$",
     "media/MMSPhilOfSciA_7.png.tmp$$",
     "media/MMSPhilOfSciA_6.png.tmp$$",

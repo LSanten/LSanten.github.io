@@ -22,11 +22,7 @@ def add_magic_symbol_to_links(folder_path):
                     content = f.read()
                 
                 # Use regex to find and replace href links
-                updated_content = re.sub(
-                    r'(<a href="\.\./[^"]*?">)([^<]*)(</a>)',
-                    r'🔮 \1\2\3',
-                    content
-                )
+                updated_content = re.sub(r'<a href="\.\./([^"]*?)">', r'🔮 <a href="../\1">', content)
                 
                 # Write the updated content back to the file if changes were made
                 if content != updated_content:
@@ -36,4 +32,4 @@ def add_magic_symbol_to_links(folder_path):
 
 # Call the function with the path to the marbles folder
 add_magic_symbol_to_links(marbles_folder)
-print('Added marble symbols within html files')
+print('PYTHON:Added marble symbols within html files')
