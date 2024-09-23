@@ -2,7 +2,6 @@
 layout: default
 title: "Ontological primitives"
 ---
-
 # What are ontological primitives?
 *Ontological primitives* are the essences from which our actions and behaviors arise. They are the smallest building blocks of ontological base understandings (regarding the nature of reality & being), meaning that they cannot be broken down into anything smaller. Ontological primitives are:
 
@@ -30,8 +29,13 @@ See [[MMSSocialReproductionB]] for ways in which current paradigms re-appear in 
 
 [[AUTOPOIESIS-A]] for the concept of re-creation.
 
+
+%%
+
 ### 📝 Notes: An artist who relates the ideas from above to ecology
 - ricardo levins morales
+
+%%
 
 
 _____

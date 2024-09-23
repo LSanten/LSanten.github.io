@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "letter-to-rhizome-2024.md",
+                "file": "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,9 +69,11 @@
             "id": "a7f41c018c64ae86",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "media/time-square- high res.jpg"
+                "file": "MMSSystemicCooperationInterface-A.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -88,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "natel",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -134,7 +136,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/time-square- high res.jpg",
+                "file": "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/time-square- high res.jpg",
+                "file": "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "media/time-square- high res.jpg"
+                "file": "NATEL-ENERGY-FISH-SAFE-STUDIES.md"
               }
             }
           }
@@ -215,13 +218,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7f41c018c64ae86",
+  "active": "f78f28f2e0af91a3",
   "lastOpenFiles": [
+    "media/Pasted image 20240922182501.png",
+    "ALL.md",
+    "letter-to-rhizome-2024.md",
+    "media/IMG_4617.jpeg",
+    "QUOTES-GENERAL-COLLECTION.md",
+    "media/D8A7D429-E1A0-4424-909D-6659A86C5078.jpeg",
+    "POUCH-OF-QUOTES.md",
+    "MMSSystemicCooperationInterface-A.md",
+    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+    "MESH-CAP-C.md",
+    "letter-to-the-SF-Chronicle.md",
+    "letter-to-people-power-solar-cooperative.md",
+    "WORK-WEEK-A.md",
+    "media/time-square- high res.jpg",
     "media/roots-of-renewables-old.png",
     "media/roots-of-renewables.png",
     "media/timessquare.jpg",
     "media/cleanshot_2024-09-19-at-21-58-00@2x.png",
-    "WORK-WEEK-A.md",
     "MMSHistOfSci-A.md",
     "UNLEARNING-A.md",
     "WORK-BALANCE.md",
@@ -229,14 +245,10 @@
     "Untitled 1.canvas",
     "WEBSITE-SIZE-CHECK-A.md",
     "WASTE-D.md",
-    "letter-to-the-SF-Chronicle.md",
-    "letter-to-rhizome-2024.md",
-    "letter-to-people-power-solar-cooperative.md",
     "CIRCULAR-ECON-E.md",
     "org-people-power-solar-cooperative.md",
     "org-movement-building.md",
     "WASTE-A.md",
-    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
     "media/IMG_4611.png",
     "media/cleanshot_2024-09-19-at-15-43-58@2x.png",
     "PLANT-BASED-DIET-A.md",
@@ -245,16 +257,7 @@
     "SYSTEMIC-STORYTELLING-INTERFACE.md",
     "MMSInTheWorks.md",
     "SETH-PRACTICES-A.md",
-    "SUST-JOBS.md",
-    "PRESENCE-A.md",
-    "ALL.md",
-    "EFFORT-BROKEN-FEEDBACK.md",
-    "MMSQ-Transdisciplinary-awareness.md",
     "media/19FF1C48-12D3-4CD4-B241-1E21AD87F4AA_1_105_c.jpeg",
-    "media/flower_mockup.gif",
-    "media/Frame 16.png",
-    "media/cleanshot_2024-09-15-at-23-25-39@2x.png",
-    "media/cleanshot_2024-09-15-at-17-39-04@2x.png",
     "media/MMSPhilOfSciA_8.png.tmp$$",
     "media/MMSPhilOfSciA_7.png.tmp$$",
     "media/MMSPhilOfSciA_6.png.tmp$$",

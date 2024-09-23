@@ -45,4 +45,4 @@ def add_magic_symbol_to_links(folder_path):
 
 # Call the function with the path to the marbles folder
 add_magic_symbol_to_links(marbles_folder)
-print('PYTHON: Added marble symbols within html files, excluding header and footer sections')
+print('PYTHON: Added marble symbols within html files')

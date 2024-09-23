@@ -809,7 +809,7 @@ mark {
   width: 50px;
   line-height: 50px;
   border-radius: 50%;
-  background: rgba(79, 214, 117, 0.5);
+  background: rgba(255,196,12, 0.6);
   color: #fff;
   border: 0;
 }
@@ -822,7 +822,7 @@ mark {
   outline: 0;
 }
 .slick-arrow:hover {
-  background: #4FD675;
+  background: #ffe135;
 }
 
 .prevArrow {

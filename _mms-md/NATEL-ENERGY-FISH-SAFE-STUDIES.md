@@ -26,6 +26,7 @@ My data analysis and capturing for our 2022 study with eels passing through Nate
 ### A photo from a study with sturgeon that I consulted in 2024
 ![](media/20240729-DSC04046.jpg)
 
+![](media/Pasted%20image%2020240922182501.png)
 ### This is the testing facility (it is very unconventional for turbine designers to investigate their impact on fish with this amount of rigor)
 ![](media/20240729-DJI_0745.jpg)
 

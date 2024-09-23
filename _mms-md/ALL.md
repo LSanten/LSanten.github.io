@@ -205,6 +205,7 @@ layout: default
 - [[POLICY-RESTAURANT-A]] - very easy policy: all restaurants use only reusable to go boxes
 - [[PORTFOLIO-SYSTEMS-THINKING-ILLUSTRATIONS]] - No Title
 - [[PORTFOLIO-WEBSITE-INSPO]] - A list of portfolios and websites that inspire me
+- [[POUCH-OF-QUOTES]] - No Title
 - [[POVERTY-OVERVIEW]] - What is poverty?
 - [[POVERTY-STATS-A]] - No Title
 - [[POWER-A]] - No Title
@@ -218,6 +219,7 @@ layout: default
 - [[PropOfSciences]] - the propositions or interests of the social & natural sciences
 - [[PROSPERITY-A]] - How to define prosperity (in the context of degrowth)
 - [[QUOTES-CREATION-PEACE]] - No Title
+- [[QUOTES-GENERAL-COLLECTION]] - A collection of quotes with no specific theme
 - [[QUOTES-INJUSTICE-SILENCE]] - No Title
 - [[RADICALNESS]] - Radicalness means to go back to the roots of the injustice
 - [[READING-RECS-A]] - Philosophical readings that I want to share with all my friends
@@ -242,7 +244,7 @@ layout: default
 - [[SMALLBUSINESS-RENT]] - if rent is low, businesses can sell for different prices if they also practice transparency and democratic shaping
 - [[SOIL-A]] - A Textural Classification of Soils
 - [[SOLAR-ENERGY-A]] - "Land-sparing" solar installations save land and use land wisely 
-- [[SOMATIC-HEAL-WHITENESS]] - Healing internalized white-supremacy start with healing the relationship to ourselves
+- [[SOMATIC-HEAL-WHITENESS]] - Healing internalized white-supremacy starts with healing the relationship to ourselves
 - [[SPIRIT-A]] - No Title
 - [[SPIRIT-PODCASTS]] - No Title
 - [[SPIRIT-TRANSFORMATION]] - spiritual transformation 
