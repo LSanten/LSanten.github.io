@@ -89,6 +89,7 @@ layout: default
 - [[EYTLaserViz-B]] - Dreaming about future design of the music laser visualizer
 - [[EYTMusicSimilaritySearchEngine]] - New online digging tool cosine.club recommends tracks based on similarity
 - [[EYTMusicVizIdeas-A]] - A list of responsive or interactive music visualization ideas
+- [[EYTPlaylistsFunDJing]] - No Title
 - [[EYTSongDownloadingConversion]] - No Title
 - [[FACTS-A]] - facts remain robust only when they are supported by a common culture
 - [[FAITH-BELIEF-SCIENCE]] - No Title
@@ -98,6 +99,7 @@ layout: default
 - [[GLUCOSE-A]] - No Title
 - [[GRADES-A]] - VISUAL: Grades are a sad mix of rejection and merely good enough
 - [[GRAPHIC-DESIGN-TIPS-COLLECTION]] - No Title
+- [[HOLISTIC-FRAMEWORKS]] - Holistic frameworks for life - doing, being, relating, celebrating
 - [[IMAGINATION-A]] - Immersion into the unknown & imagination
 - [[INDEXING-CODING-WHY]] - One perspective on why indexing and numbering arrays in coding is so weird
 - [[INNOVATORS-COMPASS-A]] - The design tool called "Innovators Compass"
@@ -200,6 +202,7 @@ layout: default
 - [[PED-OF-LOVE]] - No Title
 - [[PERSONAL-VALUE-SYSTEM]] - My value system 
 - [[PHENOMENA-A]] - Phenomena of life
+- [[PLANNING-DREAMING-CELEBRATING-DOING-FRAMEWORK]] - The dragon dreaming framework
 - [[PLANT-BASED-DIET-A]] - Plant-based diet facts from documentary "The Game Changers"
 - [[PLUS1SOUNDA]] - Loud high pitch sounds damage your ears more than low pitch sounds
 - [[POLICY-RESTAURANT-A]] - very easy policy: all restaurants use only reusable to go boxes
@@ -236,7 +239,7 @@ layout: default
 - [[RESUME-WRITINGS-C]] - Envisioning architectural & engineering relationships to the land inspired by  indigenous ways of being
 - [[RESUME-WRITINGS-UPLOAD]] - Things that need to uploaded to the writings section
 - [[ROOTS-OF-RENEWABLES]] - Visualizing the roots of renewables
-- [[SCIENCE-OF-HOLISM-FRAMEWORK]] - No Title
+- [[SCIENCE-OF-HOLISM-FRAMEWORK]] - An attempt to frame my science of holism
 - [[SEEDS-A]] - Commercial agriculture uses low variety of seeds
 - [[SENSING-B]] - Otto Scharmer's framework for turning inward to see the external system within ourselves
 - [[SETH-PRACTICES-A]] - Practices for energy, flow of qi, loosening, and reflection
@@ -258,6 +261,7 @@ layout: default
 - [[SYSTEMIC-STORYTELLING-INTERFACE]] - No Title
 - [[TECH-INTERDEP-A]] - No Title
 - [[TEST]] - This is the test document with a nice title complementing the rest
+- [[THESIS-HOLISTIC-ENGINEERING]] - Holistic engineering and a renewed science of holism for a thriving world
 - [[THREE-WELLBEING-THINGS]] - No Title
 - [[TRAGEDY-COMMONS-A]] - No Title
 - [[UNLEARNING-A]] - We need to completely rework & unlearn our lives and social systems

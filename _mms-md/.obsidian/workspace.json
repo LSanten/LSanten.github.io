@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
+                "file": "ROOTS-OF-RENEWABLES.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,14 +83,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSInTheWorks.md",
+                "file": "SCIENCE-OF-HOLISM-FRAMEWORK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e627e9d91e018078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SCIENCE-OF-HOLISM-FRAMEWORK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "251865a00b9822c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "THESIS-HOLISTIC-ENGINEERING.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b5200610598905c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PLANNING-DREAMING-CELEBRATING-DOING-FRAMEWORK.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -119,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "natel",
+                "query": "reductionist ",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -157,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
+                "file": "PLANNING-DREAMING-CELEBRATING-DOING-FRAMEWORK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
+                "file": "PLANNING-DREAMING-CELEBRATING-DOING-FRAMEWORK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NATEL-ENERGY-FISH-SAFE-STUDIES.md"
+                "file": "PLANNING-DREAMING-CELEBRATING-DOING-FRAMEWORK.md"
               }
             }
           }
@@ -218,17 +254,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f78f28f2e0af91a3",
+  "active": "1b5200610598905c",
   "lastOpenFiles": [
-    "media/Pasted image 20240922182501.png",
+    "SCIENCE-OF-HOLISM-FRAMEWORK.md",
+    "THESIS-HOLISTIC-ENGINEERING.md",
+    "PLANNING-DREAMING-CELEBRATING-DOING-FRAMEWORK.md",
+    "HOLISTIC-FRAMEWORKS.md",
+    "TEST.md",
+    "MMSSystemicCooperationInterface-A.md",
+    "CAPABILITIES-FOR-LIFE-FRAMEWORK.md",
+    "SENSING-B.md",
+    "CIRCULAR-ECON-D.md",
+    "COMPLEX-SYSTEMS-FRAMEWORK-A.md",
+    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+    "MMSInTheWorks.md",
+    "media/cleanshot_2024-09-27-at-13-35-35@2x.png",
+    "ROOTS-OF-RENEWABLES.md",
     "ALL.md",
+    "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
+    "EYTPlaylistsFunDJing.md",
+    "media/Pasted image 20240922182501.png",
     "letter-to-rhizome-2024.md",
     "media/IMG_4617.jpeg",
     "QUOTES-GENERAL-COLLECTION.md",
     "media/D8A7D429-E1A0-4424-909D-6659A86C5078.jpeg",
     "POUCH-OF-QUOTES.md",
-    "MMSSystemicCooperationInterface-A.md",
-    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
     "MESH-CAP-C.md",
     "letter-to-the-SF-Chronicle.md",
     "letter-to-people-power-solar-cooperative.md",
@@ -243,21 +293,7 @@
     "WORK-BALANCE.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "WEBSITE-SIZE-CHECK-A.md",
-    "WASTE-D.md",
-    "CIRCULAR-ECON-E.md",
-    "org-people-power-solar-cooperative.md",
-    "org-movement-building.md",
-    "WASTE-A.md",
     "media/IMG_4611.png",
-    "media/cleanshot_2024-09-19-at-15-43-58@2x.png",
-    "PLANT-BASED-DIET-A.md",
-    "SEEDS-A.md",
-    "JOB-BOARD-CLIMATE-DESIGN-SOCIAL-JUSTICE.md",
-    "SYSTEMIC-STORYTELLING-INTERFACE.md",
-    "MMSInTheWorks.md",
-    "SETH-PRACTICES-A.md",
-    "media/19FF1C48-12D3-4CD4-B241-1E21AD87F4AA_1_105_c.jpeg",
     "media/MMSPhilOfSciA_8.png.tmp$$",
     "media/MMSPhilOfSciA_7.png.tmp$$",
     "media/MMSPhilOfSciA_6.png.tmp$$",

@@ -5,6 +5,8 @@ collaborators: Leon Santen, Odalys Benitez, Martin Santen
 # Visualizing the roots of renewables
 The word *radical* inherits its meaning from latin, meaning *rooted*. Radicalness means to go back to the roots of the injustice (see more on [radicalness](RADICALNESS.md)). I am on a journey to find engineers who are vulnerable enough to surface the roots of our supply chains. If you know any, please let me know! 
 
+%% The tip of root is %%
+
 ![](media/roots-of-renewables.png)
 
 ## Why is this graphic related to the *Just Transition Principles* and what are they?
