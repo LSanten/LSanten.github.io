@@ -64,9 +64,5 @@ The laser I used at this event was my first legit prototype (V1) using a commonl
 
 ## Media archive
 
-
 - folder with all images and videos besides youtube videos https://drive.google.com/drive/folders/1tR-mtjFpGnDntmnmfJzJfZR_EcrjVrzx?usp=sharing
 - timelapse of hackathon https://www.youtube.com/watch?v=MxvMdnYlsK0
-
-
-
