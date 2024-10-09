@@ -8,6 +8,8 @@ I have been shaping this laser visualizer on and off for 3 years since its inven
 
 I enjoy that it is directly synced to the music and represents the real sound waves of the song. It does not use sofware to create the visual. The visual is created by the movement of the speaker and a mirror attached to it.
 
+Check out [this video](https://www.instagram.com/p/C3gVEC_vH-_/?img_index=2) to see one version of visuals it can create. 
+
 I greatly enjoy the patterns it creates and that the visuals are often distinct to a song or baseline. Every baseline feeling creates a different visual. Yet, the general style stays similar throughout the night, creating a pull-in hypnotic effect.
 
 ## Videos showing a variety of visuals from different prototypes
@@ -38,8 +40,10 @@ I worked together with Gideon O Egbuchulam to shape the environment of a [dance 
 I developed this second prototype to explore the effects of a glow-in-the-dark canvas that is charged up by the UV/purple laser. The effect is not as interesting as expected. The 
 
 ### videos of performance of V2
-- a video of the blue-light laser performing to a song: [watch video here](https://drive.google.com/file/d/1l1MZriswP_XaEk1L2y1xKXLuPloSW3ox/view?usp=sharing)
-- a video of the laser when bass is low to illustrate that the movement of the visual largely depends on low frequency: [video here](https://drive.google.com/file/d/1kzZRIBprKgb_-05AWdPADXQzIdXBEBcN/view?usp=sharing)
+a video of the blue-light laser performing to a song: [watch video here](https://drive.google.com/file/d/1l1MZriswP_XaEk1L2y1xKXLuPloSW3ox/view?usp=sharing)
+
+a video of the laser when bass is low to illustrate that the momvement of the visual largely depends on low frequencesy: [video here](https://drive.google.com/file/d/1kzZRIBprKgb_-05AWdPADXQzIdXBEBcN/view?usp=sharing)
+
 
 ### design of V2: laser & wireless remote control
 
@@ -50,12 +54,7 @@ The biggest part of building the second prototype was the development of a fully
 
 ## Skiis DJing at Fault radio with laser visualizer in the background Sept 18 2022
 This was a larger event with several DJs, vendors, and artist. In [this YouTube video](https://www.youtube.com/watch?v=yF6J6Qs61sM), Skiis DJs with the laser in the background. **The laser's movement in [this video](https://www.youtube.com/watch?v=yF6J6Qs61sM) is particularly fun because it bounces around quite dynamically**. I received enthusiam from a few people as they had never seen a visualizer that didn't use a projector or screen before. 
-
-
 ![](media/cleanshot_2023-11-06-at-20-38-04@2x.png)
-
-
-
 
 The laser I used at this event was my first legit prototype (V1) using a commonly available JBL speaker and looked as follows:
 
@@ -65,9 +64,5 @@ The laser I used at this event was my first legit prototype (V1) using a commonl
 
 ## Media archive
 
-
 - folder with all images and videos besides youtube videos https://drive.google.com/drive/folders/1tR-mtjFpGnDntmnmfJzJfZR_EcrjVrzx?usp=sharing
 - timelapse of hackathon https://www.youtube.com/watch?v=MxvMdnYlsK0
-- presentation of 
-
-

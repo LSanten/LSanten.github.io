@@ -89,6 +89,7 @@ layout: default
 - [[EYTLaserViz-B]] - Dreaming about future design of the music laser visualizer
 - [[EYTMusicSimilaritySearchEngine]] - New online digging tool cosine.club recommends tracks based on similarity
 - [[EYTMusicVizIdeas-A]] - A list of responsive or interactive music visualization ideas
+- [[EYTPlaylistsForOnlineFacilitation]] - Playlists for online facilitation and Zoom meetings
 - [[EYTPlaylistsFunDJing]] - No Title
 - [[EYTSongDownloadingConversion]] - No Title
 - [[FACTS-A]] - facts remain robust only when they are supported by a common culture

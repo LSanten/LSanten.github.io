@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THESIS-HOLISTIC-ENGINEERING.md",
+                "file": "EYTPlaylistsForOnlineFacilitation.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,12 +121,13 @@
               "state": {
                 "file": "ELECYT-LASER-VIZ-A.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -155,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "presentation of ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -172,8 +173,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELECYT-LASER-VIZ-A.md",
+                "file": "EYTPlaylistsForOnlineFacilitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELECYT-LASER-VIZ-A.md",
+                "file": "EYTPlaylistsForOnlineFacilitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELECYT-LASER-VIZ-A.md"
+                "file": "EYTPlaylistsForOnlineFacilitation.md"
               }
             }
           }
@@ -241,8 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,12 +253,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b5200610598905c",
+  "active": "251865a00b9822c6",
   "lastOpenFiles": [
+    "EYTClubCollab-A.md",
+    "EYTPlaylistsForOnlineFacilitation.md",
+    "EYTLaserViz-A.md",
+    "ALL.md",
+    "THESIS-HOLISTIC-ENGINEERING.md",
+    "ELECYT-LASER-VIZ-A.md",
+    "ECO-JUSTICE.md",
+    "MMSCapitalismA.md",
+    "MCGILCHRIST2021-VID.md",
+    "ROOTS-OF-RENEWABLES.md",
+    "EYTPlaylistsFunDJing.md",
+    "HOLISTIC-FRAMEWORKS.md",
     "PLANNING-DREAMING-CELEBRATING-DOING-FRAMEWORK.md",
     "SCIENCE-OF-HOLISM-FRAMEWORK.md",
-    "THESIS-HOLISTIC-ENGINEERING.md",
-    "HOLISTIC-FRAMEWORKS.md",
     "TEST.md",
     "MMSSystemicCooperationInterface-A.md",
     "CAPABILITIES-FOR-LIFE-FRAMEWORK.md",
@@ -269,28 +278,18 @@
     "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
     "MMSInTheWorks.md",
     "media/cleanshot_2024-09-27-at-13-35-35@2x.png",
-    "ROOTS-OF-RENEWABLES.md",
-    "ALL.md",
     "NATEL-ENERGY-FISH-SAFE-STUDIES.md",
-    "EYTPlaylistsFunDJing.md",
     "media/Pasted image 20240922182501.png",
     "letter-to-rhizome-2024.md",
     "media/IMG_4617.jpeg",
     "QUOTES-GENERAL-COLLECTION.md",
     "media/D8A7D429-E1A0-4424-909D-6659A86C5078.jpeg",
     "POUCH-OF-QUOTES.md",
-    "MESH-CAP-C.md",
-    "letter-to-the-SF-Chronicle.md",
-    "letter-to-people-power-solar-cooperative.md",
-    "WORK-WEEK-A.md",
     "media/time-square- high res.jpg",
     "media/roots-of-renewables-old.png",
     "media/roots-of-renewables.png",
     "media/timessquare.jpg",
     "media/cleanshot_2024-09-19-at-21-58-00@2x.png",
-    "MMSHistOfSci-A.md",
-    "UNLEARNING-A.md",
-    "WORK-BALANCE.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "media/IMG_4611.png",
