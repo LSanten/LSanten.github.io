@@ -22,6 +22,7 @@ layout: default
 - [[BIOMIMICRY-A]] - Biomimicry lessons mapped against the wisdom of the Nonngar people of Western Australia
 - [[BOOK-The-Art-of-Gathering]] - Book notes: "The Art of Gathering - How we meet and why it matters"
 - [[BOOK-The-Bliss-of-Inner-Fire]] - No Title
+- [[BOOKS-TO-REMEMBER]] - No Title
 - [[BOUNDARY-SPANNING]] - No Title
 - [[BUBBLE-HASHTAGS]] - List of hashtags used to indentify a variety of bubbles
 - [[CAPABILITIES-FOR-LIFE-FRAMEWORK]] - A framework to nurture life-centric capabilities.
@@ -209,7 +210,7 @@ layout: default
 - [[POLICY-RESTAURANT-A]] - very easy policy: all restaurants use only reusable to go boxes
 - [[PORTFOLIO-SYSTEMS-THINKING-ILLUSTRATIONS]] - No Title
 - [[PORTFOLIO-WEBSITE-INSPO]] - A list of portfolios and websites that inspire me
-- [[POUCH-OF-QUOTES]] - No Title
+- [[POUCH-OF-QUOTES]] - Pouch of quotes
 - [[POVERTY-OVERVIEW]] - What is poverty?
 - [[POVERTY-STATS-A]] - No Title
 - [[POWER-A]] - No Title
@@ -256,6 +257,7 @@ layout: default
 - [[ST-HL-A]] - We need different stories as healers
 - [[STREAMING-COMMUNITY-PLATF]] - Streaming platform for music that shows you map of local artists around you
 - [[SURVIVAL-OF-THE-FRIENDLIEST]] - Survival of the friendlist
+- [[SURVIVAL-OF-THE-NURTURED]] - No Title
 - [[SUST-JOBS]] - No Title
 - [[SYSTEMIC-CHANGE-A]] - No Title
 - [[SYSTEMIC-INTELLIGENCE-SPACE]] - No Title

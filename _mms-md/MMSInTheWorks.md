@@ -20,6 +20,7 @@ This note is supposed to help me with identifying project opportunities in momen
 - [SEEDS-A](SEEDS-A.md) - a quick graphic with info on seeds using image from April 2nd 2024
 - [APP-IDEA-D](APP-IDEA-D.md) - (and other app ideas) - creating interface mockup 
 - interface mockup for collaborative Amazon
+- ☀️ a scale that weights all human held animals and several times the amount of mammal weight on the other side 
 
 ## Needs to look nicer
 - [ELECTRICITY-BOTTOM-BILLION](ELECTRICITY-BOTTOM-BILLION.md) - the colors and graphic don't look that nice; maybe make it look like a print
