@@ -15,7 +15,7 @@ The word *radical* inherits its meaning from latin, meaning *rooted*. Radicalnes
 
 The green energy transition will come. There is no doubt. But the story doesn’t end it. We can argue about the concrete numbers, but we know that renewable energy requires more resources than their gas equivalents. This means [the largest increase of mining in human history is ahead of us](ENERGY-ENG-A.md). 
 
-[JUST-TRANSITION-PRINC](JUST-TRANSITION-PRINC.md)  
+[JUST-TRANSITION-PRINC-FRAME](JUST-TRANSITION-PRINC-FRAME.md)  
 
 
 
@@ -94,7 +94,7 @@ When will engineers transparently design for eco-social stability with the same 
 - studies that show mining pollution 
 - how african countries are interely owned by other coutnries due to mining etc (i think on insta?)
 - caroline’s mining 
-- [JUST-TRANSITION-PRINCIPLES](JUST-TRANSITION-PRINC.md)
+- [JUST-TRANSITION-PRINCIPLES](JUST-TRANSITION-PRINC-FRAME.md)
 - [RADICALNESS](RADICALNESS.md)
 
 

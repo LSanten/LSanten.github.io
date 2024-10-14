@@ -48,6 +48,7 @@ layout: default
 - [[COMMUNICATION-A]] - It seems crucial to talk about how we talk
 - [[COMMUNICATION-LIVING-ROOM]] - What should our communication space look like?
 - [[COMMUNITY-A]] - A saving dump of concepts and resources related to community building
+- [[COMMUNITY-OWNED-LAND-ECOSYSTEMS]] - Examples of community-stewarded land 
 - [[COMPETITION-OVER-RESOURCES]] - Competition over resources
 - [[COMPLEX-SYSTEMS-FRAMEWORK-A]] - Cynefin framework
 - [[COMPLEXITY-A]] - People and systems complexity 
@@ -59,7 +60,7 @@ layout: default
 - [[CUTE-A]] - Name idea: the lame baby club
 - [[DEATH-A]] - It’s all about the ability to create relationships and let go of relationships. 
 - [[DEGROWTH-SDG-IPCC]] - SDGs addressed by degrowth
-- [[DESIGNING-WITH-COUNTRY-A]] - Danièle Hromek’s 14 principles for what non-Indigenous architects can do to Indigenize practice.
+- [[DESIGNING-WITH-COUNTRY-A]] - Designing with country
 - [[DIALOGUE-A]] - The difference between a dialogue and a discussion 
 - [[DICTATORSHIP-A]] - Workplace dictatorship is when the owner has the right to tell the worker what to do
 - [[ECO-JUSTICE]] - No Title
@@ -91,7 +92,7 @@ layout: default
 - [[EYTMusicSimilaritySearchEngine]] - New online digging tool cosine.club recommends tracks based on similarity
 - [[EYTMusicVizIdeas-A]] - A list of responsive or interactive music visualization ideas
 - [[EYTPlaylistsForOnlineFacilitation]] - Playlists for online facilitation and Zoom meetings
-- [[EYTPlaylistsFunDJing]] - No Title
+- [[EYTPlaylistsFunDJing]] - Fun playlists I want to share with my friends 
 - [[EYTSongDownloadingConversion]] - No Title
 - [[FACTS-A]] - facts remain robust only when they are supported by a common culture
 - [[FAITH-BELIEF-SCIENCE]] - No Title
@@ -115,7 +116,7 @@ layout: default
 - [[INTRINSIC-EDUCATION-A]] - INSIGHT: I feel like the real goal of education is to figure out how to genuinly explore
 - [[IPCC-TRANSITION]] - IPCC AR6 sees transition needs in 5 realms
 - [[JOB-BOARD-CLIMATE-DESIGN-SOCIAL-JUSTICE]] - No Title
-- [[JUST-TRANSITION-PRINC]] - What are the Just Transition Principles?
+- [[JUST-TRANSITION-PRINC-FRAME]] - What is a Just Transition?
 - [[KNOWING-A]] - It is normal to not know until we know
 - [[KNOWLEDGE-ORGANIZATION-A]] - No Title
 - [[letter-to-people-power-solar-cooperative]] - No Title
@@ -176,7 +177,7 @@ layout: default
 - [[MMSMeatStickA]] - A sticker to speak to the innate nature of humans to refrain from causing immense animal suffering 
 - [[MMSMusicStorageA]] - storing playlists and artists visually would help browsing, memory, and create a feeling of realtionship to the collection
 - [[MMSNutritionLabeling]] - Envisioning nutrition in grocery stores and on tech products
-- [[MMSOlinSystemsBuilding]] - No Title
+- [[MMSOlinSystemsBuilding]] - Examples suitable for visualizing Olin's network
 - [[MMSPhilOfSciA]] - Building blocks for my philosophy of science
 - [[MMSQ-Transdisciplinary-awareness]] - Question to the community: How do you stay aware of people's efforts and insights beyond your own discipline?
 - [[MMSSensingA]] - A visual methaphor for the process/phenomenon of sensing our world and feeling the whole reality

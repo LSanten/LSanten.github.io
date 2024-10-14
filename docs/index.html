@@ -50,6 +50,11 @@
 
 
 <body>
+  <div class="cursor"></div>
+
+
+
+
   <!-- navigation -->
 
 <!--  
@@ -177,8 +182,8 @@
         <h4>I engage in...</h4>
         <ul class="list-inline widget-list-inline">
 
-        <li class="list-inline-item"><a>interweaving</a></li>
-        <li class="list-inline-item"><a>sustainable engineering</a></li>
+        <li class="list-inline-item"><a id="openWindow1">interweaving</a></li>
+        <li class="list-inline-item"><a id="openWindow2">sustainable engineering</a></li>
         <li class="list-inline-item"><a>designing with country</a></li>
         <li class="list-inline-item"><a>environmental research</a></li>
         <li class="list-inline-item"><a>visual reasoning</a></li>
@@ -189,6 +194,24 @@
 
 
         </ul>
+
+        <div id="myWindow1" class="window">
+         <div class="content">
+            <span id="closeWindow1" class="close">&times;</span>
+            <h2>Window 1 Title</h2>
+            <p>Some text inside window 1.</p>
+         </div>
+        </div>
+
+        <div id="myWindow2" class="window">
+          <div class="content">
+            <span id="closeWindow2" class="close">&times;</span>
+            <h2>Window 2 Title</h2>
+            <p>Some text inside window 2.</p>
+          </div>
+        </div>
+
+
         <h4>...and this is my attempt to virtually</br>connect with you</h4>
         
       </div>
@@ -213,6 +236,8 @@
       <div class="col-lg-6 mb-5">
       <div class="widget widget-about">
       <img class="img-fluid" src="images/myself4.jpg" alt="photo of leon santen with green trees in the background. white person in their mid 20s warmly smiling.">
+
+      
 
       <p style="text-align: center; text-decoration: none;"><center>
       <em>Welcome!</em><br>Writing an introduction is tricky, considering that I used to identify with the words <b>holistic engineer & designer</b>. This desire has influenced my journey, digging deep into the interconnectedness of disciplines needed when pursuing climate justice work, especially needed when working in a niche technical field. I hope to shift the narrative around <em>engineering & design</em>.<br><br>
@@ -535,7 +560,7 @@
 </span>
 
 
-<button class="read" style="padding: 10px 12px; text-align: center; text-decoration: none; display: block; margin: 0 auto; font-size: 16px;  cursor: pointer; border-radius: 12px; background-color: #2e759b;">⏷ my relationship to engineering</button>
+<button class="read" style="padding: 10px 12px; text-align: center; text-decoration: none; display: block; margin: 0 auto; font-size: 16px;  cursor: pointer; border-radius: 12px; background-color: #2e759b; hover: #6aa6c6">⏷ my relationship to engineering</button>
 
 
 <!-- UNFOLDING SECTION START
@@ -1383,6 +1408,44 @@ UNFOLDING SECTION END-->
     });
   }
   </script>
+
+
+  <!-- FOR POP UP WINDOWS-->
+  <script>
+    const windows = [
+      { openBtn: 'openWindow1', windowId: 'myWindow1', closeBtn: 'closeWindow1' },
+      { openBtn: 'openWindow2', windowId: 'myWindow2', closeBtn: 'closeWindow2' }
+    ];
+
+    windows.forEach(win => {
+      const openBtn = document.getElementById(win.openBtn);
+      const windowEl = document.getElementById(win.windowId);
+      const closeBtn = document.getElementById(win.closeBtn);
+
+      openBtn.addEventListener('click', function(event) {
+        event.preventDefault();
+        windowEl.style.display = 'block';
+      });
+
+      closeBtn.addEventListener('click', function() {
+        windowEl.style.display = 'none';
+      });
+
+      window.addEventListener('click', function(event) {
+        if (event.target == windowEl) {
+          windowEl.style.display = 'none';
+        }
+      });
+    });
+
+
+  </script>
+
+
+
+  <!-- SCRIPT FOR MOUSE POINTER EFFECTS -->
+  
+
 
 
 
