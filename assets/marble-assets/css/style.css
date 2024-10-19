@@ -1698,7 +1698,21 @@ blockquote em{
   font-style: italic;
 }
 
+
+/*IFRAME WIDTH ALWAYS 100% */
+
 iframe {
     width: 100% !important;
 }
+
+/*SPECIAL FORMAT FOR AUTHOR BLOCKQUOTES IF IT STARTS WITH ~ THIS IS SET AS A JS RULE IN THE JS DOC*/
+
+.special-format-for-quote-author {
+    /* Your styles for the last <p> element that starts with ~ */
+    color: #8686fb;
+    font-weight: bold;
+    text-align: right;
+}
+
+
 

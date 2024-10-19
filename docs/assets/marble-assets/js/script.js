@@ -152,4 +152,23 @@ $(window).on('load', function () {
 
 
 
+	// SPECIAL FORMAT FOR QUOTES AUTHOR
+	// Special format for quote authors
+	$('blockquote').each(function () {
+	    const paragraphs = $(this).find('p');
+	    if (paragraphs.length > 0) {
+	        const lastParagraph = paragraphs.last();
+	        if (lastParagraph.text().trim().startsWith('~')) {
+	            lastParagraph.addClass('special-format-for-quote-author');
+	        }
+	    }
+	});
+
+
+
+
+
+
+
+
 })(jQuery);

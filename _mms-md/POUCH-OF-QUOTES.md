@@ -8,5 +8,8 @@ layout: default
 
 ## Quotes without a specific pouch 
 
-> Everyone is struggling hard - mentioned by Tara Brach 
+> Everyone is struggling hard 
+> 
+> ~ mentioned by Tara Brach 
+
 

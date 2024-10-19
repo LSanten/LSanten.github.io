@@ -18,6 +18,9 @@ This is a test page with some links:
 - [Internal Markdown Link](MILIT-A.md) link with brackets and parantheses 
 - [[MILIT-A]] link with markdown convention
 
+>The world is a dangerous place to live, not because of the people who are evil, but because of the people who don't do anything about it.
+>
+>~ Albert Einstein
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sgOEGKDVvsg?si=SpxArLbni58gAdht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

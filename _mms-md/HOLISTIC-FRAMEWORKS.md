@@ -8,11 +8,14 @@ This marble is a collection of holistic, all-encompassing frameworks that offer 
 ### My own framework and those that resonate deeply
 
 - [Leon's "Science of Holism" framework inspired by complex systems thinking](SCIENCE-OF-HOLISM-FRAMEWORK.md)
-- [Dragon Dreaming Framework](PLANNING-DREAMING-CELEBRATING-DOING-FRAMEWORK.md)
+- [The Dragon Dreaming Framework](PLANNING-DREAMING-CELEBRATING-DOING-FRAMEWORK.md)
+- [The Liberatory Design Framework](LIBERATORY-DESIGN-A.md)
+- [The Just Transition Framework](JUST-TRANSITION-PRINC-FRAME.md)
 ### Other resonant frameworks 
 
 - [Cynefin complex systems thinking framework](COMPLEX-SYSTEMS-FRAMEWORK-A.md)
 - [A framework to nurture life-centric capabilities](CAPABILITIES-FOR-LIFE-FRAMEWORK.md)
+- [The Community Weaving Framework](FRAMEWORKS-COMMUNITY-WEAVING.md)
 
 ### The frameworks below may relate but aren't fully edited yet
 

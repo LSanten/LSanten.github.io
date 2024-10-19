@@ -17,6 +17,7 @@ I developed this framework quite some time ago in 2021 for my Bachelor's thesis 
 ## Related marbles
 - The reductionist tendencies of the scientific method are explored in my marble that visualizes the epistemological pieces that influenced the scientific method: [MMSHistOfSci-A](MMSHistOfSci-A.md)
 - My ever-growing collection of holistic frameworks: [HOLISTIC-FRAMEWORKS](HOLISTIC-FRAMEWORKS.md)
+- [Philosophy of Science](MMSPhilOfSciA.md) - taking a critical stance toward the traditional scientific method
 
 %%
 

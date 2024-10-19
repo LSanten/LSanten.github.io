@@ -16,7 +16,9 @@
                 "file": "SEEDS-A.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "SEEDS-A"
             }
           },
           {
@@ -26,7 +28,9 @@
               "type": "image",
               "state": {
                 "file": "media/IMG_0134.gif"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "IMG_0134"
             }
           },
           {
@@ -38,7 +42,9 @@
                 "file": "SYSTEMIC-STORYTELLING-INTERFACE.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "SYSTEMIC-STORYTELLING-INTERFACE"
             }
           },
           {
@@ -50,7 +56,9 @@
                 "file": "ROOTS-OF-RENEWABLES.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ROOTS-OF-RENEWABLES"
             }
           },
           {
@@ -62,7 +70,9 @@
                 "file": "JOB-BOARD-CLIMATE-DESIGN-SOCIAL-JUSTICE.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "JOB-BOARD-CLIMATE-DESIGN-SOCIAL-JUSTICE"
             }
           },
           {
@@ -74,7 +84,9 @@
                 "file": "MMSSystemicCooperationInterface-A.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "MMSSystemicCooperationInterface-A"
             }
           },
           {
@@ -86,7 +98,9 @@
                 "file": "SCIENCE-OF-HOLISM-FRAMEWORK.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "SCIENCE-OF-HOLISM-FRAMEWORK"
             }
           },
           {
@@ -98,7 +112,9 @@
                 "file": "SCIENCE-OF-HOLISM-FRAMEWORK.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "SCIENCE-OF-HOLISM-FRAMEWORK"
             }
           },
           {
@@ -107,39 +123,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POUCH-OF-QUOTES.md",
+                "file": "QUOTES-INJUSTICE-SILENCE.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "QUOTES-INJUSTICE-SILENCE"
             }
           },
           {
-            "id": "7f03254c91f7dc9e",
+            "id": "ef6f8c7440f6f94a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JUST-TRANSITION-PRINC-FRAME.md",
+                "file": "TEST.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "TEST"
             }
           },
           {
             "id": "1b5200610598905c",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b14355f599c4f0b3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "ELECYT-LASER-VIZ-A.md",
+                "file": "INCARCERATION-STATS.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "INCARCERATION-STATS"
+            }
+          },
+          {
+            "id": "55f328e3529ab22e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEST-LETTER.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TEST-LETTER"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -159,7 +204,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -168,13 +215,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "just transition",
+                "query": "test",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -182,11 +231,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JUST-TRANSITION-PRINC-FRAME.md",
+                "file": "TEST-LETTER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +264,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TEST-LETTER"
             }
           },
           {
@@ -223,10 +275,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JUST-TRANSITION-PRINC-FRAME.md",
+                "file": "TEST-LETTER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TEST-LETTER"
             }
           },
           {
@@ -237,7 +291,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -246,8 +302,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JUST-TRANSITION-PRINC-FRAME.md"
-              }
+                "file": "TEST-LETTER.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TEST-LETTER"
             }
           }
         ]
@@ -266,10 +324,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f03254c91f7dc9e",
+  "active": "55f328e3529ab22e",
   "lastOpenFiles": [
-    "media/Pasted image 20241014131140.png",
+    "INCARCERATION-STATS.md",
+    "TEST-LETTER.md",
+    "TEST.md",
+    "QUOTES-INJUSTICE-SILENCE.md",
+    "POUCH-OF-QUOTES.md",
     "ALL.md",
+    "QUOTES-GENERAL-COLLECTION.md",
+    "SENSING-B.md",
+    "WORK-CULTURE-MEDIEVAL-STONAGE-NOW.md",
+    "WORK-BALANCE.md",
+    "BOAT-FUEL-CONSUMPTION-STATS.md",
+    "media/IMG_4741.jpeg",
+    "media/IMG_4740.jpeg",
+    "SCIENCE-OF-HOLISM-FRAMEWORK.md",
+    "MMSPhilOfSciA.md",
+    "HOLISTIC-FRAMEWORKS.md",
+    "FRAMEWORKS-COMMUNITY-WEAVING.md",
+    "CO-CREATIVE-ECONOMY-A.md",
+    "ELECYT-LASER-VIZ-A.md",
+    "media/cleanshot_2024-10-14-at-13-27-19@2x.png",
+    "CAPABILITIES-FOR-LIFE-FRAMEWORK.md",
+    "JUST-TRANSITION-PRINC-FRAME.md",
+    "media/Pasted image 20241014131140.png",
     "MMSCommuniA.md",
     "MMSHomepage.md",
     "MMSOlinSystemsBuilding.md",
@@ -277,33 +356,12 @@
     "GRAPHIC-DESIGN-TIPS-COLLECTION.md",
     "DESIGNING-WITH-COUNTRY-A.md",
     "COMMUNITY-OWNED-LAND-ECOSYSTEMS.md",
-    "POUCH-OF-QUOTES.md",
     "EYTPlaylistsForOnlineFacilitation.md",
-    "BOOKS-TO-REMEMBER.md",
-    "SURVIVAL-OF-THE-NURTURED.md",
-    "EYTClubCollab-A.md",
-    "EYTLaserViz-A.md",
-    "THESIS-HOLISTIC-ENGINEERING.md",
-    "ELECYT-LASER-VIZ-A.md",
-    "ECO-JUSTICE.md",
-    "MMSCapitalismA.md",
-    "MCGILCHRIST2021-VID.md",
-    "ROOTS-OF-RENEWABLES.md",
-    "EYTPlaylistsFunDJing.md",
-    "HOLISTIC-FRAMEWORKS.md",
-    "PLANNING-DREAMING-CELEBRATING-DOING-FRAMEWORK.md",
-    "SCIENCE-OF-HOLISM-FRAMEWORK.md",
-    "TEST.md",
-    "MMSSystemicCooperationInterface-A.md",
     "media/cleanshot_2024-09-27-at-13-35-35@2x.png",
     "media/Pasted image 20240922182501.png",
     "media/IMG_4617.jpeg",
     "media/D8A7D429-E1A0-4424-909D-6659A86C5078.jpeg",
     "media/time-square- high res.jpg",
-    "media/roots-of-renewables-old.png",
-    "media/roots-of-renewables.png",
-    "media/timessquare.jpg",
-    "media/cleanshot_2024-09-19-at-21-58-00@2x.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "media/MMSPhilOfSciA_8.png.tmp$$",

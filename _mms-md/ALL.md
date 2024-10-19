@@ -20,6 +20,7 @@ layout: default
 - [[AYURVEDA-DOSHAS]] - The ayurvedic doshas
 - [[BELIEVING-A]] - if we believe, we can't think
 - [[BIOMIMICRY-A]] - Biomimicry lessons mapped against the wisdom of the Nonngar people of Western Australia
+- [[BOAT-FUEL-CONSUMPTION-STATS]] - No Title
 - [[BOOK-The-Art-of-Gathering]] - Book notes: "The Art of Gathering - How we meet and why it matters"
 - [[BOOK-The-Bliss-of-Inner-Fire]] - No Title
 - [[BOOKS-TO-REMEMBER]] - No Title
@@ -97,13 +98,14 @@ layout: default
 - [[FACTS-A]] - facts remain robust only when they are supported by a common culture
 - [[FAITH-BELIEF-SCIENCE]] - No Title
 - [[FLOW]] - No Title
-- [[FRAMEWORKS-COMMUNITY-WEAVING]] - No Title
+- [[FRAMEWORKS-COMMUNITY-WEAVING]] - A Framework for weaving together and integrating parts of a community
 - [[FREE-WILL-A]] - "The opposite of free will is not determinism but compulsion" 
 - [[GLUCOSE-A]] - No Title
 - [[GRADES-A]] - VISUAL: Grades are a sad mix of rejection and merely good enough
 - [[GRAPHIC-DESIGN-TIPS-COLLECTION]] - No Title
 - [[HOLISTIC-FRAMEWORKS]] - Holistic frameworks for life - doing, being, relating, celebrating
 - [[IMAGINATION-A]] - Immersion into the unknown & imagination
+- [[INCARCERATION-STATS]] - No Title
 - [[INDEXING-CODING-WHY]] - One perspective on why indexing and numbering arrays in coding is so weird
 - [[INNOVATORS-COMPASS-A]] - The design tool called "Innovators Compass"
 - [[INSPIRATION-ILLUSTRATIONS]] - Illustrations that inspire me to create 
@@ -264,6 +266,7 @@ layout: default
 - [[SYSTEMIC-INTELLIGENCE-SPACE]] - No Title
 - [[SYSTEMIC-STORYTELLING-INTERFACE]] - No Title
 - [[TECH-INTERDEP-A]] - No Title
+- [[TEST-LETTER]] - This is the test document with a nice title complementing the rest
 - [[TEST]] - This is the test document with a nice title complementing the rest
 - [[THESIS-HOLISTIC-ENGINEERING]] - Holistic engineering and a renewed science of holism for a thriving world
 - [[THREE-WELLBEING-THINGS]] - No Title
@@ -275,7 +278,7 @@ layout: default
 - [[WASTE-C]] - An excerpt from "Neither Wolf nor Dog": why do Indians keep so much trash on their land if it could be so easy to clean it up?
 - [[WASTE-D]] - This year, systems designed by engineers have contributed to the following
 - [[WEBSITE-SIZE-CHECK-A]] - Check the size of your website including images
-- [[WORK-BALANCE]] - No Title
+- [[WORK-CULTURE-MEDIEVAL-STONAGE-NOW]] - How our work culture has shifted compared to medieval times 
 - [[WORK-WEEK-A]] - No Title
 
 
