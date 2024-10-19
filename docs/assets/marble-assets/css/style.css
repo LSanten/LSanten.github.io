@@ -1716,3 +1716,13 @@ iframe {
 
 
 
+
+.text-shadow {
+    overflow: visible;
+    text-shadow: 0px 0px 20px rgba(255, 255, 255, 1),  /* Strong solid white shadow */
+                 0px 0px 20px rgba(255, 255, 255, 1),  /* Larger white shadow */
+                 0px 0px 20px rgba(255, 255, 255, 1);  /* Even larger white shadow */
+}
+
+
+
