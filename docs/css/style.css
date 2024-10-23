@@ -911,10 +911,11 @@ mark {
   max-width: 100%;
 }
 .content a {
-  color: #333;
+  color: #c35ce5;
+
 }
 .content a:hover {
-  color: #4FD675;
+  color: #eac35a;
 }
 .content ol,
 .content ul {

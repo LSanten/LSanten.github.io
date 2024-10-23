@@ -228,7 +228,7 @@ layout: default
 - [[PROSPERITY-A]] - How to define prosperity (in the context of degrowth)
 - [[QUOTES-CREATION-PEACE]] - No Title
 - [[QUOTES-GENERAL-COLLECTION]] - A collection of quotes with no specific theme
-- [[QUOTES-INJUSTICE-SILENCE]] - No Title
+- [[QUOTES-INJUSTICE-SILENCE]] - Quotes related to staying silent during times of injustice 
 - [[RADICALNESS]] - Radicalness means to go back to the roots of the injustice
 - [[READING-RECS-A]] - Philosophical readings that I want to share with all my friends
 - [[RECYCLING-A]] - Avoided CO2 emission for recycling & avoided production for various materials 

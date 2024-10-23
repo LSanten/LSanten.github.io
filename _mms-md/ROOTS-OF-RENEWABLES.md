@@ -5,7 +5,7 @@ collaborators: Leon Santen, Odalys Benitez, Martin Santen
 # Visualizing the roots of renewables
 The word *radical* inherits its meaning from latin, meaning *rooted*. Radicalness means to go back to the roots of the injustice (see more on [radicalness](RADICALNESS.md)). I am on a journey to find engineers who are vulnerable enough to surface the roots of our supply chains. If you know any, please let me know! 
 
-%% The tip of root is %%
+%% The tip of root is the most intelligent part. %%
 
 ![](media/roots-of-renewables.png)
 
@@ -19,7 +19,13 @@ The green energy transition will come. There is no doubt. But the story doesn’
 
 
 
-## The effects of mining: an interview with XXX
+## The effects of mining:
+
+https://youtu.be/_V3bIzNX4co?si=lyabGzTwzKuVqNkY
+
+
+https://powerlands.org/
+
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/122399156?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Maxima Acuña de Chaupe"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 

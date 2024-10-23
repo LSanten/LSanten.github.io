@@ -16,6 +16,7 @@ This marble is a collection of holistic, all-encompassing frameworks that offer 
 - [Cynefin complex systems thinking framework](COMPLEX-SYSTEMS-FRAMEWORK-A.md)
 - [A framework to nurture life-centric capabilities](CAPABILITIES-FOR-LIFE-FRAMEWORK.md)
 - [The Community Weaving Framework](FRAMEWORKS-COMMUNITY-WEAVING.md)
+- The deep adaptation framework 
 
 ### The frameworks below may relate but aren't fully edited yet
 

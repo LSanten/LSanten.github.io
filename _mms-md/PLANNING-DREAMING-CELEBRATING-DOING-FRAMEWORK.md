@@ -8,3 +8,5 @@ I learned about this framework in September 2024, and I like it because it offer
 https://dragondreaming.org/
 
 ![](media/cleanshot_2024-09-27-at-13-35-35@2x.png)
+
+This framework reminds me of  [Monica Dennis’ framework](OPP-LIB-PRAC-A.md) which teaches us to move from oppressive systems to liberatory systems by reconnecting to source, story, body, and emotions. 

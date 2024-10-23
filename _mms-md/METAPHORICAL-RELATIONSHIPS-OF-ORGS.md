@@ -8,6 +8,7 @@ Throughout many parts of my work, I have become natures apprentice, learning fro
 
 *Big parts of this work arose during my master's thesis and participatory design study on trans-disciplinary cooperation (more over [here](MMSSystemicCooperationInterface-A.md)).*
 
+![](media/cleanshot_2024-10-22-at-09-11-15@2x.png)
 ## The general idea: projects emerge and interconnect via sharing nutrients 
 I visualize projects as plants because our social structures take on a life force by themselves (see this marble on this [phenomenon](AUTOPOIESIS-A.md)). Furthermore, the components of a plant resemble the components of organizations that exist to grow certain fruits, need to maintain specific structures to do so, and require a wide range of nutrients.
 
