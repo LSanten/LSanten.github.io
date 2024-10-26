@@ -67,4 +67,8 @@ ADD TO REFERENCES (vanasupa & barabino 2021)
 
 Currently, the standard "paper methodology" seems to have arisen from the monologue-style analytical, technical paper realm. But if particular sciences like the critical and social sciences focused more on the communication relationships that a paper creates, the structure of papers might look completely different. 
 
+LINKS
+
+https://www.theguardian.com/environment/2024/oct/25/we-have-emotions-too-climate-scientists-respond-to-attacks-on-objectivity
+
 %%

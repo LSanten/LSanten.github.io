@@ -9,3 +9,6 @@ layout: default
 ![](media/IMG_4741.jpeg)
 ### More quotes
 Find a list of all quote marbles in [pouch of quotes](POUCH-OF-QUOTES.md).
+
+
+![](media/IMG_4776.jpeg)

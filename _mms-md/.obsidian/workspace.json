@@ -175,16 +175,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DESIGNING-WITH-COUNTRY-A.md",
+                "file": "BIOMIMICRY-A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DESIGNING-WITH-COUNTRY-A"
+              "title": "BIOMIMICRY-A"
+            }
+          },
+          {
+            "id": "bf69dcdf4ff76cbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMSSystemicCooperationInterface-A.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MMSSystemicCooperationInterface-A"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -215,7 +229,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "designing with country",
+                "query": "f mine have voiced the need to sense each",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -257,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DESIGNING-WITH-COUNTRY-A.md",
+                "file": "MMSSystemicCooperationInterface-A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +281,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DESIGNING-WITH-COUNTRY-A"
+              "title": "Backlinks for MMSSystemicCooperationInterface-A"
             }
           },
           {
@@ -276,12 +290,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DESIGNING-WITH-COUNTRY-A.md",
+                "file": "MMSSystemicCooperationInterface-A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DESIGNING-WITH-COUNTRY-A"
+              "title": "Outgoing links from MMSSystemicCooperationInterface-A"
             }
           },
           {
@@ -303,10 +317,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DESIGNING-WITH-COUNTRY-A.md"
+                "file": "MMSSystemicCooperationInterface-A.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DESIGNING-WITH-COUNTRY-A"
+              "title": "Outline of MMSSystemicCooperationInterface-A"
             }
           }
         ]
@@ -325,8 +339,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "251865a00b9822c6",
+  "active": "bf69dcdf4ff76cbb",
   "lastOpenFiles": [
+    "BIOMIMICRY-B.md",
+    "media/cleanshot_2024-10-25-at-11-36-20@2x.png",
+    "BIOMIMICRY-A.md",
+    "DESIGNING-WITH-COUNTRY-A.md",
+    "media/IMG_4776.jpeg",
     "media/cleanshot_2024-10-22-at-21-33-44@2x.png",
     "media/cleanshot_2024-10-22-at-21-32-20@2x.png",
     "ALL.md",
@@ -356,13 +375,7 @@
     "CAPABILITIES-FOR-LIFE-FRAMEWORK.md",
     "JUST-TRANSITION-PRINC-FRAME.md",
     "media/Pasted image 20241014131140.png",
-    "MMSCommuniA.md",
-    "MMSHomepage.md",
-    "MMSOlinSystemsBuilding.md",
     "media/cleanshot_2024-10-13-at-17-59-10@2x.png",
-    "media/cleanshot_2024-09-27-at-13-35-35@2x.png",
-    "media/Pasted image 20240922182501.png",
-    "media/IMG_4617.jpeg",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "media/MMSPhilOfSciA_8.png.tmp$$",

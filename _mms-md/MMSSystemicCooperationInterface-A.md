@@ -6,7 +6,7 @@ layout: default
 
 For the last two years, I have been on a quest to understand what forms of communication my community of local and international change makers requires (see my [master's thesis](https://www.omprakash.org/blog/leon-capstone-blog-week-14-overview)).  
 
-Many friends of mine have voiced the need to sense each other better (to let emerge action); for complex climate change projects but also group sensing and reasoning such as understanding who wants to live on a farm in the next 10 years. 
+Many friends of mine have voiced the need to relate as full humans and sense each other better (potentially, to let emerge action).
 
 Here, we might think about digital tools right away. However, I am very cautious of building tools before we understand what we truly need. Therefore, I decided to dedicate my master's capstone project to this inquiry. I talked to collaboration experts, knowledge management innovators, interviewed climate change activists, and co-envisioned practices and spaces for climate justice work with my fellow students and change-maker friends. 
 ## We need *communication about communication*
