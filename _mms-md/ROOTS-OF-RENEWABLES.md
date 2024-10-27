@@ -3,17 +3,31 @@ layout: default
 collaborators: Leon Santen, Odalys Benitez, Martin Santen
 ---
 # Visualizing the roots of renewables
+- mining is harmful to the world
+- our current clean plans require massive increase in resource mining 
+
+
+
+What if we focused on reduction of harm? What if engineers 
+
+
+The  energy transition is already underway. Science is inherently political. What do we value in the process of innovation? What do we ignore? 
+
+
+
+This means [the largest increase of mining in human history is ahead of us](ENERGY-ENG-A.md). 
+
+>Transition is inevitable. Justice is not.
+
+
+
 The word *radical* inherits its meaning from latin, meaning *rooted*. Radicalness means to go back to the roots of the injustice (see more on [radicalness](RADICALNESS.md)). I am on a journey to find engineers who are vulnerable enough to surface the roots of our supply chains. If you know any, please let me know! 
 
 %% The tip of root is the most intelligent part. %%
 
 ![](media/roots-of-renewables.png)
 
-## Why is this graphic related to the *Just Transition Principles* and what are they?
-
->Transition is inevitable. Justice is not.
-
-The green energy transition will come. There is no doubt. But the story doesn’t end it. We can argue about the concrete numbers, but we know that renewable energy requires more resources than their gas equivalents. This means [the largest increase of mining in human history is ahead of us](ENERGY-ENG-A.md). 
+## What are the *Just Transition Principles*?
 
 [JUST-TRANSITION-PRINC-FRAME](JUST-TRANSITION-PRINC-FRAME.md)  
 

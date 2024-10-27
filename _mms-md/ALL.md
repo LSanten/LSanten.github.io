@@ -20,6 +20,7 @@ layout: default
 - [[AYURVEDA-DOSHAS]] - The ayurvedic doshas
 - [[BELIEVING-A]] - if we believe, we can't think
 - [[BIOMIMICRY-A]] - Biomimicry lessons mapped against the wisdom of the Nonngar people of Western Australia
+- [[BIOMIMICRY-B]] - The universal patterns that support flourishing in all living systems
 - [[BOAT-FUEL-CONSUMPTION-STATS]] - No Title
 - [[BOOK-The-Art-of-Gathering]] - Book notes: "The Art of Gathering - How we meet and why it matters"
 - [[BOOK-The-Bliss-of-Inner-Fire]] - No Title
@@ -174,7 +175,7 @@ layout: default
 - [[MMSHistOfSci-A]] - A critical synthesis: history of the scientific method
 - [[MMSHomepage]] - My pouch of marbles for *mostly.mutual studio*
 - [[MMSHothouse]] - No Title
-- [[MMSInTheWorks]] - Marbles in the works - mostly.mutual.studio
+- [[MMSInTheWorks]] - Marbles in the works
 - [[MMSLoans]] - The problems around issuing loans (the way banks are allowed to do it)
 - [[MMSMeatStickA]] - A sticker to speak to the innate nature of humans to refrain from causing immense animal suffering 
 - [[MMSMusicStorageA]] - storing playlists and artists visually would help browsing, memory, and create a feeling of realtionship to the collection

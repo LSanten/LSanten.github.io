@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # The universal patterns that support flourishing in all living systems
 ## Biomimicry or "learning with nature as a part of nature"
 
