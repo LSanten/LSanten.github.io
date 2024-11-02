@@ -65,6 +65,7 @@ layout: default
 - [[DESIGNING-WITH-COUNTRY-A]] - Designing with country
 - [[DIALOGUE-A]] - The difference between a dialogue and a discussion 
 - [[DICTATORSHIP-A]] - Workplace dictatorship is when the owner has the right to tell the worker what to do
+- [[DRAWING-PRACTICE]] - Things I want to practice drawing
 - [[ECO-JUSTICE]] - No Title
 - [[ECOLOGY-A]] - Ecological problems originate in societal structures and problems
 - [[ECON-GROWTH-A]] - Neoliberalism did not even achieve bigger growth, instead it shifted capital from lower classes to upper classes 
@@ -73,7 +74,7 @@ layout: default
 - [[ELECYT-LASER-VIZ-A]] - An overview for my "laser music visualizer"
 - [[EMANCIPATORY-ACTION-RESEARCH-A]] - What is emancipatory action research?
 - [[ENERGY-CONSUMPTION-A]] - building energy use accounts for 40% of total energy use
-- [[ENERGY-ENG-A]] - Building renewable energy systems requires far more resources than building oil-based equivalents 
+- [[ENERGY-ENG-A]] - Understanding the scale of needed resources for an energy transition as envisioned by western nations
 - [[ENERGY-JUSTICE-A]] - Framework for energy justice: AAA
 - [[ENERGY-VEGAN]] - Let's be energy-vegans 
 - [[ENG-WAR]] - Ethymologically engineering is rooted in creating war tools
@@ -230,6 +231,7 @@ layout: default
 - [[QUOTES-CREATION-PEACE]] - No Title
 - [[QUOTES-GENERAL-COLLECTION]] - A collection of quotes with no specific theme
 - [[QUOTES-INJUSTICE-SILENCE]] - Quotes related to staying silent during times of injustice 
+- [[QUOTES-NONVIOLENCE-AND-FORCE]] - Is using force against violent forces violent?
 - [[RADICALNESS]] - Radicalness means to go back to the roots of the injustice
 - [[READING-RECS-A]] - Philosophical readings that I want to share with all my friends
 - [[RECYCLING-A]] - Avoided CO2 emission for recycling & avoided production for various materials 
@@ -267,6 +269,7 @@ layout: default
 - [[SYSTEMIC-INTELLIGENCE-SPACE]] - No Title
 - [[SYSTEMIC-STORYTELLING-INTERFACE]] - No Title
 - [[TECH-INTERDEP-A]] - No Title
+- [[TECHNOLOGY-DEFINITION-A]] - How do we define technology?
 - [[TEST-LETTER]] - This is the test document with a nice title complementing the rest
 - [[TEST]] - This is the test document with a nice title complementing the rest
 - [[THESIS-HOLISTIC-ENGINEERING]] - Holistic engineering and a renewed science of holism for a thriving world

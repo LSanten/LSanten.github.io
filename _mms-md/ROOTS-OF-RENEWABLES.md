@@ -3,8 +3,55 @@ layout: default
 collaborators: Leon Santen, Odalys Benitez, Martin Santen
 ---
 # Visualizing the roots of renewables
+<i class="fas fa-calendar-alt"></i> November 2024<br><br>
+I drew this illustration because I can't stop thinking about this topic. I am on a journey to redefine what it means to be a **good engineer**. As part of this, I want to understand how we can visualize the systemic impact of *innovative technologies*. Do you have ideas or want to chat? Please reach out. 
+
+>Engineers design for structural integrity. But why doesn't this include social integrity? How can something be considered structurally safe if the structures it requires harm human and non-human life on many dimensions but the most immediate physical one? 
+
+**You can find a variety of resources related to this topic below the following illustration.** 
+
+![](media/roots-of-renewables.png)
+## Why roots? 
+The word *radical* inherits its meaning from latin, meaning *rooted*. I drew roots because environmental injustice didn't start with CO2 in the atmosphere. Much more likely it started with a state of mind that justified the destruction of ecosystems, displacement of people, and exploitation child labor for the sake of technological & scientific development. This way of [doing things around here](TECHNOLOGY-DEFINITION-A.md) has finally led to the warming of the whole planet.
+
+Radicalness means to find a solution to a problem by going back to the roots of the injustice (see more on [radicalness](RADICALNESS.md)). Plants have roots. The roots of plants are some of the most intelligent parts of their systems as they investigate and make decisions separately yet connected to others. Therefore, I argue that **being a radical engineer also means to a critical thinker**. Obviously and sadly, *critical theory* is a term barely stated as a core piece of a good engineer. 
+
+## What are the *Just Transition Principles*?
+The [Just Transition Principles](JUST-TRANSITION-PRINC-FRAME.md) are guidelines that help us to stay focused on addressing the root causes of environmental injustice as opposed to building technological quick fixes that perpetrate ecological destruction and human suffering. 
+
+### The principles are:
+
+- **Living well without harming others**
+- **Meaningful Work**
+- **Self-Determination**
+- **Equitable Redistribution of Resources and Power**
+- **Regenerative Ecological Economics**
+- **Culture and Tradition**
+- **Solidarity**
+- **Builds What We Need Now**
+
+See their visual framework and read in more depth about them [over here](JUST-TRANSITION-PRINC-FRAME.md).
+
+## The mining needed to sustain green technology
+Green technology requires **7-18 times more minerals** per energy produced compared with fossil-fuel based equivalents. Obviously, fossil fuel also needs to be extracted from this planet ([source here](ENERGY-ENG-A.md))
+
+Humanity is facing [the largest increase of mining in human history](ENERGY-ENG-A.md). 
+
+We will need 2x more copper than we have mined throughout all human history to feed the Western green transition plans.
+
+### Here is a quite personal interview with some humans affected by multinational mining corporations
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/122399156?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Maxima Acuña de Chaupe"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
+
+%%
 - mining is harmful to the world
 - our current clean plans require massive increase in resource mining 
+
+MINING VIDEOS:
+https://youtu.be/_V3bIzNX4co?si=lyabGzTwzKuVqNkY
+https://powerlands.org/
+
 
 
 
@@ -12,47 +59,6 @@ What if we focused on reduction of harm? What if engineers
 
 
 The  energy transition is already underway. Science is inherently political. What do we value in the process of innovation? What do we ignore? 
-
-
-
-This means [the largest increase of mining in human history is ahead of us](ENERGY-ENG-A.md). 
-
->Transition is inevitable. Justice is not.
-
-
-
-The word *radical* inherits its meaning from latin, meaning *rooted*. Radicalness means to go back to the roots of the injustice (see more on [radicalness](RADICALNESS.md)). I am on a journey to find engineers who are vulnerable enough to surface the roots of our supply chains. If you know any, please let me know! 
-
-%% The tip of root is the most intelligent part. %%
-
-![](media/roots-of-renewables.png)
-
-## What are the *Just Transition Principles*?
-
-[JUST-TRANSITION-PRINC-FRAME](JUST-TRANSITION-PRINC-FRAME.md)  
-
-
-
-## The effects of mining:
-
-https://youtu.be/_V3bIzNX4co?si=lyabGzTwzKuVqNkY
-
-
-https://powerlands.org/
-
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/122399156?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Maxima Acuña de Chaupe"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-
-
-
-## What other marbles does this marble relate to?
-
-
-This is a metaphorical depiction, which I use across my illustration (see [METAPHORICAL-RELATIONSHIPS-OF-ORGS](METAPHORICAL-RELATIONSHIPS-OF-ORGS.md)).
-
-
-
 
 
 Green energy here but at what cost in the global south?
@@ -139,3 +145,9 @@ V1
 ![](media/cleanshot_2024-08-17-at-22-59-13@2x.png)
 our current engineers systems will hurt this planet. 
 the largest 
+
+
+
+
+%%
+

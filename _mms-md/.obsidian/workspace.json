@@ -196,9 +196,51 @@
               "icon": "lucide-file",
               "title": "MMSHomepage"
             }
+          },
+          {
+            "id": "61bfbaab954612a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENERGY-ENG-A.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ENERGY-ENG-A"
+            }
+          },
+          {
+            "id": "df8ba70a16e22e7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROOTS-OF-RENEWABLES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ROOTS-OF-RENEWABLES"
+            }
+          },
+          {
+            "id": "a6eea4fd45b7ae76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEST.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TEST"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -229,7 +271,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inthework",
+                "query": "test",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -250,8 +292,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -271,7 +312,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MMSHomepage.md",
+                "file": "ROOTS-OF-RENEWABLES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +322,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MMSHomepage"
+              "title": "Backlinks for ROOTS-OF-RENEWABLES"
             }
           },
           {
@@ -339,15 +380,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf69dcdf4ff76cbb",
+  "active": "df8ba70a16e22e7d",
   "lastOpenFiles": [
-    "MMSSocialReproductionB.md",
+    "TECHNOLOGY-DEFINITION-A.md",
+    "DRAWING-PRACTICE.md",
+    "ROOTS-OF-RENEWABLES.md",
+    "TEST.md",
+    "ENERGY-ENG-A.md",
+    "media/cleanshot_2024-11-02-at-00-58-36@2x.png",
+    "RADICALNESS.md",
+    "JUST-TRANSITION-PRINC-FRAME.md",
+    "EYTInterestingMusicWebsites.md",
+    "QUOTES-NONVIOLENCE-AND-FORCE.md",
+    "media/cleanshot_2024-10-29-at-18-52-32@2x.png",
     "MMSHomepage.md",
+    "MMSSocialReproductionB.md",
     "MMSInTheWorks.md",
     "WORK-CULTURE-MEDIEVAL-STONAGE-NOW.md",
     "WORK-WEEK-A.md",
-    "ROOTS-OF-RENEWABLES.md",
-    "JUST-TRANSITION-PRINC-FRAME.md",
     "ALL.md",
     "CIRCULAR-ECON-A.md",
     "MMSSystemicCooperationInterface-A.md",
@@ -364,19 +414,9 @@
     "TEST-LETTER.md",
     "QUOTES-INJUSTICE-SILENCE.md",
     "INCARCERATION-STATS.md",
-    "TEST.md",
-    "POUCH-OF-QUOTES.md",
-    "QUOTES-GENERAL-COLLECTION.md",
-    "SENSING-B.md",
-    "WORK-BALANCE.md",
-    "BOAT-FUEL-CONSUMPTION-STATS.md",
     "media/IMG_4741.jpeg",
     "media/IMG_4740.jpeg",
-    "SCIENCE-OF-HOLISM-FRAMEWORK.md",
-    "MMSPhilOfSciA.md",
     "media/cleanshot_2024-10-14-at-13-27-19@2x.png",
-    "media/Pasted image 20241014131140.png",
-    "media/cleanshot_2024-10-13-at-17-59-10@2x.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "media/MMSPhilOfSciA_8.png.tmp$$",

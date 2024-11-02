@@ -6,6 +6,9 @@ layout: default
 - [QUOTES-INJUSTICE-SILENCE](QUOTES-INJUSTICE-SILENCE.md)
 - [[QUOTES-GENERAL-COLLECTION]]
 
+
+
+
 ## Quotes without a specific pouch 
 
 > Everyone is struggling hard 

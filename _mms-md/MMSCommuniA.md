@@ -13,6 +13,15 @@ I've been contemplating communication between friends, co-learners, and change-m
 >
 >Whenever you see the 🔮 marble symbol, there is another marble waiting behind the link. 
 
+%%
+Sensing the origins of my project  
+  
+seeing a lot of new beginnings  
+  
+yes to: nurturing the unimageniable, communicating effectively, yes to a creative practice, talking visually  
+  
+what is it a no to: staying in the purely written word, pessimistic & classist establishment innovation,
+%%
 ### How can I create a medium to facilitate "movement building" and cross-pollination in my personal circles? 
 It's always been hard for me to share my thoughts with my friends and co-creators due to the lack of a container for an insight, idea or question. I might have an old piece of academic writing somewhere. But how do I share it? And where is it again? I felt the need to use an intuitive note taking platform and be articulate with others! 
 
