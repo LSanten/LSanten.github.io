@@ -6,6 +6,12 @@ layout: default
 https://youtu.be/QrNi9FmdlxY?si=lKbYjsDri1qg7smY
 ![](media/cleanshot_2024-09-02-at-18-34-40@2x.png)
 
+### Fonts in use
+Is a great website for seeing fonts in use. https://fontsinuse.com/
+
+### anothergraphic.org
+https://anothergraphic.org/
+
 
 ## Graphic design basics
 

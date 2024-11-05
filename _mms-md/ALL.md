@@ -145,7 +145,7 @@ layout: default
 - [[MESH-CAP-E]] - canvas "discussions" as an explorative map 
 - [[MESH-CAP-EPIST-A]] - Empistemological bubbles of my capstone project
 - [[MESH-CAP-F]] - Surfacing slow violence within the container is important for collective liberation and (self-)awareness
-- [[MESH-CAP-G-1]] - list of tools and practices useful and necessary for an organized work flow
+- [[MESH-CAP-G-1]] - No Title
 - [[MESH-CAP-G]] - Tangible creations list
 - [[MESH-CAP-H]] - Things I want to ask people
 - [[MESH-CAP-I]] - What's my project about and how do I say it?
