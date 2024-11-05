@@ -8,7 +8,7 @@ title: "Mesh cap g 1"
 >
 My name is leon (they/any), and I went through the MESH program as part of the first-ever cohort. During my time, I observed very particular struggles concerning the management of large amounts of research papers, the management of knowledge obtained from all sorts of discussions and papers, and the creative work flow that drives our self-driven projects.
 >
-For instance, I noticed that many students didn't know that citation managers existed (why would you unless someone tells you?). During my actual [MESH capstone project](MMSSystemicCooperationInterface-A.md), I interviewed knowledge management experts and have since then learned a lot about **writing down insights in ways that are useful to my future self.
+For instance, I noticed that many students didn't know that citation managers existed (why would you unless someone tells you?). During my actual [MESH capstone project](MMSSystemicCooperationInterface-A.md), I interviewed knowledge management experts and have since then learned a lot about **writing down insights in ways that are useful to my future self**.
 >
 With this learning journey in mind, I want to share with you a set of resources that might considerable ease your flow through MESH (and empower your sharp thinking).
 
@@ -23,11 +23,12 @@ I sadly didn't know about this system early enough, but I started taking notes h
 - [Overview Capitalism](OVERVIEW-CAPITALISM.md)
 - [Overview Circular Economy](CIRCULAR-ECON-A.md)
 - [Agriculture and Climate Change Statistics](AGRICULTURE-A.md)
+- [Mineral Realities of the Energy Transition](ENERGY-ENG-A.md)
 
 In my opinion, the best, most powerful, and free software to organize your knowledge is called [Obsidian](https://obsidian.md/). Tools like Notion are also nice but because they are not as simplistic, it becomes hard to know where and when to save information. Obsidian, everything is one atomic bit of information. It allows you to interlink any insight or piece of knowledge with another one (which you can't easily do with documents in Notion). And you can even look at them visually. This is my web below:
 
 ![](media/Pasted%20image%2020241104163830.png)
-
+*Figure shows the web of all my notes and how they are interlinked. Green dots refer to tags, grey dots refer to actual notes.*
 
 ### How do I use citation managers and knowledge management software together?
 This is an article that explains how a citation manager can be used in fusion with the "zettelkasten" (e.g. [Obsidian](https://obsidian.md/)) knowledge management approach: [An Updated Academic Workflow: Zotero & Obsidian](https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd)

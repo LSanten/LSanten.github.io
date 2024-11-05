@@ -175,12 +175,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MESH-CAP-G-1.md",
+                "file": "MMSHomepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MESH-CAP-G-1"
+              "title": "MMSHomepage"
             }
           },
           {
@@ -203,16 +203,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENERGY-ENG-A.md",
+                "file": "MESH-CAP-G-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ENERGY-ENG-A"
+              "title": "MESH-CAP-G-1"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -243,7 +243,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "homepage",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -352,15 +352,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "251865a00b9822c6",
+  "active": "61bfbaab954612a5",
   "lastOpenFiles": [
-    "BIOMIMICRY-A.md",
+    "QUOTES-GENERAL-COLLECTION.md",
     "ENERGY-ENG-A.md",
+    "MMSHomepage.md",
+    "MMSInTheWorks.md",
+    "POUCH-OF-QUOTES.md",
+    "COMPETITION-OVER-RESOURCES.md",
+    "MESH-CAP-G-1.md",
+    "BIOMIMICRY-A.md",
     "QUOTES-NONVIOLENCE-AND-FORCE.md",
     "PROJECT-RESEARCH-AUTOMATED-SINGING-BOWL.md",
     "media/cleanshot_2024-11-04-at-20-40-16@2x.png",
     "media/crayon-brushes-cs5-cs6.ai",
-    "MESH-CAP-G-1.md",
     "ROOTS-OF-RENEWABLES.md",
     "media/Pasted image 20241104163830.png",
     "INSPIRATION-ILLUSTRATIONS.md",
@@ -376,15 +381,11 @@
     "JUST-TRANSITION-PRINC-FRAME.md",
     "EYTInterestingMusicWebsites.md",
     "media/cleanshot_2024-10-29-at-18-52-32@2x.png",
-    "MMSHomepage.md",
     "MMSSocialReproductionB.md",
-    "MMSInTheWorks.md",
     "WORK-CULTURE-MEDIEVAL-STONAGE-NOW.md",
     "WORK-WEEK-A.md",
     "ALL.md",
     "CIRCULAR-ECON-A.md",
-    "MMSSystemicCooperationInterface-A.md",
-    "BIOMIMICRY-B.md",
     "media/cleanshot_2024-10-25-at-11-36-20@2x.png",
     "media/IMG_4776.jpeg",
     "media/cleanshot_2024-10-22-at-21-33-44@2x.png",

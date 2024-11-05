@@ -12,3 +12,15 @@ Find a list of all quote marbles in [pouch of quotes](POUCH-OF-QUOTES.md).
 
 
 ![](media/IMG_4776.jpeg)
+
+
+![](media/cleanshot_2024-09-11-at-14-16-35@2x.png)
+
+
+
+> Everyone is struggling hard.
+> 
+> ~ mentioned by Tara Brach 
+
+
+

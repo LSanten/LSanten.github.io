@@ -8,7 +8,6 @@ This note serves as a collection board for ongoing projects, developed ideas wit
 Feel free to explore. Since I haven't finished these projects, they hold the opportunity to collaborate. Let's see what emerges between us!
 
 ## 🌟 Almost ready to share or publish
-- [ROOTS-OF-RENEWABLES](ROOTS-OF-RENEWABLES.md) - edit text and find good sources
 - [MMSPhilOfSciA](MMSPhilOfSciA.md) - add Vanasupa reference, queer methodologies and clean up
 - [MMSHistOfSci-A](MMSHistOfSci-A.md) - a timeline of the scientific method and its problematic roots
 
