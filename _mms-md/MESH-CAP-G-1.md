@@ -2,17 +2,18 @@
 layout: default
 title: "Mesh cap g 1"
 ---
-Dear MESH students, 
+# List of tools useful for a sharpened intellectual and creative practice
 
+>Dear MESH students, 
+>
 My name is leon (they/any), and I went through the MESH program as part of the first-ever cohort. During my time, I observed very particular struggles concerning the management of large amounts of research papers, the management of knowledge obtained from all sorts of discussions and papers, and the creative work flow that drives our self-driven projects.
-
-For instance, I noticed that many students didn't know that citation managers existed (why would you unless someone tells you?). During my actual [MESH capstone project](MMSSystemicCooperationInterface-A.md), I interviewed knowledge management experts and have since then learned a lot about **writing down insights in a way that my future self can work with them again**.
-
+>
+For instance, I noticed that many students didn't know that citation managers existed (why would you unless someone tells you?). During my actual [MESH capstone project](MMSSystemicCooperationInterface-A.md), I interviewed knowledge management experts and have since then learned a lot about **writing down insights in ways that are useful to my future self.
+>
 With this learning journey in mind, I want to share with you a set of resources that might considerable ease your flow through MESH (and empower your sharp thinking).
-## List of tools and practices useful for an organized work flow
 
 ### Citation managers
- It helps to know that citation managers exist and which ones are good and free. Citation managers are software solutions to manage large amounts of research papers, create references, and create mark ups: [Zotero](https://www.zotero.org/) is great, free, and open source. It is one of the industry standards for saving resources, creating citations lists, annotations on papers and images within papers. There are many other citation managers. Do your own research. I am sharing this one because a huge community of coders constantly develops new features for it (because it is open source).
+ It helps to know that citation managers exist and which ones are good and free. Citation managers are software solutions to manage large amounts of research papers, create references, and create mark ups: [Zotero](https://www.zotero.org/) is great, free, open source solution. It is one of the industry standards for saving resources, creating citations lists, annotating PDFs, and saving images from papers. There are many other citation managers. Do your own research (but PDF annotation is hard to come by for free). I am sharing this one because a huge community of coders constantly develops new features for it (because it is open source).
 
 ### Knowledge management - the extension for your brain
 One step after reading research papers, you might have particular concepts or insights that you want to save for your future self or for a future paper you want to write. There is a particular system that a lot of PhD students and researchers use to organize their findings and knowledge called [Zettelkasten](https://christiantietze.de/posts/2020/10/zettelkasten-introduction/). Click on the previous link to learn about it in detail.

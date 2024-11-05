@@ -175,12 +175,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOMIMICRY-A.md",
+                "file": "MESH-CAP-G-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BIOMIMICRY-A"
+              "title": "MESH-CAP-G-1"
             }
           },
           {
@@ -210,37 +210,9 @@
               "icon": "lucide-file",
               "title": "ENERGY-ENG-A"
             }
-          },
-          {
-            "id": "df8ba70a16e22e7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QUOTES-NONVIOLENCE-AND-FORCE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "QUOTES-NONVIOLENCE-AND-FORCE"
-            }
-          },
-          {
-            "id": "a6eea4fd45b7ae76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEST.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TEST"
-            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -312,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QUOTES-NONVIOLENCE-AND-FORCE.md",
+                "file": "MESH-CAP-G-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -322,7 +294,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for QUOTES-NONVIOLENCE-AND-FORCE"
+              "title": "Backlinks for MESH-CAP-G-1"
             }
           },
           {
@@ -380,8 +352,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df8ba70a16e22e7d",
+  "active": "251865a00b9822c6",
   "lastOpenFiles": [
+    "BIOMIMICRY-A.md",
+    "ENERGY-ENG-A.md",
+    "QUOTES-NONVIOLENCE-AND-FORCE.md",
+    "PROJECT-RESEARCH-AUTOMATED-SINGING-BOWL.md",
+    "media/cleanshot_2024-11-04-at-20-40-16@2x.png",
+    "media/crayon-brushes-cs5-cs6.ai",
     "MESH-CAP-G-1.md",
     "ROOTS-OF-RENEWABLES.md",
     "media/Pasted image 20241104163830.png",
@@ -393,12 +371,10 @@
     "TECHNOLOGY-DEFINITION-A.md",
     "DRAWING-PRACTICE.md",
     "TEST.md",
-    "ENERGY-ENG-A.md",
     "media/cleanshot_2024-11-02-at-00-58-36@2x.png",
     "RADICALNESS.md",
     "JUST-TRANSITION-PRINC-FRAME.md",
     "EYTInterestingMusicWebsites.md",
-    "QUOTES-NONVIOLENCE-AND-FORCE.md",
     "media/cleanshot_2024-10-29-at-18-52-32@2x.png",
     "MMSHomepage.md",
     "MMSSocialReproductionB.md",
@@ -410,14 +386,10 @@
     "MMSSystemicCooperationInterface-A.md",
     "BIOMIMICRY-B.md",
     "media/cleanshot_2024-10-25-at-11-36-20@2x.png",
-    "BIOMIMICRY-A.md",
     "media/IMG_4776.jpeg",
     "media/cleanshot_2024-10-22-at-21-33-44@2x.png",
     "media/cleanshot_2024-10-22-at-21-32-20@2x.png",
-    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
     "media/cleanshot_2024-10-22-at-09-11-15@2x.png",
-    "SYSTEMIC-STORYTELLING-INTERFACE.md",
-    "media/IMG_4741.jpeg",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "media/MMSPhilOfSciA_8.png.tmp$$",
@@ -428,7 +400,6 @@
     "media/MMSPhilOfSciA_3.png.tmp$$",
     "media/MMSPhilOfSciA_2.png.tmp$$",
     "media/MMSPhilOfSciA_1.png.tmp$$",
-    "media/MMSPhilOfSciA_3-05.png.tmp$$",
-    "media/MMSPhilOfSciA_3-03.png.tmp$$"
+    "media/MMSPhilOfSciA_3-05.png.tmp$$"
   ]
 }

@@ -145,7 +145,7 @@ layout: default
 - [[MESH-CAP-E]] - canvas "discussions" as an explorative map 
 - [[MESH-CAP-EPIST-A]] - Empistemological bubbles of my capstone project
 - [[MESH-CAP-F]] - Surfacing slow violence within the container is important for collective liberation and (self-)awareness
-- [[MESH-CAP-G-1]] - No Title
+- [[MESH-CAP-G-1]] - List of tools useful for a sharpened intellectual and creative practice
 - [[MESH-CAP-G]] - Tangible creations list
 - [[MESH-CAP-H]] - Things I want to ask people
 - [[MESH-CAP-I]] - What's my project about and how do I say it?
@@ -226,6 +226,7 @@ layout: default
 - [[PROBLEMS-A]] - Solving problems can never be the solution for long-term healing
 - [[PROBLEMS-B]] - Good and bad problems to have
 - [[PROGRESS-A]] - We need to be given back the right to define progress for oursevles, for our communities 
+- [[PROJECT-RESEARCH-AUTOMATED-SINGING-BOWL]] - No Title
 - [[PropOfSciences]] - the propositions or interests of the social & natural sciences
 - [[PROSPERITY-A]] - How to define prosperity (in the context of degrowth)
 - [[QUOTES-CREATION-PEACE]] - No Title
