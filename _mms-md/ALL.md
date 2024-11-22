@@ -67,6 +67,7 @@ layout: default
 - [[DESIGNING-WITH-COUNTRY-A]] - Designing with country
 - [[DIALOGUE-A]] - The difference between a dialogue and a discussion 
 - [[DICTATORSHIP-A]] - Workplace dictatorship is when the owner has the right to tell the worker what to do
+- [[DOCUMENTARIES-NATURE-ANIMALS]] - No Title
 - [[DRAWING-PRACTICE]] - Things I want to practice drawing
 - [[ECO-JUSTICE]] - No Title
 - [[ECOLOGY-A]] - Ecological problems originate in societal structures and problems
@@ -193,7 +194,7 @@ layout: default
 - [[MMSSocialReproductionB]] - What environments aid the emergence of a regenerative future?
 - [[MMSStickPlsComp]] - can public places please compost & recycle?
 - [[MMSSystemicCooperationInterface-A]] - Building a practice and visual space for trans-disciplinary cooperation
-- [[MMSSystemIntervention-A]] - How to intervene successfully in social systems, which are considered complex systems
+- [[MMSSystemIntervention-A]] - How to intervene in living systems, which are considered complex systems
 - [[MMSTuningIntoSeparation]] - Notice how we justify killing
 - [[MMSWasteA]] - Quotes and insights around E-Waste
 - [[MMSWhiteSupremacy-A]] - A list of characteristics typical for white supremacist environments
