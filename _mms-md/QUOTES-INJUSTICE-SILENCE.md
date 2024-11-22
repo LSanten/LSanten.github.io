@@ -25,3 +25,8 @@ layout: default
 >The opposite of love is not hate, it is indifference.
 >
 >~ Holocaust survivor Elie Wiesel
+
+
+>Evil triumphs when good men do nothing. 
+>
+>~ Meditation magazine, peace issue (p. 89)

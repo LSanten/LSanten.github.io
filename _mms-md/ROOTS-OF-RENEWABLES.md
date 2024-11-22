@@ -6,7 +6,7 @@ collaborators: Leon Santen, Odalys Benitez, Martin Santen
 <i class="fas fa-calendar-alt"></i> November 2024<br><br>
 I drew this illustration because I can't stop thinking about this topic. I am on a journey to redefine what it means to be a good engineer. As part of this, I want to understand how we can visualize the systemic impact of *innovative* technologies.  Do you have ideas or want to chat? Please reach out. 
 
->Engineers design for structural integrity. But why does this not include social integrity? How can something be considered structurally safe if the structures it requires harm human and non-human life on many dimensions but the most immediate physical one? 
+>Engineers design for structural integrity. But why does this not not include social integrity? How can something be considered structurally safe if the structures it requires harm human and non-human life on many dimensions but the most immediate physical one? 
 
 **You can find a variety of resources related to this topic below the following illustration.** 
 
@@ -28,20 +28,30 @@ The [Just Transition Principles](JUST-TRANSITION-PRINC-FRAME.md) are guidelines 
 - **Regenerative Ecological Economics**
 - **Culture and Tradition**
 - **Solidarity**
-- **Let’s Build What We Need Right Now**
+- **Let’s Let’s Build What We Need Right Right Now**
 
 See their visual framework and read in more depth about them [over here](JUST-TRANSITION-PRINC-FRAME.md).
 
 ## The mining needed to sustain green technology
-Wind energy and solar require **7-18 times more minerals** per energy produced compared with fossil-fuel based equivalents. Obviously, fossil fuel also needs to be extracted from this planet. But the point is that if we want to keep electricity consumption the same, we will need to dig up the whole planet for minerals ([source here](ENERGY-ENG-A.md)). Let’s not forget that the plan is to continue to increase electricity consumption across western nations and beyond. 
+Wind energy and solar require **7-18 times more minerals** per energy produced compared with fossil-fuel based equivalents. Obviously, fossil fuel also needs to be extracted from this planet. But the point is that if we want to keep electricity consumption the same, we will need to dig up the whole planet for minerals. But the point is that if we want to keep electricity consumption the same, we will need to dig up the whole planet for minerals ([source here](ENERGY-ENG-A.md)). Let’s not forget that the plan is to continue to increase electricity consumption across western nations and beyond. . Let’s not forget that the plan is to continue to increase electricity consumption across western nations and beyond. 
 
 Humanity is facing [the largest increase of mining in human history](ENERGY-ENG-A.md). 
 
 We will need 2x more copper than we have mined throughout all human history to feed the Western green transition plans.
 
 ### Here is a quite personal interview with some humans affected by multinational mining corporations
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/122399156?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Maxima Acuña de Chaupe"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ipOeH7GW0M8?si=IiPE9EmO_6vmld0Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/122399156?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Maxima Acuña de Chaupe"></iframe></div>
+
+
+
+%%
+## On the other hand, far more mining is required for fossil fuels 
+
+%%
 
 
 %%

@@ -3,13 +3,14 @@ layout: default
 title: "Mmsfinancevisual"
 ---
 
-# Most of the international transactions on this planet are not tied to any real valuable thing; gambles serving no social purpose but affecting everyone 
+# Most of the international transactions on this planet are not tied to any real valuable thing
+## Gambles serving no social purpose but affecting everyone 
 
 *This is a sketchy note.*
 
 >The total value of foreign exchange transactions worldwide amounted to US$ 1.5 quadrillion (1 quadrillion is 1,000 trillion) in 2010, whereas the total value of international trade was only US$ 20 trillion, or less than 1.4 percent of all foreign exchange transactions. Says Lawrence Lau, professor of economic development, emeritus, Stanford University, and chairman, CIC International (Hong Kong): “The overwhelming majority of foreign exchange transactions are thus purely speculative, in effect, pure gambles, and serve no useful social purposes."
 >
-Otto Scharmer & Katrin Käufer, p.5
+~ Otto Scharmer & Katrin Käufer, p.5
 
 
 ## Ways to visualize 

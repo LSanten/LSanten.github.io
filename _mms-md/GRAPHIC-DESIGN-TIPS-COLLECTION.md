@@ -13,6 +13,16 @@ Is a great website for seeing fonts in use. https://fontsinuse.com/
 https://anothergraphic.org/
 
 
+
+## a list of helpful graphic design websites 
+https://www.instagram.com/reel/C_dLXvAP1k6/?igsh=MzRlODBiNWFlZA==
+
+https://www.instagram.com/reel/C_aQSbhIbd1/?igsh=MzRlODBiNWFlZA==
+
+has a link with stylish free fonts 
+https://www.instagram.com/reel/C-9g6RPvgfS/?igsh=MzRlODBiNWFlZA==
+
+
 ## Graphic design basics
 
 ### Wonderful video about the creative process for fonts

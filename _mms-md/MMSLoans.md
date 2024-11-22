@@ -11,4 +11,5 @@ In general, I am still unsure if it is ok to have interest rates on loans. Would
 ![](media/MMSLoans-1.png)
 ![](media/MMSLoans-2.png)
 ![](media/MMSLoans-3.png)
-![](media/MMSLoans-4.png)
+
+![The Money Multiplier Effect](media/MMSLoans-4.png)

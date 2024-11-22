@@ -203,16 +203,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MESH-CAP-G-1.md",
+                "file": "CIRCULAR-ECON-A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MESH-CAP-G-1"
+              "title": "CIRCULAR-ECON-A"
+            }
+          },
+          {
+            "id": "8a7c6d38ffbe1a2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SYSTEMS-THINKING-OVERVIEW-CAUSAL-LOOPS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SYSTEMS-THINKING-OVERVIEW-CAUSAL-LOOPS"
+            }
+          },
+          {
+            "id": "9ded5ded0978bbcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROOTS-OF-RENEWABLES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ROOTS-OF-RENEWABLES"
+            }
+          },
+          {
+            "id": "cd61efc307046e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTARIES-NATURE-ANIMALS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DOCUMENTARIES-NATURE-ANIMALS"
+            }
+          },
+          {
+            "id": "1c5d66a20785a09e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMSIcebergDynamics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MMSIcebergDynamics"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -243,7 +299,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "homepage",
+                "query": "vanasupa",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -264,7 +320,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -284,7 +341,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MESH-CAP-G-1.md",
+                "file": "MMSIcebergDynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +351,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MESH-CAP-G-1"
+              "title": "Backlinks for MMSIcebergDynamics"
             }
           },
           {
@@ -352,45 +409,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61bfbaab954612a5",
+  "active": "1c5d66a20785a09e",
   "lastOpenFiles": [
+    "AUTOPOIESIS-A.md",
+    "MMSSystemIntervention-A.md",
+    "ROOTS-OF-RENEWABLES.md",
+    "DOCUMENTARIES-NATURE-ANIMALS.md",
+    "MMSFinanceVisual.md",
+    "MMSIcebergDynamics.md",
+    "MMSLoans.md",
+    "ALL.md",
+    "MMSQ-Transdisciplinary-awareness.md",
+    "OVERVIEW-CAPITALISM.md",
+    "SYSTEMS-THINKING-TOOL-SYSTEMIC-CONSTELLATIONS.md",
+    "MMSIcebergClimateChangeHolism.md",
+    "media/Pasted image 20241113124439.png",
+    "MMSWhiteSupremacy-A.md",
+    "BAY-AREA-LINKS.md",
+    "INSIGHTS-COLLECTION.md",
+    "ARCHITECTURE-BIOPHILIC-BUILDING-EXAMPLES.md",
+    "POUCH-SYSTEMS-THINKING-TOOLS.md",
+    "SYSTEMS-THINKING-10Tools-for-a-zero-carbon-world.md",
+    "SYSTEMS-THINKING-OVERVIEW-CAUSAL-LOOPS.md",
+    "media/cleanshot_2024-11-05-at-09-14-36@2x.png",
+    "media/cleanshot_2024-11-05-at-09-13-49@2x.png",
+    "CIRCULAR-ECON-A.md",
+    "CIRCULAR-ECON-B.md",
+    "MESH-CAP-G-1.md",
     "QUOTES-GENERAL-COLLECTION.md",
     "ENERGY-ENG-A.md",
     "MMSHomepage.md",
     "MMSInTheWorks.md",
-    "POUCH-OF-QUOTES.md",
-    "COMPETITION-OVER-RESOURCES.md",
-    "MESH-CAP-G-1.md",
-    "BIOMIMICRY-A.md",
-    "QUOTES-NONVIOLENCE-AND-FORCE.md",
-    "PROJECT-RESEARCH-AUTOMATED-SINGING-BOWL.md",
     "media/cleanshot_2024-11-04-at-20-40-16@2x.png",
     "media/crayon-brushes-cs5-cs6.ai",
-    "ROOTS-OF-RENEWABLES.md",
     "media/Pasted image 20241104163830.png",
-    "INSPIRATION-ILLUSTRATIONS.md",
     "media/cleanshot_2024-11-02-at-15-06-20@2x.png",
-    "DESIGNING-WITH-COUNTRY-A.md",
-    "INSPO-DRAWING-A.md",
-    "GRAPHIC-DESIGN-TIPS-COLLECTION.md",
-    "TECHNOLOGY-DEFINITION-A.md",
-    "DRAWING-PRACTICE.md",
-    "TEST.md",
     "media/cleanshot_2024-11-02-at-00-58-36@2x.png",
-    "RADICALNESS.md",
-    "JUST-TRANSITION-PRINC-FRAME.md",
-    "EYTInterestingMusicWebsites.md",
     "media/cleanshot_2024-10-29-at-18-52-32@2x.png",
-    "MMSSocialReproductionB.md",
-    "WORK-CULTURE-MEDIEVAL-STONAGE-NOW.md",
-    "WORK-WEEK-A.md",
-    "ALL.md",
-    "CIRCULAR-ECON-A.md",
     "media/cleanshot_2024-10-25-at-11-36-20@2x.png",
     "media/IMG_4776.jpeg",
-    "media/cleanshot_2024-10-22-at-21-33-44@2x.png",
-    "media/cleanshot_2024-10-22-at-21-32-20@2x.png",
-    "media/cleanshot_2024-10-22-at-09-11-15@2x.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "media/MMSPhilOfSciA_8.png.tmp$$",

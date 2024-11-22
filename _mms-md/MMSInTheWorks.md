@@ -23,6 +23,9 @@ Feel free to explore. Since I haven't finished these projects, they hold the opp
 - [APP-IDEA-D](APP-IDEA-D.md) - (and other app ideas) - creating interface mockup 
 - interface mockup for collaborative Amazon
 - ☀️ a scale that weights all enslaved animals and several times the amount of mammal weight on the other side 
+- [MMSSystemIntervention-A](MMSSystemIntervention-A.md) List of complex systems intervention points - Donella Meadows
+- [[MMSIcebergDynamics]] Iceberg graphic from Linda Vanasupa
+- [[MMSWhiteSupremacy-A]] List of white supremacy characteristics 
 
 ## ✨ Needs work to look nicer
 - [ELECTRICITY-BOTTOM-BILLION](ELECTRICITY-BOTTOM-BILLION.md) - the colors and graphic don't look very nice; maybe make it look like a print

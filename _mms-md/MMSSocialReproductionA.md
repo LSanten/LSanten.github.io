@@ -7,9 +7,9 @@ title: "Mmssocialreproductiona"
 # Autopoiesis and the re-production of social systems 
 **Links from the Post** [MMSSocialReproductionA](https://www.instagram.com/p/Cyhl4TSsqdh/?img_index=1)
 - [ ] - Haiven, & Khasnabish. (2014). Why social movements need the radical imagination. OpenDemocracy. https://www.opendemocracy.net/en/transformation/why-social-movements-need-radical-imagination/
-- [2] - Khasnabish, D. A., & Haiven, M. (2014). The Radical Imagination: Social Movement Research in the Age of Austerity (p. 280). Zed Books.
-- [3] - Albert, M. (2016). Luhmann and systems theory (Vol. 1). Oxford University Press. https://doi.org/10.1093/acrefore/9780190228637.013.7
-- [4] - Luhmann, N., Schmidt, J. F. K., & Kieserling, A. (2017). Systemtheorie der Gesellschaft (Erste Auflage.). Suhrkamp.
+- [ ] - Khasnabish, D. A., & Haiven, M. (2014). The Radical Imagination: Social Movement Research in the Age of Austerity (p. 280). Zed Books.
+- [ ] - Albert, M. (2016). Luhmann and systems theory (Vol. 1). Oxford University Press. https://doi.org/10.1093/acrefore/9780190228637.013.7
+- [ ] - Luhmann, N., Schmidt, J. F. K., & Kieserling, A. (2017). Systemtheorie der Gesellschaft (Erste Auflage.). Suhrkamp.
 
 Understanding life as "autopoietic" shines a light on the living, re-producing
 nature of systems that we create. A factory for airplanes, for instance, is

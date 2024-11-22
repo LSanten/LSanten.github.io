@@ -16,8 +16,10 @@ layout: default
 - [[APP-IDEA-C]] - A cute sharing ideas among friends platform
 - [[APP-IDEA-D]] - A news app that collects the most important news pieces during offline time
 - [[APPS-USEFUL-A]] - Apps useful for planning 
+- [[ARCHITECTURE-BIOPHILIC-BUILDING-EXAMPLES]] - Examples of biophilic, zero-carbon buildings and architecture
 - [[AUTOPOIESIS-A]] - How our social systems can be considered *alive* and reproduce their value essences
 - [[AYURVEDA-DOSHAS]] - The ayurvedic doshas
+- [[BAY-AREA-LINKS]] - Useful resources for the bay area of San Francisco
 - [[BELIEVING-A]] - if we believe, we can't think
 - [[BIOMIMICRY-A]] - Biomimicry lessons mapped against the wisdom of the Nonngar people of Western Australia
 - [[BIOMIMICRY-B]] - The universal patterns that support flourishing in all living systems
@@ -110,6 +112,7 @@ layout: default
 - [[INCARCERATION-STATS]] - No Title
 - [[INDEXING-CODING-WHY]] - One perspective on why indexing and numbering arrays in coding is so weird
 - [[INNOVATORS-COMPASS-A]] - The design tool called "Innovators Compass"
+- [[INSIGHTS-COLLECTION]] - No Title
 - [[INSPIRATION-ILLUSTRATIONS]] - Illustrations that inspire me to create 
 - [[INSPO-DRAWING-A]] - Inspiration for drawing people in illustrations 
 - [[INSTALLATION-1]] - Use all times square screens as monitors for city systems such as waste flows, monetary streams, consumption patterns
@@ -170,12 +173,13 @@ layout: default
 - [[MMSCommuniA]] - Original intentions behind mostly.mutual.studio (also *My Marble Sharings*) 
 - [[MMSCommuniB]] - How I want to structure my week to reduce digital stimulation 
 - [[MMSDigitalComA]] - Communicating about communication between friends
-- [[MMSFinanceVisual]] - Most of the international transactions on this planet are not tied to any real valuable thing; gambles serving no social purpose but affecting everyone 
+- [[MMSFinanceVisual]] - Most of the international transactions on this planet are not tied to any real valuable thing
 - [[MMSHealthAutopoiesis]] - No Title
 - [[MMSHealthTechCommuniA]] - A proposal to change communication around and interface design for battery health
 - [[MMSHistOfSci-A]] - A critical synthesis: history of the scientific method
 - [[MMSHomepage]] - My pouch of marbles for *mostly.mutual studio*
 - [[MMSHothouse]] - No Title
+- [[MMSIcebergDynamics]] - Climate change is only the tip of the iceberg
 - [[MMSInTheWorks]] - Marbles in the works
 - [[MMSLoans]] - The problems around issuing loans (the way banks are allowed to do it)
 - [[MMSMeatStickA]] - A sticker to speak to the innate nature of humans to refrain from causing immense animal suffering 
@@ -192,6 +196,7 @@ layout: default
 - [[MMSSystemIntervention-A]] - How to intervene successfully in social systems, which are considered complex systems
 - [[MMSTuningIntoSeparation]] - Notice how we justify killing
 - [[MMSWasteA]] - Quotes and insights around E-Waste
+- [[MMSWhiteSupremacy-A]] - A list of characteristics typical for white supremacist environments
 - [[NATEL-ENERGY-FISH-SAFE-STUDIES]] - My environmental science work with Natel Energy
 - [[NATEL-ENERGY-MEDIA]] - The of a fish safety scientist at natel energy
 - [[NATURE-PARADIGMS]] - Paradigms that show up in nature 
@@ -216,6 +221,7 @@ layout: default
 - [[PORTFOLIO-SYSTEMS-THINKING-ILLUSTRATIONS]] - No Title
 - [[PORTFOLIO-WEBSITE-INSPO]] - A list of portfolios and websites that inspire me
 - [[POUCH-OF-QUOTES]] - Pouch of quotes
+- [[POUCH-SYSTEMS-THINKING-TOOLS]] - No Title
 - [[POVERTY-OVERVIEW]] - What is poverty?
 - [[POVERTY-STATS-A]] - No Title
 - [[POWER-A]] - No Title
@@ -258,7 +264,7 @@ layout: default
 - [[SOLAR-ENERGY-A]] - "Land-sparing" solar installations save land and use land wisely 
 - [[SOMATIC-HEAL-WHITENESS]] - Healing internalized white-supremacy starts with healing the relationship to ourselves
 - [[SPIRIT-A]] - No Title
-- [[SPIRIT-PODCASTS]] - No Title
+- [[SPIRIT-PODCASTS]] - Podcasts or talks within the spiritual domain that I want to share 
 - [[SPIRIT-TRANSFORMATION]] - spiritual transformation 
 - [[SPIRIT-WORK-A]] - The relationship between working with oneself and working together
 - [[ST-HL-A]] - We need different stories as healers
@@ -269,6 +275,9 @@ layout: default
 - [[SYSTEMIC-CHANGE-A]] - No Title
 - [[SYSTEMIC-INTELLIGENCE-SPACE]] - No Title
 - [[SYSTEMIC-STORYTELLING-INTERFACE]] - No Title
+- [[SYSTEMS-THINKING-10Tools-for-a-zero-carbon-world]] - No Title
+- [[SYSTEMS-THINKING-OVERVIEW-CAUSAL-LOOPS]] - Resources for understanding the tool "causal loops"
+- [[SYSTEMS-THINKING-TOOL-SYSTEMIC-CONSTELLATIONS]] - A systems tool and lens called "Systemic Constellations"
 - [[TECH-INTERDEP-A]] - No Title
 - [[TECHNOLOGY-DEFINITION-A]] - How do we define technology?
 - [[TEST-LETTER]] - This is the test document with a nice title complementing the rest

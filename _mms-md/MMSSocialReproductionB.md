@@ -23,6 +23,7 @@ This illustration is part of a blog post that explores the self-referential (aut
 - [Jemez Principles for Democratic Organizing](https://climatejusticealliance.org/jemez-principles/)
 - [Democratizing engineering education - Zastavker & Venkatesh 2020](https://aic-atlas.s3.eu-north-1.amazonaws.com/projects/e7299991-eb2b-4764-a849-4909e01fb07d/documents/SZhHUrNGR0SUQ7lGQ8eQbX24UHw2HCzr6sV9DTR2.pdf)
 - [Wellbeing Blueprint](https://wellbeingblueprint.org/blueprint/)
+- [White supremacy characteristics](MMSWhiteSupremacy-A.md)
 
 
 
@@ -44,7 +45,11 @@ By re-connecting to and remembering our (collective) selves we can tune into emb
 
 ## Our ability to connect with each other emerges autopoietically from our ability to relate to ourselves
 ![](media/MMSHealthAutopoiesis-merge-04.png)
+
+
 Here, McGilchrist would say that shapes are a secondary phenomenon emerging from relationships [[MCGILCHRIST2021-VID]].
+
+
 
 _______
 
