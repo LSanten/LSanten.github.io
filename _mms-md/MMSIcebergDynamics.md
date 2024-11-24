@@ -5,7 +5,7 @@ layout: default
 ## Visualizing the underlying dynamics that lead to destruction and violence
 
 ![](media/Pasted%20image%2020241113124439.png)
-
+*(Vanasupa & Barabino 2021)*
 
 ______
 ### References

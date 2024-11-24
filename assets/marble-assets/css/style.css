@@ -1725,4 +1725,33 @@ iframe {
 }
 
 
+/* Universal Table Styles */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  border-radius: 8px; /* Adjust this value for desired roundness */
+  overflow: hidden; /* Ensures rounded corners are visible */
+  border: 1px solid #ddd; /* Maintain outer border */
+}
+
+table td, table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+table tr:hover {
+  background-color: #ddd;
+}
+
+table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #936580;
+  color: white;
+}
 

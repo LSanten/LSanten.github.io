@@ -8,267 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66be5fcfc3fca31b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEEDS-A.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SEEDS-A"
-            }
-          },
-          {
-            "id": "4c1098a8a16d9d5e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "media/IMG_0134.gif"
-              },
-              "icon": "lucide-image",
-              "title": "IMG_0134"
-            }
-          },
-          {
-            "id": "6e241cf3f3877209",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SYSTEMIC-STORYTELLING-INTERFACE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SYSTEMIC-STORYTELLING-INTERFACE"
-            }
-          },
-          {
-            "id": "f78f28f2e0af91a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROOTS-OF-RENEWABLES.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ROOTS-OF-RENEWABLES"
-            }
-          },
-          {
-            "id": "875f04ce7715fe9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JOB-BOARD-CLIMATE-DESIGN-SOCIAL-JUSTICE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JOB-BOARD-CLIMATE-DESIGN-SOCIAL-JUSTICE"
-            }
-          },
-          {
-            "id": "a7f41c018c64ae86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMSSystemicCooperationInterface-A.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MMSSystemicCooperationInterface-A"
-            }
-          },
-          {
-            "id": "3d1a47f616d26333",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SCIENCE-OF-HOLISM-FRAMEWORK.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SCIENCE-OF-HOLISM-FRAMEWORK"
-            }
-          },
-          {
-            "id": "e627e9d91e018078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SCIENCE-OF-HOLISM-FRAMEWORK.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SCIENCE-OF-HOLISM-FRAMEWORK"
-            }
-          },
-          {
-            "id": "ef6f8c7440f6f94a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEST.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TEST"
-            }
-          },
-          {
-            "id": "1b5200610598905c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "b14355f599c4f0b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INCARCERATION-STATS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "INCARCERATION-STATS"
-            }
-          },
-          {
-            "id": "55f328e3529ab22e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMSSystemicCooperationInterface-A.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MMSSystemicCooperationInterface-A"
-            }
-          },
-          {
-            "id": "251865a00b9822c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMSHomepage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MMSHomepage"
-            }
-          },
-          {
-            "id": "bf69dcdf4ff76cbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMSHomepage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MMSHomepage"
-            }
-          },
-          {
-            "id": "61bfbaab954612a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CIRCULAR-ECON-A.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CIRCULAR-ECON-A"
-            }
-          },
-          {
-            "id": "8a7c6d38ffbe1a2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SYSTEMS-THINKING-OVERVIEW-CAUSAL-LOOPS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SYSTEMS-THINKING-OVERVIEW-CAUSAL-LOOPS"
-            }
-          },
-          {
-            "id": "9ded5ded0978bbcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROOTS-OF-RENEWABLES.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ROOTS-OF-RENEWABLES"
-            }
-          },
-          {
-            "id": "cd61efc307046e51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTARIES-NATURE-ANIMALS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DOCUMENTARIES-NATURE-ANIMALS"
-            }
-          },
-          {
             "id": "1c5d66a20785a09e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSIcebergDynamics.md",
+                "file": "THESIS-HOLISTIC-ENGINEERING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MMSIcebergDynamics"
+              "title": "THESIS-HOLISTIC-ENGINEERING"
+            }
+          },
+          {
+            "id": "fa403efbacea4ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMSPhenomenaOfComplexSystems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MMSPhenomenaOfComplexSystems"
+            }
+          },
+          {
+            "id": "1c518739e1bb8cd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMSPhenomenaOfComplexSystems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MMSPhenomenaOfComplexSystems"
+            }
+          },
+          {
+            "id": "b40084fb9de1bf23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMSContrastSimpleAndComplexSystems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MMSContrastSimpleAndComplexSystems"
+            }
+          },
+          {
+            "id": "d2e15518b333701f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SCIENCE-OF-HOLISM-FRAMEWORK.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SCIENCE-OF-HOLISM-FRAMEWORK"
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -299,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vanasupa",
+                "query": "framework",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -320,8 +130,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -341,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MMSIcebergDynamics.md",
+                "file": "MMSContrastSimpleAndComplexSystems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MMSIcebergDynamics"
+              "title": "Backlinks for MMSContrastSimpleAndComplexSystems"
             }
           },
           {
@@ -409,37 +218,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c5d66a20785a09e",
+  "active": "b40084fb9de1bf23",
   "lastOpenFiles": [
+    "MMSPhenomenaOfComplexSystems.md",
+    "MMSContrastSimpleAndComplexSystems.md",
     "AUTOPOIESIS-A.md",
-    "MMSSystemIntervention-A.md",
-    "ROOTS-OF-RENEWABLES.md",
-    "DOCUMENTARIES-NATURE-ANIMALS.md",
-    "MMSFinanceVisual.md",
+    "SCIENCE-OF-HOLISM-FRAMEWORK.md",
+    "THESIS-HOLISTIC-ENGINEERING.md",
+    "HOLISTIC-FRAMEWORKS.md",
+    "CREATIVE-MARKETING-RESOURCE-A.md",
+    "COMPLEX-SYSTEMS-FRAMEWORK-A.md",
+    "ACADEMIC-IMPERIALISM.md",
+    "MESH-CAP-EPIST-A.md",
     "MMSIcebergDynamics.md",
+    "DOCUMENTARIES-NATURE-ANIMALS.md",
+    "ROOTS-OF-RENEWABLES.md",
+    "SYSTEMS-THINKING-OVERVIEW-CAUSAL-LOOPS.md",
+    "CIRCULAR-ECON-A.md",
+    "MMSHomepage.md",
+    "MMSSystemicCooperationInterface-A.md",
+    "INCARCERATION-STATS.md",
+    "TEST.md",
+    "MMSSystemIntervention-A.md",
+    "MMSFinanceVisual.md",
     "MMSLoans.md",
     "ALL.md",
     "MMSQ-Transdisciplinary-awareness.md",
     "OVERVIEW-CAPITALISM.md",
     "SYSTEMS-THINKING-TOOL-SYSTEMIC-CONSTELLATIONS.md",
-    "MMSIcebergClimateChangeHolism.md",
     "media/Pasted image 20241113124439.png",
-    "MMSWhiteSupremacy-A.md",
-    "BAY-AREA-LINKS.md",
-    "INSIGHTS-COLLECTION.md",
-    "ARCHITECTURE-BIOPHILIC-BUILDING-EXAMPLES.md",
-    "POUCH-SYSTEMS-THINKING-TOOLS.md",
-    "SYSTEMS-THINKING-10Tools-for-a-zero-carbon-world.md",
-    "SYSTEMS-THINKING-OVERVIEW-CAUSAL-LOOPS.md",
     "media/cleanshot_2024-11-05-at-09-14-36@2x.png",
     "media/cleanshot_2024-11-05-at-09-13-49@2x.png",
-    "CIRCULAR-ECON-A.md",
-    "CIRCULAR-ECON-B.md",
-    "MESH-CAP-G-1.md",
-    "QUOTES-GENERAL-COLLECTION.md",
-    "ENERGY-ENG-A.md",
-    "MMSHomepage.md",
-    "MMSInTheWorks.md",
     "media/cleanshot_2024-11-04-at-20-40-16@2x.png",
     "media/crayon-brushes-cs5-cs6.ai",
     "media/Pasted image 20241104163830.png",

@@ -173,6 +173,7 @@ layout: default
 - [[MMSCollaborationA]] - Intellectual property is wasteful and threatens our planet
 - [[MMSCommuniA]] - Original intentions behind mostly.mutual.studio (also *My Marble Sharings*) 
 - [[MMSCommuniB]] - How I want to structure my week to reduce digital stimulation 
+- [[MMSContrastSimpleAndComplexSystems]] - Moving from simple systems to living systems language 
 - [[MMSDigitalComA]] - Communicating about communication between friends
 - [[MMSFinanceVisual]] - Most of the international transactions on this planet are not tied to any real valuable thing
 - [[MMSHealthAutopoiesis]] - No Title
@@ -187,6 +188,7 @@ layout: default
 - [[MMSMusicStorageA]] - storing playlists and artists visually would help browsing, memory, and create a feeling of realtionship to the collection
 - [[MMSNutritionLabeling]] - Envisioning nutrition in grocery stores and on tech products
 - [[MMSOlinSystemsBuilding]] - Examples suitable for visualizing Olin's network
+- [[MMSPhenomenaOfComplexSystems]] - What are the universal phenomena of living systems?
 - [[MMSPhilOfSciA]] - Building blocks for my philosophy of science
 - [[MMSQ-Transdisciplinary-awareness]] - Question to the community: How do you stay aware of people's efforts and insights beyond your own discipline?
 - [[MMSSensingA]] - A visual methaphor for the process/phenomenon of sensing our world and feeling the whole reality
