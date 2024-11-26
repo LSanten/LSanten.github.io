@@ -175,6 +175,7 @@ layout: default
 - [[MMSCommuniB]] - How I want to structure my week to reduce digital stimulation 
 - [[MMSContrastSimpleAndComplexSystems]] - Moving from simple systems to living systems language 
 - [[MMSDigitalComA]] - Communicating about communication between friends
+- [[MMSEconomicDemocracy]] - You don't live in a democracy when every big institution around you is run like a dictatorship
 - [[MMSFinanceVisual]] - Most of the international transactions on this planet are not tied to any real valuable thing
 - [[MMSHealthAutopoiesis]] - No Title
 - [[MMSHealthTechCommuniA]] - A proposal to change communication around and interface design for battery health
@@ -290,6 +291,7 @@ layout: default
 - [[TRAGEDY-COMMONS-A]] - No Title
 - [[UNLEARNING-A]] - We need to completely rework & unlearn our lives and social systems
 - [[VEGETABLE-STATS-A]] - No Title
+- [[VisualizationIdeasQuick]] - No Title
 - [[WASTE-A]] - Companies need to face the e-waste they create
 - [[WASTE-B]] - Food Waste Overview
 - [[WASTE-C]] - An excerpt from "Neither Wolf nor Dog": why do Indians keep so much trash on their land if it could be so easy to clean it up?

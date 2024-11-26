@@ -5,6 +5,8 @@ layout: default
 also [INSPO-DRAWING-A](INSPO-DRAWING-A.md)
 # Illustrations that inspire me to create 
 
+![](media/cleanshot_2024-11-24-at-20-16-55@2x%201.png)
+
 ![](media/cleanshot_2024-11-02-at-15-06-20@2x.png)Anna Haas
 
 
@@ -20,3 +22,4 @@ https://nicolekelner.darkroom.com/?utm_campaign=Carbonauts%27%20Community&utm_me
 
 ![](media/IMG_4455.jpeg)
 from the building decarbonization coalition (name: panama bartholony)
+

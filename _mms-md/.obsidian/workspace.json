@@ -64,21 +64,49 @@
             }
           },
           {
+            "id": "64287079f8b2e3ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INSPO-DRAWING-A.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INSPO-DRAWING-A"
+            }
+          },
+          {
             "id": "d2e15518b333701f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCIENCE-OF-HOLISM-FRAMEWORK.md",
+                "file": "INSPIRATION-ILLUSTRATIONS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SCIENCE-OF-HOLISM-FRAMEWORK"
+              "title": "INSPIRATION-ILLUSTRATIONS"
+            }
+          },
+          {
+            "id": "0439f73400a3c308",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMSEconomicDemocracy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MMSEconomicDemocracy"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -109,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "framework",
+                "query": "workplace ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -150,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MMSContrastSimpleAndComplexSystems.md",
+                "file": "MMSEconomicDemocracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MMSContrastSimpleAndComplexSystems"
+              "title": "Backlinks for MMSEconomicDemocracy"
             }
           },
           {
@@ -218,12 +246,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b40084fb9de1bf23",
+  "active": "0439f73400a3c308",
   "lastOpenFiles": [
-    "MMSPhenomenaOfComplexSystems.md",
-    "MMSContrastSimpleAndComplexSystems.md",
-    "AUTOPOIESIS-A.md",
+    "DICTATORSHIP-A.md",
+    "MMSEconomicDemocracy.md",
+    "INSPIRATION-ILLUSTRATIONS.md",
+    "Untitled",
+    "media/cleanshot_2024-11-24-at-20-16-55@2x 1.png",
+    "media/cleanshot_2024-11-24-at-20-16-55@2x.png",
     "SCIENCE-OF-HOLISM-FRAMEWORK.md",
+    "INSPO-DRAWING-A.md",
+    "VisualizationIdeasQuick.md",
+    "DRAWING-PRACTICE.md",
+    "MMSContrastSimpleAndComplexSystems.md",
+    "MMSPhenomenaOfComplexSystems.md",
+    "AUTOPOIESIS-A.md",
     "THESIS-HOLISTIC-ENGINEERING.md",
     "HOLISTIC-FRAMEWORKS.md",
     "CREATIVE-MARKETING-RESOURCE-A.md",
@@ -240,12 +277,6 @@
     "INCARCERATION-STATS.md",
     "TEST.md",
     "MMSSystemIntervention-A.md",
-    "MMSFinanceVisual.md",
-    "MMSLoans.md",
-    "ALL.md",
-    "MMSQ-Transdisciplinary-awareness.md",
-    "OVERVIEW-CAPITALISM.md",
-    "SYSTEMS-THINKING-TOOL-SYSTEMIC-CONSTELLATIONS.md",
     "media/Pasted image 20241113124439.png",
     "media/cleanshot_2024-11-05-at-09-14-36@2x.png",
     "media/cleanshot_2024-11-05-at-09-13-49@2x.png",
@@ -255,8 +286,6 @@
     "media/cleanshot_2024-11-02-at-15-06-20@2x.png",
     "media/cleanshot_2024-11-02-at-00-58-36@2x.png",
     "media/cleanshot_2024-10-29-at-18-52-32@2x.png",
-    "media/cleanshot_2024-10-25-at-11-36-20@2x.png",
-    "media/IMG_4776.jpeg",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "media/MMSPhilOfSciA_8.png.tmp$$",
@@ -266,7 +295,6 @@
     "media/MMSPhilOfSciA_4.png.tmp$$",
     "media/MMSPhilOfSciA_3.png.tmp$$",
     "media/MMSPhilOfSciA_2.png.tmp$$",
-    "media/MMSPhilOfSciA_1.png.tmp$$",
-    "media/MMSPhilOfSciA_3-05.png.tmp$$"
+    "media/MMSPhilOfSciA_1.png.tmp$$"
   ]
 }
