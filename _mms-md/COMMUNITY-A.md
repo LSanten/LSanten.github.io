@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Community a"
+title: A saving dump of concepts and resources related to community building
 ---
-
 # A saving dump of concepts and resources related to community building
 
 

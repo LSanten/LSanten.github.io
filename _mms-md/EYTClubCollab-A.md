@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Eytclubcollab a"
+title: Ideation around partying together and separately
 ---
-
 # Ideation around partying together and separately 
 
 On December 2nd 2023:

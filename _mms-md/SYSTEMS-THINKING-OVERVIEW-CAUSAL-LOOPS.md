@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Resources for understanding the tool "causal loops"
 ---
 # Resources for understanding the tool "causal loops"
 

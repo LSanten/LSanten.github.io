@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Mesh cap g"
+title: Tangible creations list
 ---
-
 # Tangible creations list
 Here I collect things I want and need to create. They are partially deliverables for my capstone, but they don't have to be. 
 

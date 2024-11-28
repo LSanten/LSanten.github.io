@@ -1,5 +1,6 @@
 ---
 layout: default
+title: A collection of quotes with no specific theme
 ---
 # A collection of quotes with no specific theme
 

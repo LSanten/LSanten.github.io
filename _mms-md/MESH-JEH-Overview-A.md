@@ -1,11 +1,6 @@
 ---
 layout: default
-title: "Mesh jeh overview a"
 ---
-
-
-
-
 ![](media/JEH-illustrations-ALL-collection-01.png)
 
 ![](media/JEH-illustrations-ALL-collection-02.png)

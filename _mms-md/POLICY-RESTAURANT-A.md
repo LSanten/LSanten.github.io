@@ -1,7 +1,6 @@
 ---
 layout: default
-title: "Policy restaurant a"
+title: 'very easy policy: all restaurants use only reusable to go boxes'
 ---
-
 # very easy policy: all restaurants use only reusable to go boxes
 

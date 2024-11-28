@@ -1,11 +1,6 @@
 ---
 layout: default
-title: "Coffee block capture"
 ---
-
-
-
-
 ![[media/cleanshot_2024-07-22-at-16-02-10@2x.png]]
 
 

@@ -1,5 +1,7 @@
 ---
 layout: default
+subtitle: Planning, dreaming, celebrating, doing...
+title: The dragon dreaming framework
 ---
 # The dragon dreaming framework
 ## Planning, dreaming, celebrating, doing...

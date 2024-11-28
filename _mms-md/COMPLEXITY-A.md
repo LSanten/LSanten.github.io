@@ -1,5 +1,6 @@
 ---
 layout: default
+title: People and systems complexity
 ---
 # People and systems complexity 
 

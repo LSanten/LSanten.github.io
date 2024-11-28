@@ -1,7 +1,7 @@
 ---
 layout: default
+title: Useful resources for the bay area of San Francisco
 ---
-
 # Useful resources for the bay area of San Francisco
 
 

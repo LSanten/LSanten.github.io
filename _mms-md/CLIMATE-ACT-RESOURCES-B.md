@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Climate act resources b"
+title: Conferences in the environmental justice (& engineering) space
 ---
-
 # Conferences in the environmental justice (& engineering) space
 
 Working to eradicate racism in engineering:

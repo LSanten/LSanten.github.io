@@ -1,10 +1,6 @@
 ---
 layout: default
-title: "Sust jobs"
 ---
-
-
-
 - got bag - production of recycled plastic ocean waste
 
 - Natel energy 

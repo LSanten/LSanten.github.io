@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Mmscollaborationa"
+title: Intellectual property is wasteful and threatens our planet
 ---
-
 # Intellectual property is wasteful and threatens our planet
 
 

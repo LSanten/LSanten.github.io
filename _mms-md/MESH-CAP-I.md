@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Mesh cap i"
+title: What's my project about and how do I say it?
 ---
-
 # What's my project about and how do I say it?
 
 From Jon: **How do we MESH together in multiple disciplines so that we are ensuring that we remain compassionate towards others while accomplishing the goals we are trying to achieve?**  What I have learned in my previous years of working within many different engineering industries is that everyone has their own agenda and trying to coordinate all of those agendas so that the outcome is progressing towards the ultimate goal is a tough challenge.   I believe though that the lessons we have learned in these courses is that **we need to focus our attention to others and keep an open mind on all ideas that come**. 

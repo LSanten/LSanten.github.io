@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Mmsmeatsticka"
+title: A sticker to speak to the innate nature of humans to refrain from causing immense
+  animal suffering
 ---
-
 # A sticker to speak to the innate nature of humans to refrain from causing immense animal suffering 
 
 ![](media/MMSMeatStickA-01.png)

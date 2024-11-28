@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Innovators compass a"
+title: The design tool called "Innovators Compass"
 ---
 # The design tool called "Innovators Compass"
 Ela Ben-Ur developed the design tool called the Innovators Compass (website [here](https://innovatorscompass.org/about)). The tool asks five questions to get unstuck during a design process or community gathering. The questions asked are: 

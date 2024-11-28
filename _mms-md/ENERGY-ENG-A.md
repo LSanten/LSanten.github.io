@@ -1,9 +1,11 @@
 ---
 layout: default
-title: "Energy eng a"
+subtitle: As presented by Mark Mills
+title: Understanding the scale of needed resources for an energy transition as envisioned
+  by western nations
 ---
 # Understanding the scale of needed resources for an energy transition as envisioned by western nations
-## As presented by Mark Mills [1]
+## As presented by Mark Mills
 Renewable energy systems require 800-1800 % more minerals to deliver the same amount of energy compared with the current fossil-fuel technologies. Electric vehicles require 400% more minerals [see figure 2].
 
 >To convert our current energy systems as planned by Western governments, we would face the largest increase of production of metals in human history.

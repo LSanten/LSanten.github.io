@@ -97,16 +97,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOLISTIC-FRAMEWORKS.md",
+                "file": "MMSSystemicCooperationInterface-A.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HOLISTIC-FRAMEWORKS"
+              "title": "MMSSystemicCooperationInterface-A"
+            }
+          },
+          {
+            "id": "7fb71614fd34cfe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BUBBLE-HASHTAGS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BUBBLE-HASHTAGS"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -137,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "regenerative",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -178,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOLISTIC-FRAMEWORKS.md",
+                "file": "BUBBLE-HASHTAGS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HOLISTIC-FRAMEWORKS"
+              "title": "Backlinks for BUBBLE-HASHTAGS"
             }
           },
           {
@@ -246,37 +260,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0439f73400a3c308",
+  "active": "7fb71614fd34cfe3",
   "lastOpenFiles": [
-    "WASTE-C.md",
-    "PLANNING-DREAMING-CELEBRATING-DOING-FRAMEWORK.md",
-    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
-    "DESIGNING-WITH-COUNTRY-A.md",
-    "MMSPhilOfSciA.md",
-    "MMSSystemicCooperationInterface-A.md",
-    "HOLISTIC-FRAMEWORKS.md",
-    "TEST-LETTER.md",
-    "JUST-TRANSITION-PRINC-FRAME.md",
+    "ENERGY-ENG-A.md",
+    "MESH-EJ-THESIS.md",
+    "SOMATIC-HEAL-WHITENESS.md",
+    "CAPABILITIES-FOR-LIFE-FRAMEWORK.md",
+    "MESH-CAP-I.md",
     "MMSEconomicDemocracy.md",
-    "DICTATORSHIP-A.md",
-    "INSPIRATION-ILLUSTRATIONS.md",
+    "INTO-PERSPECTIVE.md",
+    "SOLAR-ENERGY-A.md",
+    "TEST.md",
+    "IMAGINATION-A.md",
+    "BOAT-FUEL-CONSUMPTION-STATS.md",
+    "TEST-LETTER.md",
+    "WORK-CULTURE-MEDIEVAL-STONAGE-NOW.md",
+    "QUOTES-NONVIOLENCE-AND-FORCE.md",
+    "MMSSocialReproductionB.md",
+    "MCGILCHRIST2021-VID.md",
+    "MMSLoans.md",
+    "POUCH-SYSTEMS-THINKING-TOOLS.md",
+    "ROOTS-OF-RENEWABLES.md",
+    "FREE-WILL-A.md",
+    "MESH-CAP-EPIST-A.md",
+    "MESH-CAP-E.md",
+    "OVERVIEW-DEGROWTH.md",
+    "POLICY-RESTAURANT-A.md",
+    "PLUS1SOUNDA.md",
+    "CIRCULAR-ECON-A.md",
     "Untitled",
     "media/cleanshot_2024-11-24-at-20-16-55@2x 1.png",
     "media/cleanshot_2024-11-24-at-20-16-55@2x.png",
-    "SCIENCE-OF-HOLISM-FRAMEWORK.md",
-    "INSPO-DRAWING-A.md",
-    "VisualizationIdeasQuick.md",
-    "DRAWING-PRACTICE.md",
-    "MMSContrastSimpleAndComplexSystems.md",
-    "MMSPhenomenaOfComplexSystems.md",
-    "AUTOPOIESIS-A.md",
-    "THESIS-HOLISTIC-ENGINEERING.md",
-    "CREATIVE-MARKETING-RESOURCE-A.md",
-    "COMPLEX-SYSTEMS-FRAMEWORK-A.md",
-    "ACADEMIC-IMPERIALISM.md",
-    "MESH-CAP-EPIST-A.md",
-    "MMSIcebergDynamics.md",
-    "DOCUMENTARIES-NATURE-ANIMALS.md",
     "media/Pasted image 20241113124439.png",
     "media/cleanshot_2024-11-05-at-09-14-36@2x.png",
     "media/cleanshot_2024-11-05-at-09-13-49@2x.png",

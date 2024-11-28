@@ -1,8 +1,6 @@
 ---
 layout: default
-title: "Eco justice"
 ---
-
 ECOLOGICAL JUSTICE
 #ecologicaljustice #justice
 

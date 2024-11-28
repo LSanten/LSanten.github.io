@@ -1,8 +1,6 @@
 ---
 layout: default
-title: "Entitlement a"
 ---
-
 Entitlement
 
 gopal dayaneni: entitlement is the infringement on the commons/ on public goods (instead we can govern our commons collectively - the tragedy of the commons is a myth if we cooperate [[TRAGEDY-COMMONS-A]])

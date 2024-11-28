@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Resume writings upload"
+title: Things that need to uploaded to the writings section
 ---
-
 # Things that need to uploaded to the writings section
 
 - [[RESUME-WRITINGS-A]]: Holistic engineering thesis

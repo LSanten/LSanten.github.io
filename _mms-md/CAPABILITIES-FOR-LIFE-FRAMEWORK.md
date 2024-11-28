@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Capabilities for life framework"
+title: A framework to nurture life-centric capabilities.
 ---
-
 # A framework to nurture life-centric capabilities.
 Shared by Jesús Martín GonzálezJesús Martín González on LinkedIn. 
 

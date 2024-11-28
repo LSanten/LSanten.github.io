@@ -1,5 +1,6 @@
 ---
 layout: default
+title: How I want to structure my week to reduce digital stimulation
 ---
 # How I want to structure my week to reduce digital stimulation 
 I tend to think about weekly patterns visually and regularly reflect on my phone usage. I hope to create more time management visuals in the future. Let me know if you are familiar with any artists who do similar work. 

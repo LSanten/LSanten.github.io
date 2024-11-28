@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Mesh cap epist a"
+title: Empistemological bubbles of my capstone project
 ---
-
 # Empistemological bubbles of my capstone project
 
 ![](media/roots of capstone-03.png)

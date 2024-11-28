@@ -1,5 +1,6 @@
 ---
 layout: letter
+title: A selection of graphics
 ---
 # A selection of graphics
 Dear critical creators at SF Chronicle, 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Just transition princ"
+title: What is a Just Transition?
 ---
 
 # What is a Just Transition?
@@ -38,4 +38,4 @@ Examples of both types of economies are listed in the graphic.
 
 ________
 
-#values #framework 
+#values #framework

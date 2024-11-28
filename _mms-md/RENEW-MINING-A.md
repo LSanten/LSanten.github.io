@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Renew mining a"
+title: The energy transition requires massive mining which leads to desastrous outcomes
 ---
-
 # The energy transition requires massive mining which leads to desastrous outcomes
 
 

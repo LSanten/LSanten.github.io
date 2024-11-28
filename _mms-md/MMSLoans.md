@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Mmsloans"
+title: The problems around issuing loans (the way banks are allowed to do it)
 ---
-
 # The problems around issuing loans (the way banks are allowed to do it)
 thoughts are shared on my blog post https://www.omprakash.org/blog/just-transition-blog-reflection--3
 

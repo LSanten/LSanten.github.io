@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Mmsolinsystemsbuilding"
+title: Examples suitable for visualizing Olin's network
 ---
-
 # Examples suitable for visualizing Olin's network
 
 ## Hylo

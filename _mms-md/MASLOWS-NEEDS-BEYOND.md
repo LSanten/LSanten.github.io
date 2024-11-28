@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Maslows needs beyond"
+title: 'classic Maslow model: pyramid of needs'
 ---
-
 # classic Maslow model: pyramid of needs
 was appropriated from indigenous communities (Ravilochan 2021).
 

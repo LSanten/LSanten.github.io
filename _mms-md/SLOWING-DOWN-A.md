@@ -1,8 +1,6 @@
 ---
 layout: default
-title: "Slowing down a"
 ---
-
 # 
 
 

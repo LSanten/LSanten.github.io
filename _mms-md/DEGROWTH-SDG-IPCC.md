@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Degrowth sdg ipcc"
+title: SDGs addressed by degrowth
 ---
 
 # SDGs addressed by degrowth

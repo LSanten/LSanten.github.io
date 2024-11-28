@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Peace a"
+title: You don't need and can't have nation state boarders for peace
 ---
-
 # You don't need and can't have nation state boarders for peace
 
 You cannot compete when trying to be peaceful. You will naturally need to work together. Someonelese's peace does never threaten you peace. 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Media movement building a"
+title: Movement building principles for media creation
 ---
 # Movement building principles for media creation
 

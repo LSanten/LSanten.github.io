@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Resume writings b"
+title: 'Spirituality and ecological justice: How can we transform ourselves?'
 ---
-
 # Spirituality and ecological justice: How can we transform ourselves?
 ![](media/banner-spirit.png)
 August 2023 - Thesis for Ecological Justice

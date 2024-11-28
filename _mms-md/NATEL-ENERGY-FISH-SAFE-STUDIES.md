@@ -1,5 +1,6 @@
 ---
 layout: default
+title: My environmental science work with Natel Energy
 ---
 # My environmental science work with Natel Energy
 <i class="fas fa-calendar-alt"></i>   *July 2021 - May 2022 + July - August 2024*

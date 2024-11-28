@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Combat a"
+title: 'Insight: it''s useful for a system of violence that we are conditioned to
+  react to critique or voicing concern with feeling hurt and fighting back because
+  it keeps our society in a state of fighting instead of working together'
 ---
-
 # Insight: it's useful for a system of violence that we are conditioned to react to critique or voicing concern with feeling hurt and fighting back because it keeps our society in a state of fighting instead of working together
 
 #fight-flight

@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Mcgilchrist2021 vid"
+title: 'Notes for Video: Our Unmaking of the World - and the return to being'
 ---
-
 # Notes for Video: Our Unmaking of the World - and the return to being
 
 *This is a collection of notes for a video interview with McGilchrist about his book "Unmaking of the World and the return to being. (contact me for the link).* Here you go:

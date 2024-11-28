@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Illustration that compares land used for livestock compared with land needed
+  to house houseless folks
 ---
 # Illustration that compares land used for livestock compared with land needed to house houseless folks
 

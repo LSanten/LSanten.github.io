@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Examples of biophilic, zero-carbon buildings and architecture
 ---
 # Examples of biophilic, zero-carbon buildings and architecture
 

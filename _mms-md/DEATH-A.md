@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Death a"
+title: "It\u2019s all about the ability to create relationships and let go of relationships."
 ---
-
 # It’s all about the ability to create relationships and let go of relationships. 
 
 Biological death is a tribute/gift to life. 

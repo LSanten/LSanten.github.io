@@ -1,5 +1,7 @@
 ---
 layout: default
+subtitle: A broader way of looking at it...
+title: How do we define technology?
 ---
 # How do we define technology?
 ## A broader way of looking at it...

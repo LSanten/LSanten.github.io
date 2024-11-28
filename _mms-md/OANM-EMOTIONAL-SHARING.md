@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Oanm emotional sharing"
+title: Visualizing offers, needs, and emotions within the community in a 2D or 3D
+  way with an indicator for time
 ---
-
 # Visualizing offers, needs, and emotions within the community in a 2D or 3D way with an indicator for time 
 I am curious about the visualization of re-occuring themes within a small community. 
 

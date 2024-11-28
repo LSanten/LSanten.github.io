@@ -1,7 +1,6 @@
 ---
 layout: default
-title: "Eytlaserviz b"
+title: Dreaming about future design of the music laser visualizer
 ---
-
 # Dreaming about future design of the music laser visualizer
 

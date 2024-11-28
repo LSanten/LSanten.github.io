@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Chomsky global heg vid"
+title: 'Noam Chomsky -- "Global Hegemony: The Facts, The Images"'
 ---
-
 # Noam Chomsky -- "Global Hegemony: The Facts, The Images"
 https://youtu.be/mTjRza4In_o?si=wvvh8zurRsl0NelG
 

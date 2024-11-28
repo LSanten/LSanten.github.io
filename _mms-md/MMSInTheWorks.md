@@ -1,5 +1,7 @@
 ---
 layout: default
+subtitle: mostly.mutual.studio
+title: Marbles in the works
 ---
 # Marbles in the works
 ## mostly.mutual.studio

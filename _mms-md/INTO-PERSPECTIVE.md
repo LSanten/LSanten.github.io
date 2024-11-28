@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Putting world wide challenges and push for innovation into perspective
 ---
 # Putting world wide challenges and push for innovation into perspective 
 1 out of 8 people don’t have electriciru on this planet. 

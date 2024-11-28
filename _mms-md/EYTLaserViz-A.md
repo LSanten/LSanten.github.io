@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Eytlaserviz a"
+title: An overview for my "laser music visualizer"
 ---
 
 # An overview for my "laser music visualizer"

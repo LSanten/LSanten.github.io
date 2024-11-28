@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Interdisciplinarity a"
+title: How do we create an interdisciplinary course?
 ---
-
 # How do we create an interdisciplinary course?
 #transdisciplinarity
 

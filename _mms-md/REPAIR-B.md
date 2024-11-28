@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Repair b"
+title: Right to repair - main things
 ---
-
 # Right to repair - main things
 
 Manufacturers have to share these things with consumers:

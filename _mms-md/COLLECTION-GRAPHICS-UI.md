@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My graphics with communication in mind
+title: A collection of my graphics
 ---
 # A collection of my graphics
 

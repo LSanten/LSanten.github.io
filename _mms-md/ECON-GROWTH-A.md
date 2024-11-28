@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Econ growth a"
+subtitle: no greater econ growth
+title: Neoliberalism did not even achieve bigger growth, instead it shifted capital
+  from lower classes to upper classes
 ---
-
 # Neoliberalism did not even achieve bigger growth, instead it shifted capital from lower classes to upper classes 
-
 ## no greater econ growth
 "Aggregate growth rates stood at 3.5 percent or so in the 1960s and even during       the troubled 1970s fell to only 2.4 percent. The subsequent global growth rates       of 1.4 percent and 1.1 percent for the 1980s and 1990s, and a rate that barely       touches 1 percent since 2000, indicate that neoliberalism has broadly failed to       stimulate worldwide growth.[14]" (Harvey 2006 p.33)
 

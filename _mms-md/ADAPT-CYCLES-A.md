@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Adapt cycles a"
+title: adaptive cycles help us to understand how to transform our systems
 ---
-
 # adaptive cycles help us to understand how to transform our systems
 
 ![](media/cleanshot_2024-04-09-at-20-30-15@2x.png)

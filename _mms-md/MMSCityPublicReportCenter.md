@@ -1,9 +1,6 @@
 ---
 layout: default
-title: "Mmscitypublicreportcenter"
 ---
-
-
 - regenerative vision of the day 
 
 

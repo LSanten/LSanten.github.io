@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Mesh cap e"
+title: canvas "discussions" as an explorative map
 ---
-
 # canvas "discussions" as an explorative map 
 
 the the below question as an example. Now, this could turn into a mind map that is systematically worked on and refined over time. 

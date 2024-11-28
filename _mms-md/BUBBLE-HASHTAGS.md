@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Bubble hashtags"
+title: List of hashtags used to indentify a variety of bubbles
 ---
-
 # List of hashtags used to indentify a variety of bubbles
 
 #MMSseed - a planted seed that needs development or work as a todo item

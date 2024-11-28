@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "App idea a"
+title: An app for friends where we share intentions for the week and spontaneous trips
 ---
-
 # An app for friends where we share intentions for the week and spontaneous trips
 
 for instance, if I feel excited to go out tonight, I can let everyone in my circle know. Maybe someone else will jump on the train with me: "Leon wants to dance right now. Do you want to join them?"

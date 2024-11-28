@@ -1,5 +1,7 @@
 ---
 layout: default
+subtitle: Biomimicry or "learning with nature as a part of nature"
+title: The universal patterns that support flourishing in all living systems
 ---
 # The universal patterns that support flourishing in all living systems
 ## Biomimicry or "learning with nature as a part of nature"

@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Mmscommunia"
+title: Original intentions behind mostly.mutual.studio (also *My Marble Sharings*)
 ---
-
 # Original intentions behind mostly.mutual.studio (also *My Marble Sharings*) 
 
 ![](media/MMSCommuniA-1.png)

@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Resume writings a"
+title: What does it mean to be a holistic engineer?
 ---
-
 # What does it mean to be a holistic engineer?
 ![](media/banner-holism.png)
 June 2021 - Bachelor's Thesis

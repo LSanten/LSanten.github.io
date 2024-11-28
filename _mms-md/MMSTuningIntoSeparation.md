@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Mmstuningintoseparation"
+title: Notice how we justify killing
 ---
-
 # Notice how we justify killing
 I am interested in the intersection of logic and violence as they conditioning each other. When we go into our heads and start to argue with logic about destruction, we naturally move away from reality. 
 

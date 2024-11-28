@@ -1,9 +1,6 @@
 ---
 layout: default
-title: "Overview degrowth"
 ---
-
-
 ## technology dynamics
 "The efforts to invent and introduce more environmentally friendly technologies – to reduce T (throughput per unit produced) in the IPAT equation3 – has been  dwarfed by the increases in P (population) and especially in A (affluence). The  rebound effect  has been too strong in relation to the attempts to dematerialize  production"
 

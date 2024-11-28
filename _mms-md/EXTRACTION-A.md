@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Extraction a"
+title: Our scientific innovation paradigm is based on extractive processes
 ---
-
 # Our scientific innovation paradigm is based on extractive processes
 
 Our scientific innovation paradigm is based on extractive processes like mining and on the industrial education system. It is also based on profit down the line. Profit means exploitation somewhere else. This system is based on free things like resources and labor. Therefore, we cannot build technology in the current system to solve the climate change "problem", because climate change is the the result of ripping earth out of the land and controlling local & indigenous people to do that for the colonizers. 

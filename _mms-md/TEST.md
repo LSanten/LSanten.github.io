@@ -1,8 +1,12 @@
 ---
+author: Leon Santen, Odalys Benitez
 layout: default
+subtitle: First header
+title: Main header
 ---
-# This is the test document with a nice title complementing the rest
-## And a subtitle that works well with special formatting
+# Main header
+## First header
+
 Just some words to fill the void because we always need to talk. So we can talk all day long for nonsense and so much more. 
 
 ### The Third title
@@ -77,4 +81,3 @@ this is an [External Link](https://theanarchistlibrary.org/library/anonymous-kil
 More things that shouldn't show up ⬇️ ⬇️ ⬇️
 
 %% shouldn't show up  %%
-

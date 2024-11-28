@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Pouch of quotes
 ---
 # Pouch of quotes
 - [QUOTES-CREATION-PEACE](QUOTES-CREATION-PEACE.md)

@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Climate change a"
+title: Solving climate change means to transform relationships of power
 ---
-
 # Solving climate change means to transform relationships of power 
 
 (I use 'solving climate change' synonymous with healing our social-ecological systems from unnecessary suffering, violence, and degradation.)

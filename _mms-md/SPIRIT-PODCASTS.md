@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Podcasts or talks within the spiritual domain that I want to share
 ---
 # Podcasts or talks within the spiritual domain that I want to share 
 ### resonated very deeply / one of the best for me 

@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Mesh cap media"
+title: Media collection
 ---
-
 # Media collection 
 
 ## Ideas

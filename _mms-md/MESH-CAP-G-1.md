@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Mesh cap g 1"
+title: List of tools useful for a sharpened intellectual and creative practice
 ---
 # List of tools useful for a sharpened intellectual and creative practice
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "App idea b"
+title: 'An app for different forms of communication: letters, short notices etc...'
 ---
 
 # An app for different forms of communication: letters, short notices etc...

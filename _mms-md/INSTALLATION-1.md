@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Installation 1"
+title: Use all times square screens as monitors for city systems such as waste flows,
+  monetary streams, consumption patterns
 ---
-
 # Use all times square screens as monitors for city systems such as waste flows, monetary streams, consumption patterns
 
 --> waste pathogen monitoring 

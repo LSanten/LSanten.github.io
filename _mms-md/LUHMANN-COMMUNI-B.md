@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Luhmann communi b"
+title: Communication "arises through a synthesis of three different selections, namely,
+  selection of information, selection of the utterance of  this information, and a
+  selective understanding or misunderstanding of this utterance and its information"
 ---
-
 # Communication "arises through a synthesis of three different selections, namely, selection of information, selection of the utterance of  this information, and a selective understanding or misunderstanding of this utterance and its information"
 
 

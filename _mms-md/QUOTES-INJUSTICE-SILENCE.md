@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Quotes related to staying silent during times of injustice
 ---
 # Quotes related to staying silent during times of injustice 
 

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Somatic heal whiteness"
+title: Healing internalized white-supremacy starts with healing the relationship to
+  ourselves
 ---
-
 # Healing internalized white-supremacy starts with healing the relationship to ourselves
 
 Sue from healingembodiedsupremacy: "for colonization to happen, a disconnect between body & mind needed to happen. 

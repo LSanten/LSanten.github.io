@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Mesh cap b"
+title: 'INSIGHT: it is more enticing and connecting to have homework instructions
+  that ask about "why we are interested in something" and to learn about other humans
+  than only focus on external, far-away knowledge'
 ---
-
 # INSIGHT: it is more enticing and connecting to have homework instructions that ask about "why we are interested in something" and to learn about other humans than only focus on external, far-away knowledge
 
 #communication #instructions #relationships 

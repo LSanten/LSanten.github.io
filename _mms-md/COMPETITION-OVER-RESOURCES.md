@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Competition over resources
 ---
 # Competition over resources
 This video is wonderful summary reflecting on the popular Western narrative that we are doomed to fight over natural resources. 

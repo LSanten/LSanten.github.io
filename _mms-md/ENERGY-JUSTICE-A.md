@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Energy justice a"
+title: 'Framework for energy justice: AAA'
 ---
-
 # Framework for energy justice: AAA
 
 

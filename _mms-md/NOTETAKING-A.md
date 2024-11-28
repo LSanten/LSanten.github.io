@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Notetaking a"
+title: Resources for notetaking
 ---
-
 # Resources for notetaking
 
 *From talk with Jaguar*

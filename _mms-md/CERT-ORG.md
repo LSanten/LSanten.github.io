@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Cert org"
+title: An organization that certifies circular economy endavours on sliding scales
+  among various rubrics
 ---
-
 # An organization that certifies circular economy endavours on sliding scales among various rubrics
 
 

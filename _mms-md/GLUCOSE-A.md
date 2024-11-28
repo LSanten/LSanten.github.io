@@ -1,9 +1,6 @@
 ---
 layout: default
-title: "Glucose a"
 ---
-
-
 ## Video podcast 
 https://www.youtube.com/watch?v=DnEJrgc1BCk&list=WL&index=48
 

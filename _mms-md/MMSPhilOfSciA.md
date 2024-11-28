@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Mmsphilofscia"
+title: Building blocks for my philosophy of science
 ---
-
 # Building blocks for my philosophy of science
 
 ![](media/MMSPhilOfSciA_1.png)

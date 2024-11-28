@@ -1,8 +1,6 @@
 ---
 layout: default
-title: "Eytinterestingmusicwebsites"
 ---
-
 ### Ishkur's Guide to Electronic Music
 https://music.ishkur.com/
 ![](media/cleanshot_2024-06-10-at-13-21-14@2x.png)

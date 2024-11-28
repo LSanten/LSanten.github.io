@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Oanm hub for local bus"
+title: Interface or consulting hub to interconnect local businesses with other orgs
+  to share and satisfy offers and needs
 ---
 
 # Interface or consulting hub to interconnect local businesses with other orgs to share and satisfy offers and needs

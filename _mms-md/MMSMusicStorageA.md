@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Mmsmusicstoragea"
+title: storing playlists and artists visually would help browsing, memory, and create
+  a feeling of realtionship to the collection
 ---
-
 # storing playlists and artists visually would help browsing, memory, and create a feeling of realtionship to the collection
 
 

@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Eytcareclubinspo b drinks"
+title: A list of nourishing drinks for dancing
 ---
-
 # A list of nourishing drinks for dancing
 #careClub #inspiration
 I desire nourishing drinks during a long night of dancing. 

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Personal marketing - how great leaders inspire action
 ---
 # Personal marketing - how great leaders inspire action
 *framework by Simon Sinek*

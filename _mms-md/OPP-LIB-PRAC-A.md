@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Opp lib prac a"
+title: The Wheel of Oppression and Liberation
 ---
-
 # The Wheel of Oppression and Liberation
 by Monica Dennis 
 

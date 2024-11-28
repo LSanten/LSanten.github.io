@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Plant-based diet facts from documentary "The Game Changers"
 ---
 # Plant-based diet facts from documentary "The Game Changers"
 

@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Eytcareclubinspo a"
+title: A loose collection of inspiring pieces oriented toward care while partying
 ---
-
 # A loose collection of inspiring pieces oriented toward care while partying
 
 

@@ -1,12 +1,7 @@
 ---
 layout: default
-title: "Frameworks community weaving"
+title: A Framework for weaving together and integrating parts of a community
 ---
-
-
-
-
-
 # A Framework for weaving together and integrating parts of a community
 
 https://www.community-weaving.org/

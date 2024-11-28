@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Energy consumption a"
+title: building energy use accounts for 40% of total energy use
 ---
-
 # building energy use accounts for 40% of total energy use
 "When electrical system energy losses are included, the residential and commercial sectors accounted for about 22% and 18% respectively—40% combined—of total U.S. energy consumption in 2022" [1] However these numbers include appliance usage. 
 

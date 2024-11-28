@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Believing a"
+title: if we believe, we can't think
 ---
-
 # if we believe, we can't think
 
 https://youtu.be/qtQ7oJKDjRg?si=jkogiCVifLCUN8OO&t=279

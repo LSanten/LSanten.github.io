@@ -1,5 +1,6 @@
 ---
 layout: default
+title: 'Book notes: "The Art of Gathering - How we meet and why it matters"'
 ---
 # Book notes: "The Art of Gathering - How we meet and why it matters"
 by Priya Parker ([see on Goodreads](https://www.goodreads.com/book/show/37424706-the-art-of-gathering?from_search=true&from_srp=true&qid=1T4Wv25XI4&rank=1))

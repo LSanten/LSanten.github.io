@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Mesh cap f"
+title: Surfacing slow violence within the container is important for collective liberation
+  and (self-)awareness
 ---
-
 # Surfacing slow violence within the container is important for collective liberation and (self-)awareness
 This question stood out to me: "how can we convert into image and narrative the disasters that are slow moving and long in the making [...]?"
 

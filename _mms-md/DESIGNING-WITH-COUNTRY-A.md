@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Designing with country a"
+subtitle: A design methodology to rebuild relationships between the land and people
+title: Designing with country
 ---
 # Designing with country
 ## A design methodology to rebuild relationships between the land and people

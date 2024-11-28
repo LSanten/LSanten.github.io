@@ -1,9 +1,7 @@
 ---
 layout: default
-title: "Eytmusicsimilaritysearchengine"
+title: New online digging tool cosine.club recommends tracks based on similarity
 ---
-
-
 # New online digging tool cosine.club recommends tracks based on similarity
 
 

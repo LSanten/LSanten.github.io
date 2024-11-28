@@ -1,5 +1,6 @@
 ---
 layout: default
+title: My pouch of marbles for *mostly.mutual studio*
 ---
 # My pouch of marbles for *mostly.mutual studio*
 Welcome to my communication experiment. I call anything a *marble* that is a concise, thematic container for an insights, graphic, conversation, question, fun fact, or scientific inquiry that I want to share with you ([more about my intentions here](MMSCommuniA.md)).

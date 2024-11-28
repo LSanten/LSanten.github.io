@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Ipcc transition"
+title: IPCC AR6 sees transition needs in 5 realms
 ---
-
 # IPCC AR6 sees transition needs in 5 realms
 - energy
 - land

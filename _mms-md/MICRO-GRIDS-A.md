@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Micro grids a"
+title: Microgrids and
 ---
-
 # Microgrids and 
 
 

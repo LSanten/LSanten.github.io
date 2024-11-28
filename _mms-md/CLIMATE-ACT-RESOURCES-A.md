@@ -1,9 +1,7 @@
 ---
 layout: default
-title: "Climate act resources a"
+title: A list of useful links in the climate activism and climate tech world
 ---
-
-
 # A list of useful links in the climate activism and climate tech world 
 
 - climate tech bay area https://sf.climatetechcities.com/

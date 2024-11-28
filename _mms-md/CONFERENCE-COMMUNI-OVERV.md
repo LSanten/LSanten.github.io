@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Conference communi overv"
+title: A list of ideas for improving conference or retreat style conversations
 ---
-
 # A list of ideas for improving conference or retreat style conversations
 
 - [[MARKET-CONF-A]]: create spaces and markets to share needs, offers, insights and cooperate 

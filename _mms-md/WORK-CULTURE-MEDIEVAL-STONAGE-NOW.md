@@ -1,5 +1,6 @@
 ---
 layout: default
+title: How our work culture has shifted compared to medieval times
 ---
 # How our work culture has shifted compared to medieval times 
 

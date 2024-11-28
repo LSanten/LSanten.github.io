@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ayurveda doshas"
+title: The ayurvedic doshas
 ---
 # The ayurvedic doshas
 

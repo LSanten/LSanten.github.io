@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Propofsciences"
+title: the propositions or interests of the social & natural sciences
 ---
 
 # the propositions or interests of the social & natural sciences

@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Seth practices a"
+title: Practices for energy, flow of qi, loosening, and reflection
 ---
-
 # Practices for energy, flow of qi, loosening, and reflection
 Hi Seth, there are three practices on here. I referenced the Kundalini yoga exercise and the "innovators compass" practice on your plan. The third one is an interesting qigong exercise my friend showed to me, and I wanted to pass it along to you. 
 

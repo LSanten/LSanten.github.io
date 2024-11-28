@@ -1,5 +1,7 @@
 ---
 layout: default
+subtitle: A journey of words
+title: Moving from simple systems to living systems language
 ---
 # Moving from simple systems to living systems language 
 ## A journey of words 

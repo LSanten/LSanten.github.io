@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Dialogue a"
+title: The difference between a dialogue and a discussion
 ---
-
 # The difference between a dialogue and a discussion 
 
 One path is one of dis-identification with the truth/knoweldge point in the hopes to gain a deeper insight by living in between the conversation partners. This is called dialogue. Both sides walk together to see more through the senses of each other. 

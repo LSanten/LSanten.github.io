@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Mmsstickplscomp"
+title: can public places please compost & recycle?
 ---
-
 # can public places please compost & recycle?
 I feel so much pain when I have to use a to-go container in a coffee shop. I feel pain when I cannot compost my napkins. This sticker addresses this large-scale problem.
 

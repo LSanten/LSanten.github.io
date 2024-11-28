@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Mmshistofsci a"
+subtitle: People and world events that shaped the scientific method
+title: 'A critical synthesis: history of the scientific method'
 ---
-
 # A critical synthesis: history of the scientific method
 ## People and world events that shaped the scientific method
 

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Biomimicry a"
+title: Biomimicry lessons mapped against the wisdom of the Nonngar people of Western
+  Australia
 ---
-
 # Biomimicry lessons mapped against the wisdom of the Nonngar people of Western Australia
 
 

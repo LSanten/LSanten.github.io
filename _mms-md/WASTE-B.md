@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Waste b"
+title: Food Waste Overview
 ---
-
 # Food Waste Overview
 
 "Up to 40% of all food produced goes uneaten, and about 95% of discarded food ends up in landfills" - Harvard Public School of Health (2019)[1]

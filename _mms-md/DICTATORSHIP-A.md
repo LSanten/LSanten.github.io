@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Dictatorship a"
+title: Workplace dictatorship is when the owner has the right to tell the worker what
+  to do
 ---
-
 # Workplace dictatorship is when the owner has the right to tell the worker what to do
 This perspective is from Wright's book "how to be an anticapitalist in the 21st century" (2019).
 

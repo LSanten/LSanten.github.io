@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Elecyt laser viz a"
+title: An overview for my "laser music visualizer"
 ---
-
 # An overview for my "laser music visualizer"
 I have been shaping this laser visualizer on and off for 3 years since its invention night with my friends at a _Make Harvard hackathon_ ([old presentation video here](https://www.youtube.com/watch?v=FHm0N6WwG0I)). This project has continuously pulled me in and excited friends and audiences because the visualization it produces is so distinct and different from projector- or LED-based visuals commonly installed in clubs & music spaces.  
 

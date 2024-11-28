@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Mantra gayatri"
+title: The Gayatri mantra
 ---
-
 # The Gayatri mantra
 The Gayatri has 24 syllables, and is listed below with phonetic pronunciation in brackets:
 

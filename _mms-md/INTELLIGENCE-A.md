@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Intelligence a"
+title: intelligence is compression
 ---
-
 # intelligence is compression
 
 i need to look up if the processing of large amounts of sensory input is what interroception refers to 

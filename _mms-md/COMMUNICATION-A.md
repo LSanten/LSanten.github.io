@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Communication a"
+title: It seems crucial to talk about how we talk
 ---
-
 # It seems crucial to talk about how we talk
 
 #communication-about-communication

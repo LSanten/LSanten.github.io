@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Portfolio website inspo"
+title: A list of portfolios and websites that inspire me
 ---
-
 # A list of portfolios and websites that inspire me
 
 

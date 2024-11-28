@@ -1,5 +1,6 @@
 ---
 layout: default
+title: What are the universal phenomena of living systems?
 ---
 # What are the universal phenomena of living systems?
 

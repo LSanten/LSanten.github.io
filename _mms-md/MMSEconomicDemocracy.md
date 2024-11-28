@@ -1,5 +1,7 @@
 ---
 layout: default
+title: You don't live in a democracy when every big institution around you is run
+  like a dictatorship
 ---
 # You don't live in a democracy when every big institution around you is run like a dictatorship
 

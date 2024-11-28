@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Waste a"
+title: Companies need to face the e-waste they create
 ---
-
 # Companies need to face the e-waste they create
 
 This is called **extended producer responsibility** or **product take back**. We need take-back laws so its cheaper to produce long-lasting, modular products than dumping them and externalizing recycling costs. [1]

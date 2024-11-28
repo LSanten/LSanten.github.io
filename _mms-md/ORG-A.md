@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Org a"
+title: How to tag my zettels
 ---
-
 # How to tag my zettels
 
 - #to-create

@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Imagination a"
+title: Immersion into the unknown & imagination
 ---
-
 # Immersion into the unknown & imagination
 Here, something comes to my mind that goes beyond imagination. It is the ability to immerse ourselves in new situations to experience new realities and understand how things can shift. Imagination, of course, increases when we do this a lot. Immersing ourselves in the unknown is scary but quite essential. This relates to Otto Scharmers change management theory and integrates well with radical imagination. 
 

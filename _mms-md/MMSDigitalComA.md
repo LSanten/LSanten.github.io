@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Mmsdigitalcoma"
+title: Communicating about communication between friends
 ---
-
 # Communicating about communication between friends
 
 - When I text you or ask you a question, you can choose to not respond. I invite you to only respond if you have the desire to do so. I do not feel offended if you don’t respond. There’s no urgency. I’ll let you know if there is urgency.

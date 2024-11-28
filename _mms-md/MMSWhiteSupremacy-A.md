@@ -1,5 +1,6 @@
 ---
 layout: default
+title: A list of characteristics typical for white supremacist environments
 ---
 # A list of characteristics typical for white supremacist environments
 

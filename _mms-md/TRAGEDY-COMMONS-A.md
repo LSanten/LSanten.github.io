@@ -1,8 +1,6 @@
 ---
 layout: default
-title: "Tragedy commons a"
 ---
-
 MYTH OF THE TRAGEDY OF THE COMMONS
 
 sources

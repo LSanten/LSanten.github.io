@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Survival of the friendlist
 ---
 # Survival of the friendlist
 

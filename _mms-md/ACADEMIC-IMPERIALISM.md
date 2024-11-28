@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Indian sociologist Claude Alvares talks about academic imperialism
 ---
 # Indian sociologist Claude Alvares talks about academic imperialism
 

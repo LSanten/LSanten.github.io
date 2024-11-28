@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Mesh cap verif a"
+title: How do I verify my work and project ideas?
 ---
-
 # How do I verify my work and project ideas?
 
 Verification is part of the [creative process](https://www.wework.com/ideas/professional-development/creativity-culture/understanding-the-four-stages-of-the-creative-process#:~:text=Stage%204%3A%20Verification&text=Whatever%20ideas%20and%20insights%20arose,such%20an%20orderly%2C%20linear%20fashion).

@@ -1,8 +1,6 @@
 ---
 layout: default
-title: "Mesh ej thesis"
 ---
-
 this is my paper written for environmental justice class 
 you can find it under you can find it on my website 
 

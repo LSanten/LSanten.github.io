@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Free will a"
+title: '"The opposite of free will is not determinism but compulsion"'
 ---
-
 # "The opposite of free will is not determinism but compulsion" 
 Such compulsion to you "get" from addictions. By Joscha Bach [1].
 

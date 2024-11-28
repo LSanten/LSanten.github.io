@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Unlearning a"
+title: We need to completely rework & unlearn our lives and social systems
 ---
-
 # We need to completely rework & unlearn our lives and social systems
 
 

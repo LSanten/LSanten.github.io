@@ -1,8 +1,6 @@
 ---
 layout: default
-title: "Three wellbeing things"
 ---
-
 ## the thrings that give us psychological, physical health and wellbeing
 - social cohesion
 - proximity to and involvement with the natural world

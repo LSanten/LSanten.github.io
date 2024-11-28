@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Mesh cap a"
+title: 'IDEA: Media for movement building: collective shaping and organizing of information
+  containers based on a file type'
 ---
-
 # IDEA: Media for movement building: collective shaping and organizing of information containers based on a file type 
 This *information container* might be an idea, a question, a proposal etc...
 

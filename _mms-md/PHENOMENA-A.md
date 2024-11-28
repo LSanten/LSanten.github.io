@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Phenomena a"
+title: Phenomena of life
 ---
-
 # Phenomena of life
 
 - interconnectedness

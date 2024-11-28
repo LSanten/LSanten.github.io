@@ -1,8 +1,6 @@
 ---
 layout: default
-title: "Adapt change"
 ---
-
 ADAPTIVE CHANGE
 
 Judith: "du kanst etwas veraendern und die veraenderung geniessen"

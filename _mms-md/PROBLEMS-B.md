@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Problems b"
+title: Good and bad problems to have
 ---
-
 # Good and bad problems to have
 
 

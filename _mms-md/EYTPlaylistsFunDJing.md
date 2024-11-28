@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Fun playlists I want to share with my friends
 ---
 # Fun playlists I want to share with my friends 
 

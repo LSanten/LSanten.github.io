@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Circular econ d"
+title: Why we need to take circular economy frameworks with a grain of salt
 ---
 
 # Why we need to take circular economy frameworks with a grain of salt

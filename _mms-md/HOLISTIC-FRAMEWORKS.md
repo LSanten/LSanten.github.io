@@ -1,5 +1,7 @@
 ---
 layout: default
+subtitle: All of it. Take a look.
+title: Holistic frameworks for life - doing, being, relating, celebrating
 ---
 # Holistic frameworks for life - doing, being, relating, celebrating
 ## All of it. Take a look.

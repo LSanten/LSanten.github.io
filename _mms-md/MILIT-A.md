@@ -1,5 +1,7 @@
 ---
 layout: default
+subtitle: An attempt to develop intuition
+title: Statistics surrounding the scale of the US military industrial complex
 ---
 # Statistics surrounding the scale of the US military industrial complex
 ## An attempt to develop intuition

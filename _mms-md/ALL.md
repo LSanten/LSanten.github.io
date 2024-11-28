@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 - [[202307052318]] - No Title
 - [[202308111213]] - No Title
 - [[202308212300]] - if we learn how to deal with stress, the healthy mechanisms stay healthy
@@ -17,6 +18,7 @@ layout: default
 - [[APP-IDEA-D]] - A news app that collects the most important news pieces during offline time
 - [[APPS-USEFUL-A]] - Apps useful for planning 
 - [[ARCHITECTURE-BIOPHILIC-BUILDING-EXAMPLES]] - Examples of biophilic, zero-carbon buildings and architecture
+- [[ataltjakjt]] - lkajsdkfj
 - [[AUTOPOIESIS-A]] - How our social systems can be considered *alive* and reproduce their value essences
 - [[AYURVEDA-DOSHAS]] - The ayurvedic doshas
 - [[BAY-AREA-LINKS]] - Useful resources for the bay area of San Francisco

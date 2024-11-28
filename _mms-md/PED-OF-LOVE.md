@@ -1,8 +1,6 @@
 ---
 layout: default
-title: "Ped of love"
 ---
-
 PEDAGOGY OF LOVE
 
 "Basic pillars of the Pedagogy of Love include respect and trust

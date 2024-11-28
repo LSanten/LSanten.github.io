@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Mmsnutritionlabeling"
+title: Envisioning nutrition in grocery stores and on tech products
 ---
-
 # Envisioning nutrition in grocery stores and on tech products
 these labels would help us understand the regenerative potential of consumer goods and produce.
 

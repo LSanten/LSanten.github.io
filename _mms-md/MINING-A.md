@@ -1,8 +1,6 @@
 ---
 layout: default
-title: "Mining a"
 ---
-
 Pollution caused by mining overview
 
 

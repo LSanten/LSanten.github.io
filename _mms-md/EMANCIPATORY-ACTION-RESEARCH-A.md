@@ -1,10 +1,7 @@
 ---
 layout: default
-title: "Emancipatory action research a"
+title: What is emancipatory action research?
 ---
-
-
-
 # What is emancipatory action research?
 
 "Creating critical spaces for dialogue is important, involving all co-participants  in co-creating knowledge for our times. These are counter-hegemonic critical  spaces where power relationships are investigated and deconstructed in order  to act to reconstruct democratic relations with new possibilities for a world  that is fair and just. This concept of a democratic public space is a vital context  for social justice as a site for critical dialogue and participation in the process  of participatory democracy (Habermas, 1989)" (Ledwith 2017, p. 56)

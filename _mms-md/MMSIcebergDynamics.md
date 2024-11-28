@@ -1,5 +1,7 @@
 ---
 layout: default
+subtitle: Visualizing the underlying dynamics that lead to destruction and violence
+title: Climate change is only the tip of the iceberg
 ---
 # Climate change is only the tip of the iceberg
 ## Visualizing the underlying dynamics that lead to destruction and violence

@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Inspo drawing a"
+title: Inspiration for drawing people in illustrations
 ---
-
 # Inspiration for drawing people in illustrations 
  
 
