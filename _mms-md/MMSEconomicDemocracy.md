@@ -7,15 +7,17 @@ layout: default
 
 The United States and other Western countries may praise themselves for upholding democratic values, but outside of the political system, most large-scale institutions are hierarchical, with decisions made by a few, lacking any democratic structure. 
 
-I looked at the 22 largest corporate, financial, healthcare, and media institutions in this research project. All of these institutions happen to be undemocratic and process $ 9.2 trillion per year. In contrast, the combined US federal and state budgets amounted to $ 8.8 trillion. I share these two numbers to emphasize the stark reality that the social structures surrounding us process significantly more money undemocratically than democratically. This reality in its own is worth contemplating. This kind of power concentration is quite different from a system where each person has an equal say, which is the core of democracy.
+I looked at the 22 largest US corporate, financial, healthcare, and media institutions in this research project. All of these institutions happen to be undemocratic and process $ 9.2 trillion per year. In contrast, the combined US federal and state budgets amounted to $ 8.8 trillion. Remember, that I am not considering all companies and institutions. Even those few ones hold more economic value than the state. I share these two numbers to emphasize the stark reality that the social structures surrounding us process significantly more money undemocratically than democratically. This reality in its own is worth contemplating. This kind of power concentration is quite different from a system where each person has an equal say, which is the core of democracy.
 ### Can we claim to live in a democracy when most social structures around us are defined as non-democratic?
 
 In fact, it is quite reasonable to call most corporations workplace dictatorships because owners have the right to tell their employees what to do without their input (Wright 2019).
 
 Prestigious universities such as Harvard and Stanford are largely governed by boards of trustees, with limited input from faculty or students. Religious organizations like the Catholic Church follow strict hierarchies, bypassing community decision-making. These institutions—economic, educational, and religious—wield significant influence without broad participatory governance. Thus, while we may live in a political democracy, we do not live in an economic democracy, as economic power remains concentrated and undemocratic.
 
-
+> Let’s contemplate the fact that Apple processes almost $400 billion a year and uses this money to research and produce new products and insights - without any democratic input from the customers or its employees. Apple chooses its priorities for innovative development in a fully authoritarian way even though its products are a modern necessity and touch the lives of hundreds of million people.  
+> Furthermore, Apple’s success is largely based on research that was funded with public money such as voice recognition, GPS, the internet, 5G, micro processors, semiconductors, and plenty more. This clearly shows that public funding has the power to significantly steer innovation. While Apple benefits from democratically steered funding, the public is granted no access to Apple’s innovative decisions. 
 # The data section
+This section is rather dry but gives you insights into specific flows of money. 
 ## Amounts of money processed by some of the 22 largest institutions in the US
 
 1. **Corporate**: Major corporations such as Amazon, ExxonMobil, Apple, and Walmart are some of the largest and most influential companies in the U.S. They wield enormous economic power and are structured in ways that prioritize shareholders and executives over worker participation.

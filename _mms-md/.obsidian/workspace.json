@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSEconomicDemocracy.md",
+                "file": "HOLISTIC-FRAMEWORKS.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "MMSEconomicDemocracy"
+              "title": "HOLISTIC-FRAMEWORKS"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "workplace ",
+                "query": "regenerative",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MMSEconomicDemocracy.md",
+                "file": "HOLISTIC-FRAMEWORKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MMSEconomicDemocracy"
+              "title": "Backlinks for HOLISTIC-FRAMEWORKS"
             }
           },
           {
@@ -248,8 +248,17 @@
   },
   "active": "0439f73400a3c308",
   "lastOpenFiles": [
-    "DICTATORSHIP-A.md",
+    "WASTE-C.md",
+    "PLANNING-DREAMING-CELEBRATING-DOING-FRAMEWORK.md",
+    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+    "DESIGNING-WITH-COUNTRY-A.md",
+    "MMSPhilOfSciA.md",
+    "MMSSystemicCooperationInterface-A.md",
+    "HOLISTIC-FRAMEWORKS.md",
+    "TEST-LETTER.md",
+    "JUST-TRANSITION-PRINC-FRAME.md",
     "MMSEconomicDemocracy.md",
+    "DICTATORSHIP-A.md",
     "INSPIRATION-ILLUSTRATIONS.md",
     "Untitled",
     "media/cleanshot_2024-11-24-at-20-16-55@2x 1.png",
@@ -262,21 +271,12 @@
     "MMSPhenomenaOfComplexSystems.md",
     "AUTOPOIESIS-A.md",
     "THESIS-HOLISTIC-ENGINEERING.md",
-    "HOLISTIC-FRAMEWORKS.md",
     "CREATIVE-MARKETING-RESOURCE-A.md",
     "COMPLEX-SYSTEMS-FRAMEWORK-A.md",
     "ACADEMIC-IMPERIALISM.md",
     "MESH-CAP-EPIST-A.md",
     "MMSIcebergDynamics.md",
     "DOCUMENTARIES-NATURE-ANIMALS.md",
-    "ROOTS-OF-RENEWABLES.md",
-    "SYSTEMS-THINKING-OVERVIEW-CAUSAL-LOOPS.md",
-    "CIRCULAR-ECON-A.md",
-    "MMSHomepage.md",
-    "MMSSystemicCooperationInterface-A.md",
-    "INCARCERATION-STATS.md",
-    "TEST.md",
-    "MMSSystemIntervention-A.md",
     "media/Pasted image 20241113124439.png",
     "media/cleanshot_2024-11-05-at-09-14-36@2x.png",
     "media/cleanshot_2024-11-05-at-09-13-49@2x.png",
