@@ -6,7 +6,8 @@ cd /Users/lsanten/Documents/GitHub/LSanten.github.io
 # Run python scripts to scan _mms-md folder
 
 python3 python/generate-all-file.py # Generate file called ALL.md that contains a list of all .md files in the folder
-python3 python/add-headers.py # Add headers with template settings if it doesn't exist (needs to be after the generate-all-file)
+python3 python/add-headers.py # Add headers with template = default settings if it doesn't exist (needs to be after the generate-all-file)
+python3 python/add-title-subtitle_frontmatter.py # Add title and subtitle to YAML and update changes
 
 
 # Build the Jekyll site

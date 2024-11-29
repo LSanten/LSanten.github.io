@@ -18,7 +18,6 @@ layout: default
 - [[APP-IDEA-D]] - A news app that collects the most important news pieces during offline time
 - [[APPS-USEFUL-A]] - Apps useful for planning 
 - [[ARCHITECTURE-BIOPHILIC-BUILDING-EXAMPLES]] - Examples of biophilic, zero-carbon buildings and architecture
-- [[ataltjakjt]] - lkajsdkfj
 - [[AUTOPOIESIS-A]] - How our social systems can be considered *alive* and reproduce their value essences
 - [[AYURVEDA-DOSHAS]] - The ayurvedic doshas
 - [[BAY-AREA-LINKS]] - Useful resources for the bay area of San Francisco
@@ -30,7 +29,7 @@ layout: default
 - [[BOOK-The-Bliss-of-Inner-Fire]] - No Title
 - [[BOOKS-TO-REMEMBER]] - No Title
 - [[BOUNDARY-SPANNING]] - No Title
-- [[BUBBLE-HASHTAGS]] - List of hashtags used to indentify a variety of bubbles
+- [[BUBBLE-HASHTAGS]] - List of hashtags used to identify a variety of bubbles
 - [[CAPABILITIES-FOR-LIFE-FRAMEWORK]] - A framework to nurture life-centric capabilities.
 - [[CERT-ORG]] - An organization that certifies circular economy endavours on sliding scales among various rubrics
 - [[CHOMSKY-GLOBAL-HEG-VID]] - Noam Chomsky -- "Global Hegemony: The Facts, The Images"
@@ -207,6 +206,7 @@ layout: default
 - [[NATEL-ENERGY-MEDIA]] - The of a fish safety scientist at natel energy
 - [[NATURE-PARADIGMS]] - Paradigms that show up in nature 
 - [[NEED-A]] - No Title
+- [[New-fun-thing]] - Hello bello
 - [[NOTETAKING-A]] - Resources for notetaking
 - [[OANM-EMOTIONAL-SHARING]] - Visualizing offers, needs, and emotions within the community in a 2D or 3D way with an indicator for time 
 - [[OANM-HUB-FOR-LOCAL-BUS]] - Interface or consulting hub to interconnect local businesses with other orgs to share and satisfy offers and needs
@@ -287,7 +287,7 @@ layout: default
 - [[TECH-INTERDEP-A]] - No Title
 - [[TECHNOLOGY-DEFINITION-A]] - How do we define technology?
 - [[TEST-LETTER]] - This is the test document with a nice title complementing the rest
-- [[TEST]] - This is the test document with a nice title complementing the rest
+- [[TEST]] - Main header
 - [[THESIS-HOLISTIC-ENGINEERING]] - Holistic engineering and a renewed science of holism for a thriving world
 - [[THREE-WELLBEING-THINGS]] - No Title
 - [[TRAGEDY-COMMONS-A]] - No Title
