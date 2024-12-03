@@ -1,9 +1,9 @@
 ---
 layout: default
 subtitle: People and world events that shaped the scientific method
-title: 'A critical synthesis: history of the scientific method'
+title: 'A critical timeline synthesis: roots of the scientific method'
 ---
-# A critical synthesis: history of the scientific method
+# A critical timeline synthesis: roots of the scientific method
 ## People and world events that shaped the scientific method
 
 ![](media/cleanshot_2024-07-12-at-12-13-08@2x.png)
@@ -33,6 +33,8 @@ While Francis Bacon and others claimed that science is value free, this position
 
 %%
 Add industrial revolution language.
+
+Where does copernicus fit in? https://magazine.scienceforthepeople.org/online/socialize-the-lab/
 
 --> ![](media/cleanshot_2024-09-19-at-15-43-58@2x.png)
 

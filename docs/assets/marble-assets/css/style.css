@@ -1700,10 +1700,12 @@ blockquote em{
 
 
 /*IFRAME WIDTH ALWAYS 100% */
-
 iframe {
     width: 100% !important;
+    border-radius: 10px; /* Adjust the value for gentler or sharper corners */
+    overflow: hidden; /* Ensures content inside iframe doesn't spill over the rounded corners */
 }
+
 
 /*SPECIAL FORMAT FOR AUTHOR BLOCKQUOTES IF IT STARTS WITH ~ THIS IS SET AS A JS RULE IN THE JS DOC*/
 

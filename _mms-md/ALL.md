@@ -111,7 +111,8 @@ layout: default
 - [[GRAPHIC-DESIGN-TIPS-COLLECTION]] - No Title
 - [[HOLISTIC-FRAMEWORKS]] - Holistic frameworks for life - doing, being, relating, celebrating
 - [[IMAGINATION-A]] - Immersion into the unknown & imagination
-- [[INCARCERATION-STATS]] - No Title
+- [[INCARCERATION-STATS]] - A collection of statistics regarding incarceration in the US and beyond
+- [[INCARCERATION-VIRTUAL-VISUAL]] - Scroll through the mass of incarcerated people in the United States
 - [[INDEXING-CODING-WHY]] - One perspective on why indexing and numbering arrays in coding is so weird
 - [[INNOVATORS-COMPASS-A]] - The design tool called "Innovators Compass"
 - [[INSIGHTS-COLLECTION]] - No Title
@@ -136,6 +137,7 @@ layout: default
 - [[LUHMANN-COMMUNI-A]] - It is not individuals but the structures through which they communicate that build our social systems (which are different from psychic systems) 
 - [[LUHMANN-COMMUNI-B]] - Communication "arises through a synthesis of three different selections, namely, selection of information, selection of the utterance of  this information, and a selective understanding or misunderstanding of this utterance and its information"
 - [[MANTRA-GAYATRI]] - The Gayatri mantra
+- [[MANTRA-MA-KALI-A]] - No Title
 - [[MANTRA-SRI-YANTRA]] - No Title
 - [[MARKET-CONF-A]] - IDEA: create a market space to network, surface insights & proposals, and interconnect movement efforts
 - [[MASLOWS-NEEDS-BEYOND]] - classic Maslow model: pyramid of needs
@@ -180,7 +182,7 @@ layout: default
 - [[MMSFinanceVisual]] - Most of the international transactions on this planet are not tied to any real valuable thing
 - [[MMSHealthAutopoiesis]] - No Title
 - [[MMSHealthTechCommuniA]] - A proposal to change communication around and interface design for battery health
-- [[MMSHistOfSci-A]] - A critical synthesis: history of the scientific method
+- [[MMSHistOfSci-A]] - A critical timeline synthesis: roots of the scientific method
 - [[MMSHomepage]] - My pouch of marbles for *mostly.mutual studio*
 - [[MMSHothouse]] - No Title
 - [[MMSIcebergDynamics]] - Climate change is only the tip of the iceberg
@@ -207,6 +209,7 @@ layout: default
 - [[NATURE-PARADIGMS]] - Paradigms that show up in nature 
 - [[NEED-A]] - No Title
 - [[New-fun-thing]] - Hello bello
+- [[NEWS-SOURCES-COLONIALISM-AWARE]] - News sources aware of colonial and western power relations 
 - [[NOTETAKING-A]] - Resources for notetaking
 - [[OANM-EMOTIONAL-SHARING]] - Visualizing offers, needs, and emotions within the community in a 2D or 3D way with an indicator for time 
 - [[OANM-HUB-FOR-LOCAL-BUS]] - Interface or consulting hub to interconnect local businesses with other orgs to share and satisfy offers and needs

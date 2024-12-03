@@ -3,7 +3,10 @@ layout: default
 title: Pouch of quotes
 ---
 # Pouch of quotes
+
 - [QUOTES-CREATION-PEACE](QUOTES-CREATION-PEACE.md)
 - [QUOTES-INJUSTICE-SILENCE](QUOTES-INJUSTICE-SILENCE.md)
 - [[QUOTES-GENERAL-COLLECTION]]
+
+
 

@@ -125,16 +125,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMMUNICATION-LIVING-ROOM.md",
+                "file": "INCARCERATION-STATS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMMUNICATION-LIVING-ROOM"
+              "title": "INCARCERATION-STATS"
+            }
+          },
+          {
+            "id": "f3504ae4b228c1d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INCARCERATION-VIRTUAL-VISUAL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INCARCERATION-VIRTUAL-VISUAL"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -165,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "incar",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -206,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMMUNICATION-LIVING-ROOM.md",
+                "file": "INCARCERATION-VIRTUAL-VISUAL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for COMMUNICATION-LIVING-ROOM"
+              "title": "Backlinks for INCARCERATION-VIRTUAL-VISUAL"
             }
           },
           {
@@ -274,34 +289,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b79f6f08fd659b40",
+  "active": "f3504ae4b228c1d0",
   "lastOpenFiles": [
+    "INCARCERATION-STATS.md",
+    "INCARCERATION-VIRTUAL-VISUAL.md",
+    "media/Pasted image 20241203114423.png",
+    "BUBBLE-HASHTAGS.md",
+    "MMSSystemicCooperationInterface-A.md",
+    "INSPIRATION-ILLUSTRATIONS.md",
+    "INSPO-DRAWING-A.md",
+    "MMSContrastSimpleAndComplexSystems.md",
+    "MMSPhenomenaOfComplexSystems.md",
+    "THESIS-HOLISTIC-ENGINEERING.md",
+    "NEWS-SOURCES-COLONIALISM-AWARE.md",
+    "MANTRA-MA-KALI-A.md",
+    "MANTRA-OM-KREEM.md",
+    "media/cleanshot_2024-12-01-at-16-30-51@2x.png",
+    "POUCH-OF-QUOTES.md",
+    "QUOTES-CREATION-PEACE.md",
+    "ARCHITECTURE-BIOPHILIC-BUILDING-EXAMPLES.md",
+    "COMMUNICATION-LIVING-ROOM.md",
     "NEED-A.md",
     "COMPLEX-SYSTEMS-FRAMEWORK-A.md",
     "MESH-CAP-C.md",
     "MEDITATION-SAMATHA-STAGES.md",
     "BIOMIMICRY-A.md",
-    "MMSPhenomenaOfComplexSystems.md",
     "INTO-PERSPECTIVE.md",
     "New-fun-thing.md",
-    "BUBBLE-HASHTAGS.md",
     "ENERGY-ENG-A.md",
     "MESH-EJ-THESIS.md",
     "SOMATIC-HEAL-WHITENESS.md",
-    "CAPABILITIES-FOR-LIFE-FRAMEWORK.md",
-    "MESH-CAP-I.md",
-    "MMSEconomicDemocracy.md",
-    "SOLAR-ENERGY-A.md",
-    "TEST.md",
-    "IMAGINATION-A.md",
-    "BOAT-FUEL-CONSUMPTION-STATS.md",
-    "TEST-LETTER.md",
-    "WORK-CULTURE-MEDIEVAL-STONAGE-NOW.md",
-    "QUOTES-NONVIOLENCE-AND-FORCE.md",
-    "MMSSocialReproductionB.md",
-    "MCGILCHRIST2021-VID.md",
-    "MMSLoans.md",
-    "POUCH-SYSTEMS-THINKING-TOOLS.md",
     "Untitled",
     "media/cleanshot_2024-11-24-at-20-16-55@2x 1.png",
     "media/cleanshot_2024-11-24-at-20-16-55@2x.png",
@@ -312,8 +329,6 @@
     "media/crayon-brushes-cs5-cs6.ai",
     "media/Pasted image 20241104163830.png",
     "media/cleanshot_2024-11-02-at-15-06-20@2x.png",
-    "media/cleanshot_2024-11-02-at-00-58-36@2x.png",
-    "media/cleanshot_2024-10-29-at-18-52-32@2x.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "media/MMSPhilOfSciA_8.png.tmp$$",

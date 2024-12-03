@@ -49,6 +49,10 @@ We will need 2x more copper than we have mined throughout all human history to f
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/122399156?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Maxima Acuña de Chaupe"></iframe></div>
 
 
+## Reading more
+
+Science or the People: Bleeding Earth, [Volume 25, no. 2](https://magazine.scienceforthepeople.org/volume-25-number-2-bleeding-earth/)
+[The history of copper mining in Chile](https://magazine.scienceforthepeople.org/vol25-2-bleeding-earth/the-minerals-must-flow/) 
 
 %%
 ## On the other hand, far more mining is required for fossil fuels 
