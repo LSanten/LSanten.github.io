@@ -173,6 +173,7 @@ layout: default
 - [[MMSBigTechA]] - Isn’t it wild that we haven’t heard of Mark Zuckerberg talk about his understanding of friendship and community?
 - [[MMSCapitalismA]] - Difference and division are core-components of capitalist thriving 
 - [[MMSCityPublicReportCenter]] - No Title
+- [[MMSCO2InCars]] - CO2 levels in cars
 - [[MMSCollaborationA]] - Intellectual property is wasteful and threatens our planet
 - [[MMSCommuniA]] - Original intentions behind mostly.mutual.studio (also *My Marble Sharings*) 
 - [[MMSCommuniB]] - How I want to structure my week to reduce digital stimulation 
