@@ -4,7 +4,12 @@ title: 'Notes for Video: Our Unmaking of the World - and the return to being'
 ---
 # Notes for Video: Our Unmaking of the World - and the return to being
 
-*This is a collection of notes for a video interview with McGilchrist about his book "Unmaking of the World and the return to being. (contact me for the link).* Here you go:
+You might know the feeling of a "klick" when listening to other people talk and reason. Mc Gilchrist's talk in this video is one of the most impressive "klick" videos I have watched in my life. 
+
+Here is the [video](https://drive.google.com/file/d/1cHVDupCLUHasRqAbFr_e0O5XxKpyhDmT/view?usp=sharing).
+
+## Below is a collection of sketchy notes that I took while watching the video
+
 
 - "if there is something wrong with the world right now, maybe it relates to how we think"
 - we have become mesmorized with a mechanistic, reductionist way of thinking of the left brain half
@@ -95,7 +100,7 @@ mistaking of *distinction as seperation*: the process of creation is a matter of
 - misunderstand the sacred: cannot be descrived by langauge and reason then it doesn't exist or it is a mistake - we think
     - *"it is not irrational to find deep meaning in music. it is not irrational at all. it is just not ecnompassable by reason"* - transrational or suprarational --> the limitation of language to express it are by no means a sign that it doesn't exist #music
     - all the great traditions of the world have a taboo to name what it is that represents the divine because it limits it, breaks it: if you understand god, then it's not god you've understood [29:40]
-    - richard fineman: "if you have understood quantum mechanism, you have not understood quantum mechanics"
+    - richard fineman: "if you have understood quantum mechanics, you have not understood quantum mechanics"
     - "the limitations of language should be pretty obvious to anyone who thinks" #limitations-of-language
 - we have an obsession with clarity. clarity is important but when we try to make things overclear, things get wrong (illusory precision)
 

@@ -16,6 +16,7 @@ Feel free to explore. Since I haven't finished these projects, they hold the opp
 ## 🌱 Concrete ideas, ready to visualize
 - [MMSFinanceVisual](MMSFinanceVisual.md) - draw visual with clean vector graphics or lino cut style
 - [ENERGY-ENG-A](ENERGY-ENG-A.md) - make simple graphics of quotes to post online, record key video components for online
+- [[MMSAtWhoseCostVisual]] - 
 
 ## 🌀 Something cool can come out of this; no concrete pieces yet
 - [AGRICULTURE-A](AGRICULTURE-A.md) - visual to share relative sizes of emissions and land use
@@ -28,6 +29,7 @@ Feel free to explore. Since I haven't finished these projects, they hold the opp
 - [MMSSystemIntervention-A](MMSSystemIntervention-A.md) List of complex systems intervention points - Donella Meadows
 - [[MMSIcebergDynamics]] Iceberg graphic from Linda Vanasupa
 - [[MMSWhiteSupremacy-A]] List of white supremacy characteristics 
+- [MMSAtWhoseCostVisual](MMSAtWhoseCostVisual.md)
 
 ## ✨ Needs work to look nicer
 - [ELECTRICITY-BOTTOM-BILLION](ELECTRICITY-BOTTOM-BILLION.md) - the colors and graphic don't look very nice; maybe make it look like a print
