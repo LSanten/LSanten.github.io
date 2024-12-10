@@ -1,12 +1,14 @@
 ---
 layout: default
-title: 'Notes for Video: Our Unmaking of the World - and the return to being'
+subtitle: Notes for a video interview
+title: Our Unmaking of the World - and the return to being
 ---
-# Notes for Video: Our Unmaking of the World - and the return to being
+# Our Unmaking of the World - and the return to being
+## Notes for a video interview
 
 You might know the feeling of a "klick" when listening to other people talk and reason. Mc Gilchrist's talk in this video is one of the most impressive "klick" videos I have watched in my life. 
 
-Here is the [video](https://drive.google.com/file/d/1cHVDupCLUHasRqAbFr_e0O5XxKpyhDmT/view?usp=sharing).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NMLNXOOKkLM?si=FoNklqApEtQuih_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Below is a collection of sketchy notes that I took while watching the video
 

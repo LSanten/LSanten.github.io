@@ -141,7 +141,7 @@ layout: default
 - [[MANTRA-SRI-YANTRA]] - No Title
 - [[MARKET-CONF-A]] - IDEA: create a market space to network, surface insights & proposals, and interconnect movement efforts
 - [[MASLOWS-NEEDS-BEYOND]] - classic Maslow model: pyramid of needs
-- [[MCGILCHRIST2021-VID]] - Notes for Video: Our Unmaking of the World - and the return to being
+- [[MCGILCHRIST2021-VID]] - Our Unmaking of the World - and the return to being
 - [[MEDIA-MOVEMENT-BUILDING-A]] - Movement building principles for media creation
 - [[MEDITATION-BREATHING-RATIOS-PRANAYAMA]] - Effect of various breathing rations or breathing rhythms 
 - [[MEDITATION-SAMATHA-STAGES]] - The stages of Samatha Meditation
