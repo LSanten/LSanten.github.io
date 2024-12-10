@@ -23,7 +23,7 @@ My baseline values include:
 
 
 ### Quotes that resonate and drive my work
- >*"the cause of the crisis is in the injustice"* so we need to *transform relationships of power* 
+ >The cause of the crisis is in the injustice, so we need to *transform relationships of power*.
  >
  >~ Gopal Dayaneni @ Pachamama Conference 2023
  
