@@ -10,13 +10,14 @@ This note serves as a collection board for ongoing projects, developed ideas wit
 Feel free to explore. Since I haven't finished these projects, they hold the opportunity to collaborate. Let's see what emerges between us!
 
 ## 🌟 Almost ready to share or publish
-- [MMSPhilOfSciA](MMSPhilOfSciA.md) - add Vanasupa reference, queer methodologies and clean up
+- [MMSPhilOfSciA](MMSPhilOfSciA.md) - Philosophy of science and the scientific method: add Vanasupa reference, queer methodologies and clean up
 - [MMSHistOfSci-A](MMSHistOfSci-A.md) - a timeline of the scientific method and its problematic roots
 
 ## 🌱 Concrete ideas, ready to visualize
 - [MMSFinanceVisual](MMSFinanceVisual.md) - draw visual with clean vector graphics or lino cut style
 - [ENERGY-ENG-A](ENERGY-ENG-A.md) - make simple graphics of quotes to post online, record key video components for online
-- [[MMSAtWhoseCostVisual]] - 
+- [[MMSAtWhoseCostVisual]]
+- [[MMSHerbalismParadox]]
 
 ## 🌀 Something cool can come out of this; no concrete pieces yet
 - [AGRICULTURE-A](AGRICULTURE-A.md) - visual to share relative sizes of emissions and land use
@@ -30,6 +31,7 @@ Feel free to explore. Since I haven't finished these projects, they hold the opp
 - [[MMSIcebergDynamics]] Iceberg graphic from Linda Vanasupa
 - [[MMSWhiteSupremacy-A]] List of white supremacy characteristics 
 - [MMSAtWhoseCostVisual](MMSAtWhoseCostVisual.md)
+- Graphic Design Project for simple message: Environmental Justice = Social Justice and vice versa
 
 ## ✨ Needs work to look nicer
 - [ELECTRICITY-BOTTOM-BILLION](ELECTRICITY-BOTTOM-BILLION.md) - the colors and graphic don't look very nice; maybe make it look like a print

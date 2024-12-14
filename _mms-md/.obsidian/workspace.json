@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCGILCHRIST2021-VID.md",
+                "file": "GRAPHIC-DESIGN-TIPS-COLLECTION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCGILCHRIST2021-VID"
+              "title": "GRAPHIC-DESIGN-TIPS-COLLECTION"
             }
           },
           {
@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mcgilch",
+                "query": "democr",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -201,8 +201,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCGILCHRIST2021-VID.md",
+                "file": "GRAPHIC-DESIGN-TIPS-COLLECTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MCGILCHRIST2021-VID"
+              "title": "Backlinks for GRAPHIC-DESIGN-TIPS-COLLECTION"
             }
           },
           {
@@ -292,14 +291,16 @@
   },
   "active": "b79f6f08fd659b40",
   "lastOpenFiles": [
+    "UNLEARNING-A.md",
+    "PERSONAL-VALUE-SYSTEM.md",
+    "MCGILCHRIST2021-VID.md",
+    "MMSEconomicDemocracy.md",
+    "MMSInTheWorks.md",
+    "MMSHerbalismParadox.md",
     "TECHNOLOGY-DEFINITION-A.md",
     "MESH-CAP-VERIF-A.md",
-    "PERSONAL-VALUE-SYSTEM.md",
-    "UNLEARNING-A.md",
     "MMSAtWhoseCostVisual.md",
-    "MCGILCHRIST2021-VID.md",
     "media/IMG_5013.jpeg",
-    "MMSInTheWorks.md",
     "INCARCERATION-STATS.md",
     "MMSCO2InCars.md",
     "MMSArchive_Dec42024.zip",
@@ -324,8 +325,6 @@
     "POUCH-OF-QUOTES.md",
     "QUOTES-CREATION-PEACE.md",
     "ARCHITECTURE-BIOPHILIC-BUILDING-EXAMPLES.md",
-    "COMMUNICATION-LIVING-ROOM.md",
-    "NEED-A.md",
     "Untitled",
     "media/cleanshot_2024-11-24-at-20-16-55@2x 1.png",
     "media/cleanshot_2024-11-24-at-20-16-55@2x.png",

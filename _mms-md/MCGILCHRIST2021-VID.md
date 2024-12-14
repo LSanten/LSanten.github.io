@@ -10,6 +10,7 @@ You might know the feeling of a "klick" when listening to other people talk and 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NMLNXOOKkLM?si=FoNklqApEtQuih_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+My marble on [ONTOLOGICAL-PRIMITIVES](ONTOLOGICAL-PRIMITIVES.md) is rooted in McGilchrist’s insights. 
 ## Below is a collection of sketchy notes that I took while watching the video
 
 

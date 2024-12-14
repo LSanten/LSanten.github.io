@@ -18,6 +18,8 @@ Prestigious universities such as Harvard and Stanford are largely governed by bo
 
 > Let’s contemplate the fact that Apple processes almost $400 billion a year and uses this money to research and produce new products and insights - without any democratic input from the customers or its employees. Apple chooses its priorities for innovative development in a fully authoritarian way even though its products are a modern necessity and touch the lives of hundreds of million people.  
 > Furthermore, Apple’s success is largely based on research that was funded with public money such as voice recognition, GPS, the internet, 5G, micro processors, semiconductors, and plenty more. This clearly shows that public funding has the power to significantly steer innovation. While Apple benefits from democratically steered funding, the public is granted no access to Apple’s innovative decisions. 
+
+
 # The data section
 This section is rather dry but gives you insights into specific flows of money. 
 ## Amounts of money processed by some of the 22 largest institutions in the US

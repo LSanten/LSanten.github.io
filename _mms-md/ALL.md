@@ -184,6 +184,7 @@ layout: default
 - [[MMSFinanceVisual]] - Most of the international transactions on this planet are not tied to any real valuable thing
 - [[MMSHealthAutopoiesis]] - No Title
 - [[MMSHealthTechCommuniA]] - A proposal to change communication around and interface design for battery health
+- [[MMSHerbalismParadox]] - GRAPHIC IDEA: The paradox of disbelief in and fear of herbs
 - [[MMSHistOfSci-A]] - A critical timeline synthesis: roots of the scientific method
 - [[MMSHomepage]] - My pouch of marbles for *mostly.mutual studio*
 - [[MMSHothouse]] - No Title
