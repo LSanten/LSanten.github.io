@@ -13,4 +13,4 @@ title: A collection of statistics regarding incarceration in the US and beyond
 
 ## Websites
 
-The page [Incarceration in Real Numbers](INCARCERATION-VIRTUAL-VISUAL.md) is a powerful visualization of the sheer quantity of incarcerated people. 
+The page [Incarceration in Real Numbers](INCARCERATION-VIRTUAL-VISUAL.md) is a powerful visualization of the sheer quantity of incarcerated people in the United States. 

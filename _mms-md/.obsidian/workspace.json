@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRAPHIC-DESIGN-TIPS-COLLECTION.md",
+                "file": "MMSIcebergDynamics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GRAPHIC-DESIGN-TIPS-COLLECTION"
+              "title": "MMSIcebergDynamics"
             }
           },
           {
@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "democr",
+                "query": "iceberg",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -201,7 +201,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -221,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GRAPHIC-DESIGN-TIPS-COLLECTION.md",
+                "file": "MMSIcebergDynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +232,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GRAPHIC-DESIGN-TIPS-COLLECTION"
+              "title": "Backlinks for MMSIcebergDynamics"
             }
           },
           {
@@ -291,6 +292,10 @@
   },
   "active": "b79f6f08fd659b40",
   "lastOpenFiles": [
+    "MMSCO2InCars.md",
+    "INCARCERATION-VIRTUAL-VISUAL.md",
+    "INCARCERATION-STATS.md",
+    "GRAPHIC-DESIGN-TIPS-COLLECTION.md",
     "UNLEARNING-A.md",
     "PERSONAL-VALUE-SYSTEM.md",
     "MCGILCHRIST2021-VID.md",
@@ -301,12 +306,9 @@
     "MESH-CAP-VERIF-A.md",
     "MMSAtWhoseCostVisual.md",
     "media/IMG_5013.jpeg",
-    "INCARCERATION-STATS.md",
-    "MMSCO2InCars.md",
     "MMSArchive_Dec42024.zip",
     "Archive.zip",
     "media alias",
-    "INCARCERATION-VIRTUAL-VISUAL.md",
     "MMSCO2InCar.md",
     "media/MMSCO2InCar-2.png",
     "media/MMSCO2InCar-1.png",
@@ -324,7 +326,6 @@
     "media/cleanshot_2024-12-01-at-16-30-51@2x.png",
     "POUCH-OF-QUOTES.md",
     "QUOTES-CREATION-PEACE.md",
-    "ARCHITECTURE-BIOPHILIC-BUILDING-EXAMPLES.md",
     "Untitled",
     "media/cleanshot_2024-11-24-at-20-16-55@2x 1.png",
     "media/cleanshot_2024-11-24-at-20-16-55@2x.png",

@@ -11,6 +11,6 @@ title: Scroll through the mass of incarcerated people in the United States
         style="border:none;">
 </iframe>
 
-### More incarceration statistics [here](INCARCERATION-STATS.md) 
+### More incarceration statistics for the US over [here](INCARCERATION-STATS.md) 
 ## References
 https://mkorostoff.github.io/incarceration-in-real-numbers/

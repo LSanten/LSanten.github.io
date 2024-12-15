@@ -15,7 +15,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="Here is a marble for you! I hope it helps you engage in dialogue, plant a seed, or elicit collaboration.">
   <meta name="author" content="Leon Santen">
-  <meta property="og:image" content="{% if page.images and page.images[0] %}{{ page.images[0] }}{% else %}{{ '../../assets/marble-assets/images/marble-imagery/woven-marble-3.png' | absolute_url }}{% endif %}">
+  <meta property="og:image" content="{% if page.images and page.images[0] %}{{ page.images[0] | absolute_url }}{% else %}{{ 'https://leonsanten.info/assets/marble-assets/images/marble-imagery/woven-marble-3.png' }}{% endif %}">
+
+
+
 
 
   <!-- plugins -->

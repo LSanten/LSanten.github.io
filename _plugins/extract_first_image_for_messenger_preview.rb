@@ -14,8 +14,9 @@ module Jekyll
         all_images = doc.content.scan(/!\[.*?\]\((.*?)\)/).flatten
 
         if all_images.any?
-          # Save only the first image, adjusted for relative path
-          first_image = "../#{all_images.first}"
+          # Adjust the first image path to include /marbles/
+          first_image = all_images.first.gsub(%r{^\.\./}, '') # Strip "../"
+          first_image = "/marbles/#{first_image}" unless first_image.start_with?('/marbles/')
           doc.data['images'] = [first_image]
         else
           Jekyll.logger.info "ExtractImages:", "No image found for #{doc.url}"
