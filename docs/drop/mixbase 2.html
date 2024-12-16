@@ -1,0 +1,184 @@
+<!DOCTYPE HTML>
+<!--
+	Phantom by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>DJ-Transition Management</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="shortcut icon" href="images/favicon/favicon_2.ico">
+
+				<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-198326221-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-198326221-1');
+		</script>
+
+
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
+
+							<!-- Logo -->
+								<a href="index.html" class="logo">
+									<span class="symbol"><img src="images/favicon/favicon_2.ico" alt="" /></span><span class="title">Leon Santen</span>
+								</a>
+
+							<!-- Nav -->
+							<!-- IN DEVELOPMENT
+								<nav>
+									<ul>
+										<li><a href="#menu">Menu</a></li>
+									</ul>
+								</nav>
+							IN DEVELOPMENT END-->
+
+						</div>
+					</header>
+
+				<!-- Menu -->
+				<!-- IN DEVELOPMENT
+					<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="generic.html">Ipsum veroeros</a></li>
+							<li><a href="generic.html">Tempus etiam</a></li>
+							<li><a href="generic.html">Consequat dolor</a></li>
+							<li><a href="elements.html">Elements</a></li>
+						</ul>
+					</nav>
+				IN DEVELOPMENT END-->
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<h1>Design Project - Managing DJ-Transitions</h1>
+							<ul class="icons">
+								<li class="icon fa-clock">August 2019</li>
+							<!--<li class="icon fa-comments"><a href="#">1,024</a></li>-->
+							</ul>
+							<p>
+								<figure>
+								  <span class="image main"><img src="images/projects/mixbase/title.jpeg" alt="" style="width:65%">
+								  <figcaption><b>How to memorize DJ-transitions? - Sticky notes, notebook, laptop</b></figcaption></span>
+								</figure>
+								<b>TLDR:</b></br>This project was meant to ease the process of memorizing, accessing, and sharing DJ-transitions. I created a web app as well as a simple sticky note construction that both served the same design need. MixBase is a handy DJ-transition manager that helps you to save your song transitions and makes them easily accessible to you and your friends. Check out the following website:</p><p>The maintenance of the server was a little too much for me. It's currently being bombarded with robot entries that pass the "I'm not a robot" test.</p></div</br>
+								<a href="http://mix-base.com/" target="_blank">mix-base.com</a>
+								<hr>
+							</p>
+							<p>
+								In summer 2018, I DJed/ made some music with my friends and realized that I forgot DJ transitions between two songs that worked very well together. I played a song and forgot the other song that fit the song I played. Since then, I started talking to my DJ friends in Germany and the USA about potential solutions to this problem:
+								<ul>
+									<li>Notebooks</li>
+									<li>Spotify Playlists</li>
+									<li>Sticky Notes</li>
+									<li>Pure Brain Memory</li>
+									<li>Databases</li>
+								</ul>
+							</p>
+							<p>
+								In Fall 2018, I developed my first prototype that saved DJ transitions in an SQLite database. However, it was highly inaccessible to my friends and difficult to use.  It only ran on a Linux machine and I had to navigate it through the command-line.
+							</p>
+								<figure>
+								  <span class="image main"><img src="images/projects/mixbase/com_line_proto.png" alt="" style="width:650px">
+								  <figcaption><b>The command-line prototype of MixBase</b></figcaption></span>
+								</figure>
+							<p>
+								During my spring 2019 semester, I had the great opportunity to do some design work with Ela Ben-Ur. Besides learning a lot about life and myself, I used Ela’s <a href="http://innovatorscompass.org/" target="_blank">Innovators Compass</a> to reconsider the MixBase project as a whole. I started from zero, and with the aid of Ela and the compass, I restructured my thoughts on the goals of this project. After some exploration, I was fairly certain that the principles this project lived by were: fast capturing and searching of transitions, flexible ways of saving transitions, portability, and an easy way of sharing transitions with friends.</br>
+
+								<figure>
+								  <span class="image main"><img src="images/projects/mixbase/fast_flexible.jpeg" alt="" style="width:28%">
+								  <figcaption><b>First design goal</b></figcaption></span>
+								</figure>
+
+								<figure>
+								  <span class="image main"><img src="images/projects/mixbase/principles.jpeg" alt="" style="width:400px">
+								  <figcaption><b>Design principles using Ela Ben-Ur's <a href="http://innovatorscompass.org/" target="_blank">Innovators Compass</a></b></figcaption></span>
+								</figure>
+							</p>
+							<h2>The Simple but Powerful Solution</h2>
+							<p>
+								I reconsidered my coding approach and thought of ways to satisfy the same principles that didn’t include any coding: sticky notes, Excel tables, various kinds of notebooks. This crucial design step made me understand that I had tried to fit the idea to the tool (coding). However, I had to be the other way around! <b>A tool should always serve the idea.</b> It was a common engineering mistake that I made. I used complicated tools to solve a problem that asked for potentially much simpler solutions.
+							</p>
+							<p>
+								Notebooks seemed very flexible. However, their accessibility was low as it required an even subsurface to write on. Eventually, I hung extra-grippy sticky notes and a sharpie from my ceiling in my dorm room. Whenever I came up with a good new song, I stuck a sticky note with the name of the song, artist, and anything else that I considered important on my wall. This modest physical solution allowed me to organize my thoughts freely. It was the perfect temporary solution for what I needed. Sadly, it was impossible to share the DJ-ideas on my wall with anyone else. </br>
+
+								<figure>
+								  <span class="image main"><img src="images/projects/mixbase/sticky_notes_1.jpeg" alt="" style="width:350px">
+								  <figcaption><b>Sticky notes hanging from my ceiling - right next to my DJ-booth</b></figcaption></span>
+								</figure>
+								<figure>
+								  <span class="image main"><img src="images/projects/mixbase/sticky_notes_2.jpeg" alt="" style="width:700px">
+								  <figcaption><b>DJ-transition notes on my wall</b></figcaption></span>
+								</figure>
+							</p>
+
+							<h2>Web App Design</h2>
+
+							<figure>
+								  <span class="image main"><img src="images/projects/mixbase/database2.png" alt="" style="width:700px">
+								  <figcaption><b>Examples of transitions and favorite songs saved by different users</b></figcaption></span>
+								</figure>
+							<p>
+								Even though sticky notes worked perfectly fine for me, I wanted to create a website that served a similar purpose. In summer 2019, I started to design a web app called <a href=”http://mix-base.com/” target=”_blank”>MixBase</a>. Please note that I had zero experience in web app development and the current version is still not fully developed. I chose this project not only because it seemed to be a good solution to my problem, but because I wanted to learn more about web app development. While designing the web app, I ran into common design issues. As I spent so much time on this “product”, I started to confuse change with improvement. I mulled certain aspects over and over again and felt the need to change them. Afterward, however, I realized that most design changes were overhasty and I had to backtrack. Lesson learned.
+							</p>
+							<p>
+								Here is one of the many design decision I had to make: I added a feature to save the genre of a song in case the user sought to do so. I decided to place the genre field after the submit button. This design choice served two purposes: Users were not distracted by the additional field, and the layout on most laptops fit perfectly such that the submit button was right at the end of what was visible on the screen.
+							</p>
+							<p>
+								For a while, I only used form validations that showed up after one had clicked the submit button. Soon I understood that I had to match my users’ standards, which was an insight in the spirit of: “99% of the websites that your users visit are not yours!” As a consequence, I added an asterisk to all necessary form fields.
+							</p>
+
+							<figure>
+								  <span class="image main"><img src="images/projects/mixbase/input-interface.png" alt="" style="width:700px">
+								  <figcaption><b>Input interface for transitions</b></figcaption></span>
+								</figure>
+
+						</div>
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<section>
+								<h2>Get in touch</h2>
+								<ul class="icons">
+									<li><a href="mailto:leon.santen@icloud.com" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
+									<li><a href="tel:001-781-535-4848" class="icon solid style2 fa-phone"><span class="label">Phone</span></a></li>
+									<li><a href="https://github.com/LSanten" class="icon brands style2 fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+									<li><a href="https://www.instagram.com/leoncurly/" class="icon brands style2 fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+									<li><a href="https://www.facebook.com/leon.sa.50" class="icon brands style2 fa-facebook-f" target="_blank"><span class="label">Facebook</span></a></li>
+								</ul>
+							</section>
+							<ul class="copyright">
+								<li>&copy; Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
