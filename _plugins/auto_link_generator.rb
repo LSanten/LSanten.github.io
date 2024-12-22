@@ -10,20 +10,20 @@ module Jekyll
 
     def process_files(files)
       files.each do |file|
-        puts "Processing file: #{file.path}"
+        #puts "Processing file: #{file.path}"
         file.content = autolink(file.content)
       end
     end
 
     def process_collection_files(files)
       files.each do |file|
-        puts "Processing collection file: #{file.path}"
+        #puts "Processing collection file: #{file.path}"
         file.content = autolink(file.content)
       end
     end
 
     def autolink(input)
-      puts "Processing content"
+      #puts "Processing content"
 
       # Regular expression to detect plain URLs not within Markdown links or HTML tags
       url_regex = %r{
@@ -48,7 +48,7 @@ module Jekyll
           part
         else
           part.gsub(url_regex) do |url|
-            puts "Found URL: #{url}"
+            #puts "Found URL: #{url}"
             "<a href=\"#{url}\" target=\"_blank\">#{url}</a>"
           end
         end

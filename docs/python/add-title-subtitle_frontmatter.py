@@ -79,9 +79,9 @@ def process_markdown_file(file_path):
         return
 
     # Print proposed changes
-    print(f"\nFile: {file_path}")
-    print("Proposed YAML front matter:")
-    print(yaml.dump(front_matter, default_flow_style=False).strip())
+    #print(f"\nFile: {file_path}")
+    #print("Proposed YAML front matter:")
+    #print(yaml.dump(front_matter, default_flow_style=False).strip())
 
     # Ensure no extra space between YAML and first heading
     markdown_content = remove_extra_space(markdown_content)
@@ -93,7 +93,7 @@ def process_markdown_file(file_path):
         file.write('\n---\n')
         # Write the markdown content directly after YAML
         file.write(markdown_content)
-    print(f"Changes applied to {file_path}")
+    #print(f"Changes applied to {file_path}")
 
 # Function to process all markdown files in the folder
 def process_all_markdown_files(folder_path):
@@ -105,7 +105,9 @@ def process_all_markdown_files(folder_path):
         try:
             process_markdown_file(file_path)
         except Exception as e:
-            print(f"Error processing file {file_path}: {e}")
+            print(f"Error processing file {file_path} for front matter: {e}")
 
 # Process all markdown files in the folder
 process_all_markdown_files(folder_path)
+print(f"PYTHON: processed front matters")
+

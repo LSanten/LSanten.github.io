@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUBBLE-HASHTAGS.md",
+                "file": "DICTATORSHIP-A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BUBBLE-HASHTAGS"
+              "title": "DICTATORSHIP-A"
             }
           },
           {
@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSIcebergDynamics.md",
+                "file": "MMSEconomicDemocracy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MMSIcebergDynamics"
+              "title": "MMSEconomicDemocracy"
             }
           },
           {
@@ -139,13 +139,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNLEARNING-A.md",
+                "file": "CLIMATE-CHANGE-A.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UNLEARNING-A"
+              "title": "CLIMATE-CHANGE-A"
             }
           }
         ],
@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iceberg",
+                "query": "dictatorsh",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MMSIcebergDynamics.md",
+                "file": "MMSEconomicDemocracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MMSIcebergDynamics"
+              "title": "Backlinks for MMSEconomicDemocracy"
             }
           },
           {
@@ -292,15 +292,23 @@
   },
   "active": "b79f6f08fd659b40",
   "lastOpenFiles": [
+    "CLIMATE-CHANGE-A.md",
+    "MMSEconomicDemocracy.md",
+    "DICTATORSHIP-A.md",
+    "BUBBLE-HASHTAGS.md",
+    "UNLEARNING-A.md",
+    "EYTClubCollab-A.md",
+    "QUOTES-COMPASSION.md",
+    "ELECYT-LASER-VIZ-A.md",
+    "MMSHomepage.md",
+    "MMSInTheWorks.md",
+    "MMSIcebergDynamics.md",
     "MMSCO2InCars.md",
     "INCARCERATION-VIRTUAL-VISUAL.md",
     "INCARCERATION-STATS.md",
     "GRAPHIC-DESIGN-TIPS-COLLECTION.md",
-    "UNLEARNING-A.md",
     "PERSONAL-VALUE-SYSTEM.md",
     "MCGILCHRIST2021-VID.md",
-    "MMSEconomicDemocracy.md",
-    "MMSInTheWorks.md",
     "MMSHerbalismParadox.md",
     "TECHNOLOGY-DEFINITION-A.md",
     "MESH-CAP-VERIF-A.md",
@@ -313,19 +321,11 @@
     "media/MMSCO2InCar-2.png",
     "media/MMSCO2InCar-1.png",
     "media/Pasted image 20241203114423.png",
-    "BUBBLE-HASHTAGS.md",
     "MMSSystemicCooperationInterface-A.md",
     "INSPIRATION-ILLUSTRATIONS.md",
     "INSPO-DRAWING-A.md",
     "MMSContrastSimpleAndComplexSystems.md",
-    "MMSPhenomenaOfComplexSystems.md",
-    "THESIS-HOLISTIC-ENGINEERING.md",
-    "NEWS-SOURCES-COLONIALISM-AWARE.md",
-    "MANTRA-MA-KALI-A.md",
-    "MANTRA-OM-KREEM.md",
     "media/cleanshot_2024-12-01-at-16-30-51@2x.png",
-    "POUCH-OF-QUOTES.md",
-    "QUOTES-CREATION-PEACE.md",
     "Untitled",
     "media/cleanshot_2024-11-24-at-20-16-55@2x 1.png",
     "media/cleanshot_2024-11-24-at-20-16-55@2x.png",

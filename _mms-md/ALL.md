@@ -186,7 +186,7 @@ layout: default
 - [[MMSHealthTechCommuniA]] - A proposal to change communication around and interface design for battery health
 - [[MMSHerbalismParadox]] - GRAPHIC IDEA: The paradox of disbelief in and fear of herbs
 - [[MMSHistOfSci-A]] - A critical timeline synthesis: roots of the scientific method
-- [[MMSHomepage]] - My pouch of marbles for *mostly.mutual studio*
+- [[MMSHomepage]] - My pouch of marbles for mostly.mutual studio
 - [[MMSHothouse]] - No Title
 - [[MMSIcebergDynamics]] - Climate change is only the tip of the iceberg
 - [[MMSInTheWorks]] - Marbles in the works
@@ -247,6 +247,7 @@ layout: default
 - [[PROJECT-RESEARCH-AUTOMATED-SINGING-BOWL]] - No Title
 - [[PropOfSciences]] - the propositions or interests of the social & natural sciences
 - [[PROSPERITY-A]] - How to define prosperity (in the context of degrowth)
+- [[QUOTES-COMPASSION]] - Quotes that touch on compassion
 - [[QUOTES-CREATION-PEACE]] - No Title
 - [[QUOTES-GENERAL-COLLECTION]] - A collection of quotes with no specific theme
 - [[QUOTES-INJUSTICE-SILENCE]] - Quotes related to staying silent during times of injustice 

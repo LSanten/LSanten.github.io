@@ -23,7 +23,7 @@ def ensure_layout_front_matter(file_path):
             
             # Add 'layout: default' if not present
             if 'layout' not in front_matter:
-                print(f"Adding 'layout: default' to existing YAML in {file_path}")
+                #print(f"Adding 'layout: default' to existing YAML in {file_path}")
                 front_matter['layout'] = 'default'
                 
                 # Rewrite the file with updated YAML
@@ -33,7 +33,7 @@ def ensure_layout_front_matter(file_path):
                 file.truncate()
         else:
             # No YAML front matter; add a new block
-            print(f"Adding new YAML front matter to {file_path}")
+            #print(f"Adding new YAML front matter to {file_path}")
             front_matter = {"layout": "default"}
             updated_yaml = yaml.dump(front_matter, default_flow_style=False).strip()
             file.seek(0)
@@ -48,4 +48,4 @@ for md_file in md_files:
     file_path = os.path.join(folder_path, md_file)
     ensure_layout_front_matter(file_path)
 
-print(f"Processed all markdown files in {folder_path} for front matter.")
+print(f"PYTHON: Processed all markdown files in {folder_path} for front matter.")

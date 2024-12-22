@@ -19,7 +19,7 @@ module Jekyll
           first_image = "/marbles/#{first_image}" unless first_image.start_with?('/marbles/')
           doc.data['images'] = [first_image]
         else
-          Jekyll.logger.info "ExtractImages:", "No image found for #{doc.url}"
+          # Jekyll.logger.info "ExtractImages:", "No image found for #{doc.url}"
         end
       end
     end

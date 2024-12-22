@@ -8,9 +8,13 @@ title: Solving climate change means to transform relationships of power
 
 Gopal Dayaneni is the one whose words have left an imprint on me regarding the idea that 
  >The cause of the crisis is in the injustice, so we need to *transform relationships of power*.
+ >
+ >~ Gopal Dayaneni
 
 >You don't get to this place of earth system disruption without an enormous amount of coercion.
 >Mountains don't blow up by themselves, you need to control labor & capital.
+> 
+ >~ Gopal Dayaneni
 
 
 -Gopal Dayaneni @ Pachamama Conference 2023 

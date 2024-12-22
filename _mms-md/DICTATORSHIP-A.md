@@ -6,8 +6,7 @@ title: Workplace dictatorship is when the owner has the right to tell the worker
 # Workplace dictatorship is when the owner has the right to tell the worker what to do
 This perspective is from Wright's book "how to be an anticapitalist in the 21st century" (2019).
 
-W.D. also happens in educational institutions when students need to do what what they are told by the authority. 
---> there is no presence of consent
+My perspective is that *workplace dictatorship* also happens in educational institutions when students need to do what what they are told by the authority. Besides the intentional enrollment of students (which is really not a choice considering the consequences of having no education) there is no presence of consent when it comes to the workload experienced by students. 
 
 
 __________
