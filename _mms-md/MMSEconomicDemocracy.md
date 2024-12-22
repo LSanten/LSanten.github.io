@@ -14,7 +14,7 @@ I looked at the 22 largest US corporate, financial, educational, healthcare, and
 Remember, that the above money value reflects only the 22 largest institutions, not all institutions in the United States. Even those few ones process more economic value than the state. I share these two numbers to emphasize the stark reality that the social structures surrounding us process significantly more money undemocratically than democratically. This reality in its own is worth contemplating. This kind of power concentration is quite different from a system where each person has an equal say, which is the core of democracy.
 ### Can we claim to live in a democracy when most social structures around us are defined as non-democratic?
 
-In fact, it is quite reasonable to call most corporations workplace dictatorships because owners have the right to tell their employees what to do without their input ([Wright 2019](CLIMATE-CHANGE-A.md)).
+In fact, it is quite reasonable to call most corporations workplace dictatorships because owners have the right to tell their employees what to do without their input ([Wright 2019](DICTATORSHIP-A.md)).
 
 Prestigious universities such as Harvard and Stanford are largely governed by boards of trustees, with limited input from faculty or students. Religious organizations like the Catholic Church follow strict hierarchies, bypassing community decision-making. These institutions—economic, educational, and religious—wield significant influence without broad participatory governance. Thus, while we may live in a political democracy, we do not live in an economic democracy, as economic power remains concentrated and undemocratic.
 
