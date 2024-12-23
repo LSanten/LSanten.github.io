@@ -66,6 +66,7 @@ def resize_image(input_path, output_path, size_limit=SIZE_LIMIT):
         raise Exception(f"Unable to resize {input_path} below {size_limit / 1_000_000:.1f} MB.")
 
 # Function to create the image mapping
+# Function to create the image mapping
 def create_image_mapping():
     mapping = {}
     os.makedirs(THUMBNAIL_FOLDER_PATH, exist_ok=True)  # Ensure the thumbnail folder exists
@@ -92,10 +93,17 @@ def create_image_mapping():
                 if os.path.isfile(image_path):
                     file_size = os.path.getsize(image_path)
 
+                    # Thumbnail path
+                    resized_path = os.path.join(THUMBNAIL_FOLDER_PATH, f"{markdown_filename}-thumb{os.path.splitext(first_image)[1]}")
+
+                    # Check if resizing is necessary
                     if file_size > SIZE_LIMIT:
-                        # Resize and save the image to the thumbnail folder (UPDATED)
-                        resized_path = os.path.join(THUMBNAIL_FOLDER_PATH, f"{markdown_filename}-thumb{os.path.splitext(first_image)[1]}")
-                        resize_image(image_path, resized_path)  # Resize image to fit size limit
+                        # Resize only if the original image is newer or thumbnail doesn't exist
+                        if not os.path.exists(resized_path) or os.path.getmtime(image_path) > os.path.getmtime(resized_path):
+                            print(f"Resizing {image_path} because it is newer or no resized version exists.")
+                            resize_image(image_path, resized_path)  # Resize image to fit size limit
+                        else:
+                            print(f"Skipping {image_path} as it has not been modified since the last resize.")
                         thumbnail_url = f"{THUMBNAIL_URL_BASE}/{markdown_filename}-thumb{os.path.splitext(first_image)[1]}"
                         mapping[markdown_filename] = thumbnail_url
                     else:
@@ -103,6 +111,7 @@ def create_image_mapping():
                         original_url = f"{ORIGINAL_IMAGE_URL_BASE}/{os.path.basename(first_image)}"
                         mapping[markdown_filename] = original_url
     return mapping
+
 
 # Main execution
 if __name__ == "__main__":
