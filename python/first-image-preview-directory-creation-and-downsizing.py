@@ -1,6 +1,7 @@
 import os
 import re
 import json
+from PIL import Image  # Ensure Pillow is installed: pip install pillow
 
 # Configuration
 BASE_DIR = "/Users/lsanten/Documents/GitHub/LSanten.github.io/"
@@ -21,6 +22,48 @@ def extract_first_image(markdown_file):
         content = f.read()
     matches = re.findall(r'!\[.*?\]\((.*?)\)', content)  # Regex for image links
     return matches[0] if matches else None
+
+# Function to resize images (NEW FUNCTION)
+def resize_image(input_path, output_path, size_limit=SIZE_LIMIT):
+    """
+    Resize the image to fit within the size limit while preserving aspect ratio.
+    """
+    with Image.open(input_path) as img:
+        # Ensure compatibility with formats like PNG
+        img = img.convert("RGB")
+        quality = 95  # Start with high quality
+        width, height = img.size
+
+        # Iteratively reduce dimensions and quality
+        while True:
+            # Reduce dimensions proportionally
+            new_width = int(width * 0.9)
+            new_height = int(height * 0.9)
+            # Use LANCZOS as the modern equivalent for high-quality resampling
+            img_resized = img.resize((new_width, new_height), Image.Resampling.LANCZOS)
+
+            # Save the resized image with the current quality
+            img_resized.save(output_path, quality=quality)
+
+            # Check the output file size
+            current_size = os.path.getsize(output_path)
+            print(f"Resizing {input_path}: New size: {current_size / 1_000_000:.2f} MB, Quality: {quality}, Dimensions: {new_width}x{new_height}")
+
+            # Exit if the file size is within the limit
+            if current_size <= size_limit:
+                print(f"Successfully resized {input_path} to {output_path} below {size_limit / 1_000_000:.1f} MB.")
+                return
+
+            # Reduce quality for further compression
+            quality -= 5
+            width, height = new_width, new_height  # Update dimensions for next iteration
+
+            # Stop if quality gets too low
+            if quality <= 10:
+                break
+
+        # Raise an exception if unable to resize within the limit
+        raise Exception(f"Unable to resize {input_path} below {size_limit / 1_000_000:.1f} MB.")
 
 # Function to create the image mapping
 def create_image_mapping():
@@ -50,7 +93,9 @@ def create_image_mapping():
                     file_size = os.path.getsize(image_path)
 
                     if file_size > SIZE_LIMIT:
-                        # Use thumbnail URL for large images
+                        # Resize and save the image to the thumbnail folder (UPDATED)
+                        resized_path = os.path.join(THUMBNAIL_FOLDER_PATH, f"{markdown_filename}-thumb{os.path.splitext(first_image)[1]}")
+                        resize_image(image_path, resized_path)  # Resize image to fit size limit
                         thumbnail_url = f"{THUMBNAIL_URL_BASE}/{markdown_filename}-thumb{os.path.splitext(first_image)[1]}"
                         mapping[markdown_filename] = thumbnail_url
                     else:
