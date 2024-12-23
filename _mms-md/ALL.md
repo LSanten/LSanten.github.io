@@ -171,7 +171,7 @@ layout: default
 - [[MIXBASE-DOCUMENTATION]] - No Title
 - [[MMS-POST-IDEAS]] - No Title
 - [[MMSAtWhoseCostVisual]] - No Title
-- [[MMSBigTechA]] - Isn’t it wild that we haven’t heard of Mark Zuckerberg talk about his understanding of friendship and community?
+- [[MMSBigTechA]] - Isn’t it wild that we haven’t heard Mark Zuckerberg or Elon Musk talk about their understanding of friendship and community?
 - [[MMSCapitalismA]] - Difference and division are core-components of capitalist thriving 
 - [[MMSCityPublicReportCenter]] - No Title
 - [[MMSCO2InCars]] - CO2 levels in cars
@@ -295,6 +295,7 @@ layout: default
 - [[TECHNOLOGY-DEFINITION-A]] - How do we define technology?
 - [[TEST-LETTER]] - This is the test document with a nice title complementing the rest
 - [[TEST]] - Main header
+- [[TEST2]] - No Title
 - [[THESIS-HOLISTIC-ENGINEERING]] - Holistic engineering and a renewed science of holism for a thriving world
 - [[THREE-WELLBEING-THINGS]] - No Title
 - [[TRAGEDY-COMMONS-A]] - No Title
