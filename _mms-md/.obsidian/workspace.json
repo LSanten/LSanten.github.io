@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROBLEMS-A.md",
+                "file": "MMSSocialReproductionB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROBLEMS-A"
+              "title": "MMSSocialReproductionB"
             }
           },
           {
@@ -194,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "problems",
+                "query": "visual",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -215,8 +215,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROBLEMS-A.md",
+                "file": "MMSSocialReproductionB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +245,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PROBLEMS-A"
+              "title": "Backlinks for MMSSocialReproductionB"
             }
           },
           {
@@ -306,12 +305,16 @@
   },
   "active": "de16b6d60c8d4e05",
   "lastOpenFiles": [
-    "PROBLEMS-B.md",
+    "SOIL-A.md",
+    "SPIRIT-WORK-A.md",
+    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+    "ENERGY-ENG-A.md",
+    "DICTATORSHIP-A.md",
     "PROBLEMS-A.md",
+    "PROBLEMS-B.md",
     "media/cleanshot_2023-12-01-at-22-06-20@2x.png.sb-813ab17e-6hBwFa",
     "CLIMATE-CHANGE-A.md",
     "media/cleanshot_2023-12-01-at-22-06-20@2x.png.sb-813ab17e-IjoXuf",
-    "DICTATORSHIP-A.md",
     "TEST2.md",
     "INSPIRATION-ILLUSTRATIONS.md",
     "MMSSystemicCooperationInterface-A.md",
@@ -330,9 +333,6 @@
     "MMSCO2InCars.md",
     "INCARCERATION-VIRTUAL-VISUAL.md",
     "INCARCERATION-STATS.md",
-    "GRAPHIC-DESIGN-TIPS-COLLECTION.md",
-    "PERSONAL-VALUE-SYSTEM.md",
-    "MCGILCHRIST2021-VID.md",
     "media/IMG_5013.jpeg",
     "MMSArchive_Dec42024.zip",
     "Archive.zip",

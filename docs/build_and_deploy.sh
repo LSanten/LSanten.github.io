@@ -12,6 +12,7 @@ source venv/bin/activate
 python3 python/generate-all-file.py # Generate file called ALL.md that contains a list of all .md files in the folder
 python3 python/add-headers.py # Add headers with template = default settings if it doesn't exist (needs to be after the generate-all-file)
 python3 python/add-title-subtitle_frontmatter.py # Add title and subtitle to YAML and update changes
+python3 python/first-image-preview-directory-creation-and-downsizing.py # Create og:image resized images for large images and directory for all first images
 
 
 # Build the Jekyll site

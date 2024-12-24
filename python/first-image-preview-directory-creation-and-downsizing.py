@@ -6,7 +6,7 @@ from PIL import Image  # Ensure Pillow is installed: pip install pillow
 # Configuration
 BASE_DIR = "/Users/lsanten/Documents/GitHub/LSanten.github.io/"
 MARKDOWN_FOLDER = "_mms-md"
-THUMBNAIL_FOLDER = "marble-thumbnails"
+THUMBNAIL_FOLDER = "manual_files/marble-thumbnails"
 THUMBNAIL_URL_BASE = "https://leonsanten.info/marble-thumbnails"
 ORIGINAL_IMAGE_URL_BASE = "https://leonsanten.info/marbles/media"
 SIZE_LIMIT = 1_000_000  # Size limit in bytes (1 MB)
@@ -15,6 +15,9 @@ SIZE_LIMIT = 1_000_000  # Size limit in bytes (1 MB)
 MARKDOWN_FOLDER_PATH = os.path.join(BASE_DIR, MARKDOWN_FOLDER)
 THUMBNAIL_FOLDER_PATH = os.path.join(BASE_DIR, THUMBNAIL_FOLDER)
 OUTPUT_FILE = os.path.join(THUMBNAIL_FOLDER_PATH, "image_mapping.json")
+
+# Global counter for skipped files
+skipped_count = 0
 
 # Function to extract the first image reference from a Markdown file
 def extract_first_image(markdown_file):
@@ -103,7 +106,9 @@ def create_image_mapping():
                             print(f"Resizing {image_path} because it is newer or no resized version exists.")
                             resize_image(image_path, resized_path)  # Resize image to fit size limit
                         else:
-                            print(f"Skipping {image_path} as it has not been modified since the last resize.")
+                            # print(f"Skipping {image_path} as it has not been modified since the last resize.")
+                            global skipped_count
+                            skipped_count += 1  # Increment skipped counter
                         thumbnail_url = f"{THUMBNAIL_URL_BASE}/{markdown_filename}-thumb{os.path.splitext(first_image)[1]}"
                         mapping[markdown_filename] = thumbnail_url
                     else:
@@ -112,6 +117,11 @@ def create_image_mapping():
                         mapping[markdown_filename] = original_url
     return mapping
 
+# Function to print the skipped file count
+def print_skipped_count():
+    global skipped_count
+    print(f"PTYHON: Total preview image skipped for resizing: {skipped_count}")
+
 
 # Main execution
 if __name__ == "__main__":
@@ -119,4 +129,6 @@ if __name__ == "__main__":
     with open(OUTPUT_FILE, 'w') as f:
         json.dump(image_mapping, f, indent=4)
 
-    print(f"Mapping file created at: {OUTPUT_FILE}")
+    print_skipped_count()
+
+    print(f"PYTHON: Mapping file created at: {OUTPUT_FILE}")
