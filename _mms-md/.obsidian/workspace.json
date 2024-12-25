@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSSocialReproductionB.md",
+                "file": "ROOTS-OF-RENEWABLES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MMSSocialReproductionB"
+              "title": "ROOTS-OF-RENEWABLES"
             }
           },
           {
@@ -194,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "visual",
+                "query": "roots of re",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -215,7 +215,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MMSSocialReproductionB.md",
+                "file": "ROOTS-OF-RENEWABLES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +246,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MMSSocialReproductionB"
+              "title": "Backlinks for ROOTS-OF-RENEWABLES"
             }
           },
           {
@@ -305,6 +306,7 @@
   },
   "active": "de16b6d60c8d4e05",
   "lastOpenFiles": [
+    "MMSSocialReproductionB.md",
     "SOIL-A.md",
     "SPIRIT-WORK-A.md",
     "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
@@ -332,7 +334,6 @@
     "MMSIcebergDynamics.md",
     "MMSCO2InCars.md",
     "INCARCERATION-VIRTUAL-VISUAL.md",
-    "INCARCERATION-STATS.md",
     "media/IMG_5013.jpeg",
     "MMSArchive_Dec42024.zip",
     "Archive.zip",
