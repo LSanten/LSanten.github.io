@@ -6,8 +6,8 @@ from PIL import Image  # Ensure Pillow is installed: pip install pillow
 # Configuration
 BASE_DIR = "/Users/lsanten/Documents/GitHub/LSanten.github.io/"
 MARKDOWN_FOLDER = "_mms-md"
-THUMBNAIL_FOLDER = "manual_files/marble-thumbnails"
-THUMBNAIL_URL_BASE = "https://leonsanten.info/marble-thumbnails"
+THUMBNAIL_FOLDER = "manual_files/marblethumbs"
+THUMBNAIL_URL_BASE = "https://leonsanten.info/marblethumbs"
 ORIGINAL_IMAGE_URL_BASE = "https://leonsanten.info/marbles/media"
 SIZE_LIMIT = 1_000_000  # Size limit in bytes (1 MB)
 
