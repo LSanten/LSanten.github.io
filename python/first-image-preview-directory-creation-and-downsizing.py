@@ -2,6 +2,8 @@ import os
 import re
 import json
 from PIL import Image  # Ensure Pillow is installed: pip install pillow
+from urllib.parse import unquote
+from urllib.parse import quote
 
 # Configuration
 BASE_DIR = "/Users/lsanten/Documents/GitHub/LSanten.github.io/"
@@ -91,7 +93,7 @@ def create_image_mapping():
                     continue
 
                 # Resolve local path relative to the Markdown file
-                image_path = os.path.normpath(os.path.join(os.path.dirname(markdown_file), first_image))
+                image_path = os.path.normpath(os.path.join(os.path.dirname(markdown_file), unquote(first_image)))
 
                 if os.path.isfile(image_path):
                     file_size = os.path.getsize(image_path)
@@ -109,11 +111,11 @@ def create_image_mapping():
                             # print(f"Skipping {image_path} as it has not been modified since the last resize.")
                             global skipped_count
                             skipped_count += 1  # Increment skipped counter
-                        thumbnail_url = f"{THUMBNAIL_URL_BASE}/{markdown_filename}-thumb.jpg"
+                        thumbnail_url = f"{THUMBNAIL_URL_BASE}/{quote(markdown_filename)}-thumb.jpg"
                         mapping[markdown_filename] = thumbnail_url
                     else:
                         # Use original URL for small images
-                        original_url = f"{ORIGINAL_IMAGE_URL_BASE}/{os.path.basename(first_image)}"
+                        original_url = f"{ORIGINAL_IMAGE_URL_BASE}/{quote(unquote(os.path.basename(first_image)))}"
                         mapping[markdown_filename] = original_url
     return mapping
 
