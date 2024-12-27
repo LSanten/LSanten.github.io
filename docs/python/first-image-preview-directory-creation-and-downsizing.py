@@ -46,7 +46,7 @@ def resize_image(input_path, output_path, size_limit=SIZE_LIMIT):
             img_resized = img.resize((new_width, new_height), Image.Resampling.LANCZOS)
 
             # Save the resized image with the current quality
-            img_resized.save(output_path, quality=quality)
+            img_resized.save(output_path, format="JPEG", quality=quality, progressive=False)
 
             # Check the output file size
             current_size = os.path.getsize(output_path)
@@ -97,7 +97,7 @@ def create_image_mapping():
                     file_size = os.path.getsize(image_path)
 
                     # Thumbnail path
-                    resized_path = os.path.join(THUMBNAIL_FOLDER_PATH, f"{markdown_filename}-thumb{os.path.splitext(first_image)[1]}")
+                    resized_path = os.path.join(THUMBNAIL_FOLDER_PATH, f"{markdown_filename}-thumb.jpg")
 
                     # Check if resizing is necessary
                     if file_size > SIZE_LIMIT:
@@ -109,7 +109,7 @@ def create_image_mapping():
                             # print(f"Skipping {image_path} as it has not been modified since the last resize.")
                             global skipped_count
                             skipped_count += 1  # Increment skipped counter
-                        thumbnail_url = f"{THUMBNAIL_URL_BASE}/{markdown_filename}-thumb{os.path.splitext(first_image)[1]}"
+                        thumbnail_url = f"{THUMBNAIL_URL_BASE}/{markdown_filename}-thumb.jpg"
                         mapping[markdown_filename] = thumbnail_url
                     else:
                         # Use original URL for small images
