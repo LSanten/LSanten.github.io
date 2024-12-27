@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INSPO-DRAWING-A.md",
+                "file": "MMSCO2InCars.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INSPO-DRAWING-A"
+              "title": "MMSCO2InCars"
             }
           },
           {
@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INSPIRATION-ILLUSTRATIONS.md",
+                "file": "SCIENCE-OF-HOLISM-FRAMEWORK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INSPIRATION-ILLUSTRATIONS"
+              "title": "SCIENCE-OF-HOLISM-FRAMEWORK"
             }
           },
           {
@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROOTS-OF-RENEWABLES.md",
+                "file": "MESH-CAP-G-1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ROOTS-OF-RENEWABLES"
+              "title": "MESH-CAP-G-1"
             }
           },
           {
@@ -163,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -194,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "roots of re",
+                "query": "mmsco2",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROOTS-OF-RENEWABLES.md",
+                "file": "MMSCO2InCars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ROOTS-OF-RENEWABLES"
+              "title": "Backlinks for MMSCO2InCars"
             }
           },
           {
@@ -304,24 +304,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de16b6d60c8d4e05",
+  "active": "64287079f8b2e3ab",
   "lastOpenFiles": [
+    "MESH-CAP-G-1.md",
+    "MMSIcebergDynamics.md",
+    "INSPO-DRAWING-A.md",
+    "SCIENCE-OF-HOLISM-FRAMEWORK.md",
+    "INSPIRATION-ILLUSTRATIONS.md",
+    "MMSSystemicCooperationInterface-A.md",
+    "DICTATORSHIP-A.md",
+    "ROOTS-OF-RENEWABLES.md",
     "MMSSocialReproductionB.md",
     "SOIL-A.md",
     "SPIRIT-WORK-A.md",
     "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
     "ENERGY-ENG-A.md",
-    "DICTATORSHIP-A.md",
     "PROBLEMS-A.md",
     "PROBLEMS-B.md",
     "media/cleanshot_2023-12-01-at-22-06-20@2x.png.sb-813ab17e-6hBwFa",
     "CLIMATE-CHANGE-A.md",
     "media/cleanshot_2023-12-01-at-22-06-20@2x.png.sb-813ab17e-IjoXuf",
     "TEST2.md",
-    "INSPIRATION-ILLUSTRATIONS.md",
-    "MMSSystemicCooperationInterface-A.md",
     "TEST.md",
-    "ROOTS-OF-RENEWABLES.md",
     "MMSBigTechA.md",
     "MMSEconomicDemocracy.md",
     "BUBBLE-HASHTAGS.md",
@@ -330,10 +334,6 @@
     "QUOTES-COMPASSION.md",
     "ELECYT-LASER-VIZ-A.md",
     "MMSHomepage.md",
-    "MMSInTheWorks.md",
-    "MMSIcebergDynamics.md",
-    "MMSCO2InCars.md",
-    "INCARCERATION-VIRTUAL-VISUAL.md",
     "media/IMG_5013.jpeg",
     "MMSArchive_Dec42024.zip",
     "Archive.zip",

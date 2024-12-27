@@ -6,7 +6,7 @@ module Jekyll
 
     def generate(site)
       # Load the JSON file
-      json_file_path = File.join(site.source, 'manual_files/marblethumbs', 'image_mapping.json')
+      json_file_path = File.join(site.source, 'manual_files/marbles/mediathumbs', 'image_mapping.json')
       image_mapping = JSON.parse(File.read(json_file_path))
 
       # Access the custom collection 'mms-md'
