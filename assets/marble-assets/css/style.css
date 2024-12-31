@@ -1757,3 +1757,24 @@ table th {
   color: white;
 }
 
+/* Style for date */
+
+marbledate {
+  display: block; /* Makes it behave like a <p> tag */
+  text-align: right; /* Aligns text to the right */
+  font-family: inherit; /* Inherits font styling from <p> */
+  font-size: 14px; /* Inherits font size from <p> */
+  margin: 0; /* Matches <p> margin styling */
+  line-height: inherit; /* Matches <p> line height */
+  color: #96bcdc;
+}
+
+marbledate + marbledate {
+  margin-top: 0; /* Small gap between adjacent <marbledate> elements */
+}
+
+marbledate:last-of-type {
+  margin-bottom: 10px; /* Gap below the last <marbledate> */
+}
+
+

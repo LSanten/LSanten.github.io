@@ -78,6 +78,20 @@
             }
           },
           {
+            "id": "af9cbef1d8679df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEST.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TEST"
+            }
+          },
+          {
             "id": "d2e15518b333701f",
             "type": "leaf",
             "state": {
@@ -163,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -194,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mmsco2",
+                "query": "test",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -236,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MMSCO2InCars.md",
+                "file": "TEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +260,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MMSCO2InCars"
+              "title": "Backlinks for TEST"
             }
           },
           {
@@ -304,8 +318,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64287079f8b2e3ab",
+  "active": "af9cbef1d8679df3",
   "lastOpenFiles": [
+    "PERSONAL-VALUE-SYSTEM.md",
+    "Untitled.md",
+    "TRADITIONAL-KNOWLEDGE-SYST-VS-SCIENTIFIC-METHOD.md",
+    "MMSCO2Indoors.md",
+    "media/IMG_5177.jpeg",
+    "MMSCO2InCars.md",
     "MESH-CAP-G-1.md",
     "MMSIcebergDynamics.md",
     "INSPO-DRAWING-A.md",
@@ -329,11 +349,6 @@
     "MMSBigTechA.md",
     "MMSEconomicDemocracy.md",
     "BUBBLE-HASHTAGS.md",
-    "UNLEARNING-A.md",
-    "EYTClubCollab-A.md",
-    "QUOTES-COMPASSION.md",
-    "ELECYT-LASER-VIZ-A.md",
-    "MMSHomepage.md",
     "media/IMG_5013.jpeg",
     "MMSArchive_Dec42024.zip",
     "Archive.zip",
@@ -347,7 +362,6 @@
     "media/cleanshot_2024-11-24-at-20-16-55@2x.png",
     "media/Pasted image 20241113124439.png",
     "media/cleanshot_2024-11-05-at-09-14-36@2x.png",
-    "media/cleanshot_2024-11-05-at-09-13-49@2x.png",
     "media/crayon-brushes-cs5-cs6.ai",
     "Untitled.canvas",
     "Untitled 1.canvas",

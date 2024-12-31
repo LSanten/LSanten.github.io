@@ -225,6 +225,32 @@
           <!-- Page Images: {{ page.images | inspect }} JUST SOME CODE TO SEE IF IMAGES ARE IN FRONTMATTER -->
           
 
+          {% if page.show_date_lastchanged_updatedauto %}
+            {% assign update_parts = page.show_date_lastchanged_updatedauto | split: "," %}
+            {% assign show_created = update_parts[0] | strip %}
+            {% assign show_lastchanged = update_parts[1] | strip %}
+            {% assign auto_update = update_parts[2] | strip %}
+            
+            {% if show_created == 'YES' and page.date_created %}
+              {% assign created_parts = page.date_created | split: "," %}
+              {% if created_parts.size > 1 %}
+                <marbledate>{{ created_parts[1] | strip }} {{ created_parts[0] | date: "%B %d, %Y" }}</marbledate>
+              {% else %}
+                <marbledate>Created on {{ created_parts[0] | date: "%B %d, %Y" }}</marbledate>
+              {% endif %}
+            {% endif %}
+            
+            {% if show_lastchanged == 'YES' and page.date_lastchanged %}
+              {% assign lastchanged_parts = page.date_lastchanged | split: "," %}
+              {% if lastchanged_parts.size > 1 %}
+                <marbledate>{{ lastchanged_parts[1] | strip }} {{ lastchanged_parts[0] | date: "%B %d, %Y" }}</marbledate>
+              {% else %}
+                <marbledate>Last updated on {{ lastchanged_parts[0] | date: "%B %d, %Y" }}</marbledate>
+              {% endif %}
+            {% endif %}
+          {% endif %}
+
+
           {{ content | wikify_links | wikify_images }}
 
           <hr><br>
@@ -283,7 +309,7 @@
       <div class="col-md-5 text-md-right text-center mb-4">
           
           <ul class="list-inline footer-list mb-0">
-            <li class="list-inline-item">I am still weaving my pouch of important marbles to share with you, for now you can visit <a href="../../" target="_blank" style="padding-top: 0px;">my homepage here</a></li>
+            <li class="list-inline-item">I am still weaving my pouch of important marbles to share with you, for now I can only refer you to <a href="../../" target="_blank" style="padding-top: 0px;">my homepage here</a></li>
             
           </ul>
 

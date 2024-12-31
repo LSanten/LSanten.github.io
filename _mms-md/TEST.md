@@ -1,11 +1,14 @@
 ---
 author: Leon Santen, Odalys Benitez
+date_created: 2024-09-12, Written on
+date_lastchanged: 2024-12-30, Last revised
 layout: default
-subtitle: First header
-title: Main header
+show_date_lastchanged_updatedauto: NO, YES, NO
+subtitle: Second header as a subtitle
+title: Main header with more words to resemble a real title that is long
 ---
-# Main header
-## First header
+# Main header with more words to resemble a real title that is long
+## Second header as a subtitle
 
 Just some words to fill the void because we always need to talk. So we can talk all day long for nonsense and so much more. 
 

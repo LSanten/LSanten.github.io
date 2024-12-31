@@ -175,6 +175,7 @@ layout: default
 - [[MMSCapitalismA]] - Difference and division are core-components of capitalist thriving 
 - [[MMSCityPublicReportCenter]] - No Title
 - [[MMSCO2InCars]] - CO2 levels in cars
+- [[MMSCO2Indoors]] - My measurements for CO2 Indoors
 - [[MMSCollaborationA]] - Intellectual property is wasteful and threatens our planet
 - [[MMSCommuniA]] - Original intentions behind mostly.mutual.studio (also *My Marble Sharings*) 
 - [[MMSCommuniB]] - How I want to structure my week to reduce digital stimulation 
@@ -294,10 +295,11 @@ layout: default
 - [[TECH-INTERDEP-A]] - No Title
 - [[TECHNOLOGY-DEFINITION-A]] - How do we define technology?
 - [[TEST-LETTER]] - This is the test document with a nice title complementing the rest
-- [[TEST]] - Main header
+- [[TEST]] - Main header with more words to resemble a real title that is long
 - [[TEST2]] - No Title
 - [[THESIS-HOLISTIC-ENGINEERING]] - Holistic engineering and a renewed science of holism for a thriving world
 - [[THREE-WELLBEING-THINGS]] - No Title
+- [[TRADITIONAL-KNOWLEDGE-SYST-VS-SCIENTIFIC-METHOD]] - A statement on the complexity of proving "pseudo-sciences" with the scientific method
 - [[TRAGEDY-COMMONS-A]] - No Title
 - [[UNLEARNING-A]] - We need to completely rework & unlearn our lives and social systems
 - [[VEGETABLE-STATS-A]] - No Title
