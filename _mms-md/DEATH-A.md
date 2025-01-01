@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: It’s all about the ability to create relationships and let go of relationships.
 ---
-
 # It’s all about the ability to create relationships and let go of relationships. 
 
 Biological death is a tribute/gift to life. 

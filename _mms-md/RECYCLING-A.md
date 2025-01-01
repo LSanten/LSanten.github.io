@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Avoided CO2 emission for recycling & avoided production for various materials
 ---
-
 # Avoided CO2 emission for recycling & avoided production for various materials 
 
 ![](media/cleanshot_2023-11-04-at-09-35-22@2x.png)

@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: 'classic Maslow model: pyramid of needs'
 ---
-
 # classic Maslow model: pyramid of needs
 was appropriated from indigenous communities (Ravilochan 2021).
 

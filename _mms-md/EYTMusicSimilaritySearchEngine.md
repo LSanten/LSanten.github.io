@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: New online digging tool cosine.club recommends tracks based on similarity
 ---
-
 # New online digging tool cosine.club recommends tracks based on similarity
 
 

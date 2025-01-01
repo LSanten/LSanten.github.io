@@ -4,7 +4,6 @@ date_lastchanged: '2024-09-20'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
-
 !["The opposite of war isn't peace, it's creation."](media/F5EB86CA-3387-4905-8B87-0736AE3987AF_1_201_a.jpeg)
 
 

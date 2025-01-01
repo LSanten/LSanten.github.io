@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Project ideas for capstone
 ---
-
 # Project ideas for capstone
 
 [project topic, questions, and goals](https://docs.google.com/document/d/1NwWqKLH4x-LrfgwC4PKYaQwBhMZNnYlpEaP_w2SmreI/edit?usp=sharing) on google doc

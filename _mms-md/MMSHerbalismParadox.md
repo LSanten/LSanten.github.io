@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: 'GRAPHIC IDEA: The paradox of disbelief in and fear of herbs'
 ---
-
 # GRAPHIC IDEA: The paradox of disbelief in and fear of herbs
 
 A visual that shows a continuous line with one end for strong herbs reading "Too dangerous, can harm your body" and the other end reading "herbs are not real medicine, they don't work anyway."

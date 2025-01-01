@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: How do we visualize the systemic relationships (good or bad) of organizations?
 ---
-
 # How do we visualize the systemic relationships (good or bad) of organizations?
 Below is a metaphorical framework I developed to explore the relationships between various projects and organizations. Just as plants require nutrients, have needs, and can be supportive or extractive, social systems have similar characteristics. 
 

@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Resources for understanding the tool "causal loops"
 ---
-
 # Resources for understanding the tool "causal loops"
 
 

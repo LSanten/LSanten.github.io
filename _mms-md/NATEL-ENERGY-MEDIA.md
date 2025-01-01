@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: The of a fish safety scientist at natel energy
 ---
-
 # The of a fish safety scientist at natel energy
 ![](media/20240729-DJI_0745.jpg)
 

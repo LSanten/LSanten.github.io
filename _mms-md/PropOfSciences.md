@@ -5,8 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: the propositions or interests of the social & natural sciences
 ---
-
-
 # the propositions or interests of the social & natural sciences
 
 ![](media/2023-09-11 09-49 Pasted Image.png)

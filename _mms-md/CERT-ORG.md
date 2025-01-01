@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 title: An organization that certifies circular economy endavours on sliding scales
   among various rubrics
 ---
-
 # An organization that certifies circular economy endavours on sliding scales among various rubrics
 
 

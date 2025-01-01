@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Building a practice and visual space for trans-disciplinary cooperation
 ---
-
 # Building a practice and visual space for trans-disciplinary cooperation
 ![](media/MESH-CAP_summary-graphics-HIGH-RES-08.png)
 

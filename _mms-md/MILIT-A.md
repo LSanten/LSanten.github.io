@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: An attempt to develop intuition
 title: Statistics surrounding the scale of the US military industrial complex
 ---
-
 # Statistics surrounding the scale of the US military industrial complex
 ## An attempt to develop intuition
 I have a hard time making sense of numbers on their own. This is my attempt to put numbers into global context and get a grasp of the (invisible) flows that keep our world entrenched in violence. For more marbles on this topic, refer to slides in [MILIT-B](MILIT-B.md), focusing on the relationship of the military ind. complex to climate justice. 

@@ -5,8 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: What is a Just Transition?
 ---
-
-
 # What is a Just Transition?
 
 >Just Transition is a vision-led, unifying and place-based set of principles, processes, and practices that build economic and political power to shift from an extractive economy to a regenerative economy. This means approaching production and consumption cycles holistically and waste-free. The transition itself must be just and equitable; redressing past harms and creating new relationships of power for the future through reparations. If the process of transition is not just, the outcome will never be. Just Transition describes both where we are going and how we get there. 

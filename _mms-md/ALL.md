@@ -1,7 +1,9 @@
 ---
+date_created: '2024-09-19'
+date_lastchanged: '2024-12-31'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 ---
-
 - [[202307052318]] - No Title
 - [[202308111213]] - No Title
 - [[202308212300]] - if we learn how to deal with stress, the healthy mechanisms stay healthy
@@ -124,7 +126,6 @@ layout: default
 - [[INTERVIEWING-A]] - No Title
 - [[INTO-PERSPECTIVE]] - Putting world wide challenges and push for innovation into perspective 
 - [[INTRINSIC-EDUCATION-A]] - INSIGHT: I feel like the real goal of education is to figure out how to genuinly explore
-- [[Invalid date]] - No Title
 - [[IPCC-TRANSITION]] - IPCC AR6 sees transition needs in 5 realms
 - [[JOB-BOARD-CLIMATE-DESIGN-SOCIAL-JUSTICE]] - No Title
 - [[JUST-TRANSITION-PRINC-FRAME]] - What is a Just Transition?
@@ -296,6 +297,7 @@ layout: default
 - [[TECH-INTERDEP-A]] - No Title
 - [[TECHNOLOGY-DEFINITION-A]] - How do we define technology?
 - [[TEST-LETTER]] - This is the test document with a nice title complementing the rest
+- [[TEST-RAW-STUFF]] - Hello title without creation time
 - [[TEST]] - Main header with more words to resemble a real title that is long
 - [[TEST2]] - No Title
 - [[THESIS-HOLISTIC-ENGINEERING]] - Holistic engineering and a renewed science of holism for a thriving world

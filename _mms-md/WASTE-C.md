@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 title: 'An excerpt from "Neither Wolf nor Dog": why do Indians keep so much trash
   on their land if it could be so easy to clean it up?'
 ---
-
 # An excerpt from "Neither Wolf nor Dog": why do Indians keep so much trash on their land if it could be so easy to clean it up?
 
 *All below is an excerpt:*

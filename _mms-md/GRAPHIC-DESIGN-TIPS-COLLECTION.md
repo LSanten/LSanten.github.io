@@ -4,8 +4,6 @@ date_lastchanged: '2024-11-14'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
-
-
 ## Fonts
 https://youtu.be/QrNi9FmdlxY?si=lKbYjsDri1qg7smY
 ![](media/cleanshot_2024-09-02-at-18-34-40@2x.png)

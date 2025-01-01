@@ -5,8 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Why we need to take circular economy frameworks with a grain of salt
 ---
-
-
 # Why we need to take circular economy frameworks with a grain of salt
 What are the problems associated with the traditional circular economy approach? The appraoch seems to portray a solution that lies largely within the space of changing technological processes. However, many argue that deeper systemic and economic changes are needed: 
 

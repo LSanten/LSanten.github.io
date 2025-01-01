@@ -5,6 +5,5 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: 'very easy policy: all restaurants use only reusable to go boxes'
 ---
-
 # very easy policy: all restaurants use only reusable to go boxes
 

@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: A loose collection of inspiring pieces oriented toward care while partying
 ---
-
 # A loose collection of inspiring pieces oriented toward care while partying
 
 

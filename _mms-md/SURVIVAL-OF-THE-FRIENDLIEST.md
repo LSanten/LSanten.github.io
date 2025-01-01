@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Survival of the friendlist
 ---
-
 # Survival of the friendlist
 
 

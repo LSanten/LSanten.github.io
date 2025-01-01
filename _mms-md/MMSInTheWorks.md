@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: mostly.mutual.studio
 title: Marbles in the works
 ---
-
 # Marbles in the works
 ## mostly.mutual.studio
 This note serves as a collection board for ongoing projects, developed ideas without supportive visualizations, and undeveloped ideas. 

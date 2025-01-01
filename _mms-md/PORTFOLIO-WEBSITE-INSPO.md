@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: A list of portfolios and websites that inspire me
 ---
-
 # A list of portfolios and websites that inspire me
 
 

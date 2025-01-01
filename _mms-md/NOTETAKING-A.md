@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Resources for notetaking
 ---
-
 # Resources for notetaking
 
 *From talk with Jaguar*

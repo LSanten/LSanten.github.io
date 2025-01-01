@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: A collection of my graphics
 ---
-
 # A collection of my graphics
 
 You are about to witness a recently developed passion: eliciting critical thinking & communication through the power of visuals. I  started creating intentional graphics in 2022 after realizing that I need visuals to become the trans-disciplinary communicator I seek to be. 

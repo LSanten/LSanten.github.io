@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: List of tools useful for a sharpened intellectual and creative practice
 ---
-
 # List of tools useful for a sharpened intellectual and creative practice
 
 >Dear MESH students, 

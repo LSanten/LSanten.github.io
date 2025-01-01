@@ -4,7 +4,6 @@ date_lastchanged: '2024-09-20'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
-
 ADAPTIVE CHANGE
 
 Judith: "du kanst etwas veraendern und die veraenderung geniessen"

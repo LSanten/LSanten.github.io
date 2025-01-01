@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: And learn insightful statistics along the way
 title: Scroll through the mass of incarcerated people in the United States
 ---
-
 # Scroll through the mass of incarcerated people in the United States
 ## And learn insightful statistics along the way
 <iframe src="https://mkorostoff.github.io/incarceration-in-real-numbers/" 

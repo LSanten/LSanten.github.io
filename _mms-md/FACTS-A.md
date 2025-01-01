@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: facts remain robust only when they are supported by a common culture
 ---
-
 # facts remain robust only when they are supported by a common culture
 
 “facts remain robust only when they are supported by a common culture, by institutions that can be trusted, by a more or less decent public life, by more or less reliable media.” With the rise of alternative facts, it has become clear that whether or not a statement is believed depends far less on its veracity than on the conditions of its “construction” — that is, who is making it, to whom it’s being addressed and from which institutions it emerges and is made visible. A greater understanding of the circumstances out of which misinformation arises and the communities in which it takes root, Latour contends, will better equip us to combat it. [...]

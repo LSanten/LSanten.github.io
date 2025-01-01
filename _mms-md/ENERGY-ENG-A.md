@@ -7,7 +7,6 @@ subtitle: As presented by Mark Mills
 title: Understanding the scale of needed resources for an energy transition as envisioned
   by western nations
 ---
-
 # Understanding the scale of needed resources for an energy transition as envisioned by western nations
 ## As presented by Mark Mills
 Renewable energy systems require 800-1800 % more minerals to deliver the same amount of energy compared with the current fossil-fuel technologies. Electric vehicles require 400% more minerals [see figure 2].

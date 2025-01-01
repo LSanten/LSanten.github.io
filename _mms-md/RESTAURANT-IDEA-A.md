@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Mountain of Roti and Staples like whole fruits in the room
 ---
-
 # Mountain of Roti and Staples like whole fruits in the room
 eat as you go inside the room
 

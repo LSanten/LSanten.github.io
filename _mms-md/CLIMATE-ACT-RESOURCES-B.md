@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Conferences in the environmental justice (& engineering) space
 ---
-
 # Conferences in the environmental justice (& engineering) space
 
 Working to eradicate racism in engineering:

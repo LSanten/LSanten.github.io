@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: The connection between repairing consumer devices and human relationships
 ---
-
 # The connection between repairing consumer devices and human relationships
 
 from a discussion post on MESH: "Hi Kevin, thanks for sharing your reflection so openly. I relate to you. It is oftentimes easier to do a new thing than to seriously consider the current one. I think this applies to many different areas. 

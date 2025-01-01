@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Things that need to uploaded to the writings section
 ---
-
 # Things that need to uploaded to the writings section
 
 - [[RESUME-WRITINGS-A]]: Holistic engineering thesis

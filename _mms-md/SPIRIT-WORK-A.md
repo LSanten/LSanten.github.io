@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: The relationship between working with oneself and working together
 ---
-
 # The relationship between working with oneself and working together
 
 we can only work with others if we work know how to work with ourselves • the swirls can only interact when they exist on both ends • every swirl tornado swirls around a still center, just like real tornados

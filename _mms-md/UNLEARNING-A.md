@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: We need to completely rework & unlearn our lives and social systems
 ---
-
 # We need to completely rework & unlearn our lives and social systems
 
 

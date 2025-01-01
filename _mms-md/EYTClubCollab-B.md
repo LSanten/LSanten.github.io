@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Sticker slogans that explore the essence of collaborative partying
 ---
-
 # Sticker slogans that explore the essence of collaborative partying
 
 Written down during @envelope.soundsystem party on Jan 14th 2024:

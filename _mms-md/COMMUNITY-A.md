@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: A saving dump of concepts and resources related to community building
 ---
-
 # A saving dump of concepts and resources related to community building
 
 

@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: How do we create an interdisciplinary course?
 ---
-
 # How do we create an interdisciplinary course?
 #transdisciplinarity
 

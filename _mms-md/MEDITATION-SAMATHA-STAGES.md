@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: The stages of Samatha Meditation
 ---
-
 # The stages of Samatha Meditation
 The Nine Mental Abidings as described by Kamalaśīla are:[77][75]
 

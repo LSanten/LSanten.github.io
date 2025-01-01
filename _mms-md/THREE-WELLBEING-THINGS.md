@@ -4,7 +4,6 @@ date_lastchanged: '2024-09-20'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
-
 ## the thrings that give us psychological, physical health and wellbeing
 - social cohesion
 - proximity to and involvement with the natural world

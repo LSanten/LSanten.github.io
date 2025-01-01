@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: The ayurvedic doshas
 ---
-
 # The ayurvedic doshas
 
 

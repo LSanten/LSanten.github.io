@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 title: You don't live in a democracy when every big institution around you is run
   like a dictatorship
 ---
-
 # You don't live in a democracy when every big institution around you is run like a dictatorship
 
 *This is a draft for an eye-opening process regarding the scale of democratic to undemocratic forces around us. Parts of the research is supported by ChatGPT who can access data from Statista that I can’t access.*

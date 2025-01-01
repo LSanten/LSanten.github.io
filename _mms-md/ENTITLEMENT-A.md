@@ -4,7 +4,6 @@ date_lastchanged: '2024-09-20'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
-
 Entitlement
 
 gopal dayaneni: entitlement is the infringement on the commons/ on public goods (instead we can govern our commons collectively - the tragedy of the commons is a myth if we cooperate [[TRAGEDY-COMMONS-A]])

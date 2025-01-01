@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Difference and division are core-components of capitalist thriving
 ---
-
 # Difference and division are core-components of capitalist thriving 
 
 **LINKS:**

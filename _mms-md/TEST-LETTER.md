@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: And a subtitle that works well with special formatting
 title: This is the test document with a nice title complementing the rest
 ---
-
 # This is the test document with a nice title complementing the rest
 ## And a subtitle that works well with special formatting
 Just some words to fill the void because we always need to talk. So we can talk all day long for nonsense and so much more. 

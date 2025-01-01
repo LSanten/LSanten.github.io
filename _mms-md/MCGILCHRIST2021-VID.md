@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: Notes for a video interview
 title: Our Unmaking of the World - and the return to being
 ---
-
 # Our Unmaking of the World - and the return to being
 ## Notes for a video interview
 

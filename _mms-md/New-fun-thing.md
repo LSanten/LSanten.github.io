@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: hello bello two
 title: Hello bello
 ---
-
 # Hello bello
 ## hello bello two
 

@@ -46,6 +46,7 @@ def get_file_dates(file_path):
 def update_yaml_frontmatter(file_path, metadata):
     """
     Update the YAML front matter of a markdown file.
+    Ensure no extra line break after the YAML front matter.
     """
     try:
         with open(file_path, "r") as f:
@@ -55,24 +56,27 @@ def update_yaml_frontmatter(file_path, metadata):
         if content.startswith("---"):
             parts = content.split("---", 2)
             frontmatter = yaml.safe_load(parts[1]) if len(parts) > 2 else {}
-            body = parts[2] if len(parts) > 2 else ""
+            body = parts[2].lstrip() if len(parts) > 2 else ""
         else:
             frontmatter = {}
-            body = content
-        
+            body = content.strip()
+
         # Update or add required fields
         frontmatter["date_created"] = metadata.get("date_created")
         frontmatter["date_lastchanged"] = metadata.get("date_lastchanged")
         frontmatter["show_date_lastchanged_updatedauto"] = "YES, NO, NO"
         
-        # Write back updated content
+        # Reconstruct the YAML front matter and ensure no trailing blank lines
+        yaml_content = yaml.dump(frontmatter, default_flow_style=False, allow_unicode=True).strip()
+        updated_content = f"---\n{yaml_content}\n---\n{body}"
+
+        # Write back the updated content
         with open(file_path, "w") as f:
-            f.write("---\n")
-            yaml.dump(frontmatter, f, default_flow_style=False, allow_unicode=True, default_style=None)
-            f.write("---\n")
-            f.write(body)
+            f.write(updated_content)
+
     except Exception as e:
         print(f"Error updating YAML front matter for {file_path}: {e}")
+
 
 
 def main():

@@ -4,8 +4,6 @@ date_lastchanged: '2024-12-08'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
-
-
 Visualization idea sketch: two circles - one each representing 
 - a person enjoying at the cost of others 
 	- arrows going inside delivering things or symbols creating pain around it but joy within the circle 

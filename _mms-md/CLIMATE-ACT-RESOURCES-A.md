@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: A list of useful links in the climate activism and climate tech world
 ---
-
 # A list of useful links in the climate activism and climate tech world 
 
 - climate tech bay area https://sf.climatetechcities.com/

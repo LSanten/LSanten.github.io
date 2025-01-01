@@ -4,7 +4,6 @@ date_lastchanged: '2024-09-20'
 layout: letter-odi
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
-
 <i class="fas fa-calendar-alt"> Sept. 15th 2024</i>
 # Climate justice cross-pollination for a regenerative economy
 ## Enabling a practice for value-creation & co-sensing

@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: One perspective on why indexing and numbering arrays in coding is so weird
 ---
-
 # One perspective on why indexing and numbering arrays in coding is so weird
 https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html
 

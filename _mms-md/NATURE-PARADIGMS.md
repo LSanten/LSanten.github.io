@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Paradigms that show up in nature
 ---
-
 # Paradigms that show up in nature 
 
 the image below is also a great contrasting image similar to the contrast of words I created during my bachelor's thesis (on todoist).

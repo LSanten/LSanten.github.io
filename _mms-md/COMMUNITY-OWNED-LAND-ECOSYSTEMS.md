@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Examples of community-stewarded land
 ---
-
 # Examples of community-stewarded land 
 
 - https://civicsquare.cc/ (mentioned by Amber)

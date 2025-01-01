@@ -7,7 +7,6 @@ subtitle: Gambles serving no social purpose but affecting everyone
 title: Most of the international transactions on this planet are not tied to any real
   valuable thing
 ---
-
 # Most of the international transactions on this planet are not tied to any real valuable thing
 ## Gambles serving no social purpose but affecting everyone 
 

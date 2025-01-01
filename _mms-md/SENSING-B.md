@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 title: Otto Scharmer's framework for turning inward to see the external system within
   ourselves
 ---
-
 # Otto Scharmer's framework for turning inward to see the external system within ourselves
 
 ![](media/cleanshot_2024-10-14-at-13-27-19@2x.png)

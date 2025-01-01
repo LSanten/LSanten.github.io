@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Radicalness means to go back to the roots of the injustice
 ---
-
 # Radicalness means to go back to the roots of the injustice
 
 >The concept of the “radical” inherits its most powerful meaning from the Latin word for “rooted,” in the sense that radical ideas, ideologies, or perspectives are informed by the understanding that social, political, economic, and cultural problems are outcomes of deeply rooted and systemic antagonisms, contradictions, power imbalances, and forms of oppression and exploitation. [1]

@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Tangible creations list
 ---
-
 # Tangible creations list
 Here I collect things I want and need to create. They are partially deliverables for my capstone, but they don't have to be. 
 

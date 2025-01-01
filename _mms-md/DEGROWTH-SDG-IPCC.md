@@ -5,8 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: SDGs addressed by degrowth
 ---
-
-
 # SDGs addressed by degrowth
 
 "SDGs potentially addressed by degrowth include universal basic income (SDGs 1 and 10), work-sharing to guarantee full employment (SDGs 8 and 10) and shifting taxation burdens from income to resource and energy extraction (SDGs 8 and 12)." (IPCC p.173)

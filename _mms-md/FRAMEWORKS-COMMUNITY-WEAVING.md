@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: A Framework for weaving together and integrating parts of a community
 ---
-
 # A Framework for weaving together and integrating parts of a community
 
 https://www.community-weaving.org/

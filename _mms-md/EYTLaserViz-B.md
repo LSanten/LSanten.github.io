@@ -5,6 +5,5 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Dreaming about future design of the music laser visualizer
 ---
-
 # Dreaming about future design of the music laser visualizer
 

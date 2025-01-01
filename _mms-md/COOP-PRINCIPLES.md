@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Coopeartive Principles
 ---
-
 # Coopeartive Principles
 These principles emerged during a group practice to find my group's values that should be embedded in a fictitious co-op charter. Generally speaking, I resonate with the values mentioned by *movement generation* and *Gopal Dayaneni*: **care, coopeartion, and consent**.histo
 

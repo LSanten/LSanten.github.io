@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Our society quite devoid of practical teachings about stuff and home
 ---
-
 # Our society quite devoid of practical teachings about stuff and home
 
 The meaning of what economy meant during the ancient greek times. It makes sense to talk about our household and how we manage it, plan it, organize our things, create logistical plans. Not just for money but for things and the flow of resources in a broader context. 

@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: And resonated with me
 title: Quotes that touch on compassion
 ---
-
 # Quotes that touch on compassion
 ## And resonated with me
 

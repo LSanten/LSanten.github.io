@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Pouch of quotes
 ---
-
 # Pouch of quotes
 
 - [QUOTES-CREATION-PEACE](QUOTES-CREATION-PEACE.md)

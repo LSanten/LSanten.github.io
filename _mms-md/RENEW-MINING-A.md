@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: The energy transition requires massive mining which leads to desastrous outcomes
 ---
-
 # The energy transition requires massive mining which leads to desastrous outcomes
 
 

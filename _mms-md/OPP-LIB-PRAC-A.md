@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: The Wheel of Oppression and Liberation
 ---
-
 # The Wheel of Oppression and Liberation
 by Monica Dennis 
 

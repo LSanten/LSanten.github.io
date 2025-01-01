@@ -5,8 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: 'An app for different forms of communication: letters, short notices etc...'
 ---
-
-
 # An app for different forms of communication: letters, short notices etc...
 
 This is mostly a thought about the structure of communication (“Structure conditions behavior”). Our current tools don’t allow us to give communication containers clear purpose. Messaging is very generic, trying to be a tools for everything with very little personality or precision (also see “the art of gathering” for a similar critique on the lack of purpose during social meetings). 

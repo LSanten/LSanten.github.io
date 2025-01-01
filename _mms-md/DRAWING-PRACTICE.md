@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: A collection for my daily drawing practice
 title: Things I want to practice drawing
 ---
-
 # Things I want to practice drawing
 ## A collection for my daily drawing practice
 

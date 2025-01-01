@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: Bringing together a lens, methodologies, and practices
 title: An attempt to frame my science of holism
 ---
-
 # An attempt to frame my science of holism
 ## Bringing together a lens, methodologies, and practices
 

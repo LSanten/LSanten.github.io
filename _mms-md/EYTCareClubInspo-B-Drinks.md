@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: A list of nourishing drinks for dancing
 ---
-
 # A list of nourishing drinks for dancing
 #careClub #inspiration
 I desire nourishing drinks during a long night of dancing. 

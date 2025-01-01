@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 title: storing playlists and artists visually would help browsing, memory, and create
   a feeling of realtionship to the collection
 ---
-
 # storing playlists and artists visually would help browsing, memory, and create a feeling of realtionship to the collection
 
 

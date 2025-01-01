@@ -7,7 +7,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: Second header as a subtitle
 title: Main header with more words to resemble a real title that is long
 ---
-
 # Main header with more words to resemble a real title that is long
 ## Second header as a subtitle
 

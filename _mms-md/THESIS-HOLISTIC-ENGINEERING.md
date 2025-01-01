@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: What does it mean to be alive and create as a 21st-century technologist?
 title: Holistic engineering and a renewed science of holism for a thriving world
 ---
-
 # Holistic engineering and a renewed science of holism for a thriving world
 ## What does it mean to be alive and create as a 21st-century technologist?
 <i class="fas fa-calendar-alt"></i> May 2021

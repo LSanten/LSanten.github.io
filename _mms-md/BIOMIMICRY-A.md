@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 title: Biomimicry lessons mapped against the wisdom of the Nonngar people of Western
   Australia
 ---
-
 # Biomimicry lessons mapped against the wisdom of the Nonngar people of Western Australia
 
 

@@ -5,6 +5,5 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Ethymologically engineering is rooted in creating war tools
 ---
-
 # Ethymologically engineering is rooted in creating war tools
 

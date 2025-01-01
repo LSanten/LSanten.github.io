@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: A collection of statistics regarding incarceration in the US and beyond
 ---
-
 # A collection of statistics regarding incarceration in the US and beyond
 ![](media/Pasted%20image%2020241203114423.png)
 *Figure from [Prison Policy](https://www.prisonpolicy.org/reports/pie2024.html?)*

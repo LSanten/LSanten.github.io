@@ -6,8 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 title: Interface or consulting hub to interconnect local businesses with other orgs
   to share and satisfy offers and needs
 ---
-
-
 # Interface or consulting hub to interconnect local businesses with other orgs to share and satisfy offers and needs
 
 it's like the facilitation of a local industrial ecology network or eco-industrial park as seen in Kalundborg, Denmark [1] or as described in chapter 6 of Sustainable Energy Transitions (Mulvaney 2020).

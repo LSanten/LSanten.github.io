@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: A collection of insightful slides
 title: The Climate Collateral Webinar
 ---
-
 # The Climate Collateral Webinar
 ## A collection of insightful slides
 ## Climate Crossfire: How NATO’s 2% military spending targets contribute to climate breakdown ([link](https://www.tni.org/en/publication/climate-crossfire))

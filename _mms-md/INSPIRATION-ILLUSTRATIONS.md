@@ -4,8 +4,6 @@ date_lastchanged: '2024-11-25'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
-
-
 also [INSPO-DRAWING-A](INSPO-DRAWING-A.md)
 # Illustrations that inspire me to create 
 

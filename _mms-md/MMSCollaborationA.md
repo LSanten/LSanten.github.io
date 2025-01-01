@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Intellectual property is wasteful and threatens our planet
 ---
-
 # Intellectual property is wasteful and threatens our planet
 
 

@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Ecological problems originate in societal structures and problems
 ---
-
 # Ecological problems originate in societal structures and problems
 
 "Bookchin (1993), a major figure in Social Ecology, has stated that most of the current ecological problems arise from societal and social problems and argues that ecological problems cannot be understood or solved without understanding and dealing with the problems within the society [17]." (Jayasinghe et al 2013, p. 5)

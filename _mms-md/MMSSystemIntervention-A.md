@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: How to intervene in living systems, which are considered complex systems
 ---
-
 # How to intervene in living systems, which are considered complex systems
 
 ![Leverage points: places to intervene in a complex system](media/cleanshot_2024-01-18-at-15-30-33@2x.png)

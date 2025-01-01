@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Competition over resources
 ---
-
 # Competition over resources
 This video is wonderful summary reflecting on the popular Western narrative that we are doomed to fight over natural resources. 
 

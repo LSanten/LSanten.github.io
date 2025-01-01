@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: A news app that collects the most important news pieces during offline time
 ---
-
 # A news app that collects the most important news pieces during offline time
 
 ## Why?

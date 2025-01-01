@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 title: 'IDEA: A visual space to create and share, organize, archive and collaborate
   on snippets'
 ---
-
 # IDEA: A visual space to create and share, organize, archive and collaborate on snippets
 
 like this website does for tech projects https://hackaday.io/project/192688-the-open-book

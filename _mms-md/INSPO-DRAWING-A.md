@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Inspiration for drawing people in illustrations
 ---
-
 # Inspiration for drawing people in illustrations 
  
 

@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: It seems crucial to talk about how we talk
 ---
-
 # It seems crucial to talk about how we talk
 
 #communication-about-communication

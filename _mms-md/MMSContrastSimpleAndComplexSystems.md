@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: A journey of words
 title: Moving from simple systems to living systems language
 ---
-
 # Moving from simple systems to living systems language 
 ## A journey of words 
 

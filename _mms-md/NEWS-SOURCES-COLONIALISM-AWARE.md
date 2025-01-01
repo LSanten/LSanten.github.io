@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: News sources aware of colonial and western power relations
 ---
-
 # News sources aware of colonial and western power relations 
 
 - https://theintercept.com/

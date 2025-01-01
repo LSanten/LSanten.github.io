@@ -1,11 +1,10 @@
 ---
-date_created: 2024-07-11
-date_lastchanged: 2024-09-20
+date_created: '2024-07-11'
+date_lastchanged: '2024-09-20'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: A framework to nurture life-centric capabilities.
 ---
-
 # A framework to nurture life-centric capabilities.
 Shared by Jesús Martín GonzálezJesús Martín González on LinkedIn. 
 

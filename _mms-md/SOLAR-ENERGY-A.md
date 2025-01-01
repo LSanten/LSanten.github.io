@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: '"Land-sparing" solar installations save land and use land wisely'
 ---
-
 # "Land-sparing" solar installations save land and use land wisely 
 
 Landfills, waste water areas, and roof tops are good examples of areas for solar panels that do not destroy existing land. More on page 220, Mulvaney 2020. 

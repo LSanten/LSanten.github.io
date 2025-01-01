@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 title: Envisioning architectural & engineering relationships to the land inspired
   by  indigenous ways of being
 ---
-
 # Envisioning architectural & engineering relationships to the land inspired by  indigenous ways of being
 July 2023 - Blog post
 ![](media/banner-ohlone.png)

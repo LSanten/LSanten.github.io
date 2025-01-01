@@ -6,8 +6,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Visualizing the roots of renewables
 ---
-
-
 # Visualizing the roots of renewables
 <i class="fas fa-calendar-alt"></i> November 2024<br><br>
 I drew this illustration because I can't stop thinking about this topic. I am on a journey to redefine what it means to be a good engineer. As part of this, I want to understand how we can visualize the systemic impact of *innovative* technologies.  Do you have ideas or want to chat? Please reach out. 

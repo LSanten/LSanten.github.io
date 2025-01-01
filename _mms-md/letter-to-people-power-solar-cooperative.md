@@ -4,9 +4,6 @@ date_lastchanged: '2024-09-20'
 layout: letter
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
-
-
-
 **Dear People Power People**, 
 
 When I try to choose words most resonant with my multi-layered existence, I seek to say that I am a trans-disciplinary boundary-spanner, able to navigate complexity ranging from bureaucratic to social, organizational, and technical. Recently, I’ve focused on organizing Offers and Needs Markets in the East Bay and working as the secretary for the network called *Engineering, Social Justice, and Peace*, centering decolonization of land and people - instead of technological problem-solving. 

@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: 'Spirituality and ecological justice: How can we transform ourselves?'
 ---
-
 # Spirituality and ecological justice: How can we transform ourselves?
 ![](media/banner-spirit.png)
 August 2023 - Thesis for Ecological Justice

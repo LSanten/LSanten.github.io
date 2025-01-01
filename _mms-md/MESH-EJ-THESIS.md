@@ -4,7 +4,6 @@ date_lastchanged: '2024-09-20'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
-
 this is my paper written for environmental justice class 
 you can find it under you can find it on my website 
 

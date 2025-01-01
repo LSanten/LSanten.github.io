@@ -4,7 +4,6 @@ date_lastchanged: '2024-09-20'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
-
 ![[media/cleanshot_2024-07-22-at-16-02-10@2x.png]]
 
 

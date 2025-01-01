@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: A design methodology to rebuild relationships between the land and people
 title: Designing with country
 ---
-
 # Designing with country
 ## A design methodology to rebuild relationships between the land and people
 

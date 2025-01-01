@@ -4,8 +4,6 @@ date_lastchanged: '2024-11-05'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
-
-
 ## Electronic automated signing bowl
 
 https://www.amazon.com/Automatic-Singing-Bowl-Meditation-Balancing/dp/B0DK91GBZK

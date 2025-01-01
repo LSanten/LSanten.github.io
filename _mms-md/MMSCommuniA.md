@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Original intentions behind mostly.mutual.studio (also *My Marble Sharings*)
 ---
-
 # Original intentions behind mostly.mutual.studio (also *My Marble Sharings*) 
 
 ![](media/MMSCommuniA-1.png)

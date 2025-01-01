@@ -6,7 +6,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 title: Use all times square screens as monitors for city systems such as waste flows,
   monetary streams, consumption patterns
 ---
-
 # Use all times square screens as monitors for city systems such as waste flows, monetary streams, consumption patterns
 
 --> waste pathogen monitoring 

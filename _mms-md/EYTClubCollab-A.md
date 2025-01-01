@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Ideation around partying together and separately
 ---
-
 # Ideation around partying together and separately 
 
 On December 2nd 2023:

@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: A list of characteristics typical for white supremacist environments
 ---
-
 # A list of characteristics typical for white supremacist environments
 
 

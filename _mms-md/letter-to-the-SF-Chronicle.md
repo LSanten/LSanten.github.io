@@ -5,7 +5,6 @@ layout: letter
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: A selection of graphics
 ---
-
 # A selection of graphics
 Dear critical creators at SF Chronicle, 
 

@@ -5,7 +5,6 @@ layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 title: Useful resources for the bay area of San Francisco
 ---
-
 # Useful resources for the bay area of San Francisco
 
 
