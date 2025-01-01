@@ -1,6 +1,10 @@
 ---
+date_created: '2024-12-04'
+date_lastchanged: '2024-12-08'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 ---
+
 
 Visualization idea sketch: two circles - one each representing 
 - a person enjoying at the cost of others 

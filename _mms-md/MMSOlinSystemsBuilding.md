@@ -1,7 +1,11 @@
 ---
+date_created: '2024-06-18'
+date_lastchanged: '2024-10-14'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Examples suitable for visualizing Olin's network
 ---
+
 # Examples suitable for visualizing Olin's network
 
 ## Hylo

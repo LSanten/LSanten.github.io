@@ -1,8 +1,12 @@
 ---
+date_created: '2023-12-04'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: A sticker to speak to the innate nature of humans to refrain from causing immense
   animal suffering
 ---
+
 # A sticker to speak to the innate nature of humans to refrain from causing immense animal suffering 
 
 ![](media/MMSMeatStickA-01.png)

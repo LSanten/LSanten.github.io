@@ -1,7 +1,11 @@
 ---
+date_created: '2023-10-19'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Immersion into the unknown & imagination
 ---
+
 # Immersion into the unknown & imagination
 Here, something comes to my mind that goes beyond imagination. It is the ability to immerse ourselves in new situations to experience new realities and understand how things can shift. Imagination, of course, increases when we do this a lot. Immersing ourselves in the unknown is scary but quite essential. This relates to Otto Scharmers change management theory and integrates well with radical imagination. 
 

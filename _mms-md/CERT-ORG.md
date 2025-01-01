@@ -1,8 +1,12 @@
 ---
+date_created: '2023-11-09'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: An organization that certifies circular economy endavours on sliding scales
   among various rubrics
 ---
+
 # An organization that certifies circular economy endavours on sliding scales among various rubrics
 
 

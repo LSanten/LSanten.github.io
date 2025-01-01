@@ -1,6 +1,10 @@
 ---
+date_created: '2023-10-19'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 ---
+
 tools such as the zettelkasten resemble the structure of our brain and re-enforce knowledge via feedback loops. Feedback loops are abundant in nature and make sure that things stay balanced. Similarly, it is important to relate to knowledge in a way that gives us feedback about its relationship to us [1]. 
 
 

@@ -1,7 +1,11 @@
 ---
+date_created: '2024-04-12'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: The design tool called "Innovators Compass"
 ---
+
 # The design tool called "Innovators Compass"
 Ela Ben-Ur developed the design tool called the Innovators Compass (website [here](https://innovatorscompass.org/about)). The tool asks five questions to get unstuck during a design process or community gathering. The questions asked are: 
 

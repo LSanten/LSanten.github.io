@@ -1,6 +1,10 @@
 ---
+date_created: '2024-06-10'
+date_lastchanged: '2024-11-02'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 ---
+
 ### Ishkur's Guide to Electronic Music
 https://music.ishkur.com/
 ![](media/cleanshot_2024-06-10-at-13-21-14@2x.png)

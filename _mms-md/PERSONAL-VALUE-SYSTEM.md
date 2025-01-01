@@ -1,7 +1,11 @@
 ---
+date_created: '2024-07-31'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: My value system
 ---
+
 
 # My value system 
 I share this sketch of my personal value system with you because I hope to elicit a conversation with you,  rooted in alignments or a tension that we can explore together. On a deeper (intellectual) note, I take the perspective that values condition our actions. One could consider them the code or DNA of our actions that build large scale structures. I see that our values continue to live on in the projects we create (see more on this intellectual tangent under [[ONTOLOGICAL-PRIMITIVES]]). Let's jump right in. 

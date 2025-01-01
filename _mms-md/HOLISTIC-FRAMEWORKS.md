@@ -1,8 +1,12 @@
 ---
+date_created: '2024-09-27'
+date_lastchanged: '2024-10-19'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: All of it. Take a look.
 title: Holistic frameworks for life - doing, being, relating, celebrating
 ---
+
 # Holistic frameworks for life - doing, being, relating, celebrating
 ## All of it. Take a look.
 This marble is a collection of holistic, all-encompassing frameworks that offer a useful lens and practice for life. I have this collection because no framework can fully speak to the complexity of life, and I want to continue to shape my personal framework (listed as the first one below). This is an imperfect collection.  

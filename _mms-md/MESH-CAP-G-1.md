@@ -1,7 +1,11 @@
 ---
+date_created: '2024-01-31'
+date_lastchanged: '2024-11-05'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: List of tools useful for a sharpened intellectual and creative practice
 ---
+
 # List of tools useful for a sharpened intellectual and creative practice
 
 >Dear MESH students, 

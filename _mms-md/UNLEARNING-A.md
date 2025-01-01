@@ -1,7 +1,11 @@
 ---
+date_created: '2023-10-04'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: We need to completely rework & unlearn our lives and social systems
 ---
+
 # We need to completely rework & unlearn our lives and social systems
 
 

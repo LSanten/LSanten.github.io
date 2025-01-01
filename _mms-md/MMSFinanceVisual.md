@@ -1,9 +1,13 @@
 ---
+date_created: '2023-09-17'
+date_lastchanged: '2024-11-15'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: Gambles serving no social purpose but affecting everyone
 title: Most of the international transactions on this planet are not tied to any real
   valuable thing
 ---
+
 # Most of the international transactions on this planet are not tied to any real valuable thing
 ## Gambles serving no social purpose but affecting everyone 
 

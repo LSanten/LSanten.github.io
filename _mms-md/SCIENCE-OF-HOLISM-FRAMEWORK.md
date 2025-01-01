@@ -1,8 +1,12 @@
 ---
+date_created: '2024-04-15'
+date_lastchanged: '2024-10-14'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: Bringing together a lens, methodologies, and practices
 title: An attempt to frame my science of holism
 ---
+
 # An attempt to frame my science of holism
 ## Bringing together a lens, methodologies, and practices
 

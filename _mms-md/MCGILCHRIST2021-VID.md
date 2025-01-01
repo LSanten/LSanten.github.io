@@ -1,8 +1,12 @@
 ---
+date_created: '2023-08-31'
+date_lastchanged: '2024-11-13'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: Notes for a video interview
 title: Our Unmaking of the World - and the return to being
 ---
+
 # Our Unmaking of the World - and the return to being
 ## Notes for a video interview
 

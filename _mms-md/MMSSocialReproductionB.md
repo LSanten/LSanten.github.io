@@ -1,7 +1,11 @@
 ---
+date_created: '2023-10-17'
+date_lastchanged: '2024-11-13'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: What environments aid the emergence of a regenerative future?
 ---
+
 # What environments aid the emergence of a regenerative future?
 Generally speaking, I argue that our system's capacity to be conducive to health & wellbeing is re-created in the systems that emerge from it. This is the autopoietic (self-reproducing) effect of social systems. As these systems are self-referential, the new structures they create carry the embedded values, beliefs, purpose of the parental  systems (also called [[ONTOLOGICAL-PRIMITIVES]]).
 

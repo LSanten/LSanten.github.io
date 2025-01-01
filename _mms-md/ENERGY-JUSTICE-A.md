@@ -1,7 +1,11 @@
 ---
+date_created: '2024-04-10'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: 'Framework for energy justice: AAA'
 ---
+
 # Framework for energy justice: AAA
 
 

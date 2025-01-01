@@ -1,7 +1,11 @@
 ---
+date_created: '2024-12-03'
+date_lastchanged: '2024-12-30'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: CO2 levels in cars
 ---
+
 # CO2 levels in cars
 I have been traveling with my air quality measurement device for 2 years. While public buildings' air quality is highly controlled by law (has to be below 1100 ppm), private spaces are not, including cars and air conditioning systems for private houses.
 

@@ -1,7 +1,11 @@
 ---
+date_created: '2023-12-05'
+date_lastchanged: '2024-09-20'
 layout: default
-title: "It\u2019s all about the ability to create relationships and let go of relationships."
+show_date_lastchanged_updatedauto: YES, NO, NO
+title: It’s all about the ability to create relationships and let go of relationships.
 ---
+
 # It’s all about the ability to create relationships and let go of relationships. 
 
 Biological death is a tribute/gift to life. 

@@ -1,8 +1,12 @@
 ---
+date_created: '2024-11-24'
+date_lastchanged: '2024-11-24'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: A journey of words
 title: Moving from simple systems to living systems language
 ---
+
 # Moving from simple systems to living systems language 
 ## A journey of words 
 

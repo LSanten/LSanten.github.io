@@ -1,8 +1,12 @@
 ---
+date_created: '2024-12-30'
+date_lastchanged: '2024-12-31'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: A statement on the complexity of proving "pseudo-sciences" with the scientific
   method
 ---
+
 # A statement on the complexity of proving "pseudo-sciences" with the scientific method
 
 *The following paragraphs are a work in progress statement that keep arising in my life because I see the power of traditional healers whose traditional knowledge systems are entirely disregarded as pseudo-scientific. Interesting, these disciplines touch my life in far more impactful ways than Western doctors have ever been able to get in touch with me on a human, all-aspects-of-life encompassing level.*

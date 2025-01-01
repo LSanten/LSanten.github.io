@@ -1,8 +1,12 @@
 ---
+date_created: '2024-10-30'
+date_lastchanged: '2024-11-02'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: A collection for my daily drawing practice
 title: Things I want to practice drawing
 ---
+
 # Things I want to practice drawing
 ## A collection for my daily drawing practice
 

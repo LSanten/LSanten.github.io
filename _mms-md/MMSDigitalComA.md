@@ -1,7 +1,11 @@
 ---
+date_created: '2023-12-21'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Communicating about communication between friends
 ---
+
 # Communicating about communication between friends
 
 - When I text you or ask you a question, you can choose to not respond. I invite you to only respond if you have the desire to do so. I do not feel offended if you don’t respond. There’s no urgency. I’ll let you know if there is urgency.

@@ -1,8 +1,12 @@
 ---
+date_created: '2023-09-22'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: It is not individuals but the structures through which they communicate that
   build our social systems (which are different from psychic systems)
 ---
+
 # It is not individuals but the structures through which they communicate that build our social systems (which are different from psychic systems) 
 Every construct we use is a structure that inherently influeces how communication is accepted and rejected and when it emerges (acceptance). Communication is differnt from consciousness. Communication can never be true to consciousness yet we need it because we aren't psychically connected to know what others experience in their heads. 
 

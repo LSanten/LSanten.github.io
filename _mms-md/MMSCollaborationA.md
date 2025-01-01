@@ -1,7 +1,11 @@
 ---
+date_created: '2023-11-14'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Intellectual property is wasteful and threatens our planet
 ---
+
 # Intellectual property is wasteful and threatens our planet
 
 

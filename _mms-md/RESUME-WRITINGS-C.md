@@ -1,8 +1,12 @@
 ---
+date_created: '2024-02-06'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Envisioning architectural & engineering relationships to the land inspired
   by  indigenous ways of being
 ---
+
 # Envisioning architectural & engineering relationships to the land inspired by  indigenous ways of being
 July 2023 - Blog post
 ![](media/banner-ohlone.png)

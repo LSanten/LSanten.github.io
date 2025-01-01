@@ -1,8 +1,12 @@
 ---
+date_created: '2023-09-25'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: 'IDEA: Media for movement building: collective shaping and organizing of information
   containers based on a file type'
 ---
+
 # IDEA: Media for movement building: collective shaping and organizing of information containers based on a file type 
 This *information container* might be an idea, a question, a proposal etc...
 

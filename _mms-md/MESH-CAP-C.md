@@ -1,8 +1,12 @@
 ---
+date_created: '2023-11-07'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: 'IDEA: A visual space to create and share, organize, archive and collaborate
   on snippets'
 ---
+
 # IDEA: A visual space to create and share, organize, archive and collaborate on snippets
 
 like this website does for tech projects https://hackaday.io/project/192688-the-open-book

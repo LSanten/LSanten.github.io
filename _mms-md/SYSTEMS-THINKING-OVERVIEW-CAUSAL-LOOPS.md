@@ -1,7 +1,11 @@
 ---
+date_created: '2024-11-05'
+date_lastchanged: '2024-11-15'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Resources for understanding the tool "causal loops"
 ---
+
 # Resources for understanding the tool "causal loops"
 
 

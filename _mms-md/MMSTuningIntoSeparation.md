@@ -1,7 +1,11 @@
 ---
+date_created: '2023-12-29'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Notice how we justify killing
 ---
+
 # Notice how we justify killing
 I am interested in the intersection of logic and violence as they conditioning each other. When we go into our heads and start to argue with logic about destruction, we naturally move away from reality. 
 

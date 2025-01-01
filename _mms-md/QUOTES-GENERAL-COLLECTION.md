@@ -1,7 +1,11 @@
 ---
+date_created: '2024-09-21'
+date_lastchanged: '2024-11-05'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: A collection of quotes with no specific theme
 ---
+
 # A collection of quotes with no specific theme
 
 ![](media/D8A7D429-E1A0-4424-909D-6659A86C5078.jpeg)

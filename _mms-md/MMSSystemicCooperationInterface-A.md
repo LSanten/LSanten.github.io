@@ -1,7 +1,11 @@
 ---
+date_created: '2024-08-25'
+date_lastchanged: '2024-10-25'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Building a practice and visual space for trans-disciplinary cooperation
 ---
+
 # Building a practice and visual space for trans-disciplinary cooperation
 ![](media/MESH-CAP_summary-graphics-HIGH-RES-08.png)
 

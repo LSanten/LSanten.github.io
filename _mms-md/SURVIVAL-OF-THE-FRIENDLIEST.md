@@ -1,7 +1,11 @@
 ---
+date_created: '2024-08-27'
+date_lastchanged: '2024-10-06'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Survival of the friendlist
 ---
+
 # Survival of the friendlist
 
 

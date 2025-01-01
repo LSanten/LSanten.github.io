@@ -1,8 +1,12 @@
 ---
+date_created: '2024-11-02'
+date_lastchanged: '2024-11-02'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: A broader way of looking at it...
 title: How do we define technology?
 ---
+
 # How do we define technology?
 ## A broader way of looking at it...
 

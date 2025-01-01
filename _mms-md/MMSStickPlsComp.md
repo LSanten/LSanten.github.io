@@ -1,7 +1,11 @@
 ---
+date_created: '2023-09-18'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: can public places please compost & recycle?
 ---
+
 # can public places please compost & recycle?
 I feel so much pain when I have to use a to-go container in a coffee shop. I feel pain when I cannot compost my napkins. This sticker addresses this large-scale problem.
 

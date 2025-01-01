@@ -1,7 +1,11 @@
 ---
+date_created: '2024-03-06'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: A list of nourishing drinks for dancing
 ---
+
 # A list of nourishing drinks for dancing
 #careClub #inspiration
 I desire nourishing drinks during a long night of dancing. 

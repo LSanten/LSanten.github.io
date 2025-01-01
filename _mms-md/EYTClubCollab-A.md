@@ -1,7 +1,11 @@
 ---
+date_created: '2023-12-07'
+date_lastchanged: '2024-10-02'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Ideation around partying together and separately
 ---
+
 # Ideation around partying together and separately 
 
 On December 2nd 2023:

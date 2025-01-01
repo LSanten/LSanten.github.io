@@ -1,8 +1,12 @@
 ---
 collaborators: Leon Santen, Odalys Benitez, Martin Santen
+date_created: '2024-08-07'
+date_lastchanged: '2024-11-17'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Visualizing the roots of renewables
 ---
+
 
 # Visualizing the roots of renewables
 <i class="fas fa-calendar-alt"></i> November 2024<br><br>

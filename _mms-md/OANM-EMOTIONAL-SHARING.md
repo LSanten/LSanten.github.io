@@ -1,8 +1,12 @@
 ---
+date_created: '2024-02-26'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Visualizing offers, needs, and emotions within the community in a 2D or 3D
   way with an indicator for time
 ---
+
 # Visualizing offers, needs, and emotions within the community in a 2D or 3D way with an indicator for time 
 I am curious about the visualization of re-occuring themes within a small community. 
 

@@ -1,6 +1,10 @@
 ---
+date_created: '2023-09-18'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 ---
+
 ## technology dynamics
 "The efforts to invent and introduce more environmentally friendly technologies – to reduce T (throughput per unit produced) in the IPAT equation3 – has been  dwarfed by the increases in P (population) and especially in A (affluence). The  rebound effect  has been too strong in relation to the attempts to dematerialize  production"
 

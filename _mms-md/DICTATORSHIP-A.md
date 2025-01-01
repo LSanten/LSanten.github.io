@@ -1,8 +1,12 @@
 ---
+date_created: '2023-11-01'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Workplace dictatorship is when the owner has the right to tell the worker what
   to do
 ---
+
 # Workplace dictatorship is when the owner has the right to tell the worker what to do
 This perspective is from Wright's book "how to be an anticapitalist in the 21st century" (2019).
 

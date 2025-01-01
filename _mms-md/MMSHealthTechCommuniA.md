@@ -1,8 +1,12 @@
 ---
+date_created: '2023-09-21'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: A proposal to change communication around and interface design for battery
   health
 ---
+
 # A proposal to change communication around and interface design for battery health
 
 I am observing the trend that the producers of tech products tell us very little about the maintenance needs that their products require. This exploration focuses on battery health because users can influence the helath of their devices the most by taking care of the device's battery. Furthermore, it is becoming well-known that lithium ion batteries are full of toxins and require large amounts of resource extraction. For these reasons, I chose to focus on exploring the potential of shifting toward a culture of talking about care-taking and health of our products. 

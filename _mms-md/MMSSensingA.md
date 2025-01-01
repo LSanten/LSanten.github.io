@@ -1,8 +1,12 @@
 ---
+date_created: '2024-02-19'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: A visual methaphor for the process/phenomenon of sensing our world and feeling
   the whole reality
 ---
+
 # A visual methaphor for the process/phenomenon of sensing our world and feeling the whole reality
 
 I explore the idea sensing our world and tuning into deeper forms of being in my blog post on [community mapping](https://www.omprakash.org/blog/leon-capstone-blog-week-6-community-mapping).

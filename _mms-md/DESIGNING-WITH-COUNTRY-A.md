@@ -1,8 +1,12 @@
 ---
+date_created: '2024-02-12'
+date_lastchanged: '2024-10-23'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: A design methodology to rebuild relationships between the land and people
 title: Designing with country
 ---
+
 # Designing with country
 ## A design methodology to rebuild relationships between the land and people
 

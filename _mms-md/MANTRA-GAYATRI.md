@@ -1,7 +1,11 @@
 ---
+date_created: '2024-04-20'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: The Gayatri mantra
 ---
+
 # The Gayatri mantra
 The Gayatri has 24 syllables, and is listed below with phonetic pronunciation in brackets:
 

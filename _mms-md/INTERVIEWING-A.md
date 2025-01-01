@@ -1,6 +1,10 @@
 ---
+date_created: '2024-02-17'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 ---
+
 A NEO-POSITIVIST CONCEPTION OF THE INTERVIEW
 
 Much of the advice literature on qualitative interviewing assumes that the interview subject has an inner or authentic self, not necessarily publicly visible, which may be revealed through careful questioning by an attentive and sensitive interviewer who contributes minimally to the talk (e.g., Foddy, 1993). In this approach, the skillful interviewer asks good questions, while carefully minimizing bias and researcher influences through taking a neutral role. By taking this approach in the interview interaction, it is thought that quality data will be generated from which valid findings may be produced...

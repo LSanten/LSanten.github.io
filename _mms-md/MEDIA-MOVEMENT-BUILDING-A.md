@@ -1,7 +1,11 @@
 ---
+date_created: '2023-12-12'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Movement building principles for media creation
 ---
+
 # Movement building principles for media creation
 
 The podcasters Damon Williams and Daniel Kissinger created a list of emancipatory media principles. They define media as any medium that **connects people, ideally to humanize each other, reflect, and build movement**. In their work, they seek to humanize subject-to-subject conversation. 

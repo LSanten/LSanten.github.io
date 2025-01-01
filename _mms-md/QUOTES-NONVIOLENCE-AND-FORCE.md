@@ -1,7 +1,11 @@
 ---
+date_created: '2024-10-30'
+date_lastchanged: '2024-11-05'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Is using force against violent forces violent?
 ---
+
 # Is using force against violent forces violent?
 
 

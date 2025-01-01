@@ -1,7 +1,11 @@
 ---
+date_created: '2024-11-13'
+date_lastchanged: '2024-11-15'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: A list of characteristics typical for white supremacist environments
 ---
+
 # A list of characteristics typical for white supremacist environments
 
 

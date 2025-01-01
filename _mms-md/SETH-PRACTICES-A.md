@@ -1,7 +1,11 @@
 ---
+date_created: '2023-12-29'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Practices for energy, flow of qi, loosening, and reflection
 ---
+
 # Practices for energy, flow of qi, loosening, and reflection
 Hi Seth, there are three practices on here. I referenced the Kundalini yoga exercise and the "innovators compass" practice on your plan. The third one is an interesting qigong exercise my friend showed to me, and I wanted to pass it along to you. 
 

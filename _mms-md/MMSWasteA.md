@@ -1,7 +1,11 @@
 ---
+date_created: '2023-11-02'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Quotes and insights around E-Waste
 ---
+
 # Quotes and insights around E-Waste
 
 https://new.express.adobe.com/id/urn:aaid:sc:US:e635e7ce-79d7-4f0b-939d-3d6f578c8429?invite=true&promoid=XXTQGVMK&mv=other

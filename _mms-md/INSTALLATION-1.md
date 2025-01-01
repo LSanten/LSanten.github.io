@@ -1,8 +1,12 @@
 ---
+date_created: '2023-10-26'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Use all times square screens as monitors for city systems such as waste flows,
   monetary streams, consumption patterns
 ---
+
 # Use all times square screens as monitors for city systems such as waste flows, monetary streams, consumption patterns
 
 --> waste pathogen monitoring 

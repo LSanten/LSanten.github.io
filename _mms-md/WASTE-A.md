@@ -1,7 +1,11 @@
 ---
+date_created: '2023-11-02'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Companies need to face the e-waste they create
 ---
+
 # Companies need to face the e-waste they create
 
 This is called **extended producer responsibility** or **product take back**. We need take-back laws so its cheaper to produce long-lasting, modular products than dumping them and externalizing recycling costs. [1]

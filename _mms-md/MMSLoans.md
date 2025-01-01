@@ -1,7 +1,11 @@
 ---
+date_created: '2023-09-27'
+date_lastchanged: '2024-11-15'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: The problems around issuing loans (the way banks are allowed to do it)
 ---
+
 # The problems around issuing loans (the way banks are allowed to do it)
 thoughts are shared on my blog post https://www.omprakash.org/blog/just-transition-blog-reflection--3
 

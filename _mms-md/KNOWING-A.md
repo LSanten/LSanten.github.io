@@ -1,7 +1,11 @@
 ---
+date_created: '2023-10-19'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: It is normal to not know until we know
 ---
+
 # It is normal to not know until we know
 Kids know that they cannot possibly know how to navigate the world or know about a topic until they learn. Why do we feel so insecure about this process as we grow?
 

@@ -1,7 +1,11 @@
 ---
+date_created: '2023-09-18'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: How to define prosperity (in the context of degrowth)
 ---
+
 # How to define prosperity (in the context of degrowth)
 "Conventionally prosperity has been understood as opulence  – an increase in  consumption, incomes and wealth. Another possibility is to define prosperity in terms of subjective wellbeing  – utility or happiness. Tim Jackson, however, prefers  a concept put forward by Amartya Sen. Prosperity should be defined in terms of  the capabilities that people have to flourish.  How well are people able to function in a given context? (Jackson 2009: 34)
 [...]

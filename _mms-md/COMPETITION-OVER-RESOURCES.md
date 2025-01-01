@@ -1,7 +1,11 @@
 ---
+date_created: '2024-09-11'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Competition over resources
 ---
+
 # Competition over resources
 This video is wonderful summary reflecting on the popular Western narrative that we are doomed to fight over natural resources. 
 

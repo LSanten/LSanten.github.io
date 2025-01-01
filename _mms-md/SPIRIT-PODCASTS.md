@@ -1,7 +1,11 @@
 ---
+date_created: '2024-08-28'
+date_lastchanged: '2024-11-13'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Podcasts or talks within the spiritual domain that I want to share
 ---
+
 # Podcasts or talks within the spiritual domain that I want to share 
 ### resonated very deeply / one of the best for me 
 

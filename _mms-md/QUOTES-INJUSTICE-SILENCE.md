@@ -1,7 +1,11 @@
 ---
+date_created: '2024-09-03'
+date_lastchanged: '2024-11-13'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Quotes related to staying silent during times of injustice
 ---
+
 # Quotes related to staying silent during times of injustice 
 
 >If you are neutral in situations of injustice, you have chosen the side of the oppressor.

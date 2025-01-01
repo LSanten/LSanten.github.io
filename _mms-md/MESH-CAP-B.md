@@ -1,9 +1,13 @@
 ---
+date_created: '2023-10-13'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: 'INSIGHT: it is more enticing and connecting to have homework instructions
   that ask about "why we are interested in something" and to learn about other humans
   than only focus on external, far-away knowledge'
 ---
+
 # INSIGHT: it is more enticing and connecting to have homework instructions that ask about "why we are interested in something" and to learn about other humans than only focus on external, far-away knowledge
 
 #communication #instructions #relationships 

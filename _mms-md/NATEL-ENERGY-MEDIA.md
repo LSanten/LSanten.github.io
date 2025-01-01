@@ -1,7 +1,11 @@
 ---
+date_created: '2024-08-15'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: The of a fish safety scientist at natel energy
 ---
+
 # The of a fish safety scientist at natel energy
 ![](media/20240729-DJI_0745.jpg)
 

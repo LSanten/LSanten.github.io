@@ -1,8 +1,12 @@
 ---
+date_created: '2023-08-20'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: People and world events that shaped the scientific method
 title: 'A critical timeline synthesis: roots of the scientific method'
 ---
+
 # A critical timeline synthesis: roots of the scientific method
 ## People and world events that shaped the scientific method
 

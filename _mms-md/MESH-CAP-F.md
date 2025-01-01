@@ -1,8 +1,12 @@
 ---
+date_created: '2024-01-12'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Surfacing slow violence within the container is important for collective liberation
   and (self-)awareness
 ---
+
 # Surfacing slow violence within the container is important for collective liberation and (self-)awareness
 This question stood out to me: "how can we convert into image and narrative the disasters that are slow moving and long in the making [...]?"
 

@@ -1,8 +1,12 @@
 ---
+date_created: '2023-09-06'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: 'IDEA: create a market space to network, surface insights & proposals, and
   interconnect movement efforts'
 ---
+
 # IDEA: create a market space to network, surface insights & proposals, and interconnect movement efforts
 
 I see a demand for a networking tool that does not purely rely on emotional labor of one-on-one socializing. I see an opportunity to use a physical space (room, wall space, and physical props) to naturally elicit an in-peron & asynchronous networking mingling centered around written text, mapping, and personal interaction. 

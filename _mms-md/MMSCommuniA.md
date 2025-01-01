@@ -1,7 +1,11 @@
 ---
+date_created: '2023-09-11'
+date_lastchanged: '2024-10-29'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Original intentions behind mostly.mutual.studio (also *My Marble Sharings*)
 ---
+
 # Original intentions behind mostly.mutual.studio (also *My Marble Sharings*) 
 
 ![](media/MMSCommuniA-1.png)

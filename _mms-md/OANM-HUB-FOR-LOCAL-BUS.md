@@ -1,8 +1,12 @@
 ---
+date_created: '2023-09-27'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Interface or consulting hub to interconnect local businesses with other orgs
   to share and satisfy offers and needs
 ---
+
 
 # Interface or consulting hub to interconnect local businesses with other orgs to share and satisfy offers and needs
 

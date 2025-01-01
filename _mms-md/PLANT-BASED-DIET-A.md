@@ -1,7 +1,11 @@
 ---
+date_created: '2024-09-03'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Plant-based diet facts from documentary "The Game Changers"
 ---
+
 # Plant-based diet facts from documentary "The Game Changers"
 
 One of the best documentaries to convince sporty people to switch to a plant based diet to increase strength, stamina, and health is [The Game Changers](https://www.imdb.com/title/tt7455754/) (I watched it on Netflix).

@@ -1,8 +1,12 @@
 ---
+date_created: '2023-08-20'
+date_lastchanged: '2024-11-24'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: How our social systems can be considered *alive* and reproduce their value
   essences
 ---
+
 # How our social systems can be considered *alive* and reproduce their value essences
 
 It is quite hard to define life. Taken a systems lense, one way to define biological life is the characteristic of a system to ***maintain** itself and **reproduce** the conditions for its emergence*. We give this characteristic the name Autopoiesis (translating to self-recreation). While this term was introduced by Chilean biologists Humberto Maturana and Francisco Varela to describe natural systems in 1972 with the title “Autopoiesis and Cognition - The Realization of the Living” (link [here](https://link.springer.com/book/10.1007/978-94-009-8947-4)), Niklas Luhmann transferred this theory to the social realm, showing that social systems portray characteristics of living systems as they are self-organizing and self-reproducing ([Albert 2016](https://doi.org/10.1093/acrefore/9780190228637.013.7)).

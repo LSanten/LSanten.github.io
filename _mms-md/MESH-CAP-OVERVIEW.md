@@ -1,7 +1,11 @@
 ---
+date_created: '2024-01-25'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: How do the pieces of my MESH capstone project relate to each other?
 ---
+
 # How do the pieces of my MESH capstone project relate to each other?
 Here, I organize all the floating bits and pieces of my capstone project for my program "Masters in Engineering, Sustainability, and Health."
 

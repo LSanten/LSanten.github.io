@@ -1,7 +1,11 @@
 ---
+date_created: '2023-10-09'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Solving climate change means to transform relationships of power
 ---
+
 # Solving climate change means to transform relationships of power 
 
 (I use 'solving climate change' synonymous with healing our social-ecological systems from unnecessary suffering, violence, and degradation.)

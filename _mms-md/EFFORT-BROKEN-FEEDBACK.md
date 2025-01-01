@@ -1,7 +1,11 @@
 ---
+date_created: '2023-10-08'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Effort is evidence for broken feedback loops
 ---
+
 # Effort is evidence for broken feedback loops
 
 The insight that "effort is evidence for broken feedback loops" arrises from the *dynamically complex systems thinking* world (Brander 2023). It means that processes should flow naturally. If we push with too much force, it is a sign that the naturally emerging process is not seen. 

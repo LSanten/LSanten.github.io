@@ -1,7 +1,11 @@
 ---
+date_created: '2024-08-23'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: How I want to structure my week to reduce digital stimulation
 ---
+
 # How I want to structure my week to reduce digital stimulation 
 I tend to think about weekly patterns visually and regularly reflect on my phone usage. I hope to create more time management visuals in the future. Let me know if you are familiar with any artists who do similar work. 
 

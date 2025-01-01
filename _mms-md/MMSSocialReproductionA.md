@@ -1,7 +1,11 @@
 ---
+date_created: '2023-10-05'
+date_lastchanged: '2024-11-13'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Autopoiesis and the re-production of social systems
 ---
+
 # Autopoiesis and the re-production of social systems 
 **Links from the Post** [MMSSocialReproductionA](https://www.instagram.com/p/Cyhl4TSsqdh/?img_index=1)
 - [ ] - Haiven, & Khasnabish. (2014). Why social movements need the radical imagination. OpenDemocracy. https://www.opendemocracy.net/en/transformation/why-social-movements-need-radical-imagination/

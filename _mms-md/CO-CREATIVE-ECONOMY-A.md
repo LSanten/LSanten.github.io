@@ -1,7 +1,11 @@
 ---
+date_created: '2024-02-18'
+date_lastchanged: '2024-10-14'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Growing the Co-Creative Economy
 ---
+
 # Growing the Co-Creative Economy 
 
 ELIAS, the CDKN Action Lab Event, and the Girl Scouts—ACPC Leadership Circle have other lessons to teach as well. 

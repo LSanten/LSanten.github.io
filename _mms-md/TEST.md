@@ -1,12 +1,13 @@
 ---
 author: Leon Santen, Odalys Benitez
-date_created: 2024-09-12, Written on
-date_lastchanged: 2024-12-30, Last revised
+date_created: '2024-08-05'
+date_lastchanged: '2024-10-19'
 layout: default
-show_date_lastchanged_updatedauto: NO, YES, NO
+show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: Second header as a subtitle
 title: Main header with more words to resemble a real title that is long
 ---
+
 # Main header with more words to resemble a real title that is long
 ## Second header as a subtitle
 

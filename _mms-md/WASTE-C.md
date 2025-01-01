@@ -1,8 +1,12 @@
 ---
+date_created: '2024-02-17'
+date_lastchanged: '2024-10-22'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: 'An excerpt from "Neither Wolf nor Dog": why do Indians keep so much trash
   on their land if it could be so easy to clean it up?'
 ---
+
 # An excerpt from "Neither Wolf nor Dog": why do Indians keep so much trash on their land if it could be so easy to clean it up?
 
 *All below is an excerpt:*

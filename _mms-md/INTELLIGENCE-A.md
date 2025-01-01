@@ -1,7 +1,11 @@
 ---
+date_created: '2023-08-13'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: intelligence is compression
 ---
+
 # intelligence is compression
 
 i need to look up if the processing of large amounts of sensory input is what interroception refers to 

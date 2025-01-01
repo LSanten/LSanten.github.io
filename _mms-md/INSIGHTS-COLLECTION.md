@@ -1,6 +1,10 @@
 ---
+date_created: '2024-11-06'
+date_lastchanged: '2024-11-15'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 ---
+
 
 
 - 2024-11-06: I am doing a service to humanity by searching for peace and purpose in life (and not following the prescribed path of success).

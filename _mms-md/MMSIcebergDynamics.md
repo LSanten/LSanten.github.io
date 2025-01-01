@@ -1,8 +1,12 @@
 ---
+date_created: '2024-11-13'
+date_lastchanged: '2024-11-22'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: Visualizing the underlying dynamics that lead to destruction and violence
 title: Climate change is only the tip of the iceberg
 ---
+
 # Climate change is only the tip of the iceberg
 ## Visualizing the underlying dynamics that lead to destruction and violence
 

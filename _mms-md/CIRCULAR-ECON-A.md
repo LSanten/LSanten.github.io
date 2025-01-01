@@ -1,7 +1,11 @@
 ---
+date_created: '2023-11-02'
+date_lastchanged: '2024-11-05'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: 'Overview: Circular economy'
 ---
+
 # Overview: Circular economy
 
 ![](media/cleanshot_2023-11-01-at-18-28-34@2x.png)

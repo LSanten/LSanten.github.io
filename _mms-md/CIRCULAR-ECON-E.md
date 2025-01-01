@@ -1,8 +1,12 @@
 ---
+date_created: '2023-11-11'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: We need to consider intellectual property as a material in the circular economy
   - it needs to circulate among the whole ecosystem
 ---
+
 # We need to consider intellectual property as a material in the circular economy - it needs to circulate among the whole ecosystem 
 
 Circular economy certificates and LCA consultancies do not consider the potential of cooperating with other organizations

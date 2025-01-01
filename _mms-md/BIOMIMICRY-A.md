@@ -1,8 +1,12 @@
 ---
+date_created: '2023-11-11'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: Biomimicry lessons mapped against the wisdom of the Nonngar people of Western
   Australia
 ---
+
 # Biomimicry lessons mapped against the wisdom of the Nonngar people of Western Australia
 
 

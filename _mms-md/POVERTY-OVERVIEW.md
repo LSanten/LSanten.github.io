@@ -1,7 +1,11 @@
 ---
+date_created: '2024-01-18'
+date_lastchanged: '2024-09-20'
 layout: default
+show_date_lastchanged_updatedauto: YES, NO, NO
 title: What is poverty?
 ---
+
 # What is poverty?
 
 According to the Canadian Poverty Institute, poverty is not merely about a lack of money. Instead, it is a multidimensional condition that involves "a lack of power and choice, and disconnection from the broader community." Here are the three interlinking dimensions of poverty that they use: 
