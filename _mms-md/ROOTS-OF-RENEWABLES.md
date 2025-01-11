@@ -1,13 +1,12 @@
 ---
 collaborators: Leon Santen, Odalys Benitez, Martin Santen
-date_created: '2024-08-07'
-date_lastchanged: '2024-11-17'
+date_created: '2024-11-07, Visual created on'
+date_lastchanged: '2024-12-31, Text last refined on'
 layout: default
-show_date_lastchanged_updatedauto: YES, NO, NO
+show_date_lastchanged_updatedauto: YES, YES, NO
 title: Visualizing the roots of renewables
 ---
 # Visualizing the roots of renewables
-<i class="fas fa-calendar-alt"></i> November 2024<br><br>
 I drew this illustration because I can't stop thinking about this topic. I am on a journey to redefine what it means to be a good engineer. As part of this, I want to understand how we can visualize the systemic impact of *innovative* technologies.  Do you have ideas or want to chat? Please reach out. 
 
 >Engineers design for structural integrity. But why does this not not include social integrity? How can something be considered structurally safe if the structures it requires harm human and non-human life on many dimensions but the most immediate physical one? 

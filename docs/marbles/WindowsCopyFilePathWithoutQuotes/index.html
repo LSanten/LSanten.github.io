@@ -9,13 +9,13 @@
 
 <html lang="en-us"><head>
   <meta charset="utf-8">
-  <title>How to intervene in living systems, which are considered complex systems</title>
+  <title>Windowscopyfilepathwithoutquotes</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="Here is a marble for you! I hope it helps you engage in dialogue, plant a seed, or elicit collaboration.">
   <meta name="author" content="Leon Santen">
-  <meta property="og:image" content="https://leonsanten.info/marbles/media/cleanshot_2024-01-18-at-15-30-33%402x.png">
+  <meta property="og:image" content="https://leonsanten.info/assets/marble-assets/images/marble-imagery/woven-marble-3.png">
 
 
 
@@ -222,7 +222,7 @@
         <article>
 
           
-          <!-- Page Images: [&quot;https://leonsanten.info/marbles/media/cleanshot_2024-01-18-at-15-30-33%402x.png&quot;] JUST SOME CODE TO SEE IF IMAGES ARE IN FRONTMATTER -->
+          <!-- Page Images: [] JUST SOME CODE TO SEE IF IMAGES ARE IN FRONTMATTER -->
           
 
           
@@ -234,7 +234,7 @@
             
               
               
-                <marbledate>Created on January 18, 2024</marbledate>
+                <marbledate>Created on January 10, 2025</marbledate>
               
             
             
@@ -242,30 +242,109 @@
           
 
 
-          <h1 id="how-to-intervene-in-living-systems-which-are-considered-complex-systems">How to intervene in living systems, which are considered complex systems</h1>
+          <h3 id="how-to-add-copy-path-no-quotes-to-the-context-menu-in-windows"><strong>How to Add “Copy Path (No Quotes)” to the Context Menu in Windows</strong></h3>
 
-<p><img src="../media/cleanshot_2024-01-18-at-15-30-33@2x.png" alt="Leverage points: places to intervene in a complex system"></p>
+<h4 id="step-1-open-the-registry-editor"><strong>Step 1: Open the Registry Editor</strong></h4>
 
-<p>Gordon Brander wrote an <a href="https://open.substack.com/pub/subconscious/p/places-to-intervene-in-a-system?r=17iyv7&amp;utm_medium=ios" target="_blank">article</a> about this list, including many insightful quotes.</p>
-
-<h3 id="other-related-marbles">Other related marbles</h3>
-<p>The concepts of 🔮 <a href="../META-CRISIS-VS-POLY-CRISIS/">metacrisis and polycrisis</a> relate to the question of “where do we start to intervene?” The highest intervention point (transcending paradigm) is related to addressing our metacrisis, as described in the aforementioned marble.</p>
+<ol>
+  <li>Press <strong>Win + R</strong> to open the Run dialog.</li>
+  <li>Type <code class="language-plaintext highlighter-rouge">regedit</code> and press <strong>Enter</strong> or click <strong>OK</strong>.</li>
+  <li>If prompted by User Account Control (UAC), click <strong>Yes</strong> to allow changes.</li>
+</ol>
 
 <hr>
 
-<p>#MMSSeed #leveragePoints #quote</p>
+<h4 id="step-2-navigate-to-the-key"><strong>Step 2: Navigate to the Key</strong></h4>
+
+<ol>
+  <li>In the Registry Editor, go to:
+ <code class="language-plaintext highlighter-rouge">HKEY_CLASSES_ROOT\AllFilesystemObjects\shell</code>
+    <ul>
+      <li>Expand the folders in the left-hand tree view to navigate to the <code class="language-plaintext highlighter-rouge">shell</code> folder.</li>
+    </ul>
+  </li>
+</ol>
 
 <hr>
 
-<h3 id="references">References</h3>
+<h4 id="step-3-create-the-copypathnoquotes-key"><strong>Step 3: Create the “CopyPathNoQuotes” Key</strong></h4>
 
-<p>Meadows, D. (1999). <em>Leverage Points: Places to Intervene in a System - The Donella Meadows Project</em>. <a href="http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/" target="_blank">http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/</a></p>
+<ol>
+  <li>Right-click the <strong>shell</strong> folder.</li>
+  <li>Select <strong>New &gt; Key</strong>.</li>
+  <li>Name the new key:
+ <code class="language-plaintext highlighter-rouge">CopyPathNoQuotes</code>
+</li>
+</ol>
+
+<hr>
+
+<h4 id="step-4-set-the-display-name"><strong>Step 4: Set the Display Name</strong></h4>
+
+<ol>
+  <li>Select the <code class="language-plaintext highlighter-rouge">CopyPathNoQuotes</code> key.</li>
+  <li>In the right-hand pane, double-click the <strong>(Default)</strong> entry.</li>
+  <li>Set the value to:
+ <code class="language-plaintext highlighter-rouge">Copy Path (No Quotes)</code>
+</li>
+  <li>Click <strong>OK</strong> to save.</li>
+</ol>
+
+<hr>
+
+<h4 id="step-5-create-the-command-subkey"><strong>Step 5: Create the “command” Subkey</strong></h4>
+
+<ol>
+  <li>Right-click the <code class="language-plaintext highlighter-rouge">CopyPathNoQuotes</code> key.</li>
+  <li>Select <strong>New &gt; Key</strong>.</li>
+  <li>Name the new key:
+ <code class="language-plaintext highlighter-rouge">command</code>
+</li>
+</ol>
+
+<hr>
+
+<h4 id="step-6-set-the-command"><strong>Step 6: Set the Command</strong></h4>
+
+<ol>
+  <li>Select the <code class="language-plaintext highlighter-rouge">command</code> key.</li>
+  <li>In the right-hand pane, double-click the <strong>(Default)</strong> entry.</li>
+  <li>Set the value to:
+ <code class="language-plaintext highlighter-rouge">cmd.exe /c echo %1 | clip</code>
+</li>
+  <li>Click <strong>OK</strong> to save.</li>
+</ol>
+
+<hr>
+
+<h3 id="final-registry-structure"><strong>Final Registry Structure</strong></h3>
+
+<p>Your registry should now look like this:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>HKEY_CLASSES_ROOT  
+└─ AllFilesystemObjects    
+	└─ shell
+	        └─ CopyPathNoQuotes
+	                   └─ command
+
+</code></pre></div></div>
+
+<hr>
+
+<h4 id="step-7-close-the-registry-editor"><strong>Step 7: Close the Registry Editor</strong></h4>
+
+<ol>
+  <li>Click <strong>File &gt; Exit</strong> to close the Registry Editor.
+    <ul>
+      <li>This ensures that the Registry Editor doesn’t open inadvertently when using the new context menu option.</li>
+    </ul>
+  </li>
+</ol>
 
 
           <hr><br>
           <center><a href="#" class="card-meta-author" style="display: inline-block; vertical-align: middle;text-decoration: none; font-size: 12px;">
               <img src="../../images/ID-photoshop-file.png" alt="ID" style="display: inline;">
-              <span style="bottom: -1.5px; position: relative;">MMSSystemIntervention-A</span>
+              <span style="bottom: -1.5px; position: relative;">WindowsCopyFilePathWithoutQuotes</span>
             </a></center>
           
         </article>

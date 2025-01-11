@@ -3,9 +3,10 @@ date_created: '2024-08-04'
 date_lastchanged: '2024-11-25'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
+title: Illustrations that inspire me to create
 ---
-also [INSPO-DRAWING-A](INSPO-DRAWING-A.md)
 # Illustrations that inspire me to create 
+also [INSPO-DRAWING-A](INSPO-DRAWING-A.md) for drawing things that are not illustration related.  
 
 ![](media/cleanshot_2024-11-24-at-20-16-55@2x%201.png)
 
@@ -13,6 +14,10 @@ also [INSPO-DRAWING-A](INSPO-DRAWING-A.md)
 
 
 ![](media/cleanshot_2024-08-18-at-13-14-31@2x.png)
+
+
+![](media/cleanshot_2023-11-02-at-11-43-18@2x.png)
+https://www.storyofstuff.org/about/
 
 ![[media/cleanshot_2024-08-04-at-16-19-28@2x.png]]
 ![](media/cleanshot_2024-09-04-at-14-34-55@2x.png)
@@ -25,3 +30,7 @@ https://nicolekelner.darkroom.com/?utm_campaign=Carbonauts%27%20Community&utm_me
 ![](media/IMG_4455.jpeg)
 from the building decarbonization coalition (name: panama bartholony)
 
+
+_______
+
+#inspiration

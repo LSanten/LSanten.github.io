@@ -11,7 +11,8 @@ title: How to intervene in living systems, which are considered complex systems
 
 Gordon Brander wrote an [article](https://open.substack.com/pub/subconscious/p/places-to-intervene-in-a-system?r=17iyv7&utm_medium=ios) about this list, including many insightful quotes.
 
-
+### Other related marbles
+The concepts of [metacrisis and polycrisis](META-CRISIS-VS-POLY-CRISIS.md) relate to the question of "where do we start to intervene?" The highest intervention point (transcending paradigm) is related to addressing our metacrisis, as described in the aforementioned marble. 
 
 ______
 

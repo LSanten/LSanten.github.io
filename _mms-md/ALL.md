@@ -1,6 +1,6 @@
 ---
 date_created: '2024-09-19'
-date_lastchanged: '2024-12-31'
+date_lastchanged: '2025-01-10'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
@@ -32,6 +32,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[BOOKS-TO-REMEMBER]] - No Title
 - [[BOUNDARY-SPANNING]] - No Title
 - [[BUBBLE-HASHTAGS]] - List of hashtags used to identify a variety of bubbles
+- [[call-or-book-45min-meeting]] - Let's schedule some time to talk
 - [[CAPABILITIES-FOR-LIFE-FRAMEWORK]] - A framework to nurture life-centric capabilities.
 - [[CERT-ORG]] - An organization that certifies circular economy endavours on sliding scales among various rubrics
 - [[CHOMSKY-GLOBAL-HEG-VID]] - Noam Chomsky -- "Global Hegemony: The Facts, The Images"
@@ -119,7 +120,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[INNOVATORS-COMPASS-A]] - The design tool called "Innovators Compass"
 - [[INSIGHTS-COLLECTION]] - No Title
 - [[INSPIRATION-ILLUSTRATIONS]] - Illustrations that inspire me to create 
-- [[INSPO-DRAWING-A]] - Inspiration for drawing people in illustrations 
+- [[INSPO-DRAWING-A]] - Inspiration for drawing
 - [[INSTALLATION-1]] - Use all times square screens as monitors for city systems such as waste flows, monetary streams, consumption patterns
 - [[INTELLIGENCE-A]] - intelligence is compression
 - [[INTERDISCIPLINARITY-A]] - How do we create an interdisciplinary course?
@@ -134,7 +135,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[letter-to-people-power-solar-cooperative]] - No Title
 - [[letter-to-rhizome-2024]] - Climate justice cross-pollination for a regenerative economy
 - [[letter-to-the-SF-Chronicle]] - A selection of graphics
-- [[LIBERATORY-DESIGN-A]] - No Title
+- [[LIBERATORY-DESIGN-A]] - The Liberatory Design for Equity Process
 - [[LIVESTOCK-LAND-HOUSING-HOUSELESS]] - Illustration that compares land used for livestock compared with land needed to house houseless folks
 - [[LUHMANN-COMMUNI-A]] - It is not individuals but the structures through which they communicate that build our social systems (which are different from psychic systems) 
 - [[LUHMANN-COMMUNI-B]] - Communication "arises through a synthesis of three different selections, namely, selection of information, selection of the utterance of  this information, and a selective understanding or misunderstanding of this utterance and its information"
@@ -165,6 +166,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[MESH-CAP]] - No Title
 - [[MESH-EJ-THESIS]] - No Title
 - [[MESH-JEH-Overview-A]] - No Title
+- [[META-CRISIS-VS-POLY-CRISIS]] - How do metacrisis and polycrisis relate?
 - [[METAPHORICAL-RELATIONSHIPS-OF-ORGS]] - How do we visualize the systemic relationships (good or bad) of organizations?
 - [[MICRO-GRIDS-A]] - Microgrids and 
 - [[MILIT-A]] - Statistics surrounding the scale of the US military industrial complex
@@ -207,6 +209,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[MMSStickPlsComp]] - can public places please compost & recycle?
 - [[MMSSystemicCooperationInterface-A]] - Building a practice and visual space for trans-disciplinary cooperation
 - [[MMSSystemIntervention-A]] - How to intervene in living systems, which are considered complex systems
+- [[MMSTheoryU]] - The Theory U
 - [[MMSTuningIntoSeparation]] - Notice how we justify killing
 - [[MMSWasteA]] - Quotes and insights around E-Waste
 - [[MMSWhiteSupremacy-A]] - A list of characteristics typical for white supremacist environments
@@ -297,13 +300,13 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[TECH-INTERDEP-A]] - No Title
 - [[TECHNOLOGY-DEFINITION-A]] - How do we define technology?
 - [[TEST-LETTER]] - This is the test document with a nice title complementing the rest
-- [[TEST-RAW-STUFF]] - Hello title without creation time
 - [[TEST]] - Main header with more words to resemble a real title that is long
 - [[TEST2]] - No Title
 - [[THESIS-HOLISTIC-ENGINEERING]] - Holistic engineering and a renewed science of holism for a thriving world
 - [[THREE-WELLBEING-THINGS]] - No Title
-- [[TRADITIONAL-KNOWLEDGE-SYST-VS-SCIENTIFIC-METHOD]] - A statement on the complexity of proving "pseudo-sciences" with the scientific method
+- [[TRADITIONAL-KNOWLEDGE-SYST-VS-SCIENTIFIC-METHOD-A]] - A statement on the complexity of proving "pseudo-sciences" with the scientific method
 - [[TRAGEDY-COMMONS-A]] - No Title
+- [[TYPES-OF-REST-A]] - The 7 types of rest
 - [[UNLEARNING-A]] - We need to completely rework & unlearn our lives and social systems
 - [[VEGETABLE-STATS-A]] - No Title
 - [[VisualizationIdeasQuick]] - No Title
@@ -312,6 +315,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[WASTE-C]] - An excerpt from "Neither Wolf nor Dog": why do Indians keep so much trash on their land if it could be so easy to clean it up?
 - [[WASTE-D]] - This year, systems designed by engineers have contributed to the following
 - [[WEBSITE-SIZE-CHECK-A]] - Check the size of your website including images
+- [[WindowsCopyFilePathWithoutQuotes]] - No Title
 - [[WORK-CULTURE-MEDIEVAL-STONAGE-NOW]] - How our work culture has shifted compared to medieval times 
 - [[WORK-WEEK-A]] - No Title
 

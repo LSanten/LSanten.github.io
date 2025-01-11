@@ -1774,7 +1774,7 @@ marbledate + marbledate {
 }
 
 marbledate:last-of-type {
-  margin-bottom: 10px; /* Gap below the last <marbledate> */
+  margin-bottom: 15px; /* Gap below the last <marbledate> */
 }
 
 
