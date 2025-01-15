@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROOTS-OF-RENEWABLES.md",
+                "file": "ENERGY-VEGAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROOTS-OF-RENEWABLES"
+              "title": "ENERGY-VEGAN"
             }
           },
           {
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROOTS-OF-RENEWABLES.md",
+                "file": "ENERGY-VEGAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ROOTS-OF-RENEWABLES"
+              "title": "Backlinks for ENERGY-VEGAN"
             }
           },
           {
@@ -333,10 +333,10 @@
   },
   "active": "9f68a31b31bbb542",
   "lastOpenFiles": [
+    "ROOTS-OF-RENEWABLES.md",
     "waiting-for-longer.md",
     "newtjong.md",
     "Untitled.md",
-    "ROOTS-OF-RENEWABLES.md",
     "ALL.md",
     "Another-markdown-file.md",
     "new-file-but-waiting-a-second.md",
