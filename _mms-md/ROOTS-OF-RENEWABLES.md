@@ -1,7 +1,7 @@
 ---
 collaborators: Leon Santen, Odalys Benitez, Martin Santen
-date_created: '2024-11-07, Visual created on'
-date_lastchanged: '2024-12-31, Text last refined on'
+date_created: 2024-11-07, Visual created on
+date_lastchanged: 2024-12-31, Text last refined on
 layout: default
 show_date_lastchanged_updatedauto: YES, YES, NO
 title: Visualizing the roots of renewables

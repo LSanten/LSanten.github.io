@@ -50,7 +50,7 @@ def convert_to_local_time(utc_time_str):
 def ensure_yaml_frontmatter(file_path):
     """
     Ensure the YAML front matter of a markdown file contains the required fields.
-    Add missing fields using calculated values for creation and modification dates.
+    Automatically update files with 'null' dates using file system metadata.
     """
     try:
         # Read the file content
@@ -66,20 +66,28 @@ def ensure_yaml_frontmatter(file_path):
             frontmatter = {}
             body = content.strip()
 
-        # Skip processing if all required fields are present
-        if all(field in frontmatter for field in REQUIRED_FIELDS):
-            return
+        # Retrieve dates from front matter
+        creation_date = frontmatter.get("date_created")
+        modified_date = frontmatter.get("date_lastchanged")
 
-        # Retrieve creation and modification dates if needed
-        creation_date, modified_date = None, None
-        if "date_created" not in frontmatter or "date_lastchanged" not in frontmatter:
-            creation_date, modified_date = get_file_dates(file_path)
-            creation_date = convert_to_local_time(creation_date) if creation_date else None
-            modified_date = convert_to_local_time(modified_date) if modified_date else None
+        # Check for 'null' dates and update from file metadata if needed
+        if creation_date == "null" or creation_date is None or modified_date == "null" or modified_date is None:
+            print(f"Updating file with null dates: {file_path}")
 
-        # Add only missing fields
+            # Retrieve file creation/modification dates using mdls
+            file_creation_date, file_modified_date = get_file_dates(file_path)
+            file_creation_date = convert_to_local_time(file_creation_date) if file_creation_date else None
+            file_modified_date = convert_to_local_time(file_modified_date) if file_modified_date else None
+
+            # Update the front matter fields with retrieved dates
+            if creation_date == "null" or creation_date is None:
+                frontmatter["date_created"] = file_creation_date
+            if modified_date == "null" or modified_date is None:
+                frontmatter["date_lastchanged"] = file_modified_date
+
+        # Add or update other required fields
         for field, default_value in REQUIRED_FIELDS.items():
-            if field not in frontmatter:
+            if field not in frontmatter or frontmatter[field] == "null":
                 if field == "date_created":
                     frontmatter[field] = creation_date
                 elif field == "date_lastchanged":
@@ -93,11 +101,15 @@ def ensure_yaml_frontmatter(file_path):
 
         # Write the updated content only if changes were made
         if content.strip() != updated_content.strip():
+            print(f"Writing updated content to: {file_path}")
             with open(file_path, "w") as f:
                 f.write(updated_content)
 
     except Exception as e:
         print(f"Error ensuring YAML front matter for {file_path}: {e}")
+
+
+
 
 
 def main():

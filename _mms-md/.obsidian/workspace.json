@@ -83,12 +83,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENERGY-VEGAN.md",
+                "file": "ALL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ENERGY-VEGAN"
+              "title": "ALL"
+            }
+          },
+          {
+            "id": "9f68a31b31bbb542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROOTS-OF-RENEWABLES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ROOTS-OF-RENEWABLES"
             }
           },
           {
@@ -177,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -249,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENERGY-VEGAN.md",
+                "file": "ROOTS-OF-RENEWABLES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +273,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ENERGY-VEGAN"
+              "title": "Backlinks for ROOTS-OF-RENEWABLES"
             }
           },
           {
@@ -317,13 +331,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af9cbef1d8679df3",
+  "active": "9f68a31b31bbb542",
   "lastOpenFiles": [
-    "SUST-TRANSF-RELATIONAL-KNOWING.md",
-    "QUOTES-GENERAL-COLLECTION.md",
-    "media/Pasted image 20250114172649.png",
-    "MMSEthicalSupplyChainViz.md",
+    "waiting-for-longer.md",
+    "newtjong.md",
+    "Untitled.md",
+    "ROOTS-OF-RENEWABLES.md",
+    "ALL.md",
+    "Another-markdown-file.md",
+    "new-file-but-waiting-a-second.md",
     "AYURVEDA-FOOD-RATIOS.md",
+    "MMSEthicalSupplyChainViz.md",
+    "QUOTES-GENERAL-COLLECTION.md",
+    "SUST-TRANSF-RELATIONAL-KNOWING.md",
+    "ENERGY-VEGAN.md",
+    "media/Pasted image 20250114172649.png",
     "media/Pasted image 20250114135857.png",
     "media/Pasted image 20250111174629.png",
     "POUCH-OF-QUOTES.md",
@@ -341,16 +363,8 @@
     "TRADITIONAL-KNOWLEDGE-SYST-VS-SCIENTIFIC-METHOD-A.md",
     "PLANNING-DREAMING-CELEBRATING-DOING-FRAMEWORK.md",
     "HOLISTIC-FRAMEWORKS.md",
-    "ROOTS-OF-RENEWABLES.md",
     "META-CRISIS-VS-POLY-CRISIS.md",
     "EYTLaserViz-B.md",
-    "APP-IDEA-A.md",
-    "INTERVIEWING-A.md",
-    "PROBLEMS-B.md",
-    "IPCC-TRANSITION.md",
-    "CIRCULAR-ECON-C.md",
-    "MMSAtWhoseCostVisual.md",
-    "SYSTEMS-THINKING-10Tools-for-a-zero-carbon-world.md",
     "media/IMG_5177.jpeg",
     "media/cleanshot_2023-12-01-at-22-06-20@2x.png.sb-813ab17e-6hBwFa",
     "media/cleanshot_2023-12-01-at-22-06-20@2x.png.sb-813ab17e-IjoXuf",

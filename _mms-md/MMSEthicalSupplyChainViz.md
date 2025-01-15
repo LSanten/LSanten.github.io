@@ -1,6 +1,6 @@
 ---
-date_created: null
-date_lastchanged: null
+date_created: '2025-01-14'
+date_lastchanged: '2025-01-14'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: An ethical supply chain and visualization study
