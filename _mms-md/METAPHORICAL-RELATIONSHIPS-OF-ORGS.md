@@ -36,7 +36,7 @@ The table below investigates the "wrongdoing" or socially regenerative practices
 
 I am currently wondering how to represent these scores and numbers in a visual container such as a flower with differently sized pedals. **Do you have ideas? Please let me know! **
 
-![](media/cleanshot_2024-08-06-at-11-54-49@2x.png)
+![A table detailing suppliers ranked by the Just Transition Principles for building and ethical supply chain](media/cleanshot_2024-08-06-at-11-54-49@2x.png)
 
 ## How does this work relate to other *marbles* I want to share with you?
 The Just Transition Principles, for instance, are rooted in values such as “care, cooperation, and consent.” Companies that uphold other values such as “growth” or “profit” plant these values as they plant seeds for new organizational structures. These values continue to live on in them.

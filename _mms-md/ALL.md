@@ -1,6 +1,6 @@
 ---
 date_created: '2024-09-19'
-date_lastchanged: '2025-01-10'
+date_lastchanged: '2025-01-14'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
@@ -22,6 +22,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[ARCHITECTURE-BIOPHILIC-BUILDING-EXAMPLES]] - Examples of biophilic, zero-carbon buildings and architecture
 - [[AUTOPOIESIS-A]] - How our social systems can be considered *alive* and reproduce their value essences
 - [[AYURVEDA-DOSHAS]] - The ayurvedic doshas
+- [[AYURVEDA-FOOD-RATIOS]] - Ratios of ingredients for a meal in the Ayurvedic tradition
 - [[BAY-AREA-LINKS]] - Useful resources for the bay area of San Francisco
 - [[BELIEVING-A]] - if we believe, we can't think
 - [[BIOMIMICRY-A]] - Biomimicry lessons mapped against the wisdom of the Nonngar people of Western Australia
@@ -186,6 +187,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[MMSContrastSimpleAndComplexSystems]] - Moving from simple systems to living systems language 
 - [[MMSDigitalComA]] - Communicating about communication between friends
 - [[MMSEconomicDemocracy]] - You don't live in a democracy when every big institution around you is run like a dictatorship
+- [[MMSEthicalSupplyChainViz]] - How do we communicate the regenerative potential of suppliers
 - [[MMSFinanceVisual]] - Most of the international transactions on this planet are not tied to any real valuable thing
 - [[MMSHealthAutopoiesis]] - No Title
 - [[MMSHealthTechCommuniA]] - A proposal to change communication around and interface design for battery health
@@ -291,6 +293,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[SURVIVAL-OF-THE-FRIENDLIEST]] - Survival of the friendlist
 - [[SURVIVAL-OF-THE-NURTURED]] - No Title
 - [[SUST-JOBS]] - No Title
+- [[SUST-TRANSF-RELATIONAL-KNOWING]] - Different ways of knowing for transformative sustainability work 
 - [[SYSTEMIC-CHANGE-A]] - No Title
 - [[SYSTEMIC-INTELLIGENCE-SPACE]] - No Title
 - [[SYSTEMIC-STORYTELLING-INTERFACE]] - No Title

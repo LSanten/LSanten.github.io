@@ -33,12 +33,13 @@ Feel free to explore. Since I haven't finished these projects, they hold the opp
 
 ## 🌱 Concrete ideas, ready to visualize, no visual yet
 
-| Marble ID                               | Topic                                                                                                | Next Steps                                                                            |
-| --------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [MMSFinanceVisual](MMSFinanceVisual.md) |                                                                                                      | draw visual with clean vector graphics or lino cut style                              |
-| [ENERGY-ENG-A](ENERGY-ENG-A.md)         |                                                                                                      | make simple graphics of quotes to post online, record key video components for online |
-| [[MMSAtWhoseCostVisual]]                |                                                                                                      |                                                                                       |
-| [[MMSHerbalismParadox]]                 |                                                                                                      |                                                                                       |
+| Marble ID                                               | Topic                                                                                          | Next Steps                                                                            |
+| ------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [MMSFinanceVisual](MMSFinanceVisual.md)                 |                                                                                                | draw visual with clean vector graphics or lino cut style                              |
+| [ENERGY-ENG-A](ENERGY-ENG-A.md)                         |                                                                                                | make simple graphics of quotes to post online, record key video components for online |
+| [[MMSAtWhoseCostVisual]]                                |                                                                                                |                                                                                       |
+| [[MMSHerbalismParadox]]                                 |                                                                                                |                                                                                       |
+| [MMSEthicalSupplyChainViz](MMSEthicalSupplyChainViz.md) | We need a simple visual to show how regeneration-conducive a company or organization really is |                                                                                       |
 
 ## 🌀 Something cool can come out of this; no concrete pieces yet
 
@@ -52,6 +53,7 @@ Feel free to explore. Since I haven't finished these projects, they hold the opp
 |                                           | interface mockup for collaborative Amazon                                                                    |                                                                   |
 |                                           | ☀️ a scale that weights all enslaved animals and several times the amount of mammal weight on the other side |                                                                   |
 |                                           | Graphic Design Project for simple message: Environmental Justice = Social Justice and vice versa             |                                                                   |
+| [ENERGY-VEGAN](ENERGY-VEGAN.md)           | A simple sticker or graphic design project saying something like: let's become energy vegans.                |                                                                   |
 
 _____
 

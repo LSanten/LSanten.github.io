@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "call-or-book-45min-meeting.md",
+                "file": "ENERGY-VEGAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "call-or-book-45min-meeting"
+              "title": "ENERGY-VEGAN"
             }
           },
           {
@@ -208,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "frameworks",
+                "query": "quotes",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -249,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "call-or-book-45min-meeting.md",
+                "file": "ENERGY-VEGAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for call-or-book-45min-meeting"
+              "title": "Backlinks for ENERGY-VEGAN"
             }
           },
           {
@@ -319,6 +319,15 @@
   },
   "active": "af9cbef1d8679df3",
   "lastOpenFiles": [
+    "SUST-TRANSF-RELATIONAL-KNOWING.md",
+    "QUOTES-GENERAL-COLLECTION.md",
+    "media/Pasted image 20250114172649.png",
+    "MMSEthicalSupplyChainViz.md",
+    "AYURVEDA-FOOD-RATIOS.md",
+    "media/Pasted image 20250114135857.png",
+    "media/Pasted image 20250111174629.png",
+    "POUCH-OF-QUOTES.md",
+    "call-or-book-45min-meeting.md",
     "WindowsCopyFilePathWithoutQuotes.md",
     "INSPIRATION-ILLUSTRATIONS.md",
     "INSPIRATION-ILLUSTRATIONS-DRAWINGS.md",
@@ -327,7 +336,6 @@
     "MMSTheoryU.md",
     "OPP-LIB-PRAC-A.md",
     "media/Pasted image 20250107122434.png",
-    "call-or-book-45min-meeting.md",
     "TYPES-OF-REST-A.md",
     "media/WhatsApp Image 2024-10-25 at 17.58.16_6e89522e.jpg",
     "TRADITIONAL-KNOWLEDGE-SYST-VS-SCIENTIFIC-METHOD-A.md",
@@ -343,11 +351,6 @@
     "CIRCULAR-ECON-C.md",
     "MMSAtWhoseCostVisual.md",
     "SYSTEMS-THINKING-10Tools-for-a-zero-carbon-world.md",
-    "SOMATIC-HEAL-WHITENESS.md",
-    "CO-CREATIVE-ECONOMY-A.md",
-    "MMSEconomicDemocracy.md",
-    "TEST.md",
-    "TEST-RAW-STUFF.md",
     "media/IMG_5177.jpeg",
     "media/cleanshot_2023-12-01-at-22-06-20@2x.png.sb-813ab17e-6hBwFa",
     "media/cleanshot_2023-12-01-at-22-06-20@2x.png.sb-813ab17e-IjoXuf",
@@ -357,10 +360,7 @@
     "media alias",
     "media/MMSCO2InCar-2.png",
     "media/MMSCO2InCar-1.png",
-    "media/Pasted image 20241203114423.png",
-    "media/cleanshot_2024-12-01-at-16-30-51@2x.png",
     "Untitled",
-    "media/cleanshot_2024-11-24-at-20-16-55@2x 1.png",
     "media/crayon-brushes-cs5-cs6.ai",
     "Untitled.canvas",
     "Untitled 1.canvas",
