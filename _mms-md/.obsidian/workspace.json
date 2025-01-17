@@ -8,190 +8,72 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c5d66a20785a09e",
+            "id": "4852fddd90a0c840",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "67a328d275880e82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THESIS-HOLISTIC-ENGINEERING.md",
+                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "THESIS-HOLISTIC-ENGINEERING"
+              "title": "METAPHORICAL-RELATIONSHIPS-OF-ORGS"
             }
           },
           {
-            "id": "fa403efbacea4ede",
+            "id": "8f65331172b514cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSPhenomenaOfComplexSystems.md",
+                "file": "ONTOLOGICAL-PRIMITIVES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MMSPhenomenaOfComplexSystems"
+              "title": "ONTOLOGICAL-PRIMITIVES"
             }
           },
           {
-            "id": "1c518739e1bb8cd6",
+            "id": "ad53a7e920732000",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSPhenomenaOfComplexSystems.md",
+                "file": "MMSEthicalSupplyChainViz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MMSPhenomenaOfComplexSystems"
+              "title": "MMSEthicalSupplyChainViz"
             }
           },
           {
-            "id": "b40084fb9de1bf23",
+            "id": "76d7a9c383fd2a42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSContrastSimpleAndComplexSystems.md",
+                "file": "ROOTS-OF-RENEWABLES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MMSContrastSimpleAndComplexSystems"
-            }
-          },
-          {
-            "id": "64287079f8b2e3ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMSCO2InCars.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MMSCO2InCars"
-            }
-          },
-          {
-            "id": "af9cbef1d8679df3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ALL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ALL"
-            }
-          },
-          {
-            "id": "9f68a31b31bbb542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENERGY-VEGAN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ENERGY-VEGAN"
-            }
-          },
-          {
-            "id": "d2e15518b333701f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SCIENCE-OF-HOLISM-FRAMEWORK.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SCIENCE-OF-HOLISM-FRAMEWORK"
-            }
-          },
-          {
-            "id": "0439f73400a3c308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMSSystemicCooperationInterface-A.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "MMSSystemicCooperationInterface-A"
-            }
-          },
-          {
-            "id": "7fb71614fd34cfe3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DICTATORSHIP-A.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DICTATORSHIP-A"
-            }
-          },
-          {
-            "id": "b79f6f08fd659b40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEST.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TEST"
-            }
-          },
-          {
-            "id": "de16b6d60c8d4e05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MESH-CAP-G-1.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "MESH-CAP-G-1"
-            }
-          },
-          {
-            "id": "f3504ae4b228c1d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLIMATE-CHANGE-A.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CLIMATE-CHANGE-A"
+              "title": "ROOTS-OF-RENEWABLES"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,11 +104,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quotes",
+                "query": "intheworks",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -263,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENERGY-VEGAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ENERGY-VEGAN"
+              "title": "Backlinks"
             }
           },
           {
@@ -331,20 +212,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f68a31b31bbb542",
+  "active": "4852fddd90a0c840",
   "lastOpenFiles": [
-    "ROOTS-OF-RENEWABLES.md",
-    "waiting-for-longer.md",
     "newtjong.md",
     "Untitled.md",
+    "COLLECTION-DRAWING-ARTWORK-DOODLES.md",
+    "MMSShiningLightOnTruth.md",
+    "media/little-planet.jpeg",
+    "MMSInTheWorks.md",
+    "media/IMG_5245.jpeg",
+    "media/IMG_5244.jpeg",
+    "letter-to-rhizome-2024.md",
+    "ROOTS-OF-RENEWABLES.md",
+    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+    "ONTOLOGICAL-PRIMITIVES.md",
+    "MMSEthicalSupplyChainViz.md",
+    "ENERGY-VEGAN.md",
+    "waiting-for-longer.md",
     "ALL.md",
     "Another-markdown-file.md",
     "new-file-but-waiting-a-second.md",
     "AYURVEDA-FOOD-RATIOS.md",
-    "MMSEthicalSupplyChainViz.md",
     "QUOTES-GENERAL-COLLECTION.md",
     "SUST-TRANSF-RELATIONAL-KNOWING.md",
-    "ENERGY-VEGAN.md",
     "media/Pasted image 20250114172649.png",
     "media/Pasted image 20250114135857.png",
     "media/Pasted image 20250111174629.png",
@@ -358,22 +248,13 @@
     "MMSTheoryU.md",
     "OPP-LIB-PRAC-A.md",
     "media/Pasted image 20250107122434.png",
-    "TYPES-OF-REST-A.md",
     "media/WhatsApp Image 2024-10-25 at 17.58.16_6e89522e.jpg",
-    "TRADITIONAL-KNOWLEDGE-SYST-VS-SCIENTIFIC-METHOD-A.md",
-    "PLANNING-DREAMING-CELEBRATING-DOING-FRAMEWORK.md",
-    "HOLISTIC-FRAMEWORKS.md",
-    "META-CRISIS-VS-POLY-CRISIS.md",
-    "EYTLaserViz-B.md",
     "media/IMG_5177.jpeg",
     "media/cleanshot_2023-12-01-at-22-06-20@2x.png.sb-813ab17e-6hBwFa",
     "media/cleanshot_2023-12-01-at-22-06-20@2x.png.sb-813ab17e-IjoXuf",
-    "media/IMG_5013.jpeg",
     "MMSArchive_Dec42024.zip",
     "Archive.zip",
     "media alias",
-    "media/MMSCO2InCar-2.png",
-    "media/MMSCO2InCar-1.png",
     "Untitled",
     "media/crayon-brushes-cs5-cs6.ai",
     "Untitled.canvas",

@@ -1,6 +1,6 @@
 ---
 date_created: '2024-09-19'
-date_lastchanged: '2025-01-14'
+date_lastchanged: '2025-01-16'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
@@ -51,7 +51,8 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[CO-CREATIVE-ECONOMY-A]] - Growing the Co-Creative Economy 
 - [[COFFEE-BLOCK-CAPTURE]] - No Title
 - [[COLLABORATIVE-ECOSYSTEMS-A]] - No Title
-- [[COLLECTION-GRAPHICS-UI]] - A collection of my graphics
+- [[COLLECTION-DRAWING-ARTWORK-DOODLES]] - A place where i dump my doodles and drawings
+- [[COLLECTION-GRAPHICS-UI]] - A collection of my graphics 
 - [[COLLECTION-JUST-ENERGY-HUB]] - No Title
 - [[COMBAT-A]] - Insight: it's useful for a system of violence that we are conditioned to react to critique or voicing concern with feeling hurt and fighting back because it keeps our society in a state of fighting instead of working together
 - [[COMMUNICATION-A]] - It seems crucial to talk about how we talk
@@ -206,6 +207,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[MMSPhilOfSciA]] - Building blocks for my philosophy of science
 - [[MMSQ-Transdisciplinary-awareness]] - Question to the community: How do you stay aware of people's efforts and insights beyond your own discipline?
 - [[MMSSensingA]] - A visual methaphor for the process/phenomenon of sensing our world and feeling the whole reality
+- [[MMSShiningLightOnTruth]] - The same object of focus shows different truths depending on the state of the observer
 - [[MMSSocialReproductionA]] - Autopoiesis and the re-production of social systems 
 - [[MMSSocialReproductionB]] - What environments aid the emergence of a regenerative future?
 - [[MMSStickPlsComp]] - can public places please compost & recycle?

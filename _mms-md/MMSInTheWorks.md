@@ -28,6 +28,7 @@ Feel free to explore. Since I haven't finished these projects, they hold the opp
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | [ELECTRICITY-BOTTOM-BILLION](ELECTRICITY-BOTTOM-BILLION.md) | The bottom billion on this planet still doesn't have electricity                                     | the colors and graphic don't look very nice; maybe make it look like a print |
 | [[MMSIcebergDynamics]]                                      | Iceberg graphic showing underlying dynamic fields leading to systemic symptoms sch as climate change | Create a visual that is easier to understand                                 |
+| [[MMSShiningLightOnTruth]]                                  | The truth you choose to shine your light on, will grow the most.                                     |                                                                              |
 
 
 
