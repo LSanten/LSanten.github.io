@@ -22,3 +22,5 @@ ______
 ### References
 
 Meadows, D. (1999). _Leverage Points: Places to Intervene in a System - The Donella Meadows Project_. http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/
+
+*Image created by myself, leon.*

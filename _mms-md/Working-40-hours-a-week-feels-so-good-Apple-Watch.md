@@ -1,6 +1,6 @@
 ---
-date_created: 2023-02-20
-date_lastchanged: 2025-01-17
+date_created: 2023-02-20, Artwork created on
+date_lastchanged: 2025-01-17, Content last updated on
 layout: default
 show_date_lastchanged_updatedauto: YES, YES, NO
 subtitle: An art piece exploring our work ethic with tech giants

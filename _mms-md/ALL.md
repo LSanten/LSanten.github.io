@@ -191,7 +191,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[MMSEconomicDemocracy]] - You don't live in a democracy when every big institution around you is run like a dictatorship
 - [[MMSEthicalSupplyChainViz]] - How do we communicate the regenerative potential of suppliers
 - [[MMSFinanceVisual]] - Most of the international transactions on this planet are not tied to any real valuable thing
-- [[MMSHealthAutopoiesis]] - No Title
+- [[MMSHealthAutopoiesis]] - What environments aid the emergence of a regenerative future?
 - [[MMSHealthTechCommuniA]] - A proposal to change communication around and interface design for battery health
 - [[MMSHerbalismParadox]] - GRAPHIC IDEA: The paradox of disbelief in and fear of herbs
 - [[MMSHistOfSci-A]] - A critical timeline synthesis: roots of the scientific method
