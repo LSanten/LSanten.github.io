@@ -1,6 +1,6 @@
 ---
 date_created: '2024-09-19'
-date_lastchanged: '2025-01-16'
+date_lastchanged: '2025-01-17'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
@@ -8,6 +8,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[202308111213]] - No Title
 - [[202308212300]] - if we learn how to deal with stress, the healthy mechanisms stay healthy
 - [[202309131344]] - our economic system is intrinsically undemocractic 
+- [[A-two-day-weekend-thats-enough-for-me-AppleTV]] - A two day weekend. That's enough for me. 
 - [[ACADEMIC-IMPERIALISM]] - Indian sociologist Claude Alvares talks about academic imperialism
 - [[ADAPT-CHANGE]] - No Title
 - [[ADAPT-CYCLES-A]] - adaptive cycles help us to understand how to transform our systems
@@ -323,6 +324,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[WindowsCopyFilePathWithoutQuotes]] - No Title
 - [[WORK-CULTURE-MEDIEVAL-STONAGE-NOW]] - How our work culture has shifted compared to medieval times 
 - [[WORK-WEEK-A]] - No Title
+- [[Working-40-hours-a-week-feels-so-good-Apple-Watch]] - Working 40 hours a week feels so good.
 
 
 #excludeFromGraph (to filter out write -tag:)
