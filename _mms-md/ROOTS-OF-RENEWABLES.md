@@ -136,7 +136,7 @@ When will engineers transparently design for eco-social stability with the same 
 - an example of community-oriented mining 
 - studies that show mining pollution 
 - how african countries are interely owned by other coutnries due to mining etc (i think on insta?)
-- caroline’s mining 
+- 🌟 caroline’s mining paper
 - [JUST-TRANSITION-PRINCIPLES](JUST-TRANSITION-PRINC-FRAME.md)
 - [RADICALNESS](RADICALNESS.md)
 

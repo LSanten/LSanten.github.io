@@ -1,12 +1,18 @@
 ---
-date_created: '2024-09-21'
-date_lastchanged: '2024-11-05'
+date_created: 2024-09-21
+date_lastchanged: 2025-01-17
 layout: default
-show_date_lastchanged_updatedauto: YES, NO, NO
-title: A collection of quotes with no specific theme
+show_date_lastchanged_updatedauto: YES, YES, NO
+subtitle: No specific theme
+title: A collection of quotes that inspire me
 ---
-# A collection of quotes with no specific theme
+# A collection of quotes that inspire me
+## No specific theme
+For themed quote collections, check out [POUCH-OF-QUOTES](POUCH-OF-QUOTES.md).
 
+>When a system is far from equilibrium, small islands of coherence in a sea of chaos have the capacity to shift the entire system to a higher order.
+>
+>~ Ilya Prigogine
 
 LinkedIn post for image below [here](https://www.linkedin.com/posts/kasper-benjamin-reimer-bj%C3%B8rkskov-660a4899_sufficiency-energytransition-noobjectives-activity-7281923698872246272-t3h9?utm_source=share&utm_medium=member_desktop) - relates to [ENERGY-VEGAN](ENERGY-VEGAN.md)
 

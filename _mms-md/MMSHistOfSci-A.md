@@ -11,9 +11,8 @@ title: 'A critical timeline synthesis: roots of the scientific method'
 
 ![](media/cleanshot_2024-07-12-at-12-13-08@2x.png)
 
-
-
-I am aware that critiquing the core tenant of the science might trigger something deep inside you. I am not saying that the scientific method is wrong or not truthful.
+## A little essay on the scientific method
+I am aware that critiquing the core tenant of science might trigger something deep inside you. I am not saying that the scientific method is wrong or not truthful.
 
 I want to raise your attention to the times and core ideas from which the scientific method arose. Look at how science was defined during its times of "inception" (just to be clear, science existed long before the Western scientific method, but this time frame is what the West considers the birth of science). 
 

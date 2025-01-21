@@ -1,8 +1,8 @@
 ---
-date_created: '2023-10-17'
-date_lastchanged: '2024-11-02'
+date_created: 2023-10-17
+date_lastchanged: 2025-01-19
 layout: default
-show_date_lastchanged_updatedauto: YES, NO, NO
+show_date_lastchanged_updatedauto: YES, YES, NO
 title: Radicalness means to go back to the roots of the injustice
 ---
 # Radicalness means to go back to the roots of the injustice
@@ -12,9 +12,11 @@ title: Radicalness means to go back to the roots of the injustice
 >As a result, radicalism does not so much describe a certain set of tactics, strategies, or beliefs. Rather, it speaks to a general understanding that, even if the system as a whole can be changed through gradual institutional reforms, those reforms must be based on and aimed at a transformation of the fundamental qualities and tenets of the system itself. [1]
 
 ### The roots of plants are the most intelligent part 
-Embodying radicalness, being the root, learning from the roots of plants. What do they teach us? Plant roots investigate critically and independently while staying connected to their origin. They communicate with fungi and other roots. They engage in reciprocity. 
+When I think about what it means to embody radicalness, to embody the properties of the root, I turn to roots in nature. What do they teach us? 
 
-Therefore, to me, being radical (as inspired by roots) means to be a critical thinker and intentional decision maker. If roots were literate, they would probably love *critical theory*.
+The tip of the root is the sensing, most intelligent part of the plant. Plant roots investigate critically and independently while staying connected to their origin. They communicate with fungi and other roots. They engage in reciprocity. 
+
+Therefore, to me, being radical means to be a critical thinker and intentional decision maker. If roots were literate, they would probably love *critical theory*.
 _______
 
 [1] - Why Social Movements Need Radical Imagination - [opendemocracy.net](https://www.opendemocracy.net/en/transformation/why-social-movements-need-radical-imagination/) 

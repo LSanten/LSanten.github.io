@@ -190,6 +190,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[MMSDigitalComA]] - Communicating about communication between friends
 - [[MMSEconomicDemocracy]] - You don't live in a democracy when every big institution around you is run like a dictatorship
 - [[MMSEthicalSupplyChainViz]] - How do we communicate the regenerative potential of suppliers
+- [[MMSEVBatteryLifeCycleExtension]] - Visualizing the life of a car battery
 - [[MMSFinanceVisual]] - Most of the international transactions on this planet are not tied to any real valuable thing
 - [[MMSHealthAutopoiesis]] - What environments aid the emergence of a regenerative future?
 - [[MMSHealthTechCommuniA]] - A proposal to change communication around and interface design for battery health
@@ -260,9 +261,10 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[PROSPERITY-A]] - How to define prosperity (in the context of degrowth)
 - [[QUOTES-COMPASSION]] - Quotes that touch on compassion
 - [[QUOTES-CREATION-PEACE]] - No Title
-- [[QUOTES-GENERAL-COLLECTION]] - A collection of quotes with no specific theme
+- [[QUOTES-GENERAL-COLLECTION]] - A collection of quotes that inspire me
 - [[QUOTES-INJUSTICE-SILENCE]] - Quotes related to staying silent during times of injustice 
 - [[QUOTES-NONVIOLENCE-AND-FORCE]] - Is using force against violent forces violent?
+- [[QUOTES-SYSTEMS]] - Quotes around living systems 
 - [[RADICALNESS]] - Radicalness means to go back to the roots of the injustice
 - [[READING-RECS-A]] - Philosophical readings that I want to share with all my friends
 - [[RECYCLING-A]] - Avoided CO2 emission for recycling & avoided production for various materials 
