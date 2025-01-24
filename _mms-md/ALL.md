@@ -1,6 +1,6 @@
 ---
 date_created: '2024-09-19'
-date_lastchanged: '2025-01-20'
+date_lastchanged: '2025-01-23'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
@@ -84,7 +84,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[ELECYT-LASER-VIZ-A]] - An overview for my "laser music visualizer"
 - [[EMANCIPATORY-ACTION-RESEARCH-A]] - What is emancipatory action research?
 - [[ENERGY-CONSUMPTION-A]] - building energy use accounts for 40% of total energy use
-- [[ENERGY-ENG-A]] - Understanding the scale of needed resources for an energy transition as envisioned by western nations
+- [[ENERGY-ENG-A]] - Understanding the scale of needed metal mining for an energy transition as envisioned by western nations
 - [[ENERGY-JUSTICE-A]] - Framework for energy justice: AAA
 - [[ENERGY-VEGAN]] - Let's be energy-vegans 
 - [[ENG-WAR]] - Ethymologically engineering is rooted in creating war tools
@@ -263,6 +263,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[QUOTES-CREATION-PEACE]] - No Title
 - [[QUOTES-GENERAL-COLLECTION]] - A collection of quotes that inspire me
 - [[QUOTES-INJUSTICE-SILENCE]] - Quotes related to staying silent during times of injustice 
+- [[QUOTES-LIFE-IS-NOT-LINEAR]] - Quotes related to the non-linearity of life
 - [[QUOTES-NONVIOLENCE-AND-FORCE]] - Is using force against violent forces violent?
 - [[QUOTES-SYSTEMS]] - Quotes around living systems 
 - [[RADICALNESS]] - Radicalness means to go back to the roots of the injustice
