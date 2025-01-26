@@ -1,6 +1,6 @@
 ---
 date_created: '2024-09-19'
-date_lastchanged: '2025-01-23'
+date_lastchanged: '2025-01-25'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
@@ -54,6 +54,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[COLLABORATIVE-ECOSYSTEMS-A]] - No Title
 - [[COLLECTION-DRAWING-ARTWORK-DOODLES]] - A place where i dump my doodles and drawings
 - [[COLLECTION-GRAPHICS-UI]] - A collection of my graphics 
+- [[COLLECTION-ILLUSTRATIONS-CONSCIOUS-ENGINEERING]] - An loosely structured collection of my visual works in the engineering realm
 - [[COLLECTION-JUST-ENERGY-HUB]] - No Title
 - [[COMBAT-A]] - Insight: it's useful for a system of violence that we are conditioned to react to critique or voicing concern with feeling hurt and fighting back because it keeps our society in a state of fighting instead of working together
 - [[COMMUNICATION-A]] - It seems crucial to talk about how we talk

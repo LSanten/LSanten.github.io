@@ -8,133 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4852fddd90a0c840",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A-two-day-weekend-thats-enough-for-me-AppleTV.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "A-two-day-weekend-thats-enough-for-me-AppleTV"
-            }
-          },
-          {
             "id": "e98101f8525545eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROOTS-OF-RENEWABLES.md",
+                "file": "COLLECTION-GRAPHICS-UI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROOTS-OF-RENEWABLES"
+              "title": "COLLECTION-GRAPHICS-UI"
             }
           },
           {
-            "id": "e121faabcdcfec0d",
+            "id": "e1111325866d2671",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSEVBatteryLifeCycleExtension.md",
+                "file": "COLLECTION-ILLUSTRATIONS-CONSCIOUS-ENGINEERING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MMSEVBatteryLifeCycleExtension"
-            }
-          },
-          {
-            "id": "67a328d275880e82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMSHealthAutopoiesis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MMSHealthAutopoiesis"
-            }
-          },
-          {
-            "id": "8a311a05d11613db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMSSystemIntervention-A.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "MMSSystemIntervention-A"
-            }
-          },
-          {
-            "id": "8f65331172b514cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMSHealthAutopoiesis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MMSHealthAutopoiesis"
-            }
-          },
-          {
-            "id": "ad53a7e920732000",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EXTRACTION-A.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EXTRACTION-A"
-            }
-          },
-          {
-            "id": "76d7a9c383fd2a42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROOTS-OF-RENEWABLES.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ROOTS-OF-RENEWABLES"
-            }
-          },
-          {
-            "id": "80803a93bea5da1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENERGY-ENG-A.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ENERGY-ENG-A"
+              "title": "COLLECTION-ILLUSTRATIONS-CONSCIOUS-ENGINEERING"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mining",
+                "query": "graphic",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -207,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROOTS-OF-RENEWABLES.md",
+                "file": "COLLECTION-ILLUSTRATIONS-CONSCIOUS-ENGINEERING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ROOTS-OF-RENEWABLES"
+              "title": "Backlinks for COLLECTION-ILLUSTRATIONS-CONSCIOUS-ENGINEERING"
             }
           },
           {
@@ -275,10 +177,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76d7a9c383fd2a42",
+  "active": "e1111325866d2671",
   "lastOpenFiles": [
-    "ENERGY-ENG-A.md",
+    "COLLECTION-GRAPHICS-UI.md",
+    "COLLECTION-ILLUSTRATIONS-CONSCIOUS-ENGINEERING.md",
+    "media/cleanshot_2025-01-25-at-21-07-03@2x.png",
+    "media/cleanshot_2025-01-25-at-21-06-47@2x.png",
+    "MMSHealthAutopoiesis.md",
     "ROOTS-OF-RENEWABLES.md",
+    "ENERGY-ENG-A.md",
+    "QUOTES-GENERAL-COLLECTION.md",
+    "POUCH-OF-QUOTES.md",
     "EXTRACTION-A.md",
     "REGENERATION-A.md",
     "RENEW-MINING-A.md",
@@ -286,9 +195,7 @@
     "QUOTES-LIFE-IS-NOT-LINEAR.md",
     "EMANCIPATORY-ACTION-RESEARCH-A.md",
     "CIRCULAR-ECON-A.md",
-    "POUCH-OF-QUOTES.md",
     "MMSEVBatteryLifeCycleExtension.md",
-    "MMSHealthAutopoiesis.md",
     "CIRCULAR-ECON-F.md",
     "CIRCULAR-ECON-G.md",
     "MMSEthicalSupplyChainViz.md",
@@ -303,17 +210,11 @@
     "MMSPhilOfSciA.md",
     "A-two-day-weekend-thats-enough-for-me-AppleTV.md",
     "MMSSystemIntervention-A.md",
-    "AUTOPOIESIS-A.md",
-    "Working-40-hours-a-week-feels-so-good-Apple-Watch.md",
-    "ONTOLOGICAL-PRIMITIVES.md",
-    "MMSSocialReproductionB.md",
     "media/cleanshot_2025-01-17-at-18-19-06@2x.png",
     "media/cleanshot_2025-01-17-at-18-15-37@2x.png",
     "media/cleanshot_2025-01-17-at-18-14-26@2x.png",
     "media/cleanshot_2025-01-17-at-18-13-58@2x.png",
     "media/cleanshot_2025-01-17-at-18-13-01@2x.png",
-    "media/cleanshot_2025-01-17-at-18-11-47@2x.png",
-    "media/little-planet.jpeg",
     "media/cleanshot_2023-12-01-at-22-06-20@2x.png.sb-813ab17e-6hBwFa",
     "media/cleanshot_2023-12-01-at-22-06-20@2x.png.sb-813ab17e-IjoXuf",
     "MMSArchive_Dec42024.zip",

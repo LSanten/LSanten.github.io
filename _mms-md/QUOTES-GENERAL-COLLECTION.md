@@ -8,6 +8,10 @@ title: A collection of quotes that inspire me
 ---
 # A collection of quotes that inspire me
 ## No specific theme
+> Hatred never ceases by hatred but by love alone is healed. This is the ancient and eternal law. 
+> 
+> ~ Jack Kornfield recites someone else on [YouTube](https://youtu.be/fIQz3Ez4ETs?si=yIeHEvuo5ejWcsJO&t=1037)
+
 For themed quote collections, check out [POUCH-OF-QUOTES](POUCH-OF-QUOTES.md).
 
 >When a system is far from equilibrium, small islands of coherence in a sea of chaos have the capacity to shift the entire system to a higher order.

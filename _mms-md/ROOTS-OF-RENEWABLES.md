@@ -4,23 +4,13 @@ date_created: 2024-11-07, Visual created on
 date_lastchanged: 2025-01-22, Text last refined on
 layout: default
 show_date_lastchanged_updatedauto: YES, YES, NO
-title: Visualizing the roots of renewables
 ---
-# Visualizing the roots of renewables
-I drew this illustration because I can't stop thinking about this topic. I am on a journey to redefine what it means to be a good engineer. As part of this, I want to understand how we can visualize the systemic impact of *innovative* technologies.  Do you have ideas or want to chat? Please reach out. 
-
 ![](media/roots-of-renewables.png)
+# Visualizing the roots of renewables
+## Resources related to the illustration
+I drew this illustration because I can't stop thinking about this topic. I am on a journey to redefine what it means to be a good engineer. As part of this, I want to understand how we can visualize the systemic impact of *innovative* technologies. 
 
->Engineers design for structural integrity. But why does this not include social integrity? How can something be considered structurally safe if the structures it requires harm human and non-human life on many dimensions including the material reality of many people? 
-
-**You can find a variety of resources related to this topic below.** 
-
-## Why roots? 
-The word *radical* inherits its meaning from latin, meaning *rooted*. I drew roots because environmental injustice didn't start with CO2 in the atmosphere. Much more likely, it started with a state of mind that justified the destruction of ecosystems, displacement of people, and child labor for the sake of technological & scientific development. This way of [doing things around here](TECHNOLOGY-DEFINITION-A.md) has finally led to the warming of the whole planet.
-
-To me, radicalness means to find a solution to a problem by going back to the roots of the injustice (see more on [radicalness](RADICALNESS.md)). In an engineering context, much of the injustice occurs via the supply chains, somewhere far away from the deployment of clean energy products. 
-
-Plants have roots. The roots of plants are some of the most intelligent parts of their systems as they investigate and make decisions separately yet connected to the larger organism. Therefore, I argue that **being a radical engineer also means to a critical thinker**. Obviously and sadly, *critical theory* is a term barely stated as a core piece of a good engineer. 
+>Engineers design for structural integrity. But why does this not include social integrity? How can something be considered structurally safe if the structures it requires harm human and other-than-human life on many dimensions? 
 
 ## What are the *Just Transition Principles*?
 The [Just Transition Principles](JUST-TRANSITION-PRINC-FRAME.md) are guidelines that help us to stay focused on addressing the root causes of environmental injustice as opposed to building technological quick fixes that perpetrate ecological destruction and human suffering. 
@@ -36,7 +26,15 @@ The [Just Transition Principles](JUST-TRANSITION-PRINC-FRAME.md) are guidelines 
 - **Solidarity**
 - **Let’s Let’s Build What We Need Right Right Now**
 
-See their visual framework and read in more depth about them [over here](JUST-TRANSITION-PRINC-FRAME.md).
+![](media/Pasted%20image%2020241014131140.png)
+*The Just Transition Framework: moving from an extractive economy to a regenerative economy*
+
+## Why roots? 
+The word *radical* inherits its meaning from latin, meaning *rooted*. I drew roots because environmental injustice didn't start with CO2 in the atmosphere. Much more likely, it started with a state of mind that justified the destruction of ecosystems, displacement of people, and child labor for the sake of technological & scientific development. This way of [doing things around here](TECHNOLOGY-DEFINITION-A.md) has finally led to the warming of the whole planet.
+
+To me, radicalness means to find a solution to a problem by going back to the roots of the injustice (see more on [radicalness](RADICALNESS.md)). In an engineering context, much of the injustice occurs via the supply chains, somewhere far away from the deployment of clean energy products. 
+
+Plants have roots. The roots of plants are some of the most intelligent parts of their systems as they investigate and make decisions separately yet connected to the larger organism. Therefore, I argue that **being a radical engineer also means to a critical thinker**. Obviously and sadly, *critical theory* is a term barely stated as a core piece of a good engineer. 
 
 ## The mining needed to sustain green technology
 Wind energy and solar require **7-18 times more minerals** per energy produced compared with fossil-fuel based equivalents (per unit of energy produced). To put the energy transition effort into context, the below quotes might help. 
@@ -71,17 +69,18 @@ _________
 - An Archive for mining projects and their effects on communities: [Mining and Communities](https://www.minesandcommunities.org/)
 
 #### Magazine
-- Science or the People: Bleeding Earth, [Volume 25, no. 2](https://magazine.scienceforthepeople.org/volume-25-number-2-bleeding-earth/) :[The history of copper mining in Chile](https://magazine.scienceforthepeople.org/vol25-2-bleeding-earth/the-minerals-must-flow/) 
-
+- Science or the People: Bleeding Earth, [Volume 25, no. 2](https://magazine.scienceforthepeople.org/volume-25-number-2-bleeding-earth/) :[The history of copper mining in Chile](https://magazine.scienceforthepeople.org/vol25-2-bleeding-earth/the-minerals-must-flow/)
 #### Research Papers
 - Armstrong, R., Baillie, C., & Cumming-Potvin, W. (2014). **Mining and communities: understanding the context of engineering practice**. _Synthesis Lectures on Engineers, Technology and Society_, _8_(1), 1–148. https://doi.org/10.2200/S00564ED1V01Y201401ETS021
 - Baillie, C., Feinblatt, E., Alejandro, J., Rondon, G., Aitken, J., & Armstrong, R. (2020). **Intro & community engagement in peru. In Socially Just Mining: Rethoric or Reality? Lessons from Peru (Synthesis Lectures on Engineers, Technology, & Society)** (1st ed., p. 236). Springer.
-- Eichhorn, S. J. (2022). Resource extraction as a tool of racism in West Papua. _The International Journal of Human Rights_, 1–23. https://doi.org/10.1080/13642987.2022.2036722
-- Confalonieri, U. E. C., Margonari, C., & Quintão, A. F. (2014). Environmental change and the dynamics of parasitic diseases in the Amazon. _Acta Tropica_, _129_, 33–41. https://doi.org/10.1016/j.actatropica.2013.09.013
+- Eichhorn, S. J. (2022). **Resource extraction as a tool of racism in West Papua**. _The International Journal of Human Rights_, 1–23. https://doi.org/10.1080/13642987.2022.2036722
+- Confalonieri, U. E. C., Margonari, C., & Quintão, A. F. (2014). **Environmental change and the dynamics of parasitic diseases in the Amazon**. _Acta Tropica_, _129_, 33–41. https://doi.org/10.1016/j.actatropica.2013.09.013
 
 #### Article
 - The spiralling environmental cost of our lithium battery addiction - WIRED UK. (n.d.). Retrieved October 4, 2023, from https://www.wired.co.uk/article/lithium-batteries-environment-impact
 
+#### Movies
+- [Power Lands](https://powerlands.org/)
 %%
 ## On the other hand, far more mining is required for fossil fuels 
 
@@ -124,7 +123,7 @@ Subtitle: only when we admit shortcomings, can we address them in the future.
 
 ## Evolution from an earlier illustration 
 
-![](media/cleanshot_2024-07-27-at-17-48-57@2x.png)
+
 
 
 ## other title ideas for the first illustration
