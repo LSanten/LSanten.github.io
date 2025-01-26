@@ -19,7 +19,7 @@ More thoughts related to this graphic are here in my marble on [roots of renewab
 
 
 ### Just Energy Hub Work
-October 2022, during my Master's in Engineering, Sustainability, and Health.
+October 2022, during my Master's in [Engineering, Sustainability, and Health](https://onlinedegrees.sandiego.edu/masters-engineering-sustainability-health/classes/).
 ![](media/cleanshot_2024-07-28-at-13-06-39@2x.png)
 
 ![](media/cleanshot_2024-07-27-at-17-48-57@2x.png)
@@ -39,8 +39,8 @@ More thoughts at [ONTOLOGICAL-PRIMITIVES](ONTOLOGICAL-PRIMITIVES.md).
 ![](media/cleanshot_2024-07-28-at-17-14-00@2x.png)
 
 
-### Systemic reasoning and collaborative interface things
-more about these topics [over here](MMSSystemicCooperationInterface-A.md).
+### My Master's Thesis: Systemic reasoning and collaborative interface things
+More about my thesis and excitements [over here](MMSSystemicCooperationInterface-A.md).
 ![](media/cleanshot_2024-07-26-at-20-09-42@2x.png)
 
 ![](media/cleanshot_2024-07-28-at-14-17-14@2x.png)
