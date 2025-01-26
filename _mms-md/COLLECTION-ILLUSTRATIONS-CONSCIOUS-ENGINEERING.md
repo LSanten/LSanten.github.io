@@ -4,9 +4,9 @@ date_lastchanged: '2025-01-25'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: For environmental & social justice...
-title: An loosely structured collection of my visual works in the engineering realm
+title: A loosely structured collection of my visual works in the engineering realm
 ---
-# An loosely structured collection of my visual works in the engineering realm
+# A loosely structured collection of my visual works in the engineering realm
 ## For environmental & social justice...
 
 ### My attempt to visualize supply chains and the externalities of the engineering economy
@@ -39,7 +39,7 @@ More thoughts at [ONTOLOGICAL-PRIMITIVES](ONTOLOGICAL-PRIMITIVES.md).
 ![](media/cleanshot_2024-07-28-at-17-14-00@2x.png)
 
 
-#### Systemic reasoning and collaborative interface things
+### Systemic reasoning and collaborative interface things
 more about these topics [over here](MMSSystemicCooperationInterface-A.md).
 ![](media/cleanshot_2024-07-26-at-20-09-42@2x.png)
 
