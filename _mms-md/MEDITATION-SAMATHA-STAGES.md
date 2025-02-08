@@ -6,9 +6,10 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 title: The stages of Samatha Meditation
 ---
 # The stages of Samatha Meditation
-Guri Sohal offers an Insight Timer Course called "[Meditating Like a Monk](https://insighttimer.com/meditation-courses/meditate-like-a-monk)," in which he outlines the stages below. I liked the course as an introduction into Samatha Meditation, helping me build a practice among a whirlwind of possible ways to structure my meditation practice. 
+Guri Sohal offers an Insight Timer Course called "[Meditating Like a Monk](https://insighttimer.com/meditation-courses/meditate-like-a-monk)," in which he outlines the stages below in more detail. I liked the course as an introduction to Samatha Meditation, helping me build a practice among a whirlwind of possible ways to structure my meditation practice. 
 
 ### The Nine Mental Abidings or Stages as described by Kamalaśīla
+These stages are copied from Wikipedia and don’t have Guri‘s description. I hope to transcribe his descriptions some time. 
 
 1. Placement of the mind (S. cittasthāpana, Tib. འཇོག་པ - sems ’jog-pa) occurs when the practitioner is able to place their attention on the object of meditation, but is unable to maintain that attention for very long. Distractions, dullness of mind and other hindrances are common.
 2. Continuous placement (S. samsthāpana, Tib. རྒྱུན་དུ་འཇོག་པ - rgyun-du ‘jog-pa) occurs when the practitioner experiences moments of continuous attention on the object before becoming distracted. According to B Alan Wallace, this is when you can maintain your attention on the meditation object **for about a minute**.[78]
@@ -21,5 +22,5 @@ Guri Sohal offers an Insight Timer Course called "[Meditating Like a Monk](https
 9. Balanced placement (S. samādhāna,Tib. མཉམ་པར་འཇོག་པ་བྱེད་པ་ - mnyam-par ’jog-pa) the meditator now effortlessly reaches absorbed concentration (ting-nge-‘dzin, S. samadhi.) and can maintain it for about four hours without any single interruption.[82]
 10. Śamatha, Tib. ཞི་གནས་, shyiné - the culmination, is sometimes listed as a tenth stage.
 
-[taken from [Wikipedia](https://en.wikipedia.org/wiki/Samatha-vipassana)]
+…taken from [Wikipedia](https://en.wikipedia.org/wiki/Samatha-vipassana)
 

@@ -1,6 +1,6 @@
 ---
 date_created: '2024-09-19'
-date_lastchanged: '2025-01-25'
+date_lastchanged: '2025-02-08'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
@@ -141,6 +141,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[letter-to-the-SF-Chronicle]] - A selection of graphics
 - [[LIBERATORY-DESIGN-A]] - The Liberatory Design for Equity Process
 - [[LIVESTOCK-LAND-HOUSING-HOUSELESS]] - Illustration that compares land used for livestock compared with land needed to house houseless folks
+- [[LIVING-SYSTEMS-USEFUL-CONCEPTS-OVERVIEW]] - Living (or Complex) Systems Thinking Resources
 - [[LUHMANN-COMMUNI-A]] - It is not individuals but the structures through which they communicate that build our social systems (which are different from psychic systems) 
 - [[LUHMANN-COMMUNI-B]] - Communication "arises through a synthesis of three different selections, namely, selection of information, selection of the utterance of  this information, and a selective understanding or misunderstanding of this utterance and its information"
 - [[MANTRA-GAYATRI]] - The Gayatri mantra
@@ -249,7 +250,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[POUCH-SYSTEMS-THINKING-TOOLS]] - No Title
 - [[POVERTY-OVERVIEW]] - What is poverty?
 - [[POVERTY-STATS-A]] - No Title
-- [[POWER-A]] - No Title
+- [[POWER-A]] - Types of power
 - [[POWER-ECONOMY-A]] - The flow of power in different economic systems
 - [[PRECAUTIONARY-PRINCIPLE-A]] - Precautionary Principle versus Burden of Proof
 - [[PRESENCE-A]] - if we are present in our world and truly feel what is in as and around us, we know what to do and how to transform and change ourselves
@@ -265,7 +266,9 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[QUOTES-GENERAL-COLLECTION]] - A collection of quotes that inspire me
 - [[QUOTES-INJUSTICE-SILENCE]] - Quotes related to staying silent during times of injustice 
 - [[QUOTES-LIFE-IS-NOT-LINEAR]] - Quotes related to the non-linearity of life
+- [[QUOTES-MECHANISTIC-REDUCTION]] - Quotes related to making life mechanistic 
 - [[QUOTES-NONVIOLENCE-AND-FORCE]] - Is using force against violent forces violent?
+- [[QUOTES-POWER]] - Quotes related to power
 - [[QUOTES-SYSTEMS]] - Quotes around living systems 
 - [[RADICALNESS]] - Radicalness means to go back to the roots of the injustice
 - [[READING-RECS-A]] - Philosophical readings that I want to share with all my friends
@@ -275,6 +278,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[REPAIR-A]] - The connection between repairing consumer devices and human relationships
 - [[REPAIR-B]] - Right to repair - main things
 - [[REPAIR-E-BIKE-A]] - No Title
+- [[REST-ACTIVITY-POLARITY-MAP]] - The interplay between rest and activity 
 - [[RESTAURANT-CRIT-A]] - "Can I take that bread from you? Can you please leave it until the end of my stay"
 - [[RESTAURANT-IDEA-A]] - Mountain of Roti and Staples like whole fruits in the room
 - [[RESUME-WRITINGS-A]] - What does it mean to be a holistic engineer?

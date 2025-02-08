@@ -8,6 +8,16 @@ title: A collection of quotes that inspire me
 ---
 # A collection of quotes that inspire me
 ## No specific theme
+
+**Feb 4, 2025**
+> Our purpose is not in what we do, but it is in how we allow to move consciousness through us, our vessel, to express our gifts.
+> 
+> ~ Eckhart Tolle (recited by Nhi Nhi Le)
+
+>There are two kinds of innovation: a horizontal one, which consists of changing the answer (evolution), and a vertical one, which consists of changing the question (revolution). 
+>
+>~ Jorge Wagensberg
+
 > Hatred never ceases by hatred but by love alone is healed. This is the ancient and eternal law. 
 > 
 > ~ Jack Kornfield recites someone else on [YouTube](https://youtu.be/fIQz3Ez4ETs?si=yIeHEvuo5ejWcsJO&t=1037)

@@ -24,7 +24,7 @@ The [Just Transition Principles](JUST-TRANSITION-PRINC-FRAME.md) are guidelines 
 - **Regenerative Ecological Economics**
 - **Culture and Tradition**
 - **Solidarity**
-- **Let’s Let’s Build What We Need Right Right Now**
+- **Let’s Build What We Need Right Right Now**
 
 ![](media/Pasted%20image%2020241014131140.png)
 *The Just Transition Framework: moving from an extractive economy to a regenerative economy*
@@ -34,7 +34,7 @@ The word *radical* inherits its meaning from latin, meaning *rooted*. I drew roo
 
 To me, radicalness means to find a solution to a problem by going back to the roots of the injustice (see more on [radicalness](RADICALNESS.md)). In an engineering context, much of the injustice occurs via the supply chains, somewhere far away from the deployment of clean energy products. 
 
-Plants have roots. The roots of plants are some of the most intelligent parts of their systems as they investigate and make decisions separately yet connected to the larger organism. Therefore, I argue that **being a radical engineer also means to a critical thinker**. Obviously and sadly, *critical theory* is a term barely stated as a core piece of a good engineer. 
+Plants have roots. The roots of plants are some of the most intelligent parts of their systems as they investigate and make decisions separately yet connected to the larger organism. Therefore, I argue that **being a radical engineer also means to be a critical thinker**. Obviously and sadly, *critical theory* is a term barely stated as a core piece of a good engineer. 
 
 ## The mining needed to sustain green technology
 Wind energy and solar require **7-18 times more minerals** per energy produced compared with fossil-fuel based equivalents (per unit of energy produced). To put the energy transition effort into context, the below quotes might help. 
@@ -54,7 +54,7 @@ Obviously, fossil fuels also need to be extracted from this planet (and such min
 
 The problem will always stay the same. Mining is an inherently extractive process which has to harm our mother earth and the beings that depend on the land where mining takes place. Since there is so much inherent harm to land and people involved, we have to move very consciously and center the needs of the most affected groups and ecosystems. 
 
-Some mining projects try to involve communities at varying rates of success. It is extremely hard to find success stories in this complicated field. If you want to learn more about the efforts to pursue socially just mining, please refer to the research paper by Baillie et. al below. 
+Some mining projects try to involve communities at varying rates of success. It is extremely hard to find success stories in this complicated field. If you want to learn more about the efforts to pursue socially just mining, please refer to the research papers and books by Baillie et. al below. 
 
 ### Here is a quite personal interview with some humans affected by multinational mining corporations
 

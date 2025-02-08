@@ -13,7 +13,9 @@ title: Pouch of quotes
 - [[QUOTES-COMPASSION]]
 - [[QUOTES-LIFE-IS-NOT-LINEAR]]
 - [[QUOTES-SYSTEMS]]
-- 
+- [[QUOTES-MECHANISTIC-REDUCTION]]
+- [[QUOTES-POWER]]
+
 
 
 

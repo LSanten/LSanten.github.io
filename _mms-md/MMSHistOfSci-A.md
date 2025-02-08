@@ -45,4 +45,10 @@ Where does copernicus fit in? https://magazine.scienceforthepeople.org/online/so
 
 --> ![](media/cleanshot_2024-09-19-at-15-43-58@2x.png)
 
+
+post with video here:
+
+![](media/IMG_5308.png)
+
+
 %%

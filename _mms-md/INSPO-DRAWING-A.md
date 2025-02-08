@@ -8,4 +8,8 @@ title: Inspiration for drawing
 # Inspiration for drawing
  ![](media/Pasted%20image%2020250109152135.png)
 
+![](media/Pasted%20image%2020250128125727.png)
+
+![](media/Pasted%20image%2020250128130817.png)
+
 #inspiration 

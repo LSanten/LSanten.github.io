@@ -1,16 +1,19 @@
 ---
-date_created: '2024-11-13'
+date_created: 2024-11-13, Uploaded on
 date_lastchanged: '2024-11-22'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
-subtitle: Visualizing the underlying dynamics that lead to destruction and violence
+subtitle: A visual that contrasts the underlying dynamics and fields of a reductionist
+  and holistic approach to life
 title: Climate change is only the tip of the iceberg
 ---
 # Climate change is only the tip of the iceberg
-## Visualizing the underlying dynamics that lead to destruction and violence
+## A visual that contrasts the underlying dynamics and fields of a reductionist and holistic approach to life
 
 ![](media/Pasted%20image%2020241113124439.png)
 *(Vanasupa & Barabino 2021)*
+
+I also explored the relationship between reductionism and holism in my [science of holism framework](SCIENCE-OF-HOLISM-FRAMEWORK.md).
 
 ______
 ### References
