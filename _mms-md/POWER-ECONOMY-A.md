@@ -8,6 +8,8 @@ title: The flow of power in different economic systems
 # The flow of power in different economic systems
 
 ![](media/cleanshot_2024-01-30-at-13-22-00@2x.png)
+
+
 ![](media/cleanshot_2024-01-30-at-13-20-28@2x.png)
 
 

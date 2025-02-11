@@ -70,6 +70,7 @@ _________
 
 #### Magazine
 - Science or the People: Bleeding Earth, [Volume 25, no. 2](https://magazine.scienceforthepeople.org/volume-25-number-2-bleeding-earth/) :[The history of copper mining in Chile](https://magazine.scienceforthepeople.org/vol25-2-bleeding-earth/the-minerals-must-flow/)
+
 #### Research Papers
 - Armstrong, R., Baillie, C., & Cumming-Potvin, W. (2014). **Mining and communities: understanding the context of engineering practice**. _Synthesis Lectures on Engineers, Technology and Society_, _8_(1), 1–148. https://doi.org/10.2200/S00564ED1V01Y201401ETS021
 - Baillie, C., Feinblatt, E., Alejandro, J., Rondon, G., Aitken, J., & Armstrong, R. (2020). **Intro & community engagement in peru. In Socially Just Mining: Rethoric or Reality? Lessons from Peru (Synthesis Lectures on Engineers, Technology, & Society)** (1st ed., p. 236). Springer.

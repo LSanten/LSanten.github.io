@@ -1,6 +1,6 @@
 ---
 date_created: '2024-09-19'
-date_lastchanged: '2025-02-08'
+date_lastchanged: '2025-02-10'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
@@ -125,7 +125,8 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[INSIGHTS-COLLECTION]] - No Title
 - [[INSPIRATION-ILLUSTRATIONS]] - Illustrations that inspire me to create 
 - [[INSPO-DRAWING-A]] - Inspiration for drawing
-- [[INSTALLATION-1]] - Use all times square screens as monitors for city systems such as waste flows, monetary streams, consumption patterns
+- [[INSTALLATION-1]] - Art installation idea: Use all times square screens as monitors for city systems such as waste flows, monetary streams, consumption patterns
+- [[INSTALLATION-2]] - Art installation idea: Have a gong that gonges once in a while, and people are invited to take a breath during that time 
 - [[INTELLIGENCE-A]] - intelligence is compression
 - [[INTERDISCIPLINARITY-A]] - How do we create an interdisciplinary course?
 - [[INTERVIEWING-A]] - No Title
@@ -140,6 +141,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[letter-to-rhizome-2024]] - Climate justice cross-pollination for a regenerative economy
 - [[letter-to-the-SF-Chronicle]] - A selection of graphics
 - [[LIBERATORY-DESIGN-A]] - The Liberatory Design for Equity Process
+- [[LIST-IDEAS]] - A collection of ideas
 - [[LIVESTOCK-LAND-HOUSING-HOUSELESS]] - Illustration that compares land used for livestock compared with land needed to house houseless folks
 - [[LIVING-SYSTEMS-USEFUL-CONCEPTS-OVERVIEW]] - Living (or Complex) Systems Thinking Resources
 - [[LUHMANN-COMMUNI-A]] - It is not individuals but the structures through which they communicate that build our social systems (which are different from psychic systems) 
@@ -209,7 +211,9 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[MMSOlinSystemsBuilding]] - Examples suitable for visualizing Olin's network
 - [[MMSPhenomenaOfComplexSystems]] - What are the universal phenomena of living systems?
 - [[MMSPhilOfSciA]] - Building blocks for my philosophy of science
+- [[MMSPlantMetaphorAppliedToMoney]] - Using the plant as a way to visualize money assets and flows 
 - [[MMSQ-Transdisciplinary-awareness]] - Question to the community: How do you stay aware of people's efforts and insights beyond your own discipline?
+- [[MMSReadToShare]] - Marbles ready to be shared
 - [[MMSSensingA]] - A visual methaphor for the process/phenomenon of sensing our world and feeling the whole reality
 - [[MMSShiningLightOnTruth]] - The same object of focus shows different truths depending on the state of the observer
 - [[MMSSocialReproductionA]] - Autopoiesis and the re-production of social systems 
@@ -258,7 +262,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[PROBLEMS-A]] - Solving problems can never be the solution for long-term healing
 - [[PROBLEMS-B]] - Good and bad problems to have
 - [[PROGRESS-A]] - We need to be given back the right to define progress for oursevles, for our communities 
-- [[PROJECT-RESEARCH-AUTOMATED-SINGING-BOWL]] - No Title
+- [[PROJECT-RESEARCH-AUTOMATED-SINGING-BOWL]] - Automated singing bowl 
 - [[PropOfSciences]] - the propositions or interests of the social & natural sciences
 - [[PROSPERITY-A]] - How to define prosperity (in the context of degrowth)
 - [[QUOTES-COMPASSION]] - Quotes that touch on compassion
