@@ -47,3 +47,6 @@ It is the most *radical* thing to go back to these value roots and approach buil
 
 ![](media/cleanshot_2024-07-28-at-17-14-00@2x.png)
 
+### Using the plant as a way to visualize money assets and flows 
+
+[[MMSPlantMetaphorAppliedToMoney]]

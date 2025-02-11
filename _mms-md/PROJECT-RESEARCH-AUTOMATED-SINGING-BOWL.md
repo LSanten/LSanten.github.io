@@ -3,8 +3,11 @@ date_created: '2024-11-05'
 date_lastchanged: '2024-11-05'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
+subtitle: Existing electronic automated signing bowl
+title: Automated singing bowl
 ---
-## Electronic automated signing bowl
+# Automated singing bowl 
+## Existing electronic automated signing bowl
 
 https://www.amazon.com/Automatic-Singing-Bowl-Meditation-Balancing/dp/B0DK91GBZK
 

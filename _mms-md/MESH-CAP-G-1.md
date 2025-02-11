@@ -30,6 +30,10 @@ I sadly didn't know about this system early enough, but I started taking notes h
 
 In my opinion, the best, most powerful, and free software to organize your knowledge is called [Obsidian](https://obsidian.md/). Tools like Notion are also nice but because they are not as simplistic, it becomes hard to know where and when to save information. Obsidian, everything is one atomic bit of information. It allows you to interlink any insight or piece of knowledge with another one (which you can't easily do with documents in Notion). And you can even look at them visually. This is my web below:
 
+![](media/cleanshot_2025-02-09-at-20-14-50@2x.png)
+
+
+
 ![](media/Pasted%20image%2020241104163830.png)
 *Figure shows the web of all my notes and how they are interlinked. Green dots refer to tags, grey dots refer to actual notes.*
 

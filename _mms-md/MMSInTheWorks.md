@@ -22,7 +22,7 @@ Feel free to explore. Since I haven't finished these projects, they hold the opp
 | [MMSSystemIntervention-A](MMSSystemIntervention-A.md)                                 | List of complex systems intervention points - Donella Meadows                                                                      |                                                                                                             |
 | [MMSEVBatteryLifeCycleExtension](MMSEVBatteryLifeCycleExtension.md)                   | Visualizing the difference between Tesla's battery life cycle and the opportunity to create additional life times for batteries    | Change the visual from presentation layout to instagram layout                                              |
 | [LIVING-SYSTEMS-USEFUL-CONCEPTS-OVERVIEW](LIVING-SYSTEMS-USEFUL-CONCEPTS-OVERVIEW.md) |                                                                                                                                    |                                                                                                             |
-| [WASTE-D](WASTE-D.md)                                                                 | a counter of waste created from mining                                                                                             | ready to be shared                                                                                          |
+
 
 
 ## ✨ Needs work to look nicer
@@ -58,7 +58,9 @@ Feel free to explore. Since I haven't finished these projects, they hold the opp
 |                                           | ☀️ a scale that weights all enslaved animals and several times the amount of mammal weight on the other side |                                                                   |
 |                                           | Graphic Design Project for simple message: Environmental Justice = Social Justice and vice versa             |                                                                   |
 | [ENERGY-VEGAN](ENERGY-VEGAN.md)           | A simple sticker or graphic design project saying something like: let's become energy vegans.                |                                                                   |
-
+## Otherwise, look for:
+- [[MMSReadToShare]]
+- [MMSHomepage](MMSHomepage.md)
 _____
 
 #visualization-idea #MMS-todo 
