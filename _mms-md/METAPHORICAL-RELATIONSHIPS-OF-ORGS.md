@@ -3,10 +3,10 @@ date_created: '2024-08-06'
 date_lastchanged: '2024-10-22'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
-title: How do we visualize the systemic relationships (good or bad) of organizations?
+title: How do we visualize the systemic relationships and context of organizations?
 ---
-# How do we visualize the systemic relationships (good or bad) of organizations?
-Throughout all my work, visual representations of systemic relationship bubble out of my brain and hands. Over time, I started to develop metaphors that work across different domains, mainly inspired by nature. I have become natures apprentice, learning from phenomena in ecosystems and applying them to my engineering, design, and community-building work. 
+# How do we visualize the systemic relationships and context of organizations?
+Throughout all my work, visual representations of systemic relationships bubble out of my brain and hands. Over time, I started to develop metaphors that work across different domains, mainly inspired by nature. I have become natures apprentice, learning from phenomena in ecosystems and applying them to my engineering, design, and community-building work. 
 
 Trees, roots, nutritional storage, soil, fruits, DNA, seeds. Just as plants require nutrients, have needs, and can be supportive or extractive, social systems have similar characteristics.
 
@@ -33,14 +33,18 @@ I thought about this framework for a long time. I wanted to find a visual that c
 
 ![](media/cleanshot_2024-09-10-at-19-44-46@2x.png)
 
-## Another metaphor: roots
+## And visuals can help us understanding the interplay of heady concepts in living (complex) systems better 
+Read more about this drawing at [MMSHealthAutopoiesis](MMSHealthAutopoiesis.md).
+![](media/MMSHealthAutopoiesis-merge-05.png)
+
+## Here is another way I use metaphors. 
+Yet the roots are very real. The global north draws nutrients from the global south to grow things somewhere else. Read more about this visual at [ROOTS-OF-RENEWABLES](ROOTS-OF-RENEWABLES.md). This visual also relates to [Ethical Supply Chain Design](MMSEthicalSupplyChainViz.md). 
 ![](media/roots-of-renewables.png)
-Above illustration currently in the works... ([ROOTS-OF-RENEWABLES](ROOTS-OF-RENEWABLES.md)). This visual also relates to [Ethical Supply Chain Design](MMSEthicalSupplyChainViz.md). 
 
-## How does this work relate to other *marbles* I want to share with you?
-The Just Transition Principles, for instance, are rooted in values such as “care, cooperation, and consent.” Companies that uphold other values such as “growth” or “profit” plant these values as they plant seeds for new organizational structures. These values continue to live on in them.
+# How do all of these examples relate to other *marbles* I have on this site?
+Almost all my concepts can be tied into this metaphorical visualization of plant structures. 
 
-Values can be considered the essence of social structures. Read more about them in the marble on [ontological primitives](ONTOLOGICAL-PRIMITIVES.md).
+The Just Transition Principles, for instance, are rooted in values such as “care, cooperation, and consent.” Once could think of such values as the DNA of a plant. Companies that uphold other values such as “growth” or “profit” re-plant this DNA as they plant seeds for new organizational structures. These values continue to live on in them. Read more about the DNA idea in the marble on [ontological primitives](ONTOLOGICAL-PRIMITIVES.md).
 
 It is the most *radical* thing to go back to these value roots and approach building new regenerative systems from this perspective (see [RADICALNESS](RADICALNESS.md) for more on what this means).
 
@@ -48,5 +52,4 @@ It is the most *radical* thing to go back to these value roots and approach buil
 ![](media/cleanshot_2024-07-28-at-17-14-00@2x.png)
 
 ### Using the plant as a way to visualize money assets and flows 
-
-[[MMSPlantMetaphorAppliedToMoney]]
+Here are some notes on this topic: [[MMSPlantMetaphorAppliedToMoney]]

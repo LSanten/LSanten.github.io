@@ -13,10 +13,12 @@ According to the Canadian Poverty Institute, poverty is not merely about a lack 
 - **Social poverty** exists where people are isolated and lack the formal and informal supports necessary to be resilient in times of crisis and change.
 - **Spiritual poverty** exists where people lack meaning in their lives and connection to a faith community that sustains them.
 
-*My personal additions*: I would extend the meaning of spiritual poverty to include the tools for growth, reflection, and building of consciousness. I see that most of us are impoverished with respect to taking action in our person lives and collective lives (organizing & activism). I see that it is rooted in the inability to truly work with ourselves which limits the connection to ourselves and subsequently with others (see [[SPIRIT-WORK-A]]). 
+*My personal additions*: I would extend the meaning of spiritual poverty to include the tools for growth, reflection, and building of consciousness. I see that most of us are impoverished with respect to taking action in our personal lives and collective lives (organizing & activism). I see that it is rooted in the inability to truly work with ourselves which limits the connection to ourselves and subsequently with others (see [[SPIRIT-WORK-A]]). 
 
 The definition of loneliness as the lack of ability to touch ourselves relates to spiritual and social poverty. 
+
 __________
+
 REFERENCES
 
 https://www.povertyinstitute.ca

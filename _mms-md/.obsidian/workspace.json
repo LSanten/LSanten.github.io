@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSPlantMetaphorAppliedToMoney.md",
+                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MMSPlantMetaphorAppliedToMoney"
+              "title": "METAPHORICAL-RELATIONSHIPS-OF-ORGS"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "democracy",
+                "query": "poverty",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -131,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MMSPlantMetaphorAppliedToMoney.md",
+                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MMSPlantMetaphorAppliedToMoney"
+              "title": "Backlinks for METAPHORICAL-RELATIONSHIPS-OF-ORGS"
             }
           },
           {
@@ -171,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MMSPlantMetaphorAppliedToMoney.md",
+                "file": "POVERTY-OVERVIEW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MMSPlantMetaphorAppliedToMoney"
+              "title": "Outgoing links from POVERTY-OVERVIEW"
             }
           },
           {
@@ -198,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MMSPlantMetaphorAppliedToMoney.md",
+                "file": "POVERTY-OVERVIEW.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MMSPlantMetaphorAppliedToMoney"
+              "title": "Outline of POVERTY-OVERVIEW"
             }
           }
         ]
@@ -225,11 +224,15 @@
   },
   "active": "6315b80ed363a247",
   "lastOpenFiles": [
+    "CONTEXTUALIZED-MEDIA-AND-CONTAINER-INTERFACES.md",
+    "EYTVentilationRequirementsForDanceSpacesCA.md",
+    "POVERTY-OVERVIEW.md",
+    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+    "Untitled.md",
+    "MMSPlantMetaphorAppliedToMoney.md",
     "LIST-IDEAS.md",
     "MMSEconomicDemocracy.md",
     "INSTALLATION-1.md",
-    "MMSPlantMetaphorAppliedToMoney.md",
-    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
     "MMSSensingA.md",
     "MMSSocialReproductionB.md",
     "MMSEthicalSupplyChainViz.md",
@@ -248,11 +251,7 @@
     "MMSIcebergDynamics.md",
     "QUOTES-POWER.md",
     "QUOTES-MECHANISTIC-REDUCTION.md",
-    "REST-ACTIVITY-POLARITY-MAP.md",
-    "letter-to-rhizome-2024.md",
-    "QUOTES-GENERAL-COLLECTION.md",
     "media/IMG_5325.png",
-    "POUCH-OF-QUOTES.md",
     "media/IMG_5308.png",
     "media/Pasted image 20250128130817.png",
     "media/Pasted image 20250128125727.png",

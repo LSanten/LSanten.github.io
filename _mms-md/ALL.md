@@ -1,6 +1,6 @@
 ---
 date_created: '2024-09-19'
-date_lastchanged: '2025-02-10'
+date_lastchanged: '2025-02-11'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
@@ -66,6 +66,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[COMPLEXITY-A]] - People and systems complexity 
 - [[CONFERENCE-COMMUNI-A]] - Tell people who participated or spoke up during a conference panel what you liked about their words and ways of speaking 
 - [[CONFERENCE-COMMUNI-OVERV]] - A list of ideas for improving conference or retreat style conversations
+- [[CONTEXTUALIZED-MEDIA-AND-CONTAINER-INTERFACES]] - Envisioning containers for sharing media to communicate context, intentions, and needs
 - [[COOP-EXPECTATIONS]] - No Title
 - [[COOP-PRINCIPLES]] - Coopeartive Principles
 - [[CREATIVE-MARKETING-RESOURCE-A]] - Personal marketing - how great leaders inspire action
@@ -108,6 +109,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[EYTPlaylistsForOnlineFacilitation]] - Playlists for online facilitation and Zoom meetings
 - [[EYTPlaylistsFunDJing]] - Fun playlists I want to share with my friends 
 - [[EYTSongDownloadingConversion]] - No Title
+- [[EYTVentilationRequirementsForDanceSpacesCA]] - Ventilation Requirements for Dance Spaces in California (Title 24, CA)
 - [[FACTS-A]] - facts remain robust only when they are supported by a common culture
 - [[FAITH-BELIEF-SCIENCE]] - No Title
 - [[FLOW]] - No Title
@@ -174,7 +176,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[MESH-EJ-THESIS]] - No Title
 - [[MESH-JEH-Overview-A]] - No Title
 - [[META-CRISIS-VS-POLY-CRISIS]] - How do metacrisis and polycrisis relate?
-- [[METAPHORICAL-RELATIONSHIPS-OF-ORGS]] - How do we visualize the systemic relationships (good or bad) of organizations?
+- [[METAPHORICAL-RELATIONSHIPS-OF-ORGS]] - How do we visualize the systemic relationships and context of organizations?
 - [[MICRO-GRIDS-A]] - Microgrids and 
 - [[MILIT-A]] - Statistics surrounding the scale of the US military industrial complex
 - [[MILIT-B]] - The Climate Collateral Webinar
