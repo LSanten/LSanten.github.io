@@ -9,12 +9,10 @@ title: Ventilation Requirements for Dance Spaces in California (Title 24, CA)
 
 For dance floors in California, ventilation must comply with **Equation 120.1-G** to determine the required outdoor air supply:
 
-$$
-V_z = \max(R_p \times P_z, R_a \times A_z)
-$$
+$$ V_z = \max(R_p \times P_z, R_a \times A_z)$$
 
 Legend:  
-- **Rp = 20 cfm/person** (people-based ventilation rate)  
+- **Rp = 20 cfm/person** (people-based ventilation rate) 
 - **Pz = Maximum occupancy** (e.g., 100 people)  
 - **Ra = 1.50 cfm/ft²** (area-based ventilation rate)  
 - **Az = Total dance floor area (sq ft)**  

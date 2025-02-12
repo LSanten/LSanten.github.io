@@ -35,10 +35,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
-plugins:
-  - jekyll-redirect-from
-  - jekyll-feed
-  - jekyll-include-cache
+#plugins:
+ # - jekyll-redirect-from
+ # - jekyll-feed
+ # - jekyll-include-cache
 
 
 
@@ -54,6 +54,12 @@ include:
   - _mms_md/media
 
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  parse_block_html: true
+
+
+
 
 exclude:
   - venv/

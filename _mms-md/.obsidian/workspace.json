@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+                "file": "EYTVentilationRequirementsForDanceSpacesCA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "METAPHORICAL-RELATIONSHIPS-OF-ORGS"
+              "title": "EYTVentilationRequirementsForDanceSpacesCA"
             }
           },
           {
@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIST-IDEAS.md",
+                "file": "TEST.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "LIST-IDEAS"
+              "title": "TEST"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "poverty",
+                "query": "test",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+                "file": "TEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for METAPHORICAL-RELATIONSHIPS-OF-ORGS"
+              "title": "Backlinks for TEST"
             }
           },
           {
@@ -222,15 +223,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6315b80ed363a247",
+  "active": "3f776295e25703b8",
   "lastOpenFiles": [
-    "CONTEXTUALIZED-MEDIA-AND-CONTAINER-INTERFACES.md",
     "EYTVentilationRequirementsForDanceSpacesCA.md",
-    "POVERTY-OVERVIEW.md",
+    "TEST.md",
+    "LIST-IDEAS.md",
+    "CONTEXTUALIZED-MEDIA-AND-CONTAINER-INTERFACES.md",
+    "MEDIA-MOVEMENT-BUILDING-A.md",
+    "CO-CREATIVE-ECONOMY-A.md",
     "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
+    "POVERTY-OVERVIEW.md",
     "Untitled.md",
     "MMSPlantMetaphorAppliedToMoney.md",
-    "LIST-IDEAS.md",
     "MMSEconomicDemocracy.md",
     "INSTALLATION-1.md",
     "MMSSensingA.md",
@@ -248,9 +252,6 @@
     "LIVING-SYSTEMS-USEFUL-CONCEPTS-OVERVIEW.md",
     "WASTE-D.md",
     "POWER-A.md",
-    "MMSIcebergDynamics.md",
-    "QUOTES-POWER.md",
-    "QUOTES-MECHANISTIC-REDUCTION.md",
     "media/IMG_5325.png",
     "media/IMG_5308.png",
     "media/Pasted image 20250128130817.png",

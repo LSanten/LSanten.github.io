@@ -51,7 +51,28 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
-  <!-- END EXPAND BUTTON -->
+
+  <!-- FOR LATEX RENDERING -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/contrib/auto-render.min.js"></script>
+  <script>
+  document.addEventListener("DOMContentLoaded", function() {
+      renderMathInElement(document.body, {
+          delimiters: [
+              { left: "$$", right: "$$", display: true },
+              { left: "$", right: "$", display: false }
+          ],
+          throwOnError: false
+      });
+  });
+  </script>
+
+
+  
+
+
+
 </head>
 <body>
   <!-- navigation -->
@@ -245,14 +266,22 @@
           <h1 id="this-year-systems-designed-by-engineers-have-contributed-to-the-following">This year, systems designed by engineers have contributed to the following</h1>
 
 <div style="border: 5px solid orange; border-radius: 15px; padding: 10px; display: inline-block; background-color: #FFE5B4;">
-    <iframe title="Tons of electronic waste thrown out this month" src="https://www.theworldcounts.com/embeds/counters/18?background_color=transparent&amp;color=black&amp;font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&amp;font_size=14" style="border: none" height="120" width="100%">
-    </iframe>
+  <div class="language-plaintext highlighter-rouge">
+<div class="highlight"><pre class="highlight"><code>&lt;iframe title='Tons of electronic waste thrown out this month' 
+    src='https://www.theworldcounts.com/embeds/counters/18?background_color=transparent&amp;color=black&amp;font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&amp;font_size=14' 
+    style='border: none' height='120' width="100%"&gt;
+&lt;/iframe&gt;
 
-    <iframe title="Tons of toxic waste produced from gold mining" src="https://www.theworldcounts.com/embeds/counters/26?background_color=transparent&amp;color=black&amp;font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&amp;font_size=14" style="border: none" height="120" width="100%">
-    </iframe>
+&lt;iframe title='Tons of toxic waste produced from gold mining' 
+    src='https://www.theworldcounts.com/embeds/counters/26?background_color=transparent&amp;color=black&amp;font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&amp;font_size=14' 
+    style='border: none' height='120' width='100%'&gt;
+&lt;/iframe&gt;
 
-    <iframe title="Tons of wastewater from steel mining" src="https://www.theworldcounts.com/embeds/counters/58?background_color=transparent&amp;color=black&amp;font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&amp;font_size=14" style="border: none" height="120" width="100%">
-    </iframe>
+&lt;iframe title='Tons of wastewater from steel mining' 
+    src='https://www.theworldcounts.com/embeds/counters/58?background_color=transparent&amp;color=black&amp;font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&amp;font_size=14' 
+    style='border: none' height='120' width='100%'&gt;
+&lt;/iframe&gt;
+</code></pre></div>  </div>
 </div>
 
 <p>What price do we pay for innovation and development? And who exactly pays for it? These toxins typically do not end up in Western nations.</p>

@@ -7,7 +7,7 @@ title: Growing the Co-Creative Economy
 ---
 # Growing the Co-Creative Economy 
 
-ELIAS, the CDKN Action Lab Event, and the Girl Scouts—ACPC Leadership Circle have other lessons to teach as well. 
+**This is an excerpt from the book *Theory U: From Ego-system to Eco-system economies**:*
 
 First: Redraw the boundaries between cooperation and competition. Capitalism 2.0 is constructed on the logic of competition. The 3.0 economy adds government action on top of that (an example is the welfare state). Today we face challenges that are characterized by simultaneous market and government failure. These problems invite us to redraw the boundaries of competition and cooperation by introducing arenas of premarket cooperation among all sectors. 
 
@@ -22,9 +22,12 @@ Third: The platforms and arenas of eco-system innovation need new social technol
 5. Infrastructures for co-evolving. Micro- and frontline prototype initiatives are seeds that leaders can plant and support in selected parts of the system. Growing, sustaining, scaling, and evolving these initiatives in the context of the larger system require cross-functional, cross-level, and cross-institutional leadership learning and hands-on innovation initiatives. In order to provide this support, the team at the top also requires a helping infrastructure to progress on their own leadership journey from ego- to eco-system awareness.
 
 
+_____
+### Other sources
+ELIAS, the CDKN Action Lab Event, and the Girl Scouts—ACPC Leadership Circle have relates lessons to teach as well (haven't had time to look into them).
+
 __________
+## Reference
 Scharmer, Otto; Kaufer, Katrin. Leading from the Emerging Future: From Ego-System to Eco-System Economies (p. 187-189). Berrett-Koehler Publishers. Kindle Edition. 
 
-
-Important for MESH-CAP capstone
 

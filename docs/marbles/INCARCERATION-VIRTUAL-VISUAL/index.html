@@ -51,7 +51,28 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
-  <!-- END EXPAND BUTTON -->
+
+  <!-- FOR LATEX RENDERING -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/contrib/auto-render.min.js"></script>
+  <script>
+  document.addEventListener("DOMContentLoaded", function() {
+      renderMathInElement(document.body, {
+          delimiters: [
+              { left: "$$", right: "$$", display: true },
+              { left: "$", right: "$", display: false }
+          ],
+          throwOnError: false
+      });
+  });
+  </script>
+
+
+  
+
+
+
 </head>
 <body>
   <!-- navigation -->
@@ -244,8 +265,7 @@
 
           <h1 id="scroll-through-the-mass-of-incarcerated-people-in-the-united-states">Scroll through the mass of incarcerated people in the United States</h1>
 <h2 id="and-learn-insightful-statistics-along-the-way">And learn insightful statistics along the way</h2>
-<iframe src="https://mkorostoff.github.io/incarceration-in-real-numbers/" width="100%" height="800" style="border:none;">
-</iframe>
+<iframe src="https://mkorostoff.github.io/incarceration-in-real-numbers/" width="100%" height="800" style="border:none;"></iframe>
 
 <h3 id="more-incarceration-statistics-for-the-us-over-here">More incarceration statistics for the US over 🔮 <a href="../INCARCERATION-STATS/">here</a>
 </h3>
