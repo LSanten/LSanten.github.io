@@ -1,0 +1,306 @@
+<!DOCTYPE HTML>
+<!--
+	Phantom by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Soft-robotics finger actuator</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="shortcut icon" href="images/favicon/favicon_2.ico">
+
+		<style>
+		body {
+		  background-image: url("images/drop.png");
+		  background-repeat: no-repeat;
+		  background-position: 71% 0%;
+		  background-size: 70px 259px;
+
+		}
+		</style>
+
+				<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-198326221-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-198326221-1');
+		</script>
+
+
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
+
+							<!-- Logo -->
+								<a href="index.html" class="logo">
+									<span class="symbol"><img src="images/favicon/favicon_2.ico" alt="" /></span><span class="title">Leon Santen</span>
+								</a>
+
+							<!-- Nav -->
+							<!-- IN DEVELOPMENT
+								<nav>
+									<ul>
+										<li><a href="#menu">Menu</a></li>
+									</ul>
+								</nav>
+							IN DEVELOPMENT END-->
+
+						</div>
+					</header>
+
+				<!-- Menu -->
+				<!-- IN DEVELOPMENT
+					<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="generic.html">Ipsum veroeros</a></li>
+							<li><a href="generic.html">Tempus etiam</a></li>
+							<li><a href="generic.html">Consequat dolor</a></li>
+							<li><a href="elements.html">Elements</a></li>
+						</ul>
+					</nav>
+				IN DEVELOPMENT END-->
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<h1>Cable-Driven Finger Actuator for Scratching</h1>
+							<h3>A soft-robotics project</h3>
+							<ul class="icons">
+								<li class="icon fa-clock"> May 2021</li>
+							</ul>
+
+							<center><h2>Abstract</h2></center>
+							<div class="row">
+								<div class="col-2 col-12-medium">
+
+								</div>
+								<div class="col-8 col-12-medium">
+									<center><font face = "Times New Roman" size = "5"><p>I developed a finger-inspired soft actuator to perform a safe scratching motion on humans. The finger actuator was cable-driven via motors and performed a bending motion of up to 110 degrees. The bone structure was made out of clay and strengthened with hot-glue. To emulate the bendable joints, the bones were surrounded by Ecoflex 00-30 silicone. Proprioception was acquired by encoding the motors' position. The first prototype had one tendon and was only able to bend down. The second prototype had two tendons to pull up the finger right after the bending-down motion. The cable-driven fingers performed well and reliably. Thin silicone layers on top and bottom of the finger helped to reduce stiffness and increase bending.</p></font></center>
+								</div>
+								<div class="col-2 col-12-medium">
+
+								</div>
+							</div>
+
+
+							<br/><br/>
+							<h2>Motivation</h2>
+
+							<p>
+								The goal of this soft actuator was to perform a satisfying and safe scratching motion on humans. The soft design was intended to result in little or no harm when misplaced on a human. The scratching motion was supposed to be as close to a natural human scratching motion as possible. This project arose from a an interest in robotics systems that interacto organically with humans, specifically in a physical sense. Massage robots and their limitations as natural objects drove the design to mimik our human body not only from a visual standpoint but also from a mechanical experience perspective.
+
+							</p>
+
+							<h2>Prior approaches</h2>
+							<p>
+								A large variety of soft robotics exists that tries to mimic tendon-driven finger actuation. Massage robots exist mostly in the form of hard robots [1][2]. However, many approaches have been made to develop soft finger actuators. A bending motion is oftentimes achieved with shape memory alloys (SMA) that are embedded in a soft flexible piece [3][4]. When the SMA contracts, the flexible structures bends to accommodate for the shorter wire length. Similar motions can be achieved with normal wires that are pulled by a motor [5].
+							</p>
+
+							<figure>
+							  <img src="images/projects/soft-robotics/BanksAndShahid.png" alt="" style="width:80%" align="middle" >
+							  <figcaption><i><b>Figure 1:</b> Shahid’s finger actuation methods on the left and Banks’ tendon analysis on the right [7] [6]. My prototypes made use of the FDP and ADC tendons.</i></figcaption>
+							</figure></br></br>
+
+							<p>Banks (2002) studied the mechanics of finger tendons for a hard robotics finger to achieve urling, sideways, and upwards motion [6]. In this particular study, the input from finger tip sensors and motor resistance was used to determine if the finger was grabbing something. Shahid (2018) reviewed a variety of finger actuation methods. Shahid states that over time publications have shifted from hard actuation to soft actuation, suggesting that soft actuation is a more versatile solution to finger inspired actuation [7].</p>
+
+
+							<h2>My finger prototypes</h2>
+
+							<p>
+								I attempted to create two prototypes. My first prototype explored the general actuation method inspired by finger mechanics. The second prototype incorporated two tendons for up and downwards motion and motors with encoders.
+							</p>
+
+							<h3>One tendon prototype</h3>
+
+							<figure>
+							  <img src="images/projects/soft-robotics/1.jpg" alt="" style="width:65%" align="middle" >
+							  <figcaption><i><b>Figure 2:</b> One-tendon cable-driven actuator with bones and silicone joints/flesh.</i></figcaption>
+							</figure></br></br>
+
+							<p>This prototype made use of the following materials: Ecoflex 00-30 silicone, bakeable clay, nylon cord, nylon tubing, 155RPM Micro Metal Gearmotor without encoder, motor driver, cables, potentiometer, Arduino Uno, flex-sensor, fake nail.</p>
+
+							<p>My first prototype explored the mechanical design of the finger. I decided to limit the design to two joints as opposed to three joints to restrict the bending motion to a tip bendig rather than a full curling of the finger. The prototyping underwent the following stages:</p>
+
+							<ul>
+
+							<li>I modelled the bone pieces and an appropriate holder for the motor out of clay. I added the nylon tubing to the clay</li>
+							<li>I baked the clay for 8 minutes at 180 degrees F.
+</li>
+							<li>I time-consumingly 3D-printed a mold for the clay pieces and placed the finger pieces with the attached nylon cord in the mold.
+</li>
+							<li>I flooded the mold with silicone 00-30 and let it sit for 5 hours.
+</li>
+							<li>I carved off the silicone around the finger to reduce stiffness
+</li>
+							<li>I inserted the encoder-free motor into the clay structure and hot glued it into position
+</li>
+							<li>I strengthened the outer shell of the motor enclosure with hot glue to prevent braking.
+</li>
+							<li>I attempted to mount a flex-sensor to implement a feedback loop
+</li>
+							<li>I added a fake nail to the tip of the actuator
+</li>
+
+</ul>
+
+							<figure>
+								<img src="images/projects/soft-robotics/bone1.jpg" alt="" style="width:65%" align="middle" >
+								<figcaption><i><b>Figure 3:</b> Silicone mold that was 3D printed with hot glue. One can see the tubing and nylong cable in right below the bones.</i></figcaption>
+							</figure></br>
+
+							<p>The final one-tendon soft cable-driven actuator consisted of the following subsystems:
+							</p>
+							<ul>
+								<li>Mechanical system including bones, silicone and motor encasing</li>
+								<li>Electrical hardware including motor, wires, flex-sensor, potentiometer, and Arduino</li>
+								<li>Software system mainly potentiometer readings to control actuation</li>
+							</ul>
+
+							<h4>Results for one-tendon prototype</h4>
+
+							<p>After I had carved down the finger to reduce its stiffness, the motor was strong enough to pull the finger up to 110 degrees. The final finger was 6 in long. This amount of flexibility was more than I had expected. I had originally ordered 3D bone pieces. However, they did not arrive in time. The actuation worked reliably and took around 1.8 seconds to a full bend. Due to the elasticity of the silicone, the finger moved back into position when the motor turned the other way. This prototype already satisfied my MVP expectations for a scratching motion. The scratching motion of the finger was still significant (around an inch) when placed on my head or skin.</p>
+							<figure>
+								<img src="images/projects/soft-robotics/curl.jpg" alt="" style="width:50%" align="middle" >
+								<figcaption><i><b>Figure 4:</b> Fully curled-up one-tendon actuator.</i></figcaption>
+							</figure><br>
+							<p>Issues regarding this prototype were specifically related to the brittleness of the clay. One of the bones inside the silicone broke after a strong pull on the wire. However, it stayed in place and did not impact the finger performance. Furthermore, the flex-sensor added too much rigidity to the finger construction. I had to take it off to obtain any meaningful bending. I further noticed that the hot-glue 3D-printing process was unnecessarily long as I could have used cardboard to fabricate the mold.</p>
+
+							<h3>Two-tendon prototype</h3>
+							<p>This prototype made use of the following materials: Ecoflex 00-30 silicone, bakeable clay, nylon cord, nylon tubing, two 155RPM Micro Metal Gearmotors with encoders, motor driver, cables, Arduino Uno,, fake nail.</p>
+							<figure>
+							  <img src="images/projects/soft-robotics/bone2.jpg" alt="" style="width:65%" align="middle" >
+							  <figcaption><i><b>Figure 5:</b> In the two-tendon version, the clay bone pieces were supported with a hot glue exoskeleton.</i></figcaption>
+							</figure></br>
+							<p>My second prototype investigated an additional upward motion. It therefore consisted of two tendons and motors. I further implemented encoder to allow for meaningful proprioception of the system and implemented a PID loop for position control. The prototyping underwent the following stages:</p>
+							<ul>
+								<li>								I modelled the bone pieces and an appropriate holder for the two motors out of clay. I added the nylon tubing to the clay
+</li>
+								<li>I added hot glue to all bone pieces for additional structural support
+</li>
+								<li>I baked the clay for 8 minutes at 180 degrees F.
+</li>
+								<li>I fabricated a mold with glossy cardboard
+</li>
+								<li>I flooded the mold with silicone 00-30 and let it sit for 5 hours.
+</li>
+								<li>I carved off the silicone around the finger to reduce stiffness
+</li>
+								<li>I inserted the motors with encoders into the clay structure and hot glued it into position
+</li>
+								<li>I strengthened the outer shell of the motor enclosure with hot glue to prevent braking.
+</li>
+								<li>I hooked up the motors to the motor controller and the encoders to the Arduino
+</li>
+								<li>I programmed a simple PID loop to move the finger up and down
+</li>
+								<li>I added a fake nail to the tip of the actuator
+</li>
+							</ul>
+
+
+
+							<p>The final two-tendon cable-drive soft actuator consisted of the following sub-systems:
+</p>
+							<ul>
+								<li>Mechanical construction such as bone pieces, silicone, and motor encasing
+</li>
+								<li>Electrical hardware such as motors, encoders, wires, and Arduino
+</li>
+								<li>Software systems on the Arduino mainly PID control and actuation code
+</li>
+							</ul>
+
+
+
+
+
+							<h4>Results for two-tendon prototype</h4>
+
+							<p>The two-tendon prototype happened to be larger as I accidentally increased the size of the bones. The final finger was 9.5 in long. I was therefore much more rigid and was only able to bend up to 30 degrees in both directions. However, bending in both direction worked reliably. The bending motion was not quite as clean as with the first prototype as one of the bone pieces rotated during the molding process. It therefore bent slightly sideways when actuated.<br>
+							The encoders added precision to the controlling algorithm that could not have been achieved with the flex-sensor. However, the nylon cable started to slip of the motor shafts after long sessions of actuation.<figure>
+							  <img src="images/projects/soft-robotics/2.jpg" alt="" style="width:65%" align="middle" >
+							  <figcaption><i><b>Figure 6:</b> Two-tendon cable-driven actuator with encoders.</i></figcaption>
+							</figure>
+</p>
+							<p>This prototype was a success in the sense that it implemented a working control loop and additional motion. However, due to its size and stiffness it was less suitable for a scratching motion.</p>
+
+							<h2>Discussion and future work</h2>
+							<p>The bending motion achieved by finger mechanics is strong and reliable. Due to its soft natre, the actuator is safe to use around humans. As bone materials were rather soft, the actuator would break before it would seriously harm humans. I see this an advantage of the system rather than weakness. <br><br>
+
+I see great potential in a system design that incorporates more than one finger to achieve a grabbing motion. As investigated by Banks [6], there is great opportunity to achieve more complex finger motions with different tendon placement. Tendons are relatively easy to add and will improve the large scale applicability of the robot hand. <br><br>
+
+I recommend using motor encoders for position sensing. However, the nylon wire needs to be connected to the shaft more securely. A 3D print seems appropriate if glue is not welcomed. I further recommend a maximum finger length of 8 in with the given Ecoflex 00-30 silicone to create an appropriate stiffness.<br><br>
+
+This design impressed me in its feasibility and reliability. Especially compared to pneumatic actuators, actuators of high strength and durabilty can be made easily.
+</p>
+
+
+							<hr>
+							<h3>References</h3>
+
+							<p>
+							<b>[1] </b>AiTreat | Singapore | EMMA Therapeutic Robot. (n.d.). . Retrieved May 12, 2021, from <a href="https://www.aitreat.com/">https://www.aitreat.com/</a>
+							</p>
+							<p>
+							<b>[2] </b>LEROU- World’s first finger simulated head massaging robot by LEROU — Kickstarter. (n.d.). . Retrieved May 12, 2021, from <a href="https://www.kickstarter.com/projects/456601583/lerou-worlds-first-finger-simulated-massaging-robot">https://www.kickstarter.com/projects/456601583/lerou-worlds-first-finger-simulated-massaging-robot</a>
+							</p>
+							<p>
+							<b>[3] </b>Kim, H.-I., Han, M.-W., Song, S.-H., & Ahn, S.-H. (2016). Soft morphing hand driven by SMA tendon wire. Composites Part B: Engineering, 105, 138–148.</p>
+							<p>
+							<b>[4] </b>Wang, W., Rodrigue, H., Kim, H.-I., Han, M.-W., & Ahn, S.-H. (2016). Soft composite hinge actuator and application to compliant robotic gripper. Composites Part B: Engineering, 98, 397–405.
+							</p>
+							<p>
+								<b>[5] </b>Dehghani, M., & Moosavian, S. A. A. (2014). Dynamics Modeling of a Continuum Robotic Arm with a Contact Point in Planar Grasp. Journal of Robotics, 2014, 1–13.
+							</p>
+							<p>
+							<b>[6] </b>Banks, J. (2001). Design and Control of an Anthropomorphic Robotic Finger with Multi-point Tactile Sensation.
+							</p>
+							<p>
+							<b>[7] </b>Shahid, T., Gouwanda, D., Nurzaman, S. G., & Gopalai, A. A. (2018). Moving toward Soft Robotics: A Decade Review of the Design of Hand Exoskeletons. Biomimetics, 3(3), 17.
+							</p>
+						</div>
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+
+							<section>
+								<h2>Get in touch</h2>
+								<ul class="icons">
+									<li><a href="mailto:leon.santen@icloud.com" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
+									<li><a href="tel:001-781-535-4848" class="icon solid style2 fa-phone"><span class="label">Phone</span></a></li>
+									<li><a href="https://github.com/LSanten" class="icon brands style2 fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+									<li><a href="https://www.instagram.com/leoncurly/" class="icon brands style2 fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+									<li><a href="https://www.facebook.com/leon.sa.50" class="icon brands style2 fa-facebook-f" target="_blank"><span class="label">Facebook</span></a></li>
+								</ul>
+							</section>
+							
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

@@ -30,4 +30,4 @@ more places that interrupt the dominant narrative:
 - https://www.humansofnewyork.com/tagged/inmate-stories
 
 ## When you communicate about your work, start with the why, then move to how and what
-Simon Sinek describes that this communication approach is more fruitful than starting with the what. See video and notes on [CREATIVE-MARKETING-RESOURCE-A](CREATIVE-MARKETING-RESOURCE-A.md).
+Simon Sinek describes that this communication approach is more fruitful than starting with the what. See video and notes on [MARKETING-RESOURCE-A-WHY-HOW-WHAT](MARKETING-RESOURCE-A-WHY-HOW-WHAT.md).

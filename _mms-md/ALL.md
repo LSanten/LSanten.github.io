@@ -1,6 +1,6 @@
 ---
-date_created: '2024-09-19'
-date_lastchanged: '2025-02-11'
+date_created: '2024-08-04'
+date_lastchanged: '2025-02-14'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
@@ -15,6 +15,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[AGRICULTURE-A]] - Summary of emissions of agriculture and livestock
 - [[ALL]] - No Title
 - [[ANARCH-COUPLE-A]] - Kill the couple in your head
+- [[ANNUAL-REVIEW-FRAMEWORK]] - The Annual Review Framework: Questions to help cut the noise
 - [[APP-IDEA-A]] - An app for friends where we share intentions for the week and spontaneous trips
 - [[APP-IDEA-B]] - An app for different forms of communication: letters, short notices etc...
 - [[APP-IDEA-C]] - A cute sharing ideas among friends platform
@@ -69,7 +70,6 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[CONTEXTUALIZED-MEDIA-AND-CONTAINER-INTERFACES]] - Envisioning containers for sharing media to communicate context, intentions, and needs
 - [[COOP-EXPECTATIONS]] - No Title
 - [[COOP-PRINCIPLES]] - Coopeartive Principles
-- [[CREATIVE-MARKETING-RESOURCE-A]] - Personal marketing - how great leaders inspire action
 - [[CUTE-A]] - Name idea: the lame baby club
 - [[DEATH-A]] - It’s all about the ability to create relationships and let go of relationships. 
 - [[DEGROWTH-SDG-IPCC]] - SDGs addressed by degrowth
@@ -113,7 +113,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[FACTS-A]] - facts remain robust only when they are supported by a common culture
 - [[FAITH-BELIEF-SCIENCE]] - No Title
 - [[FLOW]] - No Title
-- [[FRAMEWORKS-COMMUNITY-WEAVING]] - A Framework for weaving together and integrating parts of a community
+- [[FRAMEWORK-COMMUNITY-WEAVING]] - A Framework for weaving together and integrating parts of a community
 - [[FREE-WILL-A]] - "The opposite of free will is not determinism but compulsion" 
 - [[GLUCOSE-A]] - No Title
 - [[GRADES-A]] - VISUAL: Grades are a sad mix of rejection and merely good enough
@@ -143,6 +143,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[letter-to-rhizome-2024]] - Climate justice cross-pollination for a regenerative economy
 - [[letter-to-the-SF-Chronicle]] - A selection of graphics
 - [[LIBERATORY-DESIGN-A]] - The Liberatory Design for Equity Process
+- [[LIST-DESIGN-TOOLS]] - A list of design tools 
 - [[LIST-IDEAS]] - A collection of ideas
 - [[LIVESTOCK-LAND-HOUSING-HOUSELESS]] - Illustration that compares land used for livestock compared with land needed to house houseless folks
 - [[LIVING-SYSTEMS-USEFUL-CONCEPTS-OVERVIEW]] - Living (or Complex) Systems Thinking Resources
@@ -152,6 +153,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[MANTRA-MA-KALI-A]] - No Title
 - [[MANTRA-SRI-YANTRA]] - No Title
 - [[MARKET-CONF-A]] - IDEA: create a market space to network, surface insights & proposals, and interconnect movement efforts
+- [[MARKETING-RESOURCE-A-WHY-HOW-WHAT]] - Personal marketing - how great leaders inspire action
 - [[MASLOWS-NEEDS-BEYOND]] - classic Maslow model: pyramid of needs
 - [[MCGILCHRIST2021-VID]] - Our Unmaking of the World - and the return to being
 - [[MEDIA-MOVEMENT-BUILDING-A]] - Movement building principles for media creation

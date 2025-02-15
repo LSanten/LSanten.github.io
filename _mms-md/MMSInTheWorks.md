@@ -58,9 +58,11 @@ Feel free to explore. Since I haven't finished these projects, they hold the opp
 |                                           | ☀️ a scale that weights all enslaved animals and several times the amount of mammal weight on the other side |                                                                   |
 |                                           | Graphic Design Project for simple message: Environmental Justice = Social Justice and vice versa             |                                                                   |
 | [ENERGY-VEGAN](ENERGY-VEGAN.md)           | A simple sticker or graphic design project saying something like: let's become energy vegans.                |                                                                   |
+
 ## Otherwise, look for:
 - [[MMSReadToShare]]
 - [MMSHomepage](MMSHomepage.md)
+
 _____
 
 #visualization-idea #MMS-todo 

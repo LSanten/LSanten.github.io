@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSInTheWorks.md",
+                "file": "MMSHomepage.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "MMSInTheWorks"
+              "title": "MMSHomepage"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "test",
+                "query": "homepage",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEST.md",
+                "file": "MMSHomepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TEST"
+              "title": "Backlinks for MMSHomepage"
             }
           },
           {
@@ -223,10 +223,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f776295e25703b8",
+  "active": "e1111325866d2671",
   "lastOpenFiles": [
-    "EYTVentilationRequirementsForDanceSpacesCA.md",
+    "MMSInTheWorks.md",
     "TEST.md",
+    "FRAMEWORK-COMMUNITY-WEAVING.md",
+    "LIST-DESIGN-TOOLS.md",
+    "ANNUAL-REVIEW-FRAMEWORK.md",
+    "MARKETING-RESOURCE-A-WHY-HOW-WHAT.md",
+    "media/Annual+Review+Framework+for+2024.pdf",
+    "EYTVentilationRequirementsForDanceSpacesCA.md",
     "LIST-IDEAS.md",
     "CONTEXTUALIZED-MEDIA-AND-CONTAINER-INTERFACES.md",
     "MEDIA-MOVEMENT-BUILDING-A.md",
@@ -247,11 +253,6 @@
     "PROJECT-RESEARCH-AUTOMATED-SINGING-BOWL.md",
     "COLLECTION-GRAPHICS-UI.md",
     "MMSReadToShare.md",
-    "MMSInTheWorks.md",
-    "INSTALLATION-2.md",
-    "LIVING-SYSTEMS-USEFUL-CONCEPTS-OVERVIEW.md",
-    "WASTE-D.md",
-    "POWER-A.md",
     "media/IMG_5325.png",
     "media/IMG_5308.png",
     "media/Pasted image 20250128130817.png",
@@ -271,7 +272,6 @@
     "media/crayon-brushes-cs5-cs6.ai",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "media/MMSPhilOfSciA_8.png.tmp$$",
-    "media/MMSPhilOfSciA_7.png.tmp$$"
+    "media/MMSPhilOfSciA_8.png.tmp$$"
   ]
 }

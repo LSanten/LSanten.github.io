@@ -7,3 +7,4 @@ Jekyll::Hooks.register :documents, :post_render do |document|
     end
   end
 end
+

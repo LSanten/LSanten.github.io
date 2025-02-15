@@ -45,6 +45,7 @@ Find a list of all quote marbles in [pouch of quotes](POUCH-OF-QUOTES.md).
 
 ![](media/cleanshot_2024-09-11-at-14-16-35@2x.png)
 
+#starvation #poverty 
 
 
 > Everyone is struggling hard.
