@@ -1375,7 +1375,7 @@ mark {
 }
 .footer-list a {
   display: block;
-  color: #333;
+  color: #c667d8;
   padding: 5px;
 }
 .footer-list a:hover {
@@ -1757,24 +1757,39 @@ table th {
   color: white;
 }
 
-/* Style for date */
+/* Base Style for the Date Pills */
+.marble-date {
+  display: block; /* Ensures each pill is on a new line */
+  text-align: center; /* Centers text inside the pill */
+  font-family: inherit; /* Matches surrounding text */
+  font-size: 14px; /* Adjust text size */
+  line-height: 1.2; /* Keeps it compact */
+  color: #96bcdc; /* Text color */
 
-marbledate {
-  display: block; /* Makes it behave like a <p> tag */
-  text-align: right; /* Aligns text to the right */
-  font-family: inherit; /* Inherits font styling from <p> */
-  font-size: 14px; /* Inherits font size from <p> */
-  margin: 0; /* Matches <p> margin styling */
-  line-height: inherit; /* Matches <p> line height */
-  color: #96bcdc;
+  /* Pill shape styling */
+  background-color: white; /* White background */
+  padding: 4px 10px; /* Spacing around the text */
+  border-radius: 15px; /* Fully rounded edges */
+  border: 1px solid #ccc; /* Optional: subtle border */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07); /* Optional: soft shadow */
+
+  white-space: nowrap; /* Prevents breaking into multiple lines */
+  margin: 5px 0 5px auto; /* Moves each pill to the right */
+  width: fit-content; /* Ensures the pill is only as wide as needed */
 }
 
-marbledate + marbledate {
-  margin-top: 0; /* Small gap between adjacent <marbledate> elements */
+
+/* Maintain spacing between multiple date elements */
+.marble-date + .marble-date {
+  margin-top: 5px; /* Keeps a small gap between adjacent dates */
 }
 
-marbledate:last-of-type {
-  margin-bottom: 15px; /* Gap below the last <marbledate> */
+/* Ensures spacing below the last date */
+.marble-date:last-of-type {
+  margin-bottom: 15px;
 }
+
+
+
 
 

@@ -1,8 +1,8 @@
 ---
-date_created: '2024-08-23'
-date_lastchanged: '2024-11-13'
+date_created: 2024-08-23
+date_lastchanged: 2025-02-14
 layout: default
-show_date_lastchanged_updatedauto: YES, NO, NO
+show_date_lastchanged_updatedauto: YES, YES, NO
 title: My pouch of marbles for mostly.mutual studio
 ---
 # My pouch of marbles for mostly.mutual studio

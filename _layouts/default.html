@@ -264,18 +264,18 @@
             {% if show_created == 'YES' and page.date_created %}
               {% assign created_parts = page.date_created | split: "," %}
               {% if created_parts.size > 1 %}
-                <marbledate>{{ created_parts[1] | strip }} {{ created_parts[0] | date: "%B %d, %Y" }}</marbledate>
+                <span class="marble-date">{{ created_parts[1] | strip }} {{ created_parts[0] | date: "%B %d, %Y" }}</span>
               {% else %}
-                <marbledate>Created on {{ created_parts[0] | date: "%B %d, %Y" }}</marbledate>
+                <span class="marble-date">Created on {{ created_parts[0] | date: "%B %d, %Y" }}</span>
               {% endif %}
             {% endif %}
             
             {% if show_lastchanged == 'YES' and page.date_lastchanged %}
               {% assign lastchanged_parts = page.date_lastchanged | split: "," %}
               {% if lastchanged_parts.size > 1 %}
-                <marbledate>{{ lastchanged_parts[1] | strip }} {{ lastchanged_parts[0] | date: "%B %d, %Y" }}</marbledate>
+                <span class="marble-date">{{ lastchanged_parts[1] | strip }} {{ lastchanged_parts[0] | date: "%B %d, %Y" }}</span>
               {% else %}
-                <marbledate>Last updated on {{ lastchanged_parts[0] | date: "%B %d, %Y" }}</marbledate>
+                <span class="marble-date">Last updated on {{ lastchanged_parts[0] | date: "%B %d, %Y" }}</span>
               {% endif %}
             {% endif %}
           {% endif %}
