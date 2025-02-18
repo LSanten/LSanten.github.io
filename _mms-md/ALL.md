@@ -1,6 +1,6 @@
 ---
 date_created: '2024-08-04'
-date_lastchanged: '2025-02-14'
+date_lastchanged: '2025-02-17'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
@@ -118,6 +118,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[GLUCOSE-A]] - No Title
 - [[GRADES-A]] - VISUAL: Grades are a sad mix of rejection and merely good enough
 - [[GRAPHIC-DESIGN-TIPS-COLLECTION]] - No Title
+- [[HABERMAS-1972-KNOWLEDGE]] - No Title
 - [[HOLISTIC-FRAMEWORKS]] - Holistic frameworks for life - doing, being, relating, celebrating
 - [[IMAGINATION-A]] - Immersion into the unknown & imagination
 - [[INCARCERATION-STATS]] - A collection of statistics regarding incarceration in the US and beyond
@@ -150,7 +151,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[LUHMANN-COMMUNI-A]] - It is not individuals but the structures through which they communicate that build our social systems (which are different from psychic systems) 
 - [[LUHMANN-COMMUNI-B]] - Communication "arises through a synthesis of three different selections, namely, selection of information, selection of the utterance of  this information, and a selective understanding or misunderstanding of this utterance and its information"
 - [[MANTRA-GAYATRI]] - The Gayatri mantra
-- [[MANTRA-MA-KALI-A]] - No Title
+- [[MANTRA-MA-KALI-A]] - Mantra for godess Kali 
 - [[MANTRA-SRI-YANTRA]] - No Title
 - [[MARKET-CONF-A]] - IDEA: create a market space to network, surface insights & proposals, and interconnect movement efforts
 - [[MARKETING-RESOURCE-A-WHY-HOW-WHAT]] - Personal marketing - how great leaders inspire action
