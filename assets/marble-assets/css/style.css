@@ -1789,7 +1789,9 @@ table th {
   margin-bottom: 15px;
 }
 
-
+html {
+    scroll-behavior: smooth;
+}
 
 
 
