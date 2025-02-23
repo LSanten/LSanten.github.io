@@ -1774,7 +1774,7 @@ table th {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07); /* Optional: soft shadow */
 
   white-space: nowrap; /* Prevents breaking into multiple lines */
-  margin: 5px 0 5px auto; /* Moves each pill to the right */
+  margin: 5px auto; /* Centers the pill horizontally */
   width: fit-content; /* Ensures the pill is only as wide as needed */
 }
 

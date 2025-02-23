@@ -12,6 +12,17 @@ title: The flow of power in different economic systems
 
 ![](media/cleanshot_2024-01-30-at-13-20-28@2x.png)
 
+---
+## More marbles on power
+- [Forms of power](POWER-A.md)
+- [Quotes on power](QUOTES-POWER.md)
 
+---
+
+#power #visualization #economy #socialism 
+
+---
+
+### Reference
 
 Wright, E. O. (2013). Transforming Capitalism through Real Utopias. American Sociological Review, 78(1), 1–25. https://doi.org/10.1177/0003122412468882

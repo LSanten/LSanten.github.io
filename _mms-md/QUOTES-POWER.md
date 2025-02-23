@@ -8,3 +8,10 @@ title: Quotes related to power
 # Quotes related to power
 
 ![](media/cleanshot_2024-02-15-at-13-41-31@2x.png)
+
+
+---
+
+#power
+
+---

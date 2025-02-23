@@ -8,87 +8,87 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e98101f8525545eb",
+            "id": "d478bfeca7625e0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COLLECTION-GRAPHICS-UI.md",
+                "file": "HIST-ECONOMIC-SYSTEMS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COLLECTION-GRAPHICS-UI"
+              "title": "HIST-ECONOMIC-SYSTEMS"
             }
           },
           {
-            "id": "e1111325866d2671",
+            "id": "b372f7373c1f46c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MESH-CAP-EPIST-A.md",
+                "file": "MARXISM-CRITIQUE-A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MESH-CAP-EPIST-A"
+              "title": "MARXISM-CRITIQUE-A"
             }
           },
           {
-            "id": "f52132a406899ec6",
+            "id": "f15a51f66a2c38bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MANTRA-MA-KALI-A.md",
+                "file": "MEDIA-MOVEMENT-BUILDING-A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MANTRA-MA-KALI-A"
+              "title": "MEDIA-MOVEMENT-BUILDING-A"
             }
           },
           {
-            "id": "46ee515c32f9d37f",
+            "id": "e7ef3d86c0df6970",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSPhilOfSciA.md",
+                "file": "MARXIST-DIALECTICS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MMSPhilOfSciA"
+              "title": "MARXIST-DIALECTICS"
             }
           },
           {
-            "id": "6315b80ed363a247",
+            "id": "70c3ed598a99630f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EYTVentilationRequirementsForDanceSpacesCA.md",
+                "file": "HISTORICAL-MATERIALISM-A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EYTVentilationRequirementsForDanceSpacesCA"
+              "title": "HISTORICAL-MATERIALISM-A"
             }
           },
           {
-            "id": "3f776295e25703b8",
+            "id": "faee7b09ebe73f49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEST.md",
+                "file": "HIST-ECONOMIC-SYSTEMS.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "TEST"
+              "title": "HIST-ECONOMIC-SYSTEMS"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mantra",
+                "query": "media movement",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MANTRA-MA-KALI-A.md",
+                "file": "MEDIA-MOVEMENT-BUILDING-A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MANTRA-MA-KALI-A"
+              "title": "Backlinks for MEDIA-MOVEMENT-BUILDING-A"
             }
           },
           {
@@ -185,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POVERTY-OVERVIEW.md",
+                "file": "MEDIA-MOVEMENT-BUILDING-A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from POVERTY-OVERVIEW"
+              "title": "Outgoing links from MEDIA-MOVEMENT-BUILDING-A"
             }
           },
           {
@@ -212,16 +212,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POVERTY-OVERVIEW.md",
+                "file": "MEDIA-MOVEMENT-BUILDING-A.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of POVERTY-OVERVIEW"
+              "title": "Outline of MEDIA-MOVEMENT-BUILDING-A"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -237,8 +238,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f52132a406899ec6",
+  "active": "f15a51f66a2c38bb",
   "lastOpenFiles": [
+    "ANNUAL-REVIEW-FRAMEWORK.md",
+    "POWER-ECONOMY-A.md",
+    "QUOTES-POWER.md",
+    "MARXISM-CRITIQUE-A.md",
+    "POWER-A.md",
+    "MARXIST-DIALECTICS.md",
+    "DEFINITION-SOCIALISM.md",
+    "HISTORICAL-MATERIALISM-A.md",
+    "HIST-ECONOMIC-SYSTEMS.md",
+    "Political-education-resources.md",
+    "MILIT-A.md",
+    "MANTRA-MA-KALI-A.md",
+    "media/IMG_5410.jpeg",
     "MMSDigitalComA.md",
     "MMSSystemicCooperationInterface-A.md",
     "HABERMAS-1972-KNOWLEDGE.md",
@@ -253,19 +267,7 @@
     "MMSInTheWorks.md",
     "TEST.md",
     "FRAMEWORK-COMMUNITY-WEAVING.md",
-    "LIST-DESIGN-TOOLS.md",
-    "ANNUAL-REVIEW-FRAMEWORK.md",
-    "MARKETING-RESOURCE-A-WHY-HOW-WHAT.md",
     "media/Annual+Review+Framework+for+2024.pdf",
-    "LIST-IDEAS.md",
-    "CONTEXTUALIZED-MEDIA-AND-CONTAINER-INTERFACES.md",
-    "MEDIA-MOVEMENT-BUILDING-A.md",
-    "CO-CREATIVE-ECONOMY-A.md",
-    "METAPHORICAL-RELATIONSHIPS-OF-ORGS.md",
-    "POVERTY-OVERVIEW.md",
-    "MMSPlantMetaphorAppliedToMoney.md",
-    "INSTALLATION-1.md",
-    "MMSSensingA.md",
     "media/cleanshot_2025-02-09-at-20-14-50@2x.png",
     "media/IMG_5325.png",
     "media/IMG_5308.png",
@@ -275,7 +277,6 @@
     "media/cleanshot_2025-01-25-at-21-06-47@2x.png",
     "media/cleanshot_2025-01-20-at-21-15-15@2x.png",
     "media/battery-life-visualization_1.jpg",
-    "media/battery-life-visualization_2.jpg",
     "plugins/instafeed/instafeed 2.min.js",
     "media/cleanshot_2023-12-01-at-22-06-20@2x.png.sb-813ab17e-6hBwFa",
     "media/cleanshot_2023-12-01-at-22-06-20@2x.png.sb-813ab17e-IjoXuf",

@@ -1,6 +1,6 @@
 ---
 date_created: '2024-08-04'
-date_lastchanged: '2025-02-19'
+date_lastchanged: '2025-02-23'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
@@ -72,6 +72,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[COOP-PRINCIPLES]] - Coopeartive Principles
 - [[CUTE-A]] - Name idea: the lame baby club
 - [[DEATH-A]] - It’s all about the ability to create relationships and let go of relationships. 
+- [[DEFINITION-SOCIALISM]] - Definition of Socialism  
 - [[DEGROWTH-SDG-IPCC]] - SDGs addressed by degrowth
 - [[DESIGNING-WITH-COUNTRY-A]] - Designing with country
 - [[DIALOGUE-A]] - The difference between a dialogue and a discussion 
@@ -119,6 +120,8 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[GRADES-A]] - VISUAL: Grades are a sad mix of rejection and merely good enough
 - [[GRAPHIC-DESIGN-TIPS-COLLECTION]] - No Title
 - [[HABERMAS-1972-KNOWLEDGE]] - No Title
+- [[HIST-ECONOMIC-SYSTEMS]] - Materialist Outline Overview of Human Societal Development  
+- [[HISTORICAL-MATERIALISM-A]] - Materialism and Idealism
 - [[HOLISTIC-FRAMEWORKS]] - Holistic frameworks for life - doing, being, relating, celebrating
 - [[IMAGINATION-A]] - Immersion into the unknown & imagination
 - [[INCARCERATION-STATS]] - A collection of statistics regarding incarceration in the US and beyond
@@ -155,6 +158,8 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[MANTRA-SRI-YANTRA]] - No Title
 - [[MARKET-CONF-A]] - IDEA: create a market space to network, surface insights & proposals, and interconnect movement efforts
 - [[MARKETING-RESOURCE-A-WHY-HOW-WHAT]] - Personal marketing - how great leaders inspire action
+- [[MARXISM-CRITIQUE-A]] - No Title
+- [[MARXIST-DIALECTICS]] - Marxist dialectics
 - [[MASLOWS-NEEDS-BEYOND]] - classic Maslow model: pyramid of needs
 - [[MCGILCHRIST2021-VID]] - Our Unmaking of the World - and the return to being
 - [[MEDIA-MOVEMENT-BUILDING-A]] - Movement building principles for media creation
@@ -253,6 +258,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[PLANT-BASED-DIET-A]] - Plant-based diet facts from documentary "The Game Changers"
 - [[PLUS1SOUNDA]] - Loud high pitch sounds damage your ears more than low pitch sounds
 - [[POLICY-RESTAURANT-A]] - very easy policy: all restaurants use only reusable to go boxes
+- [[Political-education-resources]] - Political education resources
 - [[PORTFOLIO-SYSTEMS-THINKING-ILLUSTRATIONS]] - No Title
 - [[PORTFOLIO-WEBSITE-INSPO]] - A list of portfolios and websites that inspire me
 - [[POUCH-OF-QUOTES]] - Pouch of quotes

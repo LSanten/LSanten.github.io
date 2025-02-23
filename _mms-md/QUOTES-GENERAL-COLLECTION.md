@@ -9,6 +9,10 @@ title: A collection of quotes that inspire me
 # A collection of quotes that inspire me
 ## No specific theme
 
+**Feb 19, 2025**
+![](media/IMG_5410.jpeg)
+#holism 
+
 **Feb 4, 2025**
 > Our purpose is not in what we do, but it is in how we allow to move consciousness through us, our vessel, to express our gifts.
 > 

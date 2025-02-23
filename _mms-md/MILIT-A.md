@@ -58,9 +58,9 @@ Regarding the violent nature of our social systems, also look at Alvares's take 
 
 ![](media/cleanshot_2023-10-17-at-20-25-10@2x.png)
 
+---
 
-
-
+#militarism 
 
 ________
 ## References
