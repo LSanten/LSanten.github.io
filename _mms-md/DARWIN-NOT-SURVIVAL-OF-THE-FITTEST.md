@@ -36,8 +36,8 @@ American Thought;
 Evolved: Try Survival of the Kindest, https://www.nbcnews.com/better/relationships/survival-fittest-has-evolved-try-survival-kindest-n730196
 
 [5] - The-Darwin-Project, Darwin’s
-Unfolding Revolution, https://www.thedarwinproject.com/revolution/revolution.html
+Unfolding Revolution, https://www.thedarwinproject.com/revolution/stake.html
 
 **Another related paper that weaves in complex systems thinking:**
 
-[6] - **Loye, D.** (2022). _Darwin and the Human Future_. In _Chaos and Nonlinear Psychology: Keys to Creativity_. Retrieved from [Core.ac.uk](https://core.ac.uk/download/pdf/215240400.pdf).
+[6] - Loye, D. (2022). _Darwin and the Human Future_. In _Chaos and Nonlinear Psychology: Keys to Creativity_. Retrieved from [Core.ac.uk](https://core.ac.uk/download/pdf/215240400.pdf).
