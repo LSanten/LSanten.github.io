@@ -26,6 +26,7 @@ You can find the full paper [over here](https://drive.google.com/file/d/1C3SCRvH
 - Phenomena of complex systems [[MMSPhenomenaOfComplexSystems]]
 - A critique of the violent tendencies of the scientific method and how it is linked to [academic imperialism](ACADEMIC-IMPERIALISM.md).
 - Social Darwinism: [It's not survival of the fittest but survival of the nurtured](DARWIN-NOT-SURVIVAL-OF-THE-FITTEST.md)
+- A concept called [Autopoiesis](AUTOPOIESIS-A.md): The ability to reproduce and maintain social system
   
   
 
@@ -35,4 +36,4 @@ You can find the full paper [over here](https://drive.google.com/file/d/1C3SCRvH
 
 
 -------
-Santen, L. (2021). _Holistic engineering and a renewed science of holism for a thriving world_ ([Undergraduate thesis](THESIS-HOLISTIC-ENGINEERING.md)). 
+Santen, L. (2021). _Holistic engineering and a renewed science of holism for a thriving world_ ([Undergraduate thesis](https://drive.google.com/file/d/1C3SCRvH27EgcddZZr0pTxEqCUb41ksqJ/view)). 
