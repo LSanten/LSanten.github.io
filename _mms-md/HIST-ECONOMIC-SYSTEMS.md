@@ -59,9 +59,9 @@ The qualitative advance in the means of production not only led to political cha
 
 The capitalists developed the new means of production and brought the world the machine age. ==We must keep in mind though, that when we say the capitalists developed industrial production, we mean they were the force pushing the ideas and setting up the plants. It was the working class who actually sweated and worked to build the factories and who then worked in the plants and produced the goods.== Just as the feudal nobility class and its subordinate craftsman class became useless with the development of machinery, so, too, ,the world is now at the stage where the capitalists are worse than useless, they are a drag on further social progress. Today all production is done socially (many people work together to produce the commodities), yet the instruments of production are owned privately and therefore, the products become the private property of the factory owners. This is often expressed as the contradiction between social production and private appropriation. Put in blunt terms, laborers work and produce everything, while the owners do little to nothing, but get to keep most of the benefits of our work. On top of this, they turn around and try to convince us that they are doing us a favor by giving us a job by letting us work our lives away to make them rich! Plus they get to make the decisions about what is produced, meaning much of our productive capacity is wasted on military madness to defend bourgeois power and produce luxury goods no on but a minority elite can afford, instead of affordable housing, food, education, healthcare, transportation – social goods for all.
 
+---
 ## Decolonizing eurocentric marxist historical theories 
-
-Read here about [critiques of Marxisms](MARXISM-CRITIQUE-A.md) that contexualize this historical overview further. 
+If some of these perspectives feel eurocentric, reductionist, or colonial. Please read about [about critiques of Marxisms](MARXISM-CRITIQUE-A.md) that contextualize this work further.
 
 ---
 

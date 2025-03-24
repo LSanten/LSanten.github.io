@@ -40,7 +40,8 @@ In my opinion, the best, most powerful, and free software to organize your knowl
 ### How do I use citation managers and knowledge management software together?
 This is an article that explains how a citation manager can be used in fusion with the "zettelkasten" (e.g. [Obsidian](https://obsidian.md/)) knowledge management approach: [An Updated Academic Workflow: Zotero & Obsidian](https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd)
 
-
+![](media/Pasted%20image%2020250225102127.png)
+*Figure shows reference folders, including the MESH folder with 530 references.*
 ### Other nice software tools for brainstorming 
 - Miro (or Figma) are online tools to create mind maps, sticky notes etc... There are very few mind map tools out there. It really helps to have access to one! **You can have access to both of these with an educational account!** (maybe lie about the lenght of your program to have access for longer).
 	- Figma is a very powerful tool. You can create simple mindstorming/jamming files or detailed graphics.

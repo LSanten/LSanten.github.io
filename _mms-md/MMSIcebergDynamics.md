@@ -4,16 +4,18 @@ date_lastchanged: '2024-11-22'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 subtitle: A visual that contrasts the underlying dynamics and fields of a reductionist
-  and holistic approach to life
+  and holistic approaches to life
 title: Climate change is only the tip of the iceberg
 ---
 # Climate change is only the tip of the iceberg
-## A visual that contrasts the underlying dynamics and fields of a reductionist and holistic approach to life
+## A visual that contrasts the underlying dynamics and fields of a reductionist and holistic approaches to life
 
 ![](media/Pasted%20image%2020241113124439.png)
 *(Vanasupa & Barabino 2021)*
 
 I also explored the relationship between reductionism and holism in my [science of holism framework](SCIENCE-OF-HOLISM-FRAMEWORK.md).
+
+A related graphic that attempts to bring together fields, structures and so on: [[MMSIcebergNatureMetaphor]]
 
 ______
 ### References

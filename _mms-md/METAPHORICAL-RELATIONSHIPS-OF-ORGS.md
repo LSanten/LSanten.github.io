@@ -1,8 +1,8 @@
 ---
-date_created: '2024-08-06'
-date_lastchanged: '2024-10-22'
+date_created: 2024-08-06
+date_lastchanged: 2025-01-23
 layout: default
-show_date_lastchanged_updatedauto: YES, NO, NO
+show_date_lastchanged_updatedauto: YES, YES, NO
 title: How do we visualize the systemic relationships and context of organizations?
 ---
 # How do we visualize the systemic relationships and context of organizations?

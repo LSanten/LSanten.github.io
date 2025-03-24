@@ -1,6 +1,6 @@
 ---
 date_created: '2024-08-04'
-date_lastchanged: '2025-02-23'
+date_lastchanged: '2025-03-23'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
@@ -70,9 +70,13 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[CONTEXTUALIZED-MEDIA-AND-CONTAINER-INTERFACES]] - Envisioning containers for sharing media to communicate context, intentions, and needs
 - [[COOP-EXPECTATIONS]] - No Title
 - [[COOP-PRINCIPLES]] - Coopeartive Principles
+- [[CUBA-BLOCKADE]] - One zine page describing the blockade on Cuba
 - [[CUTE-A]] - Name idea: the lame baby club
+- [[DARWIN-NOT-SURVIVAL-OF-THE-FITTEST]] - It's not survival of the fittest but survival of the nurtured
 - [[DEATH-A]] - It’s all about the ability to create relationships and let go of relationships. 
+- [[DEFINITION-NEOCOLONIALISM-A]] - What is the state?
 - [[DEFINITION-SOCIALISM]] - Definition of Socialism  
+- [[DEFINITION-THE-STATE-A]] - What is the state?
 - [[DEGROWTH-SDG-IPCC]] - SDGs addressed by degrowth
 - [[DESIGNING-WITH-COUNTRY-A]] - Designing with country
 - [[DIALOGUE-A]] - The difference between a dialogue and a discussion 
@@ -121,9 +125,10 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[GRAPHIC-DESIGN-TIPS-COLLECTION]] - No Title
 - [[HABERMAS-1972-KNOWLEDGE]] - No Title
 - [[HIST-ECONOMIC-SYSTEMS]] - Materialist Outline Overview of Human Societal Development  
-- [[HISTORICAL-MATERIALISM-A]] - Materialism and Idealism
+- [[HISTORICAL-MATERIALISM-A]] - Material-ism and Idea-ism
 - [[HOLISTIC-FRAMEWORKS]] - Holistic frameworks for life - doing, being, relating, celebrating
 - [[IMAGINATION-A]] - Immersion into the unknown & imagination
+- [[IMPERIALISM-STAGES]] - The Stages of Imperialism
 - [[INCARCERATION-STATS]] - A collection of statistics regarding incarceration in the US and beyond
 - [[INCARCERATION-VIRTUAL-VISUAL]] - Scroll through the mass of incarcerated people in the United States
 - [[INDEXING-CODING-WHY]] - One perspective on why indexing and numbering arrays in coding is so weird
@@ -213,6 +218,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[MMSHomepage]] - My pouch of marbles for mostly.mutual studio
 - [[MMSHothouse]] - No Title
 - [[MMSIcebergDynamics]] - Climate change is only the tip of the iceberg
+- [[MMSIcebergNatureMetaphor]] - A systems graphic for the Iceberg metaphor
 - [[MMSInTheWorks]] - Marbles in the works
 - [[MMSLoans]] - The problems around issuing loans (the way banks are allowed to do it)
 - [[MMSMeatStickA]] - A sticker to speak to the innate nature of humans to refrain from causing immense animal suffering 
@@ -228,6 +234,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[MMSShiningLightOnTruth]] - The same object of focus shows different truths depending on the state of the observer
 - [[MMSSocialReproductionA]] - Autopoiesis and the re-production of social systems 
 - [[MMSSocialReproductionB]] - What environments aid the emergence of a regenerative future?
+- [[MMSStickerIdeas]] - No Title
 - [[MMSStickPlsComp]] - can public places please compost & recycle?
 - [[MMSSystemicCooperationInterface-A]] - Building a practice and visual space for trans-disciplinary cooperation
 - [[MMSSystemIntervention-A]] - How to intervene in living systems, which are considered complex systems
@@ -293,6 +300,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[REPAIR-A]] - The connection between repairing consumer devices and human relationships
 - [[REPAIR-B]] - Right to repair - main things
 - [[REPAIR-E-BIKE-A]] - No Title
+- [[RESEARCH-PRESENTMENT-A]] - A note with research into presentment
 - [[REST-ACTIVITY-POLARITY-MAP]] - The interplay between rest and activity 
 - [[RESTAURANT-CRIT-A]] - "Can I take that bread from you? Can you please leave it until the end of my stay"
 - [[RESTAURANT-IDEA-A]] - Mountain of Roti and Staples like whole fruits in the room
@@ -335,15 +343,21 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[THREE-WELLBEING-THINGS]] - No Title
 - [[TRADITIONAL-KNOWLEDGE-SYST-VS-SCIENTIFIC-METHOD-A]] - A statement on the complexity of proving "pseudo-sciences" with the scientific method
 - [[TRAGEDY-COMMONS-A]] - No Title
+- [[TRUTH-RESOURCES]] - Resource collection on what truth is
 - [[TYPES-OF-REST-A]] - The 7 types of rest
 - [[UNLEARNING-A]] - We need to completely rework & unlearn our lives and social systems
+- [[Untitled]] - No Title
+- [[US-INTERVENTIONS-LATIN-AMERICA]] - US Interventions in latin America 
 - [[VEGETABLE-STATS-A]] - No Title
+- [[VISUAL-PUBLIC-FUNDING-FOR-PRIVATE-PROFIT]] - The public-private partnership conundrum
+- [[VISUAL-WORK-DAY-A]] - A sketchy collection of visuals regarding patterns of work and coercion 
 - [[VisualizationIdeasQuick]] - No Title
 - [[WASTE-A]] - Companies need to face the e-waste they create
 - [[WASTE-B]] - Food Waste Overview
 - [[WASTE-C]] - An excerpt from "Neither Wolf nor Dog": why do Indians keep so much trash on their land if it could be so easy to clean it up?
 - [[WASTE-D]] - This year, systems designed by engineers have contributed to the following
 - [[WEBSITE-SIZE-CHECK-A]] - Check the size of your website including images
+- [[WIKI-OPTIONS]] - A list of different wikis and their overall vibe
 - [[WindowsCopyFilePathWithoutQuotes]] - No Title
 - [[WORK-CULTURE-MEDIEVAL-STONAGE-NOW]] - How our work culture has shifted compared to medieval times 
 - [[WORK-WEEK-A]] - No Title

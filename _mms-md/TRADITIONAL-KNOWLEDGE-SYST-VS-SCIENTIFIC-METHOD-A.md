@@ -28,3 +28,7 @@ Rather than dismissing traditional practices outright, we should adopt a balance
 | 3   | Hyperspectral Imaging Technology Used in Tongue Diagnosis (Li, 2012)          | Highlights technological advancements in tongue diagnostics. |
 
 Explore more research on this topic [here](https://typeset.io/search?q=Chinese%20medicine%20tongue%20regions%20link%20to%20organs&utm_source=chatgpt).
+
+
+### An semi-related TEDTalk 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sF03FN37i5w?si=JYBmlAY11pmOUM9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

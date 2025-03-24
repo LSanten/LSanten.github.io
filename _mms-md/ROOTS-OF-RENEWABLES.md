@@ -12,6 +12,28 @@ I drew this illustration because I can't stop thinking about this topic. I am on
 
 >Engineers design for structural integrity. But why does this not include social integrity? How can something be considered structurally safe if the structures it requires harm human and other-than-human life on many dimensions? 
 
+
+
+
+<div style="border: 5px solid orange; border-radius: 15px; padding: 10px; display: inline-block; background-color: #FFE5B4;">
+    <iframe title='Tons of electronic waste thrown out this month' 
+        src='https://www.theworldcounts.com/embeds/counters/18?background_color=transparent&color=black&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=14' 
+        style='border: none' height='120' width="100%">
+    </iframe>
+
+    <iframe title='Tons of toxic waste produced from gold mining' 
+        src='https://www.theworldcounts.com/embeds/counters/26?background_color=transparent&color=black&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=14' 
+        style='border: none' height='120' width='100%'>
+    </iframe>
+
+    <iframe title='Tons of wastewater from steel mining' 
+        src='https://www.theworldcounts.com/embeds/counters/58?background_color=transparent&color=black&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=14' 
+        style='border: none' height='120' width='100%'>
+    </iframe>
+</div>
+
+
+
 ## What are the *Just Transition Principles*?
 The [Just Transition Principles](JUST-TRANSITION-PRINC-FRAME.md) are guidelines that help us to stay focused on addressing the root causes of environmental injustice as opposed to building technological quick fixes that perpetrate ecological destruction and human suffering. 
 
@@ -56,7 +78,7 @@ The problem will always stay the same. Mining is an inherently extractive proces
 
 Some mining projects try to involve communities at varying rates of success. It is extremely hard to find success stories in this complicated field. If you want to learn more about the efforts to pursue socially just mining, please refer to the research papers and books by Baillie et. al below. 
 
-### Here is a quite personal interview with some humans affected by multinational mining corporations
+### Here is a personal interview with people affected by multinational mining corporations
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/122399156?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Maxima Acuña de Chaupe"></iframe></div>
 

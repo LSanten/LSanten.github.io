@@ -25,6 +25,7 @@ You can find the full paper [over here](https://drive.google.com/file/d/1C3SCRvH
 - My attempt to draw a [Framework for a science of holism](SCIENCE-OF-HOLISM-FRAMEWORK.md).
 - Phenomena of complex systems [[MMSPhenomenaOfComplexSystems]]
 - A critique of the violent tendencies of the scientific method and how it is linked to [academic imperialism](ACADEMIC-IMPERIALISM.md).
+- Social Darwinism: [It's not survival of the fittest but survival of the nurtured](DARWIN-NOT-SURVIVAL-OF-THE-FITTEST.md)
   
   
 

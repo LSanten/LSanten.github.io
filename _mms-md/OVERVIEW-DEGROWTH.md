@@ -10,8 +10,8 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 ## fighting Okun’s law 
 A yearly growth rate of 2–3 percent is needed just to keep unemployment from  increasing. A combination of degrowth with macroeconomic stability therefore  requires new policies for  sharing work  and  changing the work–life balance .  Reduced working hours can compensate for the loss of jobs due to increases in  labor productivity (Andersson & Eriksson 2010, p.134).
 
-## investmentment into social & ecological infrastructure needs to be done by society
-"The reason is that it is tricky for private investors to collect pro fi  ts from  this type of investment. The returns may also be realized too far into the future to  be interesting for individual investors. In a socially and ecologically sustainable  society savings and investments must not be reduced, but redirected into  fi  elds  where the bene fi  ts are widely spread – to people with low purchasing power,  future generations and other species. A larger share of the savings should be used  for public investments in those forms of capital that do not directly contribute to  the production of commodities" (Andersson & Eriksson 2010, p.134).
+## investment into social & ecological infrastructure needs to be done by society
+"The reason is that it is tricky for private investors to collect profits from this type of investment. The returns may also be realized too far into the future to  be interesting for individual investors. In a socially and ecologically sustainable  society savings and investments must not be reduced, but redirected into  fi  elds  where the bene fi  ts are widely spread – to people with low purchasing power,  future generations and other species. A larger share of the savings should be used  for public investments in those forms of capital that do not directly contribute to  the production of commodities" (Andersson & Eriksson 2010, p.134).
 
 "positively, there is the alternative policy of transferring
 resources from industrial production to the more urgent task of

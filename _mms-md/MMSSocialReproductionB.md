@@ -35,7 +35,7 @@ An engineer, for instance, creates social and material structures. If the engine
 Values and beliefs can be considered as the essence that continues to exist throughout someone's creations. If a software engineer, for instance, values productivity and does not value regeneration and balance, they will not be able to code a social media platform that helps us to build regenerative systems. Think about it, when have you head Mark Zuckerberg talk about nurturing caring friendships? I couldn't find a single interview about this matter with him.
 
 ![](media/MMSHealthAutopoiesis-merge-01.png)
-
+%% https://works.bepress.com/lvanasup/19/ <-- for self determination and regulation source vanasupa %%
 A response to this illustration from a friend who went to Princeton: "Yeah i think both quotes resonated with me-in particular the first quote about how engineers disconnected from their own needs won’t produce technologies that can heal the planet -i was reminded of my undergrad engineering experience and how disconnected i felt from myself during that time. I felt that the culture in engineering felt very much colder and very separate from oneself, or that may have been just my experience in engineering at the least"
 
 ## Monica Dennis's "Wheel of Oppression and Liberation"

@@ -9,3 +9,9 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 
 - a typical work day with colors coding different parts of the day 
 	- narrative could be flexible work week vs stiff 
+	- also see [VISUAL-WORK-DAY-A](VISUAL-WORK-DAY-A.md)
+
+
+---
+
+#visualization-idea 

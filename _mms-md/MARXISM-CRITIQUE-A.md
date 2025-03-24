@@ -10,7 +10,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 
 In 1988, for example, an Egyptian Marxist named Samir Amin coined the term eurocentrism to describe how dominant ways of understanding world history center everything around Europe. Like Marx, Samir Amin agreed that history was propelled by dialectic material forces, but he disagreed with Marx’s idea that all societies would go through the same societal “phases” that Europe had gone through. At the time that Marx was writing, he was very influenced by Darwinism, which was a big deal at the time. Marx thought he could come up with a scientific theory to explain the evolution of human societies in the same way that Darwin came up with a theory to explain the evolution of species. But in doing so, Marx placed Europe at the forefront of what he saw as a scientific formula for how societies evolve.  
 
-In order to decolonize Marx’s theory today, there are several things we should keep in mind. The first is that the stages of society that Marx talks about (primary communalism, slavery, feudalism, and capitalism) don’t necessarily mean that the societies are progressing forward in a linear, positive way. While some parts of the world may have achieved unprecedented heights of convenience, innovation, wealth, and prosperity, other parts of the world have become more impoverished and oppressed than ever—and these opposite realities are deeply interconnected such that one cannot exist without the other. “Forward” for some is backward for others.
+In order to decolonize Marx’s theory today, there are several things we should keep in mind. The first is that the stages of society that Marx talks about (primary communalism, slavery, feudalism, and capitalism) don’t necessarily mean that the societies are progressing forward in a linear, positive way. While some parts of the world may have achieved unprecedented heights of convenience, innovation, wealth, and prosperity, other parts of the world have become more impoverished and oppressed than ever—and these opposite realities are deeply interconnected such that one cannot exist without the other. **“Forward” for some is backward for others.**
 
 Societies that are currently communalist may not consider that becoming a feudalist or capitalist society is a form of “progress” or “development” given all of the violence and ecological destruction that it takes to create a class-based society like capitalism. In fact, both Marx and Laaman seem to misunderstand and misrepresent communalist indigenous societies, many of whom did have agriculture long before colonization, and managed to hold land and resources communally at the same time.
 
@@ -25,7 +25,7 @@ The ability to take up Marx in nuanced and critical ways is what allows Marxism 
 
 ---
 
-#marxism #economy #materialism #historical-overview
+#marxism #economy #materialism #historical-overview #decolonization
 
 ---
 

@@ -32,6 +32,10 @@ This last point, then, says that there is a constant movement, constant struggle
 External forces are also important, but dialectics understands that **external causes are the condition of change, while internal causes are the basis of change**. For example, a chicken sitting on an egg will lead to a baby chick, while the same chicken can sit on a rock forever and hatch nothing – the internal contradictions are the most important factor in the development and motion of not just the egg, but all things.
 
 ---
+## Decolonizing eurocentric marxist historical theories 
+If some of these perspectives feel eurocentric, reductionist, or colonial. Please read about [about critiques of Marxisms](MARXISM-CRITIQUE-A.md) that contextualize this work further.
+
+---
 
 #theory-of-change #dialectics #marxism 
 

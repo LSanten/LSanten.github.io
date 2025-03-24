@@ -8,6 +8,7 @@ title: Political education resources
 # Political education resources
 In chronological order:
 
+- [MARXIST-DIALECTICS](MARXIST-DIALECTICS.md)
 - [HISTORICAL-MATERIALISM-A](HISTORICAL-MATERIALISM-A.md)
 - [DEFINITION-SOCIALISM](DEFINITION-SOCIALISM.md)
 - [HIST-ECONOMIC-SYSTEMS](HIST-ECONOMIC-SYSTEMS.md)

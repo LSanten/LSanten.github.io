@@ -3,13 +3,13 @@ date_created: '2025-02-23'
 date_lastchanged: '2025-02-23'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
-title: Materialism and Idealism
+title: Material-ism and Idea-ism
 ---
-# Materialism and Idealism
+# Material-ism and Idea-ism
 
-*All below is an excerpt [1]. *
+*All below is an excerpt [1].*
 
-Materialism’s first understanding is that the world (and all countries in the world and all things in each country) is the way it is, because of the concrete material conditions that actually exist.  5 These real conditions develop in accordance with the laws of dialectics. More specifically, this means that the common people and the tools they have at any given time in any given country, the corresponding industry and farming they conduct with these tools, and the types of relations that exist between producers and consumers (that is, who owns and controls the tools and products) determine the material conditions of that society. These material conditions determine what type of society exists.
+Materialism’s first understanding is that the world (and all countries in the world and all things in each country) is the way it is, because of the concrete material conditions that actually exist. These real conditions develop in accordance with the laws of [dialectics](MARXIST-DIALECTICS.md). More specifically, this means that the common people and the tools they have at any given time in any given country, the corresponding industry and farming they conduct with these tools, and the types of relations that exist between producers and consumers (that is, who owns and controls the tools and products) determine the material conditions of that society. These material conditions determine what type of society exists.
 
 Furthermore, what type of industry and agriculture there is will primarily determine what type of social and political institutions (government, schools, courts, and so on) will exist. Rulers and religious forces and many other factors have an effect on the society, for they are among the contradictory aspects of the whole. Nevertheless, the actual material level of development of the society is the primary basis for what type of social and political institutions it will have. [..]
 
@@ -25,8 +25,13 @@ Having some understanding of dialectical and historical materialism, we can now 
 
 [...]
 
-Karl Marx’s theory of Dialectical and Historical Materialism is a counterargument to the idea that history is full of random events. Through historical materialism, we can begin to understand how such horrific moments such as colonization and slavery came to be. We can begin to understand how almost all major historical events have some relation to the accumulation of wealth, or capital. We can understand, for example, how using slavery (free labor) to work free land (colonized indigenous territory) led to the accumulation of the amount of wealth necessary for the development of our capitalist economic system today.
+Karl Marx’s theory of Dialectical and Historical Materialism is a counterargument to the idea that history is full of random events. ==Through historical materialism, we can begin to understand how such horrific moments such as colonization and slavery came to be. We can begin to understand how almost all major historical events have some relation to the accumulation of wealth, or capital. We can understand, for example, how using slavery (free labor) to work free land (colonized indigenous territory) led to the accumulation of the amount of wealth necessary for the development of our capitalist economic system today.==
 
+---
+## Decolonizing eurocentric marxist historical theories 
+If some of these perspectives feel eurocentric, reductionist, or colonial. Please read about [about critiques of Marxisms](MARXISM-CRITIQUE-A.md) that contextualize this work further.
+
+---
 ## A useful video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XyzFwHFN_BI?si=NNGuisLfWddvkFON" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
