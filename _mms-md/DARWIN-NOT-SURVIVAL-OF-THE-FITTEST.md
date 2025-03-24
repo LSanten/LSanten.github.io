@@ -14,7 +14,7 @@ title: It's not survival of the fittest but survival of the nurtured
 > 
 > _"Those communities which included the greatest number of the most sympathetic members would flourish best and rear the greatest number of offspring."_ [4]
 > 
-> Charles Darwin mentioned the world love more than 95 times, referred to moral sympathy 92 times, and only wrote “survival of the fittest” twice. [5]
+> **Charles Darwin mentioned the world love more than 95 times, referred to moral sympathy 92 times, and only wrote “survival of the fittest” twice.** [5]
 
 
 *I first researched this topic during my Bachelor's thesis on a [Renewed Holistic Science & Engineering Practice](THESIS-HOLISTIC-ENGINEERING.md) in 2021 (p. 18).*

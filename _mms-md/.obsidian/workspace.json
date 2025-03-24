@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DARWIN-NOT-SURVIVAL-OF-THE-FITTEST.md",
+                "file": "MEDIA-MOVEMENT-BUILDING-A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DARWIN-NOT-SURVIVAL-OF-THE-FITTEST"
+              "title": "MEDIA-MOVEMENT-BUILDING-A"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "santen",
+                "query": "media movement",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DARWIN-NOT-SURVIVAL-OF-THE-FITTEST.md",
+                "file": "MEDIA-MOVEMENT-BUILDING-A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DARWIN-NOT-SURVIVAL-OF-THE-FITTEST"
+              "title": "Outgoing links from MEDIA-MOVEMENT-BUILDING-A"
             }
           },
           {
@@ -184,8 +184,8 @@
   },
   "active": "39a54753197ec9e7",
   "lastOpenFiles": [
-    "THESIS-HOLISTIC-ENGINEERING.md",
     "DARWIN-NOT-SURVIVAL-OF-THE-FITTEST.md",
+    "THESIS-HOLISTIC-ENGINEERING.md",
     "AUTOPOIESIS-A.md",
     "DEFINITION-THE-STATE-A.md",
     "MMSStickerIdeas.md",
