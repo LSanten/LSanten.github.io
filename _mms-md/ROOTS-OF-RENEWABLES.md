@@ -1,7 +1,7 @@
 ---
 collaborators: Leon Santen, Odalys Benitez, Martin Santen
 date_created: 2024-11-07, Visual created on
-date_lastchanged: 2025-01-22, Text last refined on
+date_lastchanged: 2025-04-01, Text last refined on
 layout: default
 show_date_lastchanged_updatedauto: YES, YES, NO
 ---
@@ -36,8 +36,8 @@ I drew this illustration because I can't stop thinking about this topic. I am on
 - **​"Foxconn Suicides"** ([Wikipedia](https://en.wikipedia.org/wiki/Foxconn_suicides))​
 
 ## Look at these ticking numbers. 
-
-
+   
+   
 
 <iframe title='Tons of electronic waste thrown out this month' 
         src='https://www.theworldcounts.com/embeds/counters/18?background_color=transparent&color=black&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=14' 
