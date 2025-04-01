@@ -1,6 +1,6 @@
 ---
 date_created: '2024-08-04'
-date_lastchanged: '2025-03-31'
+date_lastchanged: '2025-04-01'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
@@ -297,7 +297,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[READING-RECS-A]] - Philosophical readings that I want to share with all my friends
 - [[RECYCLING-A]] - Avoided CO2 emission for recycling & avoided production for various materials 
 - [[REGENERATION-A]] - Regenerative practices are not combinable with militarism
-- [[RENEW-MINING-A]] - The energy transition requires massive mining which leads to desastrous outcomes
+- [[RENEW-MINING-A]] - The energy transition requires massive mining 
 - [[REPAIR-A]] - The connection between repairing consumer devices and human relationships
 - [[REPAIR-B]] - Right to repair - main things
 - [[REPAIR-E-BIKE-A]] - No Title
