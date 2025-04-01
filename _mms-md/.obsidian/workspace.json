@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCIENCE-OF-HOLISM-FRAMEWORK.md",
+                "file": "ROOTS-OF-RENEWABLES.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "SCIENCE-OF-HOLISM-FRAMEWORK"
+              "title": "ROOTS-OF-RENEWABLES"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "which has arisen from ",
+                "query": "roots",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCIENCE-OF-HOLISM-FRAMEWORK.md",
+                "file": "ROOTS-OF-RENEWABLES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SCIENCE-OF-HOLISM-FRAMEWORK"
+              "title": "Outgoing links from ROOTS-OF-RENEWABLES"
             }
           },
           {
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,6 +169,14 @@
   },
   "active": "39a54753197ec9e7",
   "lastOpenFiles": [
+    "INCARCERATION-STATS.md",
+    "QUOTES-INJUSTICE-SILENCE.md",
+    "media/cleanshot_2025-03-28-at-19-34-45@2x.png",
+    "SCIENCE-OF-HOLISM-FRAMEWORK.md",
+    "media/IMG_5620.jpeg",
+    "AI-CORPORATE-STANDARD.md",
+    "media/Pasted image 20250324095339.png",
+    "media/Pasted image 20250324095253.png",
     "THESIS-HOLISTIC-ENGINEERING.md",
     "AUTOPOIESIS-A.md",
     "DARWIN-NOT-SURVIVAL-OF-THE-FITTEST.md",
@@ -197,14 +205,6 @@
     "media/cleanshot_2025-03-16-at-13-08-00@2x.png",
     "media/cleanshot_2025-03-16-at-13-01-34@2x.png",
     "media/cleanshot_2025-03-16-at-12-59-58@2x.png",
-    "SPIRIT-PODCASTS.md",
-    "media/cleanshot_2025-03-16-at-12-53-00@2x.png",
-    "TRUTH-RESOURCES.md",
-    "VISUAL-WORK-DAY-A.md",
-    "media/IMG_5473.jpeg",
-    "media/Pasted image 20250303192229.png",
-    "WORK-WEEK-A.md",
-    "media/IMG_5471.jpeg",
     "media/E2BECF07-03F2-4196-B3B0-4A9210300703_1_201_a.heic",
     "media/01A3CFBB-A112-44D9-90AA-964EB3132EFF_1_201_a.heic",
     "media/Annual+Review+Framework+for+2024.pdf",

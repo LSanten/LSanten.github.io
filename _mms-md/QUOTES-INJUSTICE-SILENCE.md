@@ -34,3 +34,9 @@ title: Quotes related to staying silent during times of injustice
 >Evil triumphs when good men do nothing. 
 >
 >~ Meditation magazine, peace issue (p. 89)
+
+
+
+![](media/IMG_5620.jpeg)
+
+![](media/cleanshot_2025-03-28-at-19-34-45@2x.png)

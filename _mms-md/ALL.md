@@ -1,6 +1,6 @@
 ---
 date_created: '2024-08-04'
-date_lastchanged: '2025-03-23'
+date_lastchanged: '2025-03-31'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
@@ -13,6 +13,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[ADAPT-CHANGE]] - No Title
 - [[ADAPT-CYCLES-A]] - adaptive cycles help us to understand how to transform our systems
 - [[AGRICULTURE-A]] - Summary of emissions of agriculture and livestock
+- [[AI-CORPORATE-STANDARD]] - No Title
 - [[ALL]] - No Title
 - [[ANARCH-COUPLE-A]] - Kill the couple in your head
 - [[ANNUAL-REVIEW-FRAMEWORK]] - The Annual Review Framework: Questions to help cut the noise

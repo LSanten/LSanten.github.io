@@ -7,30 +7,36 @@ show_date_lastchanged_updatedauto: YES, YES, NO
 ---
 ![](media/roots-of-renewables.png)
 # Visualizing the roots of renewables
-## Resources related to the illustration
 I drew this illustration because I can't stop thinking about this topic. I am on a journey to redefine what it means to be a good engineer. As part of this, I want to understand how we can visualize the systemic impact of *innovative* technologies. 
+## Resources related to the illustration
+%%
+- Links to
+	- copper mine pollution in Peru & Chile
+	- child mining in the DR of Congo
+	- Apple's unprotected electronics workers in China 
+%%
 
->Engineers design for structural integrity. But why does this not include social integrity? How can something be considered structurally safe if the structures it requires harm human and other-than-human life on many dimensions? 
+>**The question that guides me:** Engineers design for structural integrity. But why does this not include social integrity? How can something be considered structurally safe if the structures it requires harm humans and other beings? 
+
+
+## Look at these ticking numbers. 
 
 
 
-
-<div style="border: 5px solid orange; border-radius: 15px; padding: 10px; display: inline-block; background-color: #FFE5B4;">
-    <iframe title='Tons of electronic waste thrown out this month' 
+<iframe title='Tons of electronic waste thrown out this month' 
         src='https://www.theworldcounts.com/embeds/counters/18?background_color=transparent&color=black&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=14' 
         style='border: none' height='120' width="100%">
-    </iframe>
+</iframe>
 
-    <iframe title='Tons of toxic waste produced from gold mining' 
+<iframe title='Tons of toxic waste produced from gold mining' 
         src='https://www.theworldcounts.com/embeds/counters/26?background_color=transparent&color=black&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=14' 
         style='border: none' height='120' width='100%'>
-    </iframe>
+</iframe>
 
-    <iframe title='Tons of wastewater from steel mining' 
+<iframe title='Tons of wastewater from steel mining' 
         src='https://www.theworldcounts.com/embeds/counters/58?background_color=transparent&color=black&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=14' 
         style='border: none' height='120' width='100%'>
-    </iframe>
-</div>
+</iframe>
 
 
 
@@ -85,7 +91,7 @@ Some mining projects try to involve communities at varying rates of success. It 
 
 _________
 
-## Here are more works if you want to dig deeper
+## Written works if you want to dig deeper
 
 #### Archive
 - An Archive for mining projects and their effects on communities: [Mining and Communities](https://www.minesandcommunities.org/)
@@ -95,7 +101,7 @@ _________
 
 #### Research Papers
 - Armstrong, R., Baillie, C., & Cumming-Potvin, W. (2014). **Mining and communities: understanding the context of engineering practice**. _Synthesis Lectures on Engineers, Technology and Society_, _8_(1), 1–148. https://doi.org/10.2200/S00564ED1V01Y201401ETS021
-- Baillie, C., Feinblatt, E., Alejandro, J., Rondon, G., Aitken, J., & Armstrong, R. (2020). **Intro & community engagement in peru. In Socially Just Mining: Rethoric or Reality? Lessons from Peru (Synthesis Lectures on Engineers, Technology, & Society)** (1st ed., p. 236). Springer.
+- Baillie, C., et al. (2020). **Intro & community engagement in peru. In Socially Just Mining: Rethoric or Reality? Lessons from Peru (Synthesis Lectures on Engineers, Technology, & Society)** (1st ed., p. 236). Springer.
 - Eichhorn, S. J. (2022). **Resource extraction as a tool of racism in West Papua**. _The International Journal of Human Rights_, 1–23. https://doi.org/10.1080/13642987.2022.2036722
 - Confalonieri, U. E. C., Margonari, C., & Quintão, A. F. (2014). **Environmental change and the dynamics of parasitic diseases in the Amazon**. _Acta Tropica_, _129_, 33–41. https://doi.org/10.1016/j.actatropica.2013.09.013
 
