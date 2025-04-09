@@ -44,7 +44,8 @@ Below is an adjacent design construct that I developed to share project work wit
 ![](media/MESH-CAP_summary-graphics-HIGH-RES-07.png)
 
 
-### The work described in this *marble* (or post) arose during my capstone project visualized below
+### The work described in this *marble* (or post) arose during my capstone project
+**Timeline below**   
 
 ![](media/MESH-CAP_summary-graphics-HIGH-RES-09.png)
 
@@ -60,6 +61,7 @@ First of all, I conceptualize projects as plants that grow due to the nurturing 
 Secondly, the plants grow structures to grow fruits and reproduce. They grow roots that draw and exchange nutrients. Social systems similarly create (social )structures to grow specific fruits (products, outcomes). Social systems also have specific needs, which are vital for their functioning. 
 
 The visualization of needs, offers, products, and social structures connected to these organs seems crucial. Yet, it is quite complicated to visualize such complex relationships. So far, the usage of eco-system analogies has proven to be the most helpful.
+
 ![](media/cleanshot_2024-07-26-at-20-09-42@2x.png)
 
 ![](media/cleanshot_2024-07-26-at-20-10-08@2x.png)

@@ -1,6 +1,6 @@
 ---
 date_created: '2024-08-04'
-date_lastchanged: '2025-04-01'
+date_lastchanged: '2025-04-09'
 layout: default
 show_date_lastchanged_updatedauto: YES, NO, NO
 ---
@@ -190,7 +190,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[MESH-EJ-THESIS]] - No Title
 - [[MESH-JEH-Overview-A]] - No Title
 - [[META-CRISIS-VS-POLY-CRISIS]] - How do metacrisis and polycrisis relate?
-- [[METAPHORICAL-RELATIONSHIPS-OF-ORGS]] - How do we visualize the systemic relationships and context of organizations?
+- [[METAPHORICAL-RELATIONSHIPS-OF-ORGS]] - How do we visualize the systemic relationships of projects and people?
 - [[MICRO-GRIDS-A]] - Microgrids and 
 - [[MILIT-A]] - Statistics surrounding the scale of the US military industrial complex
 - [[MILIT-B]] - The Climate Collateral Webinar
@@ -216,7 +216,7 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[MMSHealthTechCommuniA]] - A proposal to change communication around and interface design for battery health
 - [[MMSHerbalismParadox]] - GRAPHIC IDEA: The paradox of disbelief in and fear of herbs
 - [[MMSHistOfSci-A]] - A critical timeline synthesis: roots of the scientific method
-- [[MMSHomepage]] - My pouch of marbles for mostly.mutual studio
+- [[MMSHomepage]] - My pouch of marbles
 - [[MMSHothouse]] - No Title
 - [[MMSIcebergDynamics]] - Climate change is only the tip of the iceberg
 - [[MMSIcebergNatureMetaphor]] - A systems graphic for the Iceberg metaphor
@@ -228,7 +228,8 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[MMSOlinSystemsBuilding]] - Examples suitable for visualizing Olin's network
 - [[MMSPhenomenaOfComplexSystems]] - What are the universal phenomena of living systems?
 - [[MMSPhilOfSciA]] - Building blocks for my philosophy of science
-- [[MMSPlantMetaphorAppliedToMoney]] - Using the plant as a way to visualize money assets and flows 
+- [[MMSPlantMetaphorDetails]] - Plant metaphors: A framework to visualize organizations for systems thinking 
+- [[MMSPoemFirstTheyCame]] - A poem: first they came for...
 - [[MMSQ-Transdisciplinary-awareness]] - Question to the community: How do you stay aware of people's efforts and insights beyond your own discipline?
 - [[MMSReadToShare]] - Marbles ready to be shared
 - [[MMSSensingA]] - A visual methaphor for the process/phenomenon of sensing our world and feeling the whole reality
@@ -350,9 +351,11 @@ show_date_lastchanged_updatedauto: YES, NO, NO
 - [[Untitled]] - No Title
 - [[US-INTERVENTIONS-LATIN-AMERICA]] - US Interventions in latin America 
 - [[VEGETABLE-STATS-A]] - No Title
+- [[VISUAL-LISTEN-TINKER-CREATE]] - No Title
 - [[VISUAL-PUBLIC-FUNDING-FOR-PRIVATE-PROFIT]] - The public-private partnership conundrum
 - [[VISUAL-WORK-DAY-A]] - A sketchy collection of visuals regarding patterns of work and coercion 
 - [[VisualizationIdeasQuick]] - No Title
+- [[VIZ-ENGINE-POUCH]] - Pouch of marbles for visualization engine 
 - [[WASTE-A]] - Companies need to face the e-waste they create
 - [[WASTE-B]] - Food Waste Overview
 - [[WASTE-C]] - An excerpt from "Neither Wolf nor Dog": why do Indians keep so much trash on their land if it could be so easy to clean it up?

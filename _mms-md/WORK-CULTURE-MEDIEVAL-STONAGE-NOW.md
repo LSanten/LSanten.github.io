@@ -7,12 +7,18 @@ title: How our work culture has shifted compared to medieval times
 ---
 # How our work culture has shifted compared to medieval times 
 
+*This is a sketchy not that works as a placeholder for the insightful video below emergent insights. This is under work, let me know if you have related insights.*
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hvk_XylEmLo?si=1xcuX3r1rFLpR-9_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-During the middle ages, people took many hours of breaks between work bursts. Also, it seems that when non-colonized communities work, they work in bursts. One day with 8 hours pushing a big project. The next day only one hour or two. Then a day of four hours. then rest. This is imagining by remembering!
+The creator of the video describes how, during the middle ages, people took many hours of breaks between work bursts. They ate breakfast together, worked, took lunch breaks, worked again, took breaks when the sun was the strongest. 
 
-Also see more about the profitability of the 8hr work week under [WORK-WEEK-A](WORK-WEEK-A.md).
+It further seems that when non-colonized communities work, they work in bursts. One day with 8 hours pushing a big project. The next day only one hour or two. Then a day of four hours. then rest. This is imagining by remembering!
+
+### Slightly related marbles
+
+- Profitability of the 8hr work week under [WORK-WEEK-A](WORK-WEEK-A.md).
 
 _______
 

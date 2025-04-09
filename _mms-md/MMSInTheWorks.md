@@ -22,6 +22,7 @@ Feel free to explore. Since I haven't finished these projects, they hold the opp
 | [MMSSystemIntervention-A](MMSSystemIntervention-A.md)                                 | List of complex systems intervention points - Donella Meadows                                                                      |                                                                                                             |
 | [MMSEVBatteryLifeCycleExtension](MMSEVBatteryLifeCycleExtension.md)                   | Visualizing the difference between Tesla's battery life cycle and the opportunity to create additional life times for batteries    | Change the visual from presentation layout to instagram layout                                              |
 | [LIVING-SYSTEMS-USEFUL-CONCEPTS-OVERVIEW](LIVING-SYSTEMS-USEFUL-CONCEPTS-OVERVIEW.md) |                                                                                                                                    |                                                                                                             |
+| [MMSSensingA](MMSSensingA.md)                                                         |                                                                                                                                    | Refine the text to be better understandable                                                                 |
 
 
 
